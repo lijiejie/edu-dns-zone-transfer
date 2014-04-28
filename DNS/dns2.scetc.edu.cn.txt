@@ -1,0 +1,37 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns2.scetc.edu.cn axfr scetc.edu.cn
+; (1 server found)
+;; global options: +cmd
+scetc.edu.cn.		86400	IN	SOA	dns1.scetc.edu.cn. root.dns1.scetc.edu.cn. 2010042209 28800 300 1209600 86400
+scetc.edu.cn.		86400	IN	NS	dns1.scetc.edu.cn.
+scetc.edu.cn.		86400	IN	NS	dns2.scetc.edu.cn.
+scetc.edu.cn.		86400	IN	MX	5 mxbiz1.qq.com.
+scetc.edu.cn.		86400	IN	MX	10 mxbiz2.qq.com.
+scetc.edu.cn.		86400	IN	TXT	"v=spf1 include:spf.mail.qq.com ~all"
+50xq.scetc.edu.cn.	86400	IN	A	218.6.165.8
+bb.scetc.edu.cn.	86400	IN	A	218.6.165.35
+course.scetc.edu.cn.	86400	IN	A	218.6.165.35
+cxy.scetc.edu.cn.	86400	IN	A	218.6.165.8
+dns1.scetc.edu.cn.	86400	IN	A	222.197.108.1
+dns2.scetc.edu.cn.	86400	IN	A	222.197.108.2
+esxi1.scetc.edu.cn.	86400	IN	A	172.16.5.1
+esxi2.scetc.edu.cn.	86400	IN	A	172.16.5.2
+esxi3.scetc.edu.cn.	86400	IN	A	172.16.5.3
+esxi4.scetc.edu.cn.	86400	IN	A	172.16.5.4
+ipbot.scetc.edu.cn.	86400	IN	A	218.6.165.43
+logs.scetc.edu.cn.	86400	IN	A	172.16.254.3
+mail.scetc.edu.cn.	86400	IN	CNAME	exmail.qq.com.
+nas.scetc.edu.cn.	86400	IN	A	172.16.0.21
+ntp.scetc.edu.cn.	86400	IN	A	218.6.165.11
+oa.scetc.edu.cn.	86400	IN	A	218.6.165.6
+pop3.scetc.edu.cn.	86400	IN	A	218.6.165.43
+smtp.scetc.edu.cn.	86400	IN	A	218.6.165.9
+www.scetc.edu.cn.	86400	IN	A	218.6.165.8
+zhaobiao.scetc.edu.cn.	86400	IN	A	218.6.165.8
+zxtm.scetc.edu.cn.	86400	IN	A	218.6.165.8
+scetc.edu.cn.		86400	IN	SOA	dns1.scetc.edu.cn. root.dns1.scetc.edu.cn. 2010042209 28800 300 1209600 86400
+;; Query time: 89 msec
+;; SERVER: 222.197.108.2#53(222.197.108.2)
+;; WHEN: Mon Apr 21 21:02:46 中国标准时间 2014
+;; XFR size: 28 records (messages 1, bytes 684)
+

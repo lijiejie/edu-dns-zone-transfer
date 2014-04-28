@@ -1,0 +1,79 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @kd1.cumtb.edu.cn axfr cumtb.edu.cn
+; (1 server found)
+;; global options: +cmd
+cumtb.edu.cn.		3600	IN	SOA	kd1.cumtb.edu.cn. root.cumtb.edu.cn. 2014032704 30 30 360 3600
+cumtb.edu.cn.		3600	IN	MX	1 mail.cumtb.edu.cn.
+cumtb.edu.cn.		3600	IN	NS	kd1.cumtb.edu.cn.
+cumtb.edu.cn.		3600	IN	NS	kd2.cumtb.edu.cn.
+100.cumtb.edu.cn.	3600	IN	A	118.228.224.4
+30th.cumtb.edu.cn.	3600	IN	A	118.228.224.4
+973crsm.cumtb.edu.cn.	3600	IN	A	202.112.209.100
+BSMinChina.cumtb.edu.cn. 3600	IN	A	202.112.209.100
+bw.cumtb.edu.cn.	3600	IN	A	202.112.209.100
+cwc.cumtb.edu.cn.	3600	IN	A	202.112.209.100
+cxzy.cumtb.edu.cn.	3600	IN	A	118.228.224.4
+dcxy.cumtb.edu.cn.	3600	IN	A	202.112.209.100
+dpd.cumtb.edu.cn.	3600	IN	A	121.195.58.131
+dsh.cumtb.edu.cn.	3600	IN	A	121.195.58.131
+dzb.cumtb.edu.cn.	3600	IN	A	219.242.67.225
+ecard.cumtb.edu.cn.	3600	IN	A	10.101.1.109
+english.cumtb.edu.cn.	3600	IN	A	118.228.224.4
+gdue.cumtb.edu.cn.	3600	IN	A	202.112.209.100
+glxy.cumtb.edu.cn.	3600	IN	A	202.112.209.100
+graduate.cumtb.edu.cn.	3600	IN	A	219.242.64.125
+hqzc.cumtb.edu.cn.	3600	IN	A	202.112.209.100
+international.cumtb.edu.cn. 3600 IN	A	202.112.209.100
+jdxy.cumtb.edu.cn.	3600	IN	A	202.112.209.100
+jjc.cumtb.edu.cn.	3600	IN	A	202.112.209.100
+jjs.cumtb.edu.cn.	3600	IN	A	202.112.209.100
+jwc.cumtb.edu.cn.	3600	IN	A	219.242.68.30
+jxjy.cumtb.edu.cn.	3600	IN	A	202.112.209.100
+jy.cumtb.edu.cn.	3600	IN	A	219.242.68.178
+kd1.cumtb.edu.cn.	3600	IN	A	202.112.209.122
+kd2.cumtb.edu.cn.	3600	IN	A	202.112.209.123
+kjcy.cumtb.edu.cn.	3600	IN	A	202.112.209.100
+kjycyy.cumtb.edu.cn.	3600	IN	A	202.112.209.100
+kxfzg.cumtb.edu.cn.	3600	IN	A	118.228.224.4
+ky.cumtb.edu.cn.	3600	IN	A	10.11.34.29
+lib.cumtb.edu.cn.	3600	IN	A	219.242.65.10
+ljxy.cumtb.edu.cn.	3600	IN	A	202.112.209.100
+login.cumtb.edu.cn.	3600	IN	A	202.112.208.2
+lxy.cumtb.edu.cn.	3600	IN	A	202.112.209.100
+mail.cumtb.edu.cn.	3600	IN	A	202.112.209.40
+news.cumtb.edu.cn.	3600	IN	A	118.228.224.4
+news08.cumtb.edu.cn.	3600	IN	A	118.228.224.4
+photo.cumtb.edu.cn.	3600	IN	A	118.228.224.4
+qzlx.cumtb.edu.cn.	3600	IN	A	118.228.224.4
+radio.cumtb.edu.cn.	3600	IN	A	118.228.224.4
+radio08.cumtb.edu.cn.	3600	IN	A	118.228.224.4
+rs.cumtb.edu.cn.	3600	IN	A	202.112.209.100
+scee.cumtb.edu.cn.	3600	IN	A	202.112.209.100
+shxq.cumtb.edu.cn.	3600	IN	A	118.228.224.9
+student.cumtb.edu.cn.	3600	IN	NS	kd1.cumtb.edu.cn.
+student.cumtb.edu.cn.	3600	IN	NS	kd2.cumtb.edu.cn.
+szxy.cumtb.edu.cn.	3600	IN	A	202.112.209.100
+tv.cumtb.edu.cn.	3600	IN	A	10.3.0.1
+tw.cumtb.edu.cn.	3600	IN	A	202.112.209.100
+tzb.cumtb.edu.cn.	3600	IN	A	202.112.209.100
+vpn.cumtb.edu.cn.	3600	IN	A	60.247.55.2
+wfxy.cumtb.edu.cn.	3600	IN	A	202.112.209.100
+www.cumtb.edu.cn.	3600	IN	A	202.112.209.100
+xcb.cumtb.edu.cn.	3600	IN	A	202.112.209.100
+xdjy.cumtb.edu.cn.	3600	IN	A	202.112.209.199
+xdjypx.cumtb.edu.cn.	3600	IN	A	202.112.209.100
+xgc.cumtb.edu.cn.	3600	IN	A	202.112.209.100
+xiaoyou.cumtb.edu.cn.	3600	IN	A	121.195.58.131
+xkb.cumtb.edu.cn.	3600	IN	A	202.112.209.100
+xljk.cumtb.edu.cn.	3600	IN	A	219.242.68.178
+xxgk.cumtb.edu.cn.	3600	IN	A	202.112.209.100
+yjs.cumtb.edu.cn.	3600	IN	A	219.242.64.65
+zcc.cumtb.edu.cn.	3600	IN	A	202.112.209.100
+zyxy.cumtb.edu.cn.	3600	IN	A	202.112.209.100
+zzb.cumtb.edu.cn.	3600	IN	A	202.112.209.100
+cumtb.edu.cn.		3600	IN	SOA	kd1.cumtb.edu.cn. root.cumtb.edu.cn. 2014032704 30 30 360 3600
+;; Query time: 393 msec
+;; SERVER: 202.112.209.122#53(202.112.209.122)
+;; WHEN: Mon Apr 21 20:46:32 中国标准时间 2014
+;; XFR size: 70 records (messages 1, bytes 1519)
+

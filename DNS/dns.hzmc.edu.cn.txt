@@ -1,0 +1,25 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns.hzmc.edu.cn axfr hzmc.edu.cn
+; (1 server found)
+;; global options: +cmd
+hzmc.edu.cn.		86400	IN	SOA	dns.hzmc.edu.cn. root.dns.hzmc.edu.cn. 2000120104 28800 14400 3600000 86400
+hzmc.edu.cn.		86400	IN	NS	ns.hzmc.edu.cn.
+hzmc.edu.cn.		86400	IN	NS	dns.hzmc.edu.cn.
+hzmc.edu.cn.		86400	IN	A	211.86.0.1
+hzmc.edu.cn.		86400	IN	MX	10 dns.hzmc.edu.cn.
+dns.hzmc.edu.cn.	86400	IN	A	211.86.0.1
+ftp.hzmc.edu.cn.	86400	IN	CNAME	dns.hzmc.edu.cn.
+www.jpkc.hzmc.edu.cn.	86400	IN	A	211.86.0.10
+www.jwc.hzmc.edu.cn.	86400	IN	A	211.86.3.180
+www.lib.hzmc.edu.cn.	86400	IN	A	211.86.2.68
+ns.hzmc.edu.cn.		86400	IN	A	211.86.0.2
+www.spdb.hzmc.edu.cn.	86400	IN	A	211.86.0.3
+www.spdb1.hzmc.edu.cn.	86400	IN	A	211.86.0.9
+www.hzmc.edu.cn.	86400	IN	A	211.86.0.4
+www.zwc.hzmc.edu.cn.	86400	IN	A	211.86.3.200
+hzmc.edu.cn.		86400	IN	SOA	dns.hzmc.edu.cn. root.dns.hzmc.edu.cn. 2000120104 28800 14400 3600000 86400
+;; Query time: 60 msec
+;; SERVER: 211.86.0.1#53(211.86.0.1)
+;; WHEN: Mon Apr 21 20:55:13 中国标准时间 2014
+;; XFR size: 16 records (messages 1, bytes 391)
+

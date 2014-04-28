@@ -1,0 +1,41 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @hnds1.hnnu.edu.cn axfr hnnu.edu.cn
+; (1 server found)
+;; global options: +cmd
+hnnu.edu.cn.		86400	IN	SOA	hnds1.hnnu.edu.cn. root.hnds1.hnnu.edu.cn. 2008082601 10800 1800 2592000 86400
+hnnu.edu.cn.		86400	IN	NS	hnds1.hnnu.edu.cn.
+hnnu.edu.cn.		86400	IN	NS	hnds2.hnnu.edu.cn.
+hnnu.edu.cn.		86400	IN	MX	5 filter.hnnu.edu.cn.
+hnnu.edu.cn.		86400	IN	MX	10 mail.hnnu.edu.cn.
+ceramic.hnnu.edu.cn.	86400	IN	A	211.70.176.25
+depart.hnnu.edu.cn.	86400	IN	A	211.70.176.145
+filter.hnnu.edu.cn.	86400	IN	A	211.70.176.10
+ftp.hnnu.edu.cn.	86400	IN	CNAME	hnds2.hnnu.edu.cn.
+hnds1.hnnu.edu.cn.	86400	IN	A	211.70.176.21
+hnds2.hnnu.edu.cn.	86400	IN	A	211.70.176.22
+hnsyxb.hnnu.edu.cn.	86400	IN	A	202.117.3.46
+jw.hnnu.edu.cn.		86400	IN	A	211.70.176.124
+jxpg.hnnu.edu.cn.	86400	IN	A	211.70.176.20
+jysj.hnnu.edu.cn.	86400	IN	A	211.70.176.20
+localhost.hnnu.edu.cn.	86400	IN	A	127.0.0.1
+mail.hnnu.edu.cn.	86400	IN	A	211.70.176.21
+news.hnnu.edu.cn.	86400	IN	A	211.70.176.146
+oa.hnnu.edu.cn.		86400	IN	A	211.70.176.139
+proxy.hnnu.edu.cn.	86400	IN	CNAME	hnds2.hnnu.edu.cn.
+resource.hnnu.edu.cn.	86400	IN	A	211.70.176.163
+router.hnnu.edu.cn.	86400	IN	A	211.70.176.254
+teach.hnnu.edu.cn.	86400	IN	A	211.70.176.137
+v.hnnu.edu.cn.		86400	IN	CNAME	www.ablesky.com.
+virus.hnnu.edu.cn.	86400	IN	A	211.70.176.136
+web.hnnu.edu.cn.	86400	IN	A	211.70.176.23
+wfsj.hnnu.edu.cn.	86400	IN	A	211.70.176.147
+wlzx.hnnu.edu.cn.	86400	IN	A	211.70.176.18
+www.hnnu.edu.cn.	86400	IN	A	211.70.176.23
+zlgc.hnnu.edu.cn.	86400	IN	A	211.70.176.165
+zs.hnnu.edu.cn.		86400	IN	A	211.70.176.124
+hnnu.edu.cn.		86400	IN	SOA	hnds1.hnnu.edu.cn. root.hnds1.hnnu.edu.cn. 2008082601 10800 1800 2592000 86400
+;; Query time: 408 msec
+;; SERVER: 211.70.176.21#53(211.70.176.21)
+;; WHEN: Mon Apr 21 20:53:10 中国标准时间 2014
+;; XFR size: 32 records (messages 1, bytes 734)
+

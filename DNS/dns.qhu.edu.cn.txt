@@ -1,0 +1,60 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns.qhu.edu.cn axfr qhu.edu.cn
+; (1 server found)
+;; global options: +cmd
+qhu.edu.cn.		3600	IN	SOA	dns.qhu.edu.cn. root.qhu.edu.cn. 2014031732 30 30 360 3600
+qhu.edu.cn.		3600	IN	MX	10 mail.qhu.edu.cn.
+qhu.edu.cn.		3600	IN	NS	ns.qhu.edu.cn.
+qhu.edu.cn.		3600	IN	NS	dns.qhu.edu.cn.
+211.qhu.edu.cn.		3600	IN	A	210.27.177.229
+bwc.qhu.edu.cn.		3600	IN	A	210.27.177.214
+cxzy.qhu.edu.cn.	3600	IN	A	210.27.177.247
+dns.qhu.edu.cn.		3600	IN	A	210.27.176.66
+dud.qhu.edu.cn.		3600	IN	A	210.27.177.201
+ect.qhu.edu.cn.		3600	IN	A	210.27.176.210
+eol.qhu.edu.cn.		3600	IN	A	210.27.176.96
+ftp.qhu.edu.cn.		3600	IN	A	210.27.176.202
+hq.qhu.edu.cn.		3600	IN	A	210.27.177.197
+hqbx.qhu.edu.cn.	3600	IN	A	210.27.177.193
+info.qhu.edu.cn.	3600	IN	A	210.27.176.93
+jcc.qhu.edu.cn.		3600	IN	A	210.27.177.231
+jjc.qhu.edu.cn.		3600	IN	A	210.27.177.223
+jpk.qhu.edu.cn.		3600	IN	A	210.27.176.100
+jsj.qhu.edu.cn.		3600	IN	A	49.209.80.37
+jw.qhu.edu.cn.		3600	IN	A	210.27.177.225
+jwc.qhu.edu.cn.		3600	IN	A	210.27.177.226
+kjc.qhu.edu.cn.		3600	IN	A	210.27.177.224
+klc.qhu.edu.cn.		3600	IN	A	210.27.188.233
+kyxt.qhu.edu.cn.	3600	IN	A	210.27.176.253
+lib.qhu.edu.cn.		3600	IN	A	210.27.181.200
+mail.qhu.edu.cn.	3600	IN	A	210.27.176.242
+metc.qhu.edu.cn.	3600	IN	A	210.27.177.195
+mh.qhu.edu.cn.		3600	IN	A	210.27.176.25
+news.qhu.edu.cn.	3600	IN	A	210.27.177.227
+news1.qhu.edu.cn.	3600	IN	A	210.27.177.221
+nic.qhu.edu.cn.		3600	IN	A	210.27.176.199
+nmxy.qhu.edu.cn.	3600	IN	A	210.27.177.202
+ns.qhu.edu.cn.		3600	IN	A	210.27.176.200
+oa.qhu.edu.cn.		3600	IN	A	210.27.176.92
+rsc.qhu.edu.cn.		3600	IN	A	210.27.177.200
+sfe.qhu.edu.cn.		3600	IN	A	210.27.191.21
+sxzz.qhu.edu.cn.	3600	IN	A	210.27.176.171
+syglc.qhu.edu.cn.	3600	IN	A	210.27.177.196
+test.qhu.edu.cn.	3600	IN	A	210.27.176.66
+vod.qhu.edu.cn.		3600	IN	A	210.27.176.204
+vpn.qhu.edu.cn.		3600	IN	A	210.27.177.99
+wsb.qhu.edu.cn.		3600	IN	A	210.27.177.219
+www.qhu.edu.cn.		3600	IN	A	210.27.177.230
+www1.qhu.edu.cn.	3600	IN	A	210.27.177.221
+xb.qhu.edu.cn.		3600	IN	A	210.27.177.222
+xcb.qhu.edu.cn.		3600	IN	A	210.27.177.228
+xsc.qhu.edu.cn.		3600	IN	A	210.27.177.210
+yjs.qhu.edu.cn.		3600	IN	A	210.27.177.223
+yjsb.qhu.edu.cn.	3600	IN	A	210.27.177.223
+ypw.qhu.edu.cn.		3600	IN	A	49.209.71.21
+qhu.edu.cn.		3600	IN	SOA	dns.qhu.edu.cn. root.qhu.edu.cn. 2014031732 30 30 360 3600
+;; Query time: 392 msec
+;; SERVER: 210.27.176.66#53(210.27.176.66)
+;; WHEN: Mon Apr 21 21:04:46 中国标准时间 2014
+;; XFR size: 51 records (messages 1, bytes 1079)
+

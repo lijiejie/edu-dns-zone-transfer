@@ -1,0 +1,181 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @nmg1.imu.edu.cn axfr imu.edu.cn
+; (1 server found)
+;; global options: +cmd
+imu.edu.cn.		86400	IN	SOA	nmg1.imu.edu.cn. mailmaster.nmg1.imu.edu.cn. 2006080901 10800 3600 604800 86400
+imu.edu.cn.		86400	IN	NS	nmg1.imu.edu.cn.
+imu.edu.cn.		86400	IN	MX	5 imugw.imu.edu.cn.
+acm.imu.edu.cn.		86400	IN	A	202.207.12.25
+ai.imu.edu.cn.		86400	IN	A	202.207.12.229
+arch.imu.edu.cn.	86400	IN	A	202.207.0.245
+arch1.imu.edu.cn.	86400	IN	A	202.207.153.12
+bbs.imu.edu.cn.		86400	IN	CNAME	saturn.imu.edu.cn.
+biolab.imu.edu.cn.	86400	IN	A	202.207.4.10
+bwc.imu.edu.cn.		86400	IN	CNAME	zcgl.imu.edu.cn.
+cc.imu.edu.cn.		86400	IN	A	202.207.12.210
+ccs.imu.edu.cn.		86400	IN	A	202.207.0.238
+cert.imu.edu.cn.	86400	IN	CNAME	peace.imu.edu.cn.
+cfans.imu.edu.cn.	86400	IN	A	222.31.211.195
+cggl.imu.edu.cn.	86400	IN	A	202.207.15.15
+chem.imu.edu.cn.	86400	IN	A	202.207.0.227
+circle.imu.edu.cn.	86400	IN	A	202.207.0.20
+cisco.imu.edu.cn.	86400	IN	A	202.207.144.51
+cisco.imu.edu.cn.	86400	IN	A	202.207.146.97
+ciw.imu.edu.cn.		86400	IN	CNAME	fox.imu.edu.cn.
+cne.imu.edu.cn.		86400	IN	A	202.207.0.134
+course.imu.edu.cn.	86400	IN	A	222.31.219.11
+courseware.imu.edu.cn.	86400	IN	A	202.207.0.31
+csc.imu.edu.cn.		86400	IN	A	202.207.0.245
+curricula.imu.edu.cn.	86400	IN	A	202.207.0.212
+cvod.imu.edu.cn.	86400	IN	A	222.31.211.244
+cvscs.imu.edu.cn.	86400	IN	A	202.207.12.213
+dean.imu.edu.cn.	86400	IN	A	222.31.209.253
+dlib.imu.edu.cn.	86400	IN	CNAME	lib.imu.edu.cn.
+dns.imu.edu.cn.		86400	IN	CNAME	nmg1.imu.edu.cn.
+domino.imu.edu.cn.	86400	IN	MX	10 domino.imu.edu.cn.
+domino.imu.edu.cn.	86400	IN	A	202.207.146.246
+dorm.imu.edu.cn.	86400	IN	A	202.207.11.135
+dzxy.imu.edu.cn.	86400	IN	A	202.207.0.224
+ecard.imu.edu.cn.	86400	IN	A	202.207.15.11
+eduinfo.imu.edu.cn.	86400	IN	A	222.31.209.252
+elearn.imu.edu.cn.	86400	IN	A	202.207.146.151
+em.imu.edu.cn.		86400	IN	A	222.31.216.50
+emba.imu.edu.cn.	86400	IN	A	202.207.2.18
+envi.imu.edu.cn.	86400	IN	A	202.207.0.133
+erpcs.imu.edu.cn.	86400	IN	A	202.207.12.212
+etc.imu.edu.cn.		86400	IN	A	202.207.1.254
+fox.imu.edu.cn.		86400	IN	A	202.207.0.11
+ftp.imu.edu.cn.		86400	IN	CNAME	circle.imu.edu.cn.
+games.imu.edu.cn.	86400	IN	A	202.207.146.211
+gateway.imu.edu.cn.	86400	IN	A	10.0.0.2
+gfs.imu.edu.cn.		86400	IN	A	202.207.0.246
+gonghui.imu.edu.cn.	86400	IN	A	202.207.1.46
+gs.imu.edu.cn.		86400	IN	A	202.207.0.248
+gspydd.imu.edu.cn.	86400	IN	A	202.207.0.229
+gss.imu.edu.cn.		86400	IN	A	202.207.0.190
+gw2.imu.edu.cn.		86400	IN	A	202.207.0.51
+hmdir.imu.edu.cn.	86400	IN	A	183.175.14.194
+honor.imu.edu.cn.	86400	IN	A	202.207.3.5
+hqc.imu.edu.cn.		86400	IN	CNAME	zcgl.imu.edu.cn.
+ibm.imu.edu.cn.		86400	IN	A	202.207.146.88
+ice.imu.edu.cn.		86400	IN	CNAME	zcgl.imu.edu.cn.
+iec.imu.edu.cn.		86400	IN	A	202.207.0.241
+imugw.imu.edu.cn.	86400	IN	A	202.207.0.29
+imuv6.imu.edu.cn.	86400	IN	AAAA	2001:da8:21d::88
+ipv6.imu.edu.cn.	86400	IN	NS	tunnel.ipv6.imu.edu.cn.
+tunnel.ipv6.imu.edu.cn.	86400	IN	A	202.207.144.66
+jjxy.imu.edu.cn.	86400	IN	A	202.207.2.17
+jm.imu.edu.cn.		86400	IN	A	202.207.1.202
+job.imu.edu.cn.		86400	IN	A	202.207.0.247
+journal.imu.edu.cn.	86400	IN	A	202.207.7.11
+js.imu.edu.cn.		86400	IN	A	202.207.11.2
+jt.imu.edu.cn.		86400	IN	MX	10 mail.jt.imu.edu.cn.
+mail.jt.imu.edu.cn.	86400	IN	A	202.207.156.3
+pay.jt.imu.edu.cn.	86400	IN	A	222.31.218.133
+www.jt.imu.edu.cn.	86400	IN	A	222.31.218.131
+jupiter.imu.edu.cn.	86400	IN	A	202.207.144.22
+jwgl.imu.edu.cn.	86400	IN	A	222.31.208.213
+jwxt.imu.edu.cn.	86400	IN	A	202.207.0.236
+jwxt.imu.edu.cn.	86400	IN	A	202.207.0.237
+jxjy.imu.edu.cn.	86400	IN	CNAME	zcgl.imu.edu.cn.
+kygl.imu.edu.cn.	86400	IN	A	202.207.0.129
+lab.imu.edu.cn.		86400	IN	A	202.207.1.252
+ladder.imu.edu.cn.	86400	IN	A	202.207.146.68
+law.imu.edu.cn.		86400	IN	A	222.31.216.65
+lib.imu.edu.cn.		86400	IN	A	202.207.0.244
+idp.lib.imu.edu.cn.	86400	IN	A	202.207.7.139
+library.imu.edu.cn.	86400	IN	A	202.207.7.23
+life.imu.edu.cn.	86400	IN	MX	10 life.imu.edu.cn.
+life.imu.edu.cn.	86400	IN	A	202.207.4.5
+lsly.imu.edu.cn.	86400	IN	A	222.31.216.98
+mail.imu.edu.cn.	86400	IN	MX	5 imugw.imu.edu.cn.
+mail.imu.edu.cn.	86400	IN	A	202.207.0.50
+mailgw.imu.edu.cn.	86400	IN	A	202.207.0.28
+mars.imu.edu.cn.	86400	IN	A	202.207.146.254
+marx.imu.edu.cn.	86400	IN	A	222.31.216.50
+math.imu.edu.cn.	86400	IN	A	202.207.0.228
+mba.imu.edu.cn.		86400	IN	A	202.207.2.19
+mbak.imu.edu.cn.	86400	IN	A	202.207.0.54
+media.imu.edu.cn.	86400	IN	A	202.207.146.218
+mggyjjd.imu.edu.cn.	86400	IN	A	202.207.5.21
+mgx.imu.edu.cn.		86400	IN	A	202.207.0.242
+mgxzx.imu.edu.cn.	86400	IN	A	202.207.0.242
+mis.imu.edu.cn.		86400	IN	A	202.207.157.74
+mlkb2008.imu.edu.cn.	86400	IN	A	222.31.211.245
+moocs.imu.edu.cn.	86400	IN	A	202.207.9.2
+moon.imu.edu.cn.	86400	IN	A	202.207.0.73
+mpa.imu.edu.cn.		86400	IN	A	222.31.216.50
+muse.imu.edu.cn.	86400	IN	A	202.207.146.251
+nano.imu.edu.cn.	86400	IN	A	202.207.0.125
+nc.imu.edu.cn.		86400	IN	A	202.207.0.218
+nd50.imu.edu.cn.	86400	IN	CNAME	ndnews.imu.edu.cn.
+ndbc2005.imu.edu.cn.	86400	IN	A	202.207.0.45
+ndcw.imu.edu.cn.	86400	IN	A	222.31.208.2
+ndfwzx.imu.edu.cn.	86400	IN	A	202.207.0.132
+ndhzb.imu.edu.cn.	86400	IN	A	61.138.98.201
+ndjf.imu.edu.cn.	86400	IN	A	202.207.15.130
+ndnews.imu.edu.cn.	86400	IN	A	202.207.0.252
+ndsjc.imu.edu.cn.	86400	IN	A	202.207.0.130
+ndxbskb.imu.edu.cn.	86400	IN	A	202.207.0.217
+ndxbzkb.imu.edu.cn.	86400	IN	CNAME	ndxbskb.imu.edu.cn.
+ndykt.imu.edu.cn.	86400	IN	A	202.207.15.15
+neptune.imu.edu.cn.	86400	IN	A	202.207.0.77
+netlab.imu.edu.cn.	86400	IN	A	202.207.12.230
+nmg1.imu.edu.cn.	86400	IN	A	202.207.0.6
+nmg2.imu.edu.cn.	86400	IN	CNAME	mail.imu.edu.cn.
+notes.imu.edu.cn.	86400	IN	A	202.207.146.222
+office.imu.edu.cn.	86400	IN	A	222.31.208.36
+oyuta.imu.edu.cn.	86400	IN	A	60.31.254.93
+peace.imu.edu.cn.	86400	IN	A	202.207.144.66
+personal.imu.edu.cn.	86400	IN	CNAME	neptune.imu.edu.cn.
+phil.imu.edu.cn.	86400	IN	A	202.207.0.232
+portal.imu.edu.cn.	86400	IN	A	202.207.0.105
+reprotech.imu.edu.cn.	86400	IN	CNAME	fox.imu.edu.cn.
+rocket.imu.edu.cn.	86400	IN	A	202.207.0.50
+rsc.imu.edu.cn.		86400	IN	CNAME	zcgl.imu.edu.cn.
+lxj.rsc.imu.edu.cn.	86400	IN	CNAME	zcgl.imu.edu.cn.
+rwxy.imu.edu.cn.	86400	IN	A	202.207.1.151
+saturn.imu.edu.cn.	86400	IN	A	202.207.146.89
+ses.imu.edu.cn.		86400	IN	A	222.31.217.104
+slx.imu.edu.cn.		86400	IN	A	202.207.146.228
+slx1.imu.edu.cn.	86400	IN	A	219.148.172.149
+spade.imu.edu.cn.	86400	IN	A	202.207.146.250
+spam.imu.edu.cn.	86400	IN	CNAME	mailgw.imu.edu.cn.
+spc.imu.edu.cn.		86400	IN	A	202.207.0.225
+spm.imu.edu.cn.		86400	IN	A	222.31.216.50
+st.imu.edu.cn.		86400	IN	A	202.207.0.137
+star1.imu.edu.cn.	86400	IN	A	202.207.0.76
+t.imu.edu.cn.		86400	IN	A	202.207.146.183
+ttt.imu.edu.cn.		86400	IN	A	202.207.146.7
+tyjxb.imu.edu.cn.	86400	IN	A	202.207.13.8
+ups.imu.edu.cn.		86400	IN	A	202.207.12.9
+uranus.imu.edu.cn.	86400	IN	A	202.207.146.21
+v6flow.imu.edu.cn.	86400	IN	AAAA	2001:da8:21d::400
+venus.imu.edu.cn.	86400	IN	MX	10 venus.imu.edu.cn.
+venus.imu.edu.cn.	86400	IN	A	202.207.0.27
+vod.imu.edu.cn.		86400	IN	A	202.207.146.149
+vpnlib.imu.edu.cn.	86400	IN	A	202.207.7.133
+webinfo.imu.edu.cn.	86400	IN	A	222.31.209.253
+webmail.imu.edu.cn.	86400	IN	CNAME	star1.imu.edu.cn.
+whjc.imu.edu.cn.	86400	IN	A	202.207.12.220
+wlxy.imu.edu.cn.	86400	IN	A	202.207.0.239
+www.imu.edu.cn.		86400	IN	CNAME	fox.imu.edu.cn.
+www1.imu.edu.cn.	86400	IN	A	202.207.0.107
+wxxy.imu.edu.cn.	86400	IN	A	202.207.0.219
+xb.imu.edu.cn.		86400	IN	A	202.207.0.251
+xxfb.imu.edu.cn.	86400	IN	A	202.207.0.106
+xz.imu.edu.cn.		86400	IN	A	202.207.3.21
+xzwlzx.imu.edu.cn.	86400	IN	MX	5 imugw.imu.edu.cn.
+xzwlzx.imu.edu.cn.	86400	IN	A	202.207.0.50
+ykt.imu.edu.cn.		86400	IN	A	202.207.15.12
+yyyc.imu.edu.cn.	86400	IN	A	202.207.8.243
+zcgl.imu.edu.cn.	86400	IN	A	202.207.0.33
+zhaosheng.imu.edu.cn.	86400	IN	A	202.207.0.249
+zlgc.imu.edu.cn.	86400	IN	A	202.207.0.234
+zygx.imu.edu.cn.	86400	IN	A	202.207.9.4
+imu.edu.cn.		86400	IN	SOA	nmg1.imu.edu.cn. mailmaster.nmg1.imu.edu.cn. 2006080901 10800 3600 604800 86400
+;; Query time: 378 msec
+;; SERVER: 202.207.0.6#53(202.207.0.6)
+;; WHEN: Mon Apr 21 20:49:16 中国标准时间 2014
+;; XFR size: 172 records (messages 1, bytes 3684)
+

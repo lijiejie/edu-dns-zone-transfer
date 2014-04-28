@@ -1,0 +1,77 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns.bisu.edu.cn axfr bisu.edu.cn
+; (1 server found)
+;; global options: +cmd
+bisu.edu.cn.		3600	IN	SOA	dns.bisu.edu.cn. root.bisu.edu.cn. 2014041512 30 30 360 3600
+bisu.edu.cn.		3600	IN	TXT	"v=spf1 a mx mx:mail.bisu.edu.cn ip4:211.71.192.72 ip4:123.127.226.209 ~all"
+bisu.edu.cn.		3600	IN	MX	10 mail.bisu.edu.cn.
+bisu.edu.cn.		3600	IN	NS	dns.bisu.edu.cn.
+bisu.edu.cn.		3600	IN	NS	dns2.bisu.edu.cn.
+3comwx.bisu.edu.cn.	3600	IN	A	192.168.1.238
+50th.bisu.edu.cn.	3600	IN	A	218.249.164.243
+bb.bisu.edu.cn.		3600	IN	A	123.127.226.204
+bisuaa.bisu.edu.cn.	3600	IN	A	218.249.164.244
+careers.bisu.edu.cn.	3600	IN	A	211.71.192.28
+cas.bisu.edu.cn.	3600	IN	A	123.127.226.245
+computer.bisu.edu.cn.	3600	IN	A	211.71.192.79
+ct.bisu.edu.cn.		3600	IN	A	211.71.192.71
+dns.bisu.edu.cn.	3600	IN	A	211.71.192.65
+dns2.bisu.edu.cn.	3600	IN	A	123.127.226.210
+ecard.bisu.edu.cn.	3600	IN	A	10.10.15.30
+enonline.bisu.edu.cn.	3600	IN	A	10.10.15.7
+etc.bisu.edu.cn.	3600	IN	A	123.127.226.193
+EW-DB.bisu.edu.cn.	3600	IN	A	211.71.192.1
+EW-EM.bisu.edu.cn.	3600	IN	A	211.71.192.67
+EW-NT.bisu.edu.cn.	3600	IN	A	211.71.192.77
+EW-PR.bisu.edu.cn.	3600	IN	A	211.71.192.34
+EW-WEB.bisu.edu.cn.	3600	IN	A	211.71.192.65
+exam.bisu.edu.cn.	3600	IN	A	211.71.192.26
+examination.bisu.edu.cn. 3600	IN	A	211.71.192.26
+examine.bisu.edu.cn.	3600	IN	A	211.71.192.26
+filter.bisu.edu.cn.	3600	IN	A	211.71.192.72
+ftp.bisu.edu.cn.	3600	IN	A	211.71.192.10
+hanyu.bisu.edu.cn.	3600	IN	A	211.71.202.132
+hnd.bisu.edu.cn.	3600	IN	A	123.127.226.233
+i.bisu.edu.cn.		3600	IN	A	123.127.226.246
+ic.bisu.edu.cn.		3600	IN	A	211.71.192.101
+iptv.bisu.edu.cn.	3600	IN	A	211.71.201.59
+jingpin.bisu.edu.cn.	3600	IN	A	123.127.227.125
+jiuye.bisu.edu.cn.	3600	IN	A	123.127.226.211
+journal.bisu.edu.cn.	3600	IN	A	124.207.233.178
+jwc.bisu.edu.cn.	3600	IN	A	211.71.192.6
+jxgl.bisu.edu.cn.	3600	IN	A	123.127.226.215
+jxgl.bisu.edu.cn.	3600	IN	A	123.127.226.216
+jxgl.bisu.edu.cn.	3600	IN	A	123.127.226.217
+ksg.bisu.edu.cn.	3600	IN	A	211.71.192.80
+kyc.bisu.edu.cn.	3600	IN	A	211.71.202.70
+lib.bisu.edu.cn.	3600	IN	A	211.71.202.5
+mail.bisu.edu.cn.	3600	IN	A	123.127.226.209
+map.bisu.edu.cn.	3600	IN	A	124.207.233.182
+mend.bisu.edu.cn.	3600	IN	A	218.249.164.249
+mta.bisu.edu.cn.	3600	IN	A	211.71.202.14
+news.bisu.edu.cn.	3600	IN	A	211.71.198.17
+nic.bisu.edu.cn.	3600	IN	A	211.71.192.9
+oa.bisu.edu.cn.		3600	IN	A	10.10.15.16
+portal.bisu.edu.cn.	3600	IN	A	123.127.226.203
+server2.bisu.edu.cn.	3600	IN	A	211.71.197.133
+sie.bisu.edu.cn.	3600	IN	A	123.100.12.39
+sign.bisu.edu.cn.	3600	IN	A	211.71.192.26
+student.bisu.edu.cn.	3600	IN	A	123.127.226.221
+su.bisu.edu.cn.		3600	IN	A	211.71.192.77
+szyp.bisu.edu.cn.	3600	IN	A	211.71.192.4
+tch09.bisu.edu.cn.	3600	IN	A	211.71.192.77
+tech.bisu.edu.cn.	3600	IN	A	10.10.15.38
+test.bisu.edu.cn.	3600	IN	A	211.71.192.77
+tour.bisu.edu.cn.	3600	IN	A	218.249.164.253
+v.bisu.edu.cn.		3600	IN	A	10.10.15.161
+vod.bisu.edu.cn.	3600	IN	A	211.71.193.80
+www.bisu.edu.cn.	3600	IN	A	123.127.226.206
+yahb.bisu.edu.cn.	3600	IN	A	125.40.73.52
+zhaosheng.bisu.edu.cn.	3600	IN	A	211.71.192.77
+zsjy.bisu.edu.cn.	3600	IN	A	202.106.114.11
+bisu.edu.cn.		3600	IN	SOA	dns.bisu.edu.cn. root.bisu.edu.cn. 2014041512 30 30 360 3600
+;; Query time: 16 msec
+;; SERVER: 211.71.192.65#53(211.71.192.65)
+;; WHEN: Mon Apr 21 20:47:36 中国标准时间 2014
+;; XFR size: 68 records (messages 1, bytes 1554)
+

@@ -1,0 +1,18 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @DNS.helc.edu.cn axfr helc.edu.cn
+; (1 server found)
+;; global options: +cmd
+helc.edu.cn.		3600	IN	SOA	dns.helc.edu.cn. root.helc.edu.cn. 2 10800 3600 604800 3600
+helc.edu.cn.		3600	IN	NS	dns.helc.edu.cn.
+helc.edu.cn.		3600	IN	MX	10 mail.helc.edu.cn.
+helc.edu.cn.		3600	IN	A	202.206.24.33
+dns.helc.edu.cn.	3600	IN	A	202.206.24.33
+ftp.helc.edu.cn.	3600	IN	A	121.28.180.228
+mail.helc.edu.cn.	3600	IN	A	121.28.180.227
+www.helc.edu.cn.	3600	IN	A	121.28.180.229
+helc.edu.cn.		3600	IN	SOA	dns.helc.edu.cn. root.helc.edu.cn. 2 10800 3600 604800 3600
+;; Query time: 16 msec
+;; SERVER: 202.206.24.33#53(202.206.24.33)
+;; WHEN: Mon Apr 21 20:48:38 中国标准时间 2014
+;; XFR size: 9 records (messages 1, bytes 233)
+

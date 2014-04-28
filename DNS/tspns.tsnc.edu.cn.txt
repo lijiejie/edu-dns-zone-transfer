@@ -1,0 +1,50 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @tspns.tsnc.edu.cn axfr tsnc.edu.cn
+; (1 server found)
+;; global options: +cmd
+tsnc.edu.cn.		86400	IN	SOA	tspns.tsnc.edu.cn. admin.tsnc.edu.cn. 1394419091 28800 7200 604800 86400
+tsnc.edu.cn.		3600	IN	MX	10 email.tsnc.edu.cn.
+tsnc.edu.cn.		86400	IN	NS	tspns.tsnc.edu.cn.
+tsnc.edu.cn.		86400	IN	NS	tssns.tsnc.edu.cn.
+cnki.tsnc.edu.cn.	3600	IN	A	61.178.128.229
+dasp.tsnc.edu.cn.	3600	IN	A	61.178.128.229
+dep.tsnc.edu.cn.	3600	IN	A	210.26.24.95
+depn.tsnc.edu.cn.	3600	IN	CNAME	w.tsnc.edu.cn.
+dhcp.tsnc.edu.cn.	3600	IN	CNAME	tspns.tsnc.edu.cn.
+dns.tsnc.edu.cn.	3600	IN	CNAME	tspns.tsnc.edu.cn.
+dnstwo.tsnc.edu.cn.	3600	IN	A	210.26.24.8
+email.tsnc.edu.cn.	3600	IN	A	210.26.24.25
+email.tsnc.edu.cn.	3600	IN	MX	10 email.tsnc.edu.cn.
+ftp.tsnc.edu.cn.	3600	IN	A	210.26.24.56
+ftpn.tsnc.edu.cn.	3600	IN	A	61.178.128.229
+hao.tsnc.edu.cn.	3600	IN	A	210.26.24.11
+mail.tsnc.edu.cn.	3600	IN	A	210.26.24.6
+mail.tsnc.edu.cn.	3600	IN	MX	20 email.tsnc.edu.cn.
+mailst.tsnc.edu.cn.	3600	IN	A	210.26.24.6
+mailst.tsnc.edu.cn.	3600	IN	MX	20 mailst.tsnc.edu.cn.
+mjbysc.tsnc.edu.cn.	3600	IN	A	210.26.24.56
+nat.tsnc.edu.cn.	3600	IN	A	61.178.128.227
+nic.tsnc.edu.cn.	3600	IN	A	210.26.24.77
+proxy.tsnc.edu.cn.	3600	IN	A	210.26.24.100
+proxy.tsnc.edu.cn.	3600	IN	A	210.26.24.101
+rsxx.tsnc.edu.cn.	3600	IN	A	61.178.128.226
+schools.tsnc.edu.cn.	3600	IN	A	61.178.128.229
+site.tsnc.edu.cn.	3600	IN	A	210.26.24.56
+tejy.tsnc.edu.cn.	3600	IN	A	210.26.24.12
+ts.tsnc.edu.cn.		3600	IN	A	61.178.128.229
+tspns.tsnc.edu.cn.	3600	IN	A	210.26.24.1
+tssns.tsnc.edu.cn.	3600	IN	A	210.26.24.2
+virus.tsnc.edu.cn.	3600	IN	A	210.26.24.10
+vod.tsnc.edu.cn.	3600	IN	A	210.26.24.51
+vps.tsnc.edu.cn.	3600	IN	A	61.178.128.229
+web.tsnc.edu.cn.	3600	IN	A	210.26.24.80
+wlab.tsnc.edu.cn.	3600	IN	A	61.178.128.229
+wsus.tsnc.edu.cn.	3600	IN	CNAME	virus.tsnc.edu.cn.
+www.tsnc.edu.cn.	3600	IN	A	210.26.24.26
+www2.tsnc.edu.cn.	3600	IN	A	210.26.24.56
+tsnc.edu.cn.		86400	IN	SOA	tspns.tsnc.edu.cn. admin.tsnc.edu.cn. 1394419091 28800 7200 604800 86400
+;; Query time: 66 msec
+;; SERVER: 210.26.24.1#53(210.26.24.1)
+;; WHEN: Mon Apr 21 21:04:30 中国标准时间 2014
+;; XFR size: 41 records (messages 1, bytes 883)
+

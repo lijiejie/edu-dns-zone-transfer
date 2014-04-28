@@ -1,0 +1,106 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns.nyist.edu.cn axfr nyist.edu.cn
+; (1 server found)
+;; global options: +cmd
+nyist.edu.cn.		86400	IN	SOA	dns.nyist.edu.cn. hostmaster.domain.tld. 2014031356 28800 7200 1209600 86400
+nyist.edu.cn.		86400	IN	NS	dns.nyist.edu.cn.
+nyist.edu.cn.		86400	IN	NS	dns2.nyist.edu.cn.
+nyist.edu.cn.		86400	IN	A	222.139.215.198
+acm.nyist.edu.cn.	86400	IN	A	59.69.128.200
+art.nyist.edu.cn.	86400	IN	CNAME	group1.nyist.edu.cn.
+bancunbanguo.nyist.edu.cn. 86400 IN	CNAME	group2.nyist.edu.cn.
+book.nyist.edu.cn.	86400	IN	A	222.139.215.254
+bwc.nyist.edu.cn.	86400	IN	CNAME	group1.nyist.edu.cn.
+cie.nyist.edu.cn.	86400	IN	CNAME	group1.nyist.edu.cn.
+civil.nyist.edu.cn.	86400	IN	CNAME	group1.nyist.edu.cn.
+cjy.nyist.edu.cn.	86400	IN	CNAME	group1.nyist.edu.cn.
+cjycjy.nyist.edu.cn.	86400	IN	CNAME	group1.nyist.edu.cn.
+cwc.nyist.edu.cn.	86400	IN	CNAME	group1.nyist.edu.cn.
+dns.nyist.edu.cn.	86400	IN	A	59.69.128.8
+dns2.nyist.edu.cn.	86400	IN	A	59.69.128.8
+dwb.nyist.edu.cn.	86400	IN	CNAME	group1.nyist.edu.cn.
+dwgk.nyist.edu.cn.	86400	IN	CNAME	group1.nyist.edu.cn.
+dzxy.nyist.edu.cn.	86400	IN	CNAME	group1.nyist.edu.cn.
+flyz.nyist.edu.cn.	86400	IN	CNAME	group2.nyist.edu.cn.
+gjyf.nyist.edu.cn.	86400	IN	CNAME	group1.nyist.edu.cn.
+gonghui.nyist.edu.cn.	86400	IN	CNAME	group1.nyist.edu.cn.
+group0.nyist.edu.cn.	86400	IN	A	222.139.215.207
+group1.nyist.edu.cn.	86400	IN	A	222.139.215.208
+group2.nyist.edu.cn.	86400	IN	A	59.69.128.10
+group3.nyist.edu.cn.	86400	IN	A	59.69.128.11
+gyyjy.nyist.edu.cn.	86400	IN	CNAME	group2.nyist.edu.cn.
+hengtian.nyist.edu.cn.	86400	IN	CNAME	group2.nyist.edu.cn.
+hqc.nyist.edu.cn.	86400	IN	CNAME	group1.nyist.edu.cn.
+hzhtest.nyist.edu.cn.	86400	IN	CNAME	group1.nyist.edu.cn.
+iaas.nyist.edu.cn.	86400	IN	A	222.139.215.223
+iec.nyist.edu.cn.	86400	IN	CNAME	group1.nyist.edu.cn.
+international.nyist.edu.cn. 86400 IN	CNAME	group1.nyist.edu.cn.
+ipv6.nyist.edu.cn.	86400	IN	CNAME	group1.nyist.edu.cn.
+jgxy.nyist.edu.cn.	86400	IN	CNAME	group1.nyist.edu.cn.
+jgy.nyist.edu.cn.	86400	IN	CNAME	group1.nyist.edu.cn.
+jiwei.nyist.edu.cn.	86400	IN	CNAME	group1.nyist.edu.cn.
+jjc.nyist.edu.cn.	86400	IN	CNAME	group1.nyist.edu.cn.
+jsj.nyist.edu.cn.	86400	IN	A	59.69.128.204
+jwc.nyist.edu.cn.	86400	IN	CNAME	group1.nyist.edu.cn.
+jxxy.nyist.edu.cn.	86400	IN	CNAME	group1.nyist.edu.cn.
+jyxxw.nyist.edu.cn.	86400	IN	CNAME	group1.nyist.edu.cn.
+jyxy.nyist.edu.cn.	86400	IN	CNAME	group1.nyist.edu.cn.
+kvm.nyist.edu.cn.	86400	IN	A	222.139.215.224
+kyc.nyist.edu.cn.	86400	IN	CNAME	group1.nyist.edu.cn.
+life.nyist.edu.cn.	86400	IN	CNAME	group1.nyist.edu.cn.
+liuming.nyist.edu.cn.	86400	IN	CNAME	group1.nyist.edu.cn.
+liuxiaoxing.nyist.edu.cn. 86400	IN	CNAME	group1.nyist.edu.cn.
+liyanqiu.nyist.edu.cn.	86400	IN	CNAME	group1.nyist.edu.cn.
+liyingli.nyist.edu.cn.	86400	IN	CNAME	group1.nyist.edu.cn.
+mail.nyist.edu.cn.	86400	IN	A	59.69.128.9
+mail.nyist.edu.cn.	86400	IN	MX	10 mail.nyist.edu.cn.
+math.nyist.edu.cn.	86400	IN	CNAME	group1.nyist.edu.cn.
+md.nyist.edu.cn.	86400	IN	CNAME	group1.nyist.edu.cn.
+microfilm.nyist.edu.cn.	86400	IN	CNAME	group2.nyist.edu.cn.
+music.nyist.edu.cn.	86400	IN	CNAME	group1.nyist.edu.cn.
+net.nyist.edu.cn.	86400	IN	CNAME	group1.nyist.edu.cn.
+nitnews.nyist.edu.cn.	86400	IN	CNAME	group1.nyist.edu.cn.
+php.nyist.edu.cn.	86400	IN	A	202.102.240.93
+qiusuo.nyist.edu.cn.	86400	IN	CNAME	group2.nyist.edu.cn.
+rjxyw.nyist.edu.cn.	86400	IN	CNAME	group2.nyist.edu.cn.
+rose.nyist.edu.cn.	86400	IN	CNAME	group1.nyist.edu.cn.
+rsc.nyist.edu.cn.	86400	IN	CNAME	group1.nyist.edu.cn.
+science.nyist.edu.cn.	86400	IN	CNAME	group1.nyist.edu.cn.
+sg.nyist.edu.cn.	86400	IN	CNAME	group2.nyist.edu.cn.
+shenji.nyist.edu.cn.	86400	IN	CNAME	group1.nyist.edu.cn.
+shxy.nyist.edu.cn.	86400	IN	CNAME	group1.nyist.edu.cn.
+soft.nyist.edu.cn.	86400	IN	CNAME	group1.nyist.edu.cn.
+sysbc.nyist.edu.cn.	86400	IN	CNAME	group1.nyist.edu.cn.
+tcm.nyist.edu.cn.	86400	IN	CNAME	group1.nyist.edu.cn.
+tnflash.nyist.edu.cn.	86400	IN	CNAME	group2.nyist.edu.cn.
+tuanwei.nyist.edu.cn.	86400	IN	A	222.139.215.244
+tv.nyist.edu.cn.	86400	IN	A	172.31.31.66
+tyb.nyist.edu.cn.	86400	IN	CNAME	group1.nyist.edu.cn.
+vcenter.nyist.edu.cn.	86400	IN	A	59.69.128.12
+wfxy.nyist.edu.cn.	86400	IN	CNAME	group1.nyist.edu.cn.
+wgy.nyist.edu.cn.	86400	IN	CNAME	group1.nyist.edu.cn.
+www.nyist.edu.cn.	86400	IN	A	222.139.215.198
+wyzx.nyist.edu.cn.	86400	IN	CNAME	group1.nyist.edu.cn.
+xcb.nyist.edu.cn.	86400	IN	CNAME	group1.nyist.edu.cn.
+xfjszl.nyist.edu.cn.	86400	IN	CNAME	group2.nyist.edu.cn.
+xgb.nyist.edu.cn.	86400	IN	A	59.69.128.202
+xuebao.nyist.edu.cn.	86400	IN	CNAME	group1.nyist.edu.cn.
+xyy.nyist.edu.cn.	86400	IN	CNAME	group1.nyist.edu.cn.
+yb.nyist.edu.cn.	86400	IN	CNAME	group1.nyist.edu.cn.
+youth.nyist.edu.cn.	86400	IN	CNAME	group1.nyist.edu.cn.
+yszx.nyist.edu.cn.	86400	IN	CNAME	group1.nyist.edu.cn.
+ywb.nyist.edu.cn.	86400	IN	CNAME	group1.nyist.edu.cn.
+zfb.nyist.edu.cn.	86400	IN	A	59.69.128.132
+zjb.nyist.edu.cn.	86400	IN	CNAME	group1.nyist.edu.cn.
+zjc.nyist.edu.cn.	86400	IN	CNAME	group1.nyist.edu.cn.
+zpzt.nyist.edu.cn.	86400	IN	CNAME	group1.nyist.edu.cn.
+zsw.nyist.edu.cn.	86400	IN	CNAME	group1.nyist.edu.cn.
+zyy.nyist.edu.cn.	86400	IN	CNAME	group2.nyist.edu.cn.
+zzhb.nyist.edu.cn.	86400	IN	CNAME	group1.nyist.edu.cn.
+zzy.nyist.edu.cn.	86400	IN	CNAME	group2.nyist.edu.cn.
+nyist.edu.cn.		86400	IN	SOA	dns.nyist.edu.cn. hostmaster.domain.tld. 2014031356 28800 7200 1209600 86400
+;; Query time: 32 msec
+;; SERVER: 59.69.128.8#53(59.69.128.8)
+;; WHEN: Mon Apr 21 20:59:04 中国标准时间 2014
+;; XFR size: 97 records (messages 1, bytes 2000)
+

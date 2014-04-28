@@ -1,0 +1,32 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @sync.kstc.edu.cn axfr kstc.edu.cn
+; (1 server found)
+;; global options: +cmd
+kstc.edu.cn.		86400	IN	SOA	sync.kstc.edu.cn. root.kstc.edu.cn. 7 28800 7200 604800 86400
+kstc.edu.cn.		86400	IN	A	218.195.192.76
+kstc.edu.cn.		86400	IN	NS	syic.kstc.edu.cn.
+kstc.edu.cn.		86400	IN	NS	sync.kstc.edu.cn.
+kstc.edu.cn.		86400	IN	MX	10 mail.kstc.edu.cn.
+disk.kstc.edu.cn.	86400	IN	A	218.195.192.67
+ie.kstc.edu.cn.		86400	IN	CNAME	www.kstc.edu.cn.
+jwgl.kstc.edu.cn.	86400	IN	A	218.195.192.104
+mail.kstc.edu.cn.	86400	IN	A	218.195.192.77
+nic.kstc.edu.cn.	86400	IN	CNAME	phpweb.kstc.edu.cn.
+oa.kstc.edu.cn.		86400	IN	A	218.195.192.101
+phpweb.kstc.edu.cn.	86400	IN	A	218.195.192.110
+syic.kstc.edu.cn.	86400	IN	A	218.195.192.74
+sync.kstc.edu.cn.	86400	IN	A	218.195.192.73
+test1.kstc.edu.cn.	86400	IN	A	218.195.192.70
+test2.kstc.edu.cn.	86400	IN	A	218.195.192.70
+test3.kstc.edu.cn.	86400	IN	A	218.195.192.75
+test4.kstc.edu.cn.	86400	IN	A	218.195.192.75
+tw.kstc.edu.cn.		86400	IN	A	218.195.192.70
+www.kstc.edu.cn.	86400	IN	A	218.195.192.76
+www2.kstc.edu.cn.	86400	IN	A	218.195.192.75
+www.xsgzb.kstc.edu.cn.	86400	IN	A	218.195.192.75
+kstc.edu.cn.		86400	IN	SOA	sync.kstc.edu.cn. root.kstc.edu.cn. 7 28800 7200 604800 86400
+;; Query time: 124 msec
+;; SERVER: 218.195.192.73#53(218.195.192.73)
+;; WHEN: Mon Apr 21 21:05:12 中国标准时间 2014
+;; XFR size: 23 records (messages 1, bytes 522)
+

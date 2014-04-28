@@ -1,0 +1,44 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns1.czili.edu.cn axfr czili.edu.cn
+; (1 server found)
+;; global options: +cmd
+czili.edu.cn.		3600	IN	SOA	dns1.czili.edu.cn. hostmaster.czili.edu.cn. 507 900 600 86400 3600
+czili.edu.cn.		3600	IN	A	211.70.120.31
+czili.edu.cn.		3600	IN	NS	dns1.czili.edu.cn.
+czili.edu.cn.		3600	IN	NS	dns2.czili.edu.cn.
+czili.edu.cn.		3600	IN	MX	10 czili.edu.cn.
+bysj.czili.edu.cn.	3600	IN	A	211.70.126.4
+cwcx.czili.edu.cn.	3600	IN	A	211.70.126.195
+cyjy.czili.edu.cn.	3600	IN	A	211.70.126.14
+dns1.czili.edu.cn.	3600	IN	A	211.70.120.30
+dns2.czili.edu.cn.	3600	IN	A	211.70.120.31
+exam.czili.edu.cn.	3600	IN	A	192.168.125.31
+guanli.czili.edu.cn.	3600	IN	A	211.70.120.14
+jjy.czili.edu.cn.	3600	IN	A	211.70.120.85
+jpgxk.czili.edu.cn.	3600	IN	A	211.70.126.3
+jpkc.czili.edu.cn.	3600	IN	A	211.70.126.9
+jsll.czili.edu.cn.	3600	IN	A	211.70.120.49
+jw.czili.edu.cn.	3600	IN	A	211.70.126.5
+jy.czili.edu.cn.	3600	IN	A	211.70.120.46
+kjc.czili.edu.cn.	3600	IN	A	211.70.120.44
+lib.czili.edu.cn.	3600	IN	A	211.70.126.66
+opac.czili.edu.cn.	3600	IN	A	211.70.126.80
+sizheng.czili.edu.cn.	3600	IN	A	211.70.120.83
+sjcj.czili.edu.cn.	3600	IN	A	211.70.126.7
+sky.czili.edu.cn.	3600	IN	A	211.70.126.255
+tiyu.czili.edu.cn.	3600	IN	A	211.70.120.84
+tw.czili.edu.cn.	3600	IN	A	211.70.120.15
+web2.czili.edu.cn.	3600	IN	A	211.70.120.48
+web5.czili.edu.cn.	3600	IN	A	211.70.120.48
+www.czili.edu.cn.	3600	IN	A	211.70.120.34
+www2.czili.edu.cn.	3600	IN	A	211.70.120.37
+www3.czili.edu.cn.	3600	IN	A	192.168.126.12
+xinli.czili.edu.cn.	3600	IN	A	211.70.120.41
+xzx.czili.edu.cn.	3600	IN	A	211.70.120.16
+zs.czili.edu.cn.	3600	IN	A	211.70.120.12
+czili.edu.cn.		3600	IN	SOA	dns1.czili.edu.cn. hostmaster.czili.edu.cn. 507 900 600 86400 3600
+;; Query time: 164 msec
+;; SERVER: 211.70.120.30#53(211.70.120.30)
+;; WHEN: Mon Apr 21 20:53:08 中国标准时间 2014
+;; XFR size: 35 records (messages 1, bytes 817)
+

@@ -1,0 +1,101 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns2.bzmc.edu.cn axfr bzmc.edu.cn
+; (1 server found)
+;; global options: +cmd
+bzmc.edu.cn.		3600	IN	SOA	dns1.bzmc.edu.cn. root.bzmc.edu.cn. 2014041608 30 30 360 3600
+bzmc.edu.cn.		3600	IN	MX	10 mail.bzmc.edu.cn.
+bzmc.edu.cn.		3600	IN	NS	dns1.bzmc.edu.cn.
+bzmc.edu.cn.		3600	IN	NS	dns2.bzmc.edu.cn.
+bzmc.edu.cn.		3600	IN	NS	dns4.bzmc.edu.cn.
+bbs79.bzmc.edu.cn.	3600	IN	A	211.87.240.156
+bwc.bzmc.edu.cn.	3600	IN	A	211.87.240.6
+bycjxy.bzmc.edu.cn.	3600	IN	A	211.87.240.6
+byjy.bzmc.edu.cn.	3600	IN	A	211.87.240.6
+bylcfy.bzmc.edu.cn.	3600	IN	A	211.87.240.6
+byzyrz.bzmc.edu.cn.	3600	IN	A	211.87.240.6
+cwc.bzmc.edu.cn.	3600	IN	A	211.87.240.6
+dbgs.bzmc.edu.cn.	3600	IN	A	211.87.240.6
+dns1.bzmc.edu.cn.	3600	IN	A	211.87.240.1
+dns2.bzmc.edu.cn.	3600	IN	A	211.87.240.2
+dns4.bzmc.edu.cn.	3600	IN	AAAA	2001:250:5814:1200::3
+ecard.bzmc.edu.cn.	3600	IN	A	211.87.240.222
+fybz01.bzmc.edu.cn.	3600	IN	A	211.87.240.239
+fybz02.bzmc.edu.cn.	3600	IN	A	211.87.240.239
+fybz03.bzmc.edu.cn.	3600	IN	A	211.87.240.239
+fybz04.bzmc.edu.cn.	3600	IN	A	211.87.240.239
+gh.bzmc.edu.cn.		3600	IN	A	211.87.240.6
+gjhzkt.bzmc.edu.cn.	3600	IN	A	211.87.240.6
+gjjlhzc.bzmc.edu.cn.	3600	IN	A	211.87.240.6
+gyzc.bzmc.edu.cn.	3600	IN	A	211.87.240.6
+hlxy.bzmc.edu.cn.	3600	IN	A	211.87.240.6
+home.bzmc.edu.cn.	3600	IN	A	211.87.240.6
+imap.bzmc.edu.cn.	3600	IN	A	211.87.240.5
+imnd.bzmc.edu.cn.	3600	IN	A	211.87.240.6
+ipv6.bzmc.edu.cn.	3600	IN	AAAA	2001:250:5814:1200::555
+jcxy.bzmc.edu.cn.	3600	IN	A	211.87.240.6
+jjc.bzmc.edu.cn.	3600	IN	A	211.87.240.6
+jpkc09.bzmc.edu.cn.	3600	IN	A	211.87.240.6
+jpkc10.bzmc.edu.cn.	3600	IN	A	211.87.240.157
+jw.bzmc.edu.cn.		3600	IN	A	211.87.240.6
+jwc.bzmc.edu.cn.	3600	IN	A	211.87.240.6
+jxjy.bzmc.edu.cn.	3600	IN	A	211.87.240.92
+jyzd.bzmc.edu.cn.	3600	IN	A	211.87.240.6
+kqx.bzmc.edu.cn.	3600	IN	A	211.87.240.6
+kxfz.bzmc.edu.cn.	3600	IN	A	211.87.240.6
+kyc.bzmc.edu.cn.	3600	IN	A	211.87.240.6
+lcjnzx.bzmc.edu.cn.	3600	IN	A	211.87.240.6
+lcyxy.bzmc.edu.cn.	3600	IN	A	211.87.240.6
+ltxgzc.bzmc.edu.cn.	3600	IN	A	211.87.240.6
+mail.bzmc.edu.cn.	3600	IN	A	211.87.240.5
+my.bzmc.edu.cn.		3600	IN	A	211.87.240.210
+news.bzmc.edu.cn.	3600	IN	A	211.87.240.6
+palm.bzmc.edu.cn.	3600	IN	A	211.87.240.213
+pop.bzmc.edu.cn.	3600	IN	A	211.87.240.5
+pop3.bzmc.edu.cn.	3600	IN	A	211.87.240.5
+qkb.bzmc.edu.cn.	3600	IN	A	211.87.240.6
+qzlxjy.bzmc.edu.cn.	3600	IN	A	211.87.240.6
+renwen.bzmc.edu.cn.	3600	IN	A	211.87.240.6
+rising.bzmc.edu.cn.	3600	IN	A	211.87.240.36
+rsc.bzmc.edu.cn.	3600	IN	A	211.87.240.6
+sjc.bzmc.edu.cn.	3600	IN	A	211.87.240.6
+sjjx.bzmc.edu.cn.	3600	IN	A	211.87.240.6
+sjjxglc.bzmc.edu.cn.	3600	IN	A	211.87.240.6
+sjpkc.bzmc.edu.cn.	3600	IN	A	211.87.240.243
+smtp.bzmc.edu.cn.	3600	IN	A	211.87.240.5
+sports.bzmc.edu.cn.	3600	IN	A	211.87.240.6
+syzx.bzmc.edu.cn.	3600	IN	A	211.87.240.6
+tcmbbs.bzmc.edu.cn.	3600	IN	A	211.87.240.145
+tjxy.bzmc.edu.cn.	3600	IN	A	211.87.240.6
+tsg.bzmc.edu.cn.	3600	IN	A	211.87.240.6
+tsxz.bzmc.edu.cn.	3600	IN	A	211.87.240.6
+tv.bzmc.edu.cn.		3600	IN	A	211.87.240.6
+tw.bzmc.edu.cn.		3600	IN	A	211.87.240.6
+tzb.bzmc.edu.cn.	3600	IN	A	211.87.240.6
+wlzx.bzmc.edu.cn.	3600	IN	A	211.87.240.6
+www.bzmc.edu.cn.	3600	IN	A	211.87.240.6
+wwwe.bzmc.edu.cn.	3600	IN	A	211.87.240.6
+xbgs.bzmc.edu.cn.	3600	IN	A	211.87.240.6
+xcb.bzmc.edu.cn.	3600	IN	A	211.87.240.6
+xsc.bzmc.edu.cn.	3600	IN	A	211.87.240.6
+xsgzb.bzmc.edu.cn.	3600	IN	A	211.87.240.6
+xszz.bzmc.edu.cn.	3600	IN	A	211.87.240.6
+yjsc.bzmc.edu.cn.	3600	IN	A	211.87.240.6
+yjszs.bzmc.edu.cn.	3600	IN	A	211.87.240.6
+ytfy.bzmc.edu.cn.	3600	IN	A	211.87.240.6
+yxxxx.bzmc.edu.cn.	3600	IN	A	211.87.240.6
+yxy.bzmc.edu.cn.	3600	IN	A	211.87.240.6
+yyyjzx.bzmc.edu.cn.	3600	IN	A	211.87.240.6
+zb.bzmc.edu.cn.		3600	IN	A	211.87.240.6
+zdxk.bzmc.edu.cn.	3600	IN	A	211.87.240.6
+zjzx.bzmc.edu.cn.	3600	IN	A	211.87.240.6
+zwc.bzmc.edu.cn.	3600	IN	A	211.87.240.6
+zwgk.bzmc.edu.cn.	3600	IN	A	211.87.240.6
+zxyjh.bzmc.edu.cn.	3600	IN	A	211.87.240.6
+zzb.bzmc.edu.cn.	3600	IN	A	211.87.240.6
+zzpt.bzmc.edu.cn.	3600	IN	A	211.87.240.6
+bzmc.edu.cn.		3600	IN	SOA	dns1.bzmc.edu.cn. root.bzmc.edu.cn. 2014041608 30 30 360 3600
+;; Query time: 87 msec
+;; SERVER: 211.87.240.2#53(211.87.240.2)
+;; WHEN: Mon Apr 21 20:54:20 中国标准时间 2014
+;; XFR size: 92 records (messages 1, bytes 2014)
+

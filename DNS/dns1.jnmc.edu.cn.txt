@@ -1,0 +1,50 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns1.jnmc.edu.cn axfr jnmc.edu.cn
+; (1 server found)
+;; global options: +cmd
+jnmc.edu.cn.		3600	IN	SOA	dns1.jnmc.edu.cn. admin. 190 900 600 86400 3600
+jnmc.edu.cn.		3600	IN	A	210.44.16.6
+jnmc.edu.cn.		3600	IN	NS	dns1.jnmc.edu.cn.
+jnmc.edu.cn.		3600	IN	NS	dns1.
+app.jnmc.edu.cn.	3600	IN	A	210.44.16.240
+bbs.jnmc.edu.cn.	3600	IN	A	210.44.31.156
+bm.jnmc.edu.cn.		3600	IN	A	210.44.16.148
+caiwu.jnmc.edu.cn.	3600	IN	A	210.44.16.105
+card.jnmc.edu.cn.	3600	IN	A	210.44.31.40
+ccp.jnmc.edu.cn.	3600	IN	A	210.44.16.118
+comm.jnmc.edu.cn.	3600	IN	A	222.133.182.219
+dns1.jnmc.edu.cn.	3600	IN	A	210.44.16.2
+grad.jnmc.edu.cn.	3600	IN	A	210.44.16.98
+immune.jnmc.edu.cn.	3600	IN	A	210.44.16.17
+it.jnmc.edu.cn.		3600	IN	A	210.44.16.93
+jp.jnmc.edu.cn.		3600	IN	A	210.44.16.33
+jwgl.jnmc.edu.cn.	3600	IN	A	210.44.31.84
+learn.jnmc.edu.cn.	3600	IN	A	210.44.16.8
+lib.jnmc.edu.cn.	3600	IN	A	210.44.16.7
+m.jnmc.edu.cn.		3600	IN	CNAME	siteapp.baidu.com.
+mail.jnmc.edu.cn.	3600	IN	A	210.44.16.5
+mail.jnmc.edu.cn.	3600	IN	MX	10 mail.jnmc.edu.cn.
+myxjy.jnmc.edu.cn.	3600	IN	A	210.44.16.118
+pb.jnmc.edu.cn.		3600	IN	A	210.44.16.149
+peng.jnmc.edu.cn.	3600	IN	A	210.44.16.107
+physics.jnmc.edu.cn.	3600	IN	A	210.44.16.115
+rz.jnmc.edu.cn.		3600	IN	A	210.44.16.15
+sfjd.jnmc.edu.cn.	3600	IN	A	210.44.16.91
+sr.jnmc.edu.cn.		3600	IN	A	210.44.16.97
+test.jnmc.edu.cn.	3600	IN	A	219.218.80.79
+tw.jnmc.edu.cn.		3600	IN	A	210.44.16.25
+vod.jnmc.edu.cn.	3600	IN	A	210.44.16.33
+www.jnmc.edu.cn.	3600	IN	CNAME	www.jnmc.edu.cn.zndns.org.
+xinxi.jnmc.edu.cn.	3600	IN	A	210.44.16.101
+xlzx.jnmc.edu.cn.	3600	IN	A	210.44.16.54
+xwyx.jnmc.edu.cn.	3600	IN	A	210.44.16.35
+xxjs.jnmc.edu.cn.	3600	IN	A	210.44.16.116
+yb.jnmc.edu.cn.		3600	IN	A	210.44.16.110
+zhaosheng.jnmc.edu.cn.	3600	IN	A	210.44.16.100
+zzb.jnmc.edu.cn.	3600	IN	A	210.44.16.109
+jnmc.edu.cn.		3600	IN	SOA	dns1.jnmc.edu.cn. admin. 190 900 600 86400 3600
+;; Query time: 126 msec
+;; SERVER: 210.44.16.2#53(210.44.16.2)
+;; WHEN: Mon Apr 21 20:54:21 中国标准时间 2014
+;; XFR size: 41 records (messages 41, bytes 2121)
+

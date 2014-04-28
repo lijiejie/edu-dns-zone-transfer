@@ -1,0 +1,88 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @ring.cugb.edu.cn axfr cugb.edu.cn
+; (1 server found)
+;; global options: +cmd
+cugb.edu.cn.		86400	IN	SOA	ring.cugb.edu.cn. root.cugb.edu.cn. 20130504 86400 3600 604800 10800
+cugb.edu.cn.		86400	IN	NS	ring.cugb.edu.cn.
+cugb.edu.cn.		86400	IN	MX	5 mail.cugb.edu.cn.
+cugb.edu.cn.		86400	IN	A	127.0.0.1
+cugb.edu.cn.		86400	IN	AAAA	::1
+acm.cugb.edu.cn.	86400	IN	A	121.194.86.2
+bbs.cugb.edu.cn.	86400	IN	A	202.204.105.172
+bm.cugb.edu.cn.		86400	IN	A	202.204.105.179
+bsbm.cugb.edu.cn.	86400	IN	A	202.204.105.17
+bslt.cugb.edu.cn.	86400	IN	A	202.204.109.241
+ce.cugb.edu.cn.		86400	IN	A	202.204.99.249
+chushi.cugb.edu.cn.	86400	IN	A	202.204.105.243
+cj.cugb.edu.cn.		86400	IN	A	202.204.96.111
+cms.cugb.edu.cn.	86400	IN	A	202.204.105.179
+computer.cugb.edu.cn.	86400	IN	A	202.204.96.202
+csc.cugb.edu.cn.	86400	IN	A	202.204.97.60
+cugcerne.cugb.edu.cn.	86400	IN	A	202.204.104.10
+ddh.cugb.edu.cn.	86400	IN	A	202.204.105.229
+dept.cugb.edu.cn.	86400	IN	A	202.204.105.191
+dxy.cugb.edu.cn.	86400	IN	A	202.204.104.46
+et.cugb.edu.cn.		86400	IN	A	202.204.109.119
+ftp.cugb.edu.cn.	86400	IN	A	202.204.105.122
+gem.cugb.edu.cn.	86400	IN	A	202.204.105.243
+geol.cugb.edu.cn.	86400	IN	A	202.204.104.235
+gkjd.cugb.edu.cn.	86400	IN	A	121.194.93.242
+gpmr.cugb.edu.cn.	86400	IN	A	202.204.104.170
+hqjt.cugb.edu.cn.	86400	IN	A	202.204.111.142
+iec.cugb.edu.cn.	86400	IN	A	121.194.93.3
+ipv6gw.cugb.edu.cn.	86400	IN	AAAA	2001:da8:214:102:d6be:d9ff:feaa:422a
+iwss.cugb.edu.cn.	86400	IN	A	121.194.93.242
+jiuye.cugb.edu.cn.	86400	IN	A	202.204.109.119
+jpkc.cugb.edu.cn.	86400	IN	A	202.204.105.69
+jwc.cugb.edu.cn.	86400	IN	A	202.204.105.22
+jxcg.cugb.edu.cn.	86400	IN	A	121.194.93.242
+ldap.cugb.edu.cn.	86400	IN	A	202.204.105.27
+lib.cugb.edu.cn.	86400	IN	A	202.204.105.59
+libserver.cugb.edu.cn.	86400	IN	A	202.204.104.2
+linuxopen.cugb.edu.cn.	86400	IN	A	202.204.96.207
+mail.cugb.edu.cn.	86400	IN	A	202.204.105.6
+mec.cugb.edu.cn.	86400	IN	A	202.204.109.120
+mo.cugb.edu.cn.		86400	IN	A	202.204.105.6
+movie.cugb.edu.cn.	86400	IN	A	202.204.105.202
+ndcpp.cugb.edu.cn.	86400	IN	A	202.204.104.52
+nhce.cugb.edu.cn.	86400	IN	A	202.204.99.249
+nimrf.cugb.edu.cn.	86400	IN	A	202.204.105.18
+nlsd.cugb.edu.cn.	86400	IN	A	202.204.109.119
+ns.cugb.edu.cn.		86400	IN	CNAME	ring.cugb.edu.cn.
+ny.cugb.edu.cn.		86400	IN	A	121.194.93.242
+oa.cugb.edu.cn.		86400	IN	A	202.204.105.136
+office.cugb.edu.cn.	86400	IN	A	202.204.109.119
+oral.cugb.edu.cn.	86400	IN	A	202.204.105.120
+pe.cugb.edu.cn.		86400	IN	A	121.194.93.242
+phyl.cugb.edu.cn.	86400	IN	A	202.204.97.70
+portal.cugb.edu.cn.	86400	IN	A	202.204.105.53
+pt.cugb.edu.cn.		86400	IN	AAAA	2001:da8:214:102:20c:29ff:fe5d:f75e
+ring.cugb.edu.cn.	86400	IN	A	202.204.105.1
+sfzx.cugb.edu.cn.	86400	IN	A	202.204.105.69
+sky.cugb.edu.cn.	86400	IN	A	202.204.105.2
+sqxx.cugb.edu.cn.	86400	IN	A	202.204.109.241
+su.cugb.edu.cn.		86400	IN	A	202.204.109.122
+thermo.cugb.edu.cn.	86400	IN	A	121.194.88.63
+tyg.cugb.edu.cn.	86400	IN	A	202.204.107.77
+vpn.cugb.edu.cn.	86400	IN	A	202.204.105.40
+wanfang.cugb.edu.cn.	86400	IN	A	202.204.105.13
+wree.cugb.edu.cn.	86400	IN	A	202.204.107.8
+www.cugb.edu.cn.	86400	IN	A	202.204.105.97
+xg.cugb.edu.cn.		86400	IN	A	202.204.109.119
+xgrj.cugb.edu.cn.	86400	IN	A	202.204.96.179
+xgtw.cugb.edu.cn.	86400	IN	A	202.204.109.121
+xgzx.cugb.edu.cn.	86400	IN	A	202.204.105.191
+xinli.cugb.edu.cn.	86400	IN	A	202.204.111.245
+xq60.cugb.edu.cn.	86400	IN	A	202.204.105.135
+xyy.cugb.edu.cn.	86400	IN	A	219.225.40.253
+yjsgl.cugb.edu.cn.	86400	IN	A	202.204.105.56
+yw.cugb.edu.cn.		86400	IN	A	202.204.105.4
+yx.cugb.edu.cn.		86400	IN	A	202.204.105.179
+zhsh.cugb.edu.cn.	86400	IN	A	202.204.109.119
+zzb.cugb.edu.cn.	86400	IN	A	202.204.105.243
+cugb.edu.cn.		86400	IN	SOA	ring.cugb.edu.cn. root.cugb.edu.cn. 20130504 86400 3600 604800 10800
+;; Query time: 41 msec
+;; SERVER: 60.247.50.241#53(60.247.50.241)
+;; WHEN: Mon Apr 21 20:46:30 中国标准时间 2014
+;; XFR size: 79 records (messages 1, bytes 1726)
+

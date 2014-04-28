@@ -1,0 +1,53 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @ns1.bfa.edu.cn axfr bfa.edu.cn
+; (1 server found)
+;; global options: +cmd
+bfa.edu.cn.		86400	IN	SOA	ns.bfa.edu.cn. root.ns.bfa.edu.cn. 20121232 10800 900 604800 86400
+bfa.edu.cn.		86400	IN	MX	5 mailgate.bfa.edu.cn.
+bfa.edu.cn.		86400	IN	MX	10 mail.bfa.edu.cn.
+bfa.edu.cn.		86400	IN	NS	ns.bfa.edu.cn.
+bfa.edu.cn.		86400	IN	NS	ns1.bfa.edu.cn.
+animation.bfa.edu.cn.	86400	IN	A	111.205.155.122
+bb.bfa.edu.cn.		86400	IN	A	111.205.155.84
+bfatv.bfa.edu.cn.	86400	IN	A	111.205.155.122
+bkbm.bfa.edu.cn.	86400	IN	A	111.205.155.114
+chinaacg.bfa.edu.cn.	86400	IN	A	111.205.155.86
+chinaanimation.bfa.edu.cn. 86400 IN	A	111.205.155.86
+dmi.bfa.edu.cn.		86400	IN	A	111.205.155.71
+filmcsc.bfa.edu.cn.	86400	IN	A	111.205.155.122
+filmlogy.bfa.edu.cn.	86400	IN	A	111.205.155.122
+ftp.bfa.edu.cn.		86400	IN	A	111.205.155.69
+gaozhi.bfa.edu.cn.	86400	IN	A	111.205.155.122
+grade.bfa.edu.cn.	86400	IN	A	111.205.155.70
+hr.bfa.edu.cn.		86400	IN	A	111.205.155.6
+jijiao.bfa.edu.cn.	86400	IN	A	111.205.155.122
+jingpin.bfa.edu.cn.	86400	IN	A	111.205.155.122
+jwc.bfa.edu.cn.		86400	IN	A	111.205.155.27
+jxjy.bfa.edu.cn.	86400	IN	A	111.205.155.42
+library.bfa.edu.cn.	86400	IN	A	111.205.155.37
+localhost.bfa.edu.cn.	86400	IN	AAAA	::1
+localhost.bfa.edu.cn.	86400	IN	A	127.0.0.1
+mail.bfa.edu.cn.	86400	IN	A	111.205.155.82
+mailgate.bfa.edu.cn.	86400	IN	A	111.205.155.83
+meishu.bfa.edu.cn.	86400	IN	A	111.205.155.122
+ns.bfa.edu.cn.		86400	IN	A	202.205.112.100
+ns1.bfa.edu.cn.		86400	IN	A	202.205.112.99
+opac.bfa.edu.cn.	86400	IN	A	111.205.155.37
+pop3.bfa.edu.cn.	86400	IN	A	111.205.155.82
+redu.bfa.edu.cn.	86400	IN	A	111.205.155.77
+shiyan.bfa.edu.cn.	86400	IN	A	111.205.155.122
+smtp.bfa.edu.cn.	86400	IN	A	111.205.155.83
+sound.bfa.edu.cn.	86400	IN	A	111.205.155.90
+sp.bfa.edu.cn.		86400	IN	A	111.205.155.122
+tszy.bfa.edu.cn.	86400	IN	A	111.205.155.35
+v.bfa.edu.cn.		86400	IN	A	111.205.155.87
+vpn.bfa.edu.cn.		86400	IN	A	111.205.155.18
+www.bfa.edu.cn.		86400	IN	A	111.205.155.122
+xuebao.bfa.edu.cn.	86400	IN	A	111.205.155.122
+zycx.bfa.edu.cn.	86400	IN	A	111.205.155.73
+bfa.edu.cn.		86400	IN	SOA	ns.bfa.edu.cn. root.ns.bfa.edu.cn. 20121232 10800 900 604800 86400
+;; Query time: 50 msec
+;; SERVER: 202.205.112.99#53(202.205.112.99)
+;; WHEN: Mon Apr 21 20:47:09 中国标准时间 2014
+;; XFR size: 44 records (messages 1, bytes 1007)
+

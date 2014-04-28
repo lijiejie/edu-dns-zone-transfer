@@ -1,0 +1,21 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @ns1.symc.edu.cn axfr symc.edu.cn
+; (1 server found)
+;; global options: +cmd
+symc.edu.cn.		86400	IN	SOA	ns1.symc.edu.cn. root.symc.edu.cn. 2013110702 6800 4400 36000 86400
+symc.edu.cn.		86400	IN	NS	ns1.symc.edu.cn.
+symc.edu.cn.		86400	IN	MX	10 mail.symc.edu.cn.
+gh.symc.edu.cn.		86400	IN	A	218.25.15.18
+ksgm.symc.edu.cn.	86400	IN	A	218.25.15.28
+mail.symc.edu.cn.	86400	IN	A	59.46.59.28
+ns1.symc.edu.cn.	86400	IN	A	125.222.108.253
+tuanwei.symc.edu.cn.	86400	IN	A	218.25.15.18
+wlzx.symc.edu.cn.	86400	IN	A	218.25.15.19
+www.symc.edu.cn.	86400	IN	A	59.46.59.27
+zzb.symc.edu.cn.	86400	IN	A	218.25.15.19
+symc.edu.cn.		86400	IN	SOA	ns1.symc.edu.cn. root.symc.edu.cn. 2013110702 6800 4400 36000 86400
+;; Query time: 106 msec
+;; SERVER: 125.222.108.253#53(125.222.108.253)
+;; WHEN: Mon Apr 21 20:50:13 中国标准时间 2014
+;; XFR size: 12 records (messages 1, bytes 302)
+

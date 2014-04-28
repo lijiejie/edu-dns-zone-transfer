@@ -1,0 +1,47 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns.qztc.edu.cn axfr qztc.edu.cn
+; (1 server found)
+;; global options: +cmd
+qztc.edu.cn.		86400	IN	SOA	dns.qztc.edu.cn.qztc.edu.cn. root.qztc.edu.cn.qztc.edu.cn. 20130431 10800 900 604800 86400
+qztc.edu.cn.		86400	IN	NS	dns.qztc.edu.cn.
+qztc.edu.cn.		86400	IN	NS	E250-1.qztc.edu.cn.
+qztc.edu.cn.		86400	IN	MX	10 mail.qztc.edu.cn.
+apps2.qztc.edu.cn.	86400	IN	A	210.34.120.105
+appserver.qztc.edu.cn.	86400	IN	A	210.34.120.116
+bbs.qztc.edu.cn.	86400	IN	A	210.34.120.105
+cms.qztc.edu.cn.	86400	IN	A	210.34.120.61
+cs.qztc.edu.cn.		86400	IN	A	219.229.75.6
+da.qztc.edu.cn.		86400	IN	A	210.34.120.114
+dns.qztc.edu.cn.	86400	IN	A	210.34.120.1
+E250-1.qztc.edu.cn.	86400	IN	A	210.34.120.1
+ftp.qztc.edu.cn.	86400	IN	A	210.34.120.2
+ftp2.qztc.edu.cn.	86400	IN	A	210.34.120.106
+hr.qztc.edu.cn.		86400	IN	CNAME	my2.qztc.edu.cn.
+ids.qztc.edu.cn.	86400	IN	A	210.34.120.110
+ids03.qztc.edu.cn.	86400	IN	A	210.34.120.163
+info.qztc.edu.cn.	86400	IN	A	210.34.120.22
+ipgate.qztc.edu.cn.	86400	IN	A	210.34.120.125
+jpkc.qztc.edu.cn.	86400	IN	A	59.61.216.60
+jwc.qztc.edu.cn.	86400	IN	A	210.34.120.10
+jxjy.qztc.edu.cn.	86400	IN	A	210.34.120.25
+ky.qztc.edu.cn.		86400	IN	A	210.34.120.28
+lib.qztc.edu.cn.	86400	IN	CNAME	tsg.qztc.edu.cn.
+libcnki.qztc.edu.cn.	86400	IN	A	210.34.124.2
+mail.qztc.edu.cn.	86400	IN	A	210.34.120.121
+my.qztc.edu.cn.		86400	IN	A	210.34.120.22
+my2.qztc.edu.cn.	86400	IN	A	210.34.120.112
+nic.qztc.edu.cn.	86400	IN	A	210.34.120.105
+oa.qztc.edu.cn.		86400	IN	A	210.34.120.109
+radius.qztc.edu.cn.	86400	IN	A	210.34.120.102
+reg.qztc.edu.cn.	86400	IN	A	210.34.120.89
+rs.qztc.edu.cn.		86400	IN	CNAME	reg.qztc.edu.cn.
+rsupdate.qztc.edu.cn.	86400	IN	A	210.34.120.3
+tsg.qztc.edu.cn.	86400	IN	A	210.34.124.1
+www.qztc.edu.cn.	86400	IN	A	59.61.216.37
+xg.qztc.edu.cn.		86400	IN	CNAME	my2.qztc.edu.cn.
+qztc.edu.cn.		86400	IN	SOA	dns.qztc.edu.cn.qztc.edu.cn. root.qztc.edu.cn.qztc.edu.cn. 20130431 10800 900 604800 86400
+;; Query time: 71 msec
+;; SERVER: 210.34.120.1#53(210.34.120.1)
+;; WHEN: Mon Apr 21 20:57:05 中国标准时间 2014
+;; XFR size: 38 records (messages 1, bytes 843)
+

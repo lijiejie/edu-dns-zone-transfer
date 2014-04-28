@@ -1,0 +1,63 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns1.bcu.edu.cn axfr bcu.edu.cn
+; (1 server found)
+;; global options: +cmd
+bcu.edu.cn.		86400	IN	SOA	dns1.bcu.edu.cn. root.localhost.bcu.edu.cn. 10 8800 7200 4800 86400
+bcu.edu.cn.		86400	IN	A	211.68.97.1
+bcu.edu.cn.		86400	IN	MX	10 mail.bcu.edu.cn.
+bcu.edu.cn.		86400	IN	NS	dns1.bcu.edu.cn.
+/.bcu.edu.cn.		86400	IN	NS	dns2.bcu.edu.cn.
+baodao.bcu.edu.cn.	86400	IN	A	114.255.66.202
+bculib.bcu.edu.cn.	86400	IN	A	211.68.98.217
+bjpx.bcu.edu.cn.	86400	IN	A	223.5.222.28
+bjwmg.bcu.edu.cn.	86400	IN	A	114.255.66.202
+careerplan.bcu.edu.cn.	86400	IN	A	114.255.66.198
+cb.bcu.edu.cn.		86400	IN	A	114.255.66.198
+citycareer.bcu.edu.cn.	86400	IN	A	114.255.66.202
+dep.bcu.edu.cn.		86400	IN	A	114.255.66.198
+diaocha.bcu.edu.cn.	86400	IN	A	114.255.66.200
+dns1.bcu.edu.cn.	86400	IN	A	211.68.97.1
+dns2.bcu.edu.cn.	86400	IN	A	211.68.97.10
+dv.bcu.edu.cn.		86400	IN	A	114.255.66.250
+ecms.bcu.edu.cn.	86400	IN	A	192.168.100.7
+emp.bcu.edu.cn.		86400	IN	A	114.255.66.202
+group.bcu.edu.cn.	86400	IN	A	211.68.97.43
+imp.bcu.edu.cn.		86400	IN	A	211.68.97.40
+in2.bcu.edu.cn.		86400	IN	A	114.255.66.208
+innet.bcu.edu.cn.	86400	IN	A	114.255.66.198
+innet2.bcu.edu.cn.	86400	IN	A	114.255.66.198
+ipv6.bcu.edu.cn.	86400	IN	A	211.68.97.21
+jpkc.bcu.edu.cn.	86400	IN	A	218.205.184.58
+jsyl.bcu.edu.cn.	86400	IN	A	114.255.66.198
+jwc.bcu.edu.cn.		86400	IN	A	114.255.66.198
+mail.bcu.edu.cn.	86400	IN	A	114.255.66.197
+mail2.bcu.edu.cn.	86400	IN	A	114.255.66.223
+mbgxdj.bcu.edu.cn.	86400	IN	A	114.255.66.198
+my.bcu.edu.cn.		86400	IN	A	211.68.97.40
+old.bcu.edu.cn.		86400	IN	A	114.255.66.196
+olympics.bcu.edu.cn.	86400	IN	A	114.255.66.251
+rec.bcu.edu.cn.		86400	IN	A	114.255.66.200
+soft.bcu.edu.cn.	86400	IN	A	218.249.161.37
+swyy.bcu.edu.cn.	86400	IN	A	218.249.161.37
+syxm.bcu.edu.cn.	86400	IN	A	218.249.84.22
+talk.bcu.edu.cn.	86400	IN	A	218.249.84.24
+tutor.bcu.edu.cn.	86400	IN	A	114.255.66.198
+webdep.bcu.edu.cn.	86400	IN	A	114.255.66.198
+wsxk.bcu.edu.cn.	86400	IN	A	114.255.66.201
+www.bcu.edu.cn.		86400	IN	A	114.255.66.198
+www2.bcu.edu.cn.	86400	IN	A	114.255.66.198
+xdzy.bcu.edu.cn.	86400	IN	A	218.249.161.44
+xinli.bcu.edu.cn.	86400	IN	A	114.255.66.200
+xinxi.bcu.edu.cn.	86400	IN	A	218.249.161.37
+xxbz.bcu.edu.cn.	86400	IN	A	211.68.97.40
+xxxb.bcu.edu.cn.	86400	IN	A	114.255.66.198
+yangzhong.bcu.edu.cn.	86400	IN	A	114.255.66.250
+ypcity.bcu.edu.cn.	86400	IN	A	114.255.66.250
+ysxb.bcu.edu.cn.	86400	IN	A	114.255.66.198
+ysyl.bcu.edu.cn.	86400	IN	A	114.255.66.198
+bcu.edu.cn.		86400	IN	SOA	dns1.bcu.edu.cn. root.localhost.bcu.edu.cn. 10 8800 7200 4800 86400
+;; Query time: 12 msec
+;; SERVER: 211.68.97.1#53(211.68.97.1)
+;; WHEN: Mon Apr 21 20:47:39 中国标准时间 2014
+;; XFR size: 54 records (messages 1, bytes 1214)
+

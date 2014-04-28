@@ -1,0 +1,138 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @ns.besti.edu.cn axfr besti.edu.cn
+; (1 server found)
+;; global options: +cmd
+besti.edu.cn.		72000	IN	SOA	ns.besti.edu.cn. netmaster.besti.edu.cn. 141659981 72000 10800 72000 86400
+besti.edu.cn.		72000	IN	NS	ns.besti.edu.cn.
+besti.edu.cn.		72000	IN	NS	sun.besti.edu.cn.
+besti.edu.cn.		72000	IN	A	202.205.232.1
+besti.edu.cn.		72000	IN	MX	1 123.127.3.3.
+6config.besti.edu.cn.	72000	IN	CNAME	c032.besti.edu.cn.
+6linux.besti.edu.cn.	72000	IN	CNAME	c036.besti.edu.cn.
+6linuxssh.besti.edu.cn.	72000	IN	AAAA	2001:250:203::36
+6router.besti.edu.cn.	72000	IN	CNAME	c032.besti.edu.cn.
+ae.besti.edu.cn.	72000	IN	CNAME	ipv6.besti.edu.cn.
+am.besti.edu.cn.	72000	IN	A	202.205.232.7
+ann.besti.edu.cn.	72000	IN	CNAME	web1.besti.edu.cn.
+av.besti.edu.cn.	72000	IN	A	202.205.232.79
+bb.besti.edu.cn.	72000	IN	A	123.127.3.9
+bgs.besti.edu.cn.	72000	IN	CNAME	web1.besti.edu.cn.
+bt.besti.edu.cn.	72000	IN	A	202.205.232.92
+c032.besti.edu.cn.	72000	IN	A	202.205.232.32
+c032.besti.edu.cn.	72000	IN	AAAA	2001:250:203::fffe
+c033.besti.edu.cn.	72000	IN	A	202.205.232.33
+c033.besti.edu.cn.	72000	IN	AAAA	2001:250:203::33
+c034.besti.edu.cn.	72000	IN	A	202.205.232.34
+c034.besti.edu.cn.	72000	IN	AAAA	2001:250:203::34
+c035.besti.edu.cn.	72000	IN	A	202.205.232.35
+c035.besti.edu.cn.	72000	IN	AAAA	2001:250:203::35
+c036.besti.edu.cn.	72000	IN	A	202.205.232.36
+c036.besti.edu.cn.	72000	IN	AAAA	2001:250:203::36
+c234.besti.edu.cn.	72000	IN	A	202.205.232.234
+ca.besti.edu.cn.	72000	IN	CNAME	web1.besti.edu.cn.
+cai.besti.edu.cn.	72000	IN	A	192.168.200.52
+card.besti.edu.cn.	72000	IN	CNAME	web1.besti.edu.cn.
+cc.besti.edu.cn.	72000	IN	A	172.16.23.1
+chengjiaoibm.besti.edu.cn. 72000 IN	A	202.205.232.12
+cms.besti.edu.cn.	72000	IN	CNAME	olddell.besti.edu.cn.
+community.besti.edu.cn.	72000	IN	A	202.205.232.92
+cs.besti.edu.cn.	72000	IN	A	202.205.232.7
+ddns.besti.edu.cn.	72000	IN	CNAME	c034.besti.edu.cn.
+debian.besti.edu.cn.	72000	IN	CNAME	web1.besti.edu.cn.
+dept.besti.edu.cn.	72000	IN	CNAME	web1.besti.edu.cn.
+*.dept.besti.edu.cn.	72000	IN	CNAME	web1.besti.edu.cn.
+dept3.besti.edu.cn.	72000	IN	A	172.16.30.120
+dianda.besti.edu.cn.	72000	IN	CNAME	chengjiaoibm.besti.edu.cn.
+dl.besti.edu.cn.	72000	IN	CNAME	web4.besti.edu.cn.
+dns.besti.edu.cn.	72000	IN	CNAME	ns.besti.edu.cn.
+duba.besti.edu.cn.	72000	IN	CNAME	av.besti.edu.cn.
+dzjw.besti.edu.cn.	72000	IN	A	202.205.232.65
+dzsy.besti.edu.cn.	72000	IN	CNAME	web1proxy.besti.edu.cn.
+eie.besti.edu.cn.	72000	IN	A	222.28.142.57
+gwy.eie.besti.edu.cn.	72000	IN	A	222.28.142.57
+elib.besti.edu.cn.	72000	IN	A	222.28.139.10
+email.besti.edu.cn.	72000	IN	A	202.205.232.92
+entering.besti.edu.cn.	72000	IN	CNAME	web1.besti.edu.cn.
+envod.besti.edu.cn.	72000	IN	A	192.168.200.201
+eslab.besti.edu.cn.	72000	IN	CNAME	web1.besti.edu.cn.
+ftp.besti.edu.cn.	72000	IN	A	202.205.232.92
+iis1.besti.edu.cn.	72000	IN	A	202.205.232.60
+imap.besti.edu.cn.	72000	IN	CNAME	mails.besti.edu.cn.
+ipng.besti.edu.cn.	72000	IN	CNAME	web1.besti.edu.cn.
+ipv6.besti.edu.cn.	72000	IN	A	202.205.232.87
+ipv6.besti.edu.cn.	72000	IN	AAAA	2001:250:203::37
+ipv6.besti.edu.cn.	72000	IN	MX	1 c036.besti.edu.cn.
+mail.ipv6.besti.edu.cn.	72000	IN	CNAME	c036.besti.edu.cn.
+ns.ipv6.besti.edu.cn.	72000	IN	A	202.205.232.37
+is.besti.edu.cn.	72000	IN	A	202.205.232.7
+itest.besti.edu.cn.	72000	IN	A	192.168.200.202
+jcb.besti.edu.cn.	72000	IN	CNAME	web1.besti.edu.cn.
+jp.besti.edu.cn.	72000	IN	CNAME	web1.besti.edu.cn.
+jpkc.besti.edu.cn.	72000	IN	CNAME	web1.besti.edu.cn.
+jpkclx.besti.edu.cn.	72000	IN	CNAME	web1.besti.edu.cn.
+jplx.besti.edu.cn.	72000	IN	CNAME	web1.besti.edu.cn.
+jwc.besti.edu.cn.	72000	IN	A	202.205.232.109
+jxpg.besti.edu.cn.	72000	IN	CNAME	web1.besti.edu.cn.
+jxpgnew.besti.edu.cn.	72000	IN	CNAME	chengjiaoibm.besti.edu.cn.
+jy.besti.edu.cn.	72000	IN	CNAME	web1.besti.edu.cn.
+jzw.besti.edu.cn.	72000	IN	CNAME	web1.besti.edu.cn.
+lib.besti.edu.cn.	72000	IN	A	222.28.139.9
+opac.lib.besti.edu.cn.	72000	IN	A	222.28.139.121
+query.lib.besti.edu.cn.	72000	IN	CNAME	web1.besti.edu.cn.
+www.lib.besti.edu.cn.	72000	IN	A	123.127.3.1
+log.besti.edu.cn.	72000	IN	A	202.205.232.86
+m.besti.edu.cn.		72000	IN	MX	1 123.127.3.8.
+mail.besti.edu.cn.	72000	IN	MX	1 123.127.3.3.besti.edu.cn.
+mail.besti.edu.cn.	72000	IN	A	202.205.232.3
+mails.besti.edu.cn.	72000	IN	MX	1 123.127.3.3.besti.edu.cn.
+mis.besti.edu.cn.	72000	IN	A	123.127.3.1
+mrtg.besti.edu.cn.	72000	IN	CNAME	ipv6.besti.edu.cn.
+my.besti.edu.cn.	72000	IN	A	202.205.232.92
+netclass.besti.edu.cn.	72000	IN	CNAME	web4.besti.edu.cn.
+nhce.besti.edu.cn.	72000	IN	A	202.205.232.29
+nhcenew.besti.edu.cn.	72000	IN	A	202.205.232.29
+nic.besti.edu.cn.	72000	IN	CNAME	olddell.besti.edu.cn.
+ns.besti.edu.cn.	72000	IN	A	202.205.232.1
+olddell.besti.edu.cn.	72000	IN	A	123.127.3.9
+openid.besti.edu.cn.	72000	IN	A	202.205.232.92
+personal.besti.edu.cn.	72000	IN	CNAME	web1.besti.edu.cn.
+pop.besti.edu.cn.	72000	IN	CNAME	mails.besti.edu.cn.
+pop3.besti.edu.cn.	72000	IN	CNAME	mails.besti.edu.cn.
+portal.besti.edu.cn.	72000	IN	A	123.127.3.4
+projects.besti.edu.cn.	72000	IN	CNAME	web1.besti.edu.cn.
+sav.besti.edu.cn.	72000	IN	CNAME	av.besti.edu.cn.
+scc.besti.edu.cn.	72000	IN	CNAME	web1.besti.edu.cn.
+share.besti.edu.cn.	72000	IN	CNAME	web1.besti.edu.cn.
+shbx.besti.edu.cn.	72000	IN	CNAME	chengjiaoibm.besti.edu.cn.
+shbxzs.besti.edu.cn.	72000	IN	CNAME	chengjiaoibm.besti.edu.cn.
+sis.besti.edu.cn.	72000	IN	CNAME	web1.besti.edu.cn.
+smtp.besti.edu.cn.	72000	IN	CNAME	mails.besti.edu.cn.
+srman.besti.edu.cn.	72000	IN	CNAME	web1.besti.edu.cn.
+stu.besti.edu.cn.	72000	IN	MX	1 123.127.3.8.besti.edu.cn.
+stuman.besti.edu.cn.	72000	IN	CNAME	web1.besti.edu.cn.
+temp.besti.edu.cn.	72000	IN	CNAME	c035.besti.edu.cn.
+test.besti.edu.cn.	72000	IN	CNAME	c036.besti.edu.cn.
+time.besti.edu.cn.	72000	IN	CNAME	ipv6.besti.edu.cn.
+trpz.besti.edu.cn.	72000	IN	CNAME	wlan-switch.besti.edu.cn.
+ttt.besti.edu.cn.	72000	IN	CNAME	web1.besti.edu.cn.
+web1.besti.edu.cn.	72000	IN	A	123.127.3.1
+web2.besti.edu.cn.	72000	IN	A	123.127.3.2
+web4.besti.edu.cn.	72000	IN	A	202.205.232.8
+wiki.besti.edu.cn.	72000	IN	A	202.205.232.92
+wlan-switch.besti.edu.cn. 72000	IN	A	192.168.10.1
+wlbbs.besti.edu.cn.	72000	IN	CNAME	web4.besti.edu.cn.
+wldown.besti.edu.cn.	72000	IN	A	123.127.3.9
+www.besti.edu.cn.	72000	IN	CNAME	web2.besti.edu.cn.
+wwwproxy.besti.edu.cn.	72000	IN	A	123.127.3.6
+xgb.besti.edu.cn.	72000	IN	CNAME	web1.besti.edu.cn.
+xgc.besti.edu.cn.	72000	IN	CNAME	web1.besti.edu.cn.
+xlcp.besti.edu.cn.	72000	IN	CNAME	web2.besti.edu.cn.
+youth.besti.edu.cn.	72000	IN	CNAME	chengjiaoibm.besti.edu.cn.
+yscx.besti.edu.cn.	72000	IN	CNAME	web1.besti.edu.cn.
+zxc.besti.edu.cn.	72000	IN	CNAME	web1.besti.edu.cn.
+besti.edu.cn.		72000	IN	SOA	ns.besti.edu.cn. netmaster.besti.edu.cn. 141659981 72000 10800 72000 86400
+;; Query time: 397 msec
+;; SERVER: 202.205.232.1#53(202.205.232.1)
+;; WHEN: Mon Apr 21 20:47:35 中国标准时间 2014
+;; XFR size: 129 records (messages 1, bytes 2762)
+

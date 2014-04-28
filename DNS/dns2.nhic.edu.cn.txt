@@ -1,0 +1,85 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns2.nhic.edu.cn axfr nhic.edu.cn
+; (1 server found)
+;; global options: +cmd
+nhic.edu.cn.		3600	IN	SOA	nhicvmftp. webmaster.nhic.edu.cn. 191 900 600 86400 3600
+nhic.edu.cn.		3600	IN	A	210.38.120.250
+nhic.edu.cn.		3600	IN	NS	dns2.nhic.edu.cn.
+nhic.edu.cn.		3600	IN	NS	dns3.nhic.edu.cn.
+nhic.edu.cn.		3600	IN	NS	dns.nhic.edu.cn.
+nhic.edu.cn.		3600	IN	MX	10 mtrx.nhic.edu.cn.
+btnm.nhic.edu.cn.	3600	IN	A	210.38.120.1
+cdntel.nhic.edu.cn.	3600	IN	A	121.33.231.138
+cet.nhic.edu.cn.	3600	IN	A	110.64.51.101
+cms.nhic.edu.cn.	3600	IN	A	210.38.120.222
+cwcx.nhic.edu.cn.	3600	IN	A	210.38.120.8
+djfeng.nhic.edu.cn.	3600	IN	A	210.38.120.192
+dns.nhic.edu.cn.	3600	IN	A	210.38.120.252
+dns2.nhic.edu.cn.	3600	IN	A	210.38.120.251
+dns3.nhic.edu.cn.	3600	IN	A	210.38.120.230
+ebs.nhic.edu.cn.	3600	IN	A	125.216.2.100
+f.nhic.edu.cn.		3600	IN	A	121.33.231.142
+ftp.nhic.edu.cn.	3600	IN	A	210.38.120.194
+fw.nhic.edu.cn.		3600	IN	A	172.16.12.3
+jcpt.nhic.edu.cn.	3600	IN	A	110.64.52.200
+jk.nhic.edu.cn.		3600	IN	A	210.38.120.207
+jkxt.nhic.edu.cn.	3600	IN	A	110.64.51.66
+jpkc.nhic.edu.cn.	3600	IN	A	210.38.120.100
+jsjx.nhic.edu.cn.	3600	IN	A	119.147.24.216
+jwxt.nhic.edu.cn.	3600	IN	A	210.38.120.206
+ldq.nhic.edu.cn.	3600	IN	A	210.38.120.191
+lib.nhic.edu.cn.	3600	IN	A	210.38.120.250
+maildb.nhic.edu.cn.	3600	IN	A	210.38.120.218
+mas.nhic.edu.cn.	3600	IN	A	121.33.231.140
+md.nhic.edu.cn.		3600	IN	A	210.38.120.230
+mtrx.nhic.edu.cn.	3600	IN	A	210.38.120.244
+my.nhic.edu.cn.		3600	IN	A	210.38.120.227
+my3.nhic.edu.cn.	3600	IN	CNAME	my.nhic.edu.cn.
+nhtx.nhic.edu.cn.	3600	IN	A	210.38.120.250
+oa.nhic.edu.cn.		3600	IN	A	210.38.120.208
+pop.nhic.edu.cn.	3600	IN	A	210.38.120.218
+rav.nhic.edu.cn.	3600	IN	A	210.38.120.248
+rcpy.nhic.edu.cn.	3600	IN	A	210.38.120.239
+rz.nhic.edu.cn.		3600	IN	A	172.16.12.12
+samba.nhic.edu.cn.	3600	IN	A	210.38.120.253
+sdcx.nhic.edu.cn.	3600	IN	A	110.64.48.12
+security.nhic.edu.cn.	3600	IN	CNAME	ucenter.nhic.edu.cn.
+smtp.nhic.edu.cn.	3600	IN	A	210.38.120.218
+sphy.nhic.edu.cn.	3600	IN	A	125.216.3.189
+sphy.nhic.edu.cn.	3600	IN	A	125.216.3.188
+spjk.nhic.edu.cn.	3600	IN	A	210.38.120.207
+ssl.nhic.edu.cn.	3600	IN	A	210.38.120.211
+sxjd.nhic.edu.cn.	3600	IN	A	210.38.120.250
+tjh.nhic.edu.cn.	3600	IN	A	210.38.120.190
+tsgl.nhic.edu.cn.	3600	IN	A	210.38.120.236
+ucenter.nhic.edu.cn.	3600	IN	A	210.38.120.221
+vm.nhic.edu.cn.		3600	IN	A	210.38.120.217
+vod.nhic.edu.cn.	3600	IN	A	210.38.120.92
+vpn.nhic.edu.cn.	3600	IN	A	210.38.120.165
+vpn2.nhic.edu.cn.	3600	IN	A	210.38.120.195
+web.nhic.edu.cn.	3600	IN	A	210.38.120.216
+webmail.nhic.edu.cn.	3600	IN	A	210.38.120.218
+wsus.nhic.edu.cn.	3600	IN	A	210.38.120.195
+www.nhic.edu.cn.	3600	IN	A	210.38.120.250
+www.nhic.edu.cn.	3600	IN	A	210.38.120.199
+www2.nhic.edu.cn.	3600	IN	A	210.38.120.246
+www3.nhic.edu.cn.	3600	IN	A	210.38.120.250
+www3.nhic.edu.cn.	3600	IN	A	210.38.120.199
+wyjxpt.nhic.edu.cn.	3600	IN	A	125.216.3.253
+xieman.nhic.edu.cn.	3600	IN	A	210.38.120.186
+xjb.nhic.edu.cn.	3600	IN	A	210.38.120.187
+xlzx.nhic.edu.cn.	3600	IN	A	210.38.120.196
+xxgk.nhic.edu.cn.	3600	IN	A	210.38.120.250
+yjc.nhic.edu.cn.	3600	IN	A	210.38.120.193
+yjc2.nhic.edu.cn.	3600	IN	A	210.38.120.229
+yym.nhic.edu.cn.	3600	IN	A	210.38.120.228
+zc.nhic.edu.cn.		3600	IN	A	210.38.120.216
+zdzy.nhic.edu.cn.	3600	IN	A	210.38.120.250
+zhq.nhic.edu.cn.	3600	IN	A	210.38.120.188
+zyt.nhic.edu.cn.	3600	IN	A	210.38.120.189
+nhic.edu.cn.		3600	IN	SOA	nhicvmftp. webmaster.nhic.edu.cn. 191 900 600 86400 3600
+;; Query time: 117 msec
+;; SERVER: 210.38.120.251#53(210.38.120.251)
+;; WHEN: Mon Apr 21 21:00:41 中国标准时间 2014
+;; XFR size: 76 records (messages 76, bytes 3853)
+

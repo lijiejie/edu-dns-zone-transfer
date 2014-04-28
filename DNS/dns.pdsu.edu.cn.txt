@@ -1,0 +1,117 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns.pdsu.edu.cn axfr pdsu.edu.cn
+; (1 server found)
+;; global options: +cmd
+pdsu.edu.cn.		3600	IN	SOA	dns.pdsu.edu.cn. root.pdsu.edu.cn. 2014022802 150 200 4000 3600
+pdsu.edu.cn.		3600	IN	A	125.46.3.234
+pdsu.edu.cn.		3600	IN	NS	dns.pdsu.edu.cn.
+pdsu.edu.cn.		3600	IN	NS	dns2.pdsu.edu.cn.
+pdsu.edu.cn.		3600	IN	MX	0 pdsu.edu.cn.
+acm.pdsu.edu.cn.	3600	IN	A	211.69.26.155
+arteyes.pdsu.edu.cn.	3600	IN	A	211.69.16.56
+bwc.pdsu.edu.cn.	3600	IN	A	125.46.3.232
+cet.pdsu.edu.cn.	3600	IN	A	61.163.226.229
+ciee.pdsu.edu.cn.	3600	IN	A	125.46.3.232
+cwc.pdsu.edu.cn.	3600	IN	A	125.46.3.232
+daglxt.pdsu.edu.cn.	3600	IN	A	211.69.16.181
+dns.pdsu.edu.cn.	3600	IN	A	211.69.16.8
+dns2.pdsu.edu.cn.	3600	IN	A	211.69.16.18
+dwbgs.pdsu.edu.cn.	3600	IN	A	125.46.3.232
+dwjl.pdsu.edu.cn.	3600	IN	A	125.46.3.232
+dwxcb.pdsu.edu.cn.	3600	IN	A	125.46.3.232
+dxy.pdsu.edu.cn.	3600	IN	A	125.46.3.232
+file.pdsu.edu.cn.	3600	IN	A	211.69.26.244
+fzgh.pdsu.edu.cn.	3600	IN	A	125.46.3.232
+gwb.pdsu.edu.cn.	3600	IN	A	125.46.3.232
+gxzc.pdsu.edu.cn.	3600	IN	A	211.69.16.30
+gzc.pdsu.edu.cn.	3600	IN	A	125.46.3.232
+hao.pdsu.edu.cn.	3600	IN	A	219.157.79.109
+hao.pdsu.edu.cn.	3600	IN	AAAA	2001:250:4814:1::109
+hqglc.pdsu.edu.cn.	3600	IN	A	125.46.3.232
+hqzgs.pdsu.edu.cn.	3600	IN	A	125.46.3.232
+hxhg.pdsu.edu.cn.	3600	IN	A	125.46.3.232
+idp.pdsu.edu.cn.	3600	IN	AAAA	2001:250:4814:1::172
+idp.pdsu.edu.cn.	3600	IN	A	211.69.16.172
+ipv6.pdsu.edu.cn.	3600	IN	AAAA	2001:250:4814:1::2
+ipv6.pdsu.edu.cn.	3600	IN	A	211.69.16.53
+ipv6sys.pdsu.edu.cn.	3600	IN	A	211.69.26.243
+jgdj.pdsu.edu.cn.	3600	IN	A	125.46.3.232
+jiaowu.pdsu.edu.cn.	3600	IN	A	61.163.226.235
+jjgl.pdsu.edu.cn.	3600	IN	A	125.46.3.232
+jks.pdsu.edu.cn.	3600	IN	A	125.46.3.232
+job.pdsu.edu.cn.	3600	IN	A	218.29.140.102
+jpkc.pdsu.edu.cn.	3600	IN	A	125.46.3.235
+jsjxy.pdsu.edu.cn.	3600	IN	A	125.46.3.232
+jwc.pdsu.edu.cn.	3600	IN	A	125.46.3.232
+jwjc.pdsu.edu.cn.	3600	IN	A	125.46.3.232
+jxjyxy.pdsu.edu.cn.	3600	IN	A	125.46.3.232
+jyxx.pdsu.edu.cn.	3600	IN	A	125.46.3.232
+kyc.pdsu.edu.cn.	3600	IN	A	125.46.3.232
+lib.pdsu.edu.cn.	3600	IN	A	125.46.3.232
+m.pdsu.edu.cn.		3600	IN	A	211.69.16.3
+math.pdsu.edu.cn.	3600	IN	A	125.46.3.232
+media6.pdsu.edu.cn.	3600	IN	AAAA	2001:250:4814:1::6
+media6.pdsu.edu.cn.	3600	IN	A	125.46.3.233
+movie.pdsu.edu.cn.	3600	IN	A	61.163.226.233
+mrtg.pdsu.edu.cn.	3600	IN	A	211.69.26.11
+music.pdsu.edu.cn.	3600	IN	A	61.163.226.234
+pinggu.pdsu.edu.cn.	3600	IN	A	211.69.16.177
+pt.pdsu.edu.cn.		3600	IN	A	211.69.16.176
+pt.pdsu.edu.cn.		3600	IN	AAAA	2001:250:4814:1::176
+radio.pdsu.edu.cn.	3600	IN	A	211.69.16.151
+radio.pdsu.edu.cn.	3600	IN	AAAA	2001:250:4814:1::151
+rsc.pdsu.edu.cn.	3600	IN	A	125.46.3.232
+sfjyxy.pdsu.edu.cn.	3600	IN	A	125.46.3.232
+sjc.pdsu.edu.cn.	3600	IN	A	125.46.3.232
+sns.pdsu.edu.cn.	3600	IN	A	211.69.16.49
+soft.pdsu.edu.cn.	3600	IN	A	211.69.16.13
+software.pdsu.edu.cn.	3600	IN	A	125.46.3.232
+sp.pdsu.edu.cn.		3600	IN	AAAA	2001:250:4814:1::173
+sp.pdsu.edu.cn.		3600	IN	A	211.69.16.173
+sun.pdsu.edu.cn.	3600	IN	A	211.69.26.229
+szb.pdsu.edu.cn.	3600	IN	A	125.46.3.232
+szhpt.pdsu.edu.cn.	3600	IN	A	61.163.226.227
+tuanwei.pdsu.edu.cn.	3600	IN	A	125.46.3.232
+tv.pdsu.edu.cn.		3600	IN	A	211.69.16.27
+tyx.pdsu.edu.cn.	3600	IN	A	125.46.3.232
+tz.pdsu.edu.cn.		3600	IN	A	211.69.16.177
+tzb.pdsu.edu.cn.	3600	IN	A	125.46.3.232
+video.pdsu.edu.cn.	3600	IN	A	211.69.26.241
+vpn.pdsu.edu.cn.	3600	IN	A	125.46.3.229
+wgyxy.pdsu.edu.cn.	3600	IN	A	125.46.3.232
+wlcc.pdsu.edu.cn.	3600	IN	A	211.69.16.47
+wljk.pdsu.edu.cn.	3600	IN	A	61.163.226.230
+wljxpt.pdsu.edu.cn.	3600	IN	A	61.163.226.228
+wsus.pdsu.edu.cn.	3600	IN	A	211.69.16.58
+www.pdsu.edu.cn.	3600	IN	AAAA	2001:250:4814:1::16
+www.pdsu.edu.cn.	3600	IN	A	125.46.3.230
+wxy.pdsu.edu.cn.	3600	IN	A	125.46.3.232
+wzb.pdsu.edu.cn.	3600	IN	A	125.46.3.232
+wzz.pdsu.edu.cn.	3600	IN	A	211.69.16.6
+xgh.pdsu.edu.cn.	3600	IN	A	125.46.3.232
+xjzx.pdsu.edu.cn.	3600	IN	A	125.46.3.232
+xlcp.pdsu.edu.cn.	3600	IN	A	211.69.16.55
+xny.pdsu.edu.cn.	3600	IN	A	125.46.3.232
+xsc.pdsu.edu.cn.	3600	IN	A	125.46.3.232
+xsy.pdsu.edu.cn.	3600	IN	A	61.163.226.232
+xszy.pdsu.edu.cn.	3600	IN	A	125.46.3.232
+xwycbxy.pdsu.edu.cn.	3600	IN	A	125.46.3.232
+xyh.pdsu.edu.cn.	3600	IN	A	211.69.16.179
+yb.pdsu.edu.cn.		3600	IN	A	125.46.3.232
+youthyears.pdsu.edu.cn.	3600	IN	A	211.69.16.56
+yssj.pdsu.edu.cn.	3600	IN	A	125.46.3.232
+yxy.pdsu.edu.cn.	3600	IN	A	125.46.3.232
+yyx.pdsu.edu.cn.	3600	IN	A	125.46.3.232
+yyxt.pdsu.edu.cn.	3600	IN	A	125.46.3.231
+yyyd.pdsu.edu.cn.	3600	IN	A	61.163.226.231
+zfxy.pdsu.edu.cn.	3600	IN	A	125.46.3.232
+zsxx.pdsu.edu.cn.	3600	IN	A	125.46.3.232
+zt.pdsu.edu.cn.		3600	IN	A	125.46.3.232
+zyhj.pdsu.edu.cn.	3600	IN	A	125.46.3.232
+zzb.pdsu.edu.cn.	3600	IN	A	125.46.3.232
+pdsu.edu.cn.		3600	IN	SOA	dns.pdsu.edu.cn. root.pdsu.edu.cn. 2014022802 150 200 4000 3600
+;; Query time: 70 msec
+;; SERVER: 211.69.16.8#53(211.69.16.8)
+;; WHEN: Mon Apr 21 20:58:34 中国标准时间 2014
+;; XFR size: 108 records (messages 1, bytes 2361)
+

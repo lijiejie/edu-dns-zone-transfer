@@ -1,0 +1,61 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns1.thnu.edu.cn axfr thnu.edu.cn
+; (1 server found)
+;; global options: +cmd
+thnu.edu.cn.		3600	IN	SOA	dns1.thnu.edu.cn. root.thnu.edu.cn. 2014041004 30 30 360 3600
+thnu.edu.cn.		3600	IN	NS	dns1.thnu.edu.cn.
+thnu.edu.cn.		3600	IN	MX	0 mail.thnu.edu.cn.
+admin.thnu.edu.cn.	3600	IN	A	222.160.127.35
+admissions.thnu.edu.cn.	3600	IN	A	222.160.127.36
+bwc.thnu.edu.cn.	3600	IN	A	222.160.127.36
+cxbd.thnu.edu.cn.	3600	IN	A	222.160.127.36
+DNS1.thnu.edu.cn.	3600	IN	A	125.223.168.5
+dwb.thnu.edu.cn.	3600	IN	A	222.160.127.36
+gjjl.thnu.edu.cn.	3600	IN	A	222.160.127.36
+gs.thnu.edu.cn.		3600	IN	A	222.160.127.36
+hxxy.thnu.edu.cn.	3600	IN	A	222.160.127.36
+jcc.thnu.edu.cn.	3600	IN	A	222.160.127.36
+jky.thnu.edu.cn.	3600	IN	A	222.160.127.36
+jsjxy.thnu.edu.cn.	3600	IN	A	222.160.127.36
+jwc.thnu.edu.cn.	3600	IN	A	222.160.127.36
+jxjyxy.thnu.edu.cn.	3600	IN	A	222.160.127.36
+jy.thnu.edu.cn.		3600	IN	A	222.160.127.36
+jyw.thnu.edu.cn.	3600	IN	A	222.160.127.36
+kyc.thnu.edu.cn.	3600	IN	A	222.160.127.36
+lib.thnu.edu.cn.	3600	IN	A	222.160.127.36
+mail.thnu.edu.cn.	3600	IN	A	222.160.127.37
+msxy.thnu.edu.cn.	3600	IN	A	222.160.127.36
+news.thnu.edu.cn.	3600	IN	A	111.26.184.8
+nic.thnu.edu.cn.	3600	IN	A	222.160.127.36
+old.thnu.edu.cn.	3600	IN	A	111.26.184.8
+qzlx.thnu.edu.cn.	3600	IN	A	222.160.127.35
+res.thnu.edu.cn.	3600	IN	A	111.26.184.8
+rsc.thnu.edu.cn.	3600	IN	A	222.160.127.36
+sdxy.thnu.edu.cn.	3600	IN	A	222.160.127.36
+sky.thnu.edu.cn.	3600	IN	A	222.160.127.36
+skyexam.thnu.edu.cn.	3600	IN	A	222.160.127.36
+sxxy.thnu.edu.cn.	3600	IN	A	222.160.127.36
+szb.thnu.edu.cn.	3600	IN	A	222.160.127.36
+thsywl.thnu.edu.cn.	3600	IN	A	222.160.127.36
+tw.thnu.edu.cn.		3600	IN	A	222.160.127.36
+web.thnu.edu.cn.	3600	IN	A	222.160.127.36
+www.thnu.edu.cn.	3600	IN	A	222.160.127.35
+wxy.thnu.edu.cn.	3600	IN	A	222.160.127.36
+wyxy.thnu.edu.cn.	3600	IN	A	222.160.127.36
+xb.thnu.edu.cn.		3600	IN	A	222.160.127.36
+xcb.thnu.edu.cn.	3600	IN	A	222.160.127.36
+xsc.thnu.edu.cn.	3600	IN	A	222.160.127.36
+xtw.thnu.edu.cn.	3600	IN	A	222.160.127.36
+yfzx.thnu.edu.cn.	3600	IN	A	222.160.127.35
+yywz.thnu.edu.cn.	3600	IN	A	222.160.127.36
+yyxy.thnu.edu.cn.	3600	IN	A	222.160.127.36
+zcc.thnu.edu.cn.	3600	IN	A	222.160.127.36
+zf.thnu.edu.cn.		3600	IN	A	222.160.127.36
+zysp.thnu.edu.cn.	3600	IN	A	222.160.127.36
+zzb.thnu.edu.cn.	3600	IN	A	222.160.127.36
+thnu.edu.cn.		3600	IN	SOA	dns1.thnu.edu.cn. root.thnu.edu.cn. 2014041004 30 30 360 3600
+;; Query time: 131 msec
+;; SERVER: 125.223.168.5#53(125.223.168.5)
+;; WHEN: Mon Apr 21 20:50:21 中国标准时间 2014
+;; XFR size: 52 records (messages 1, bytes 1132)
+

@@ -1,0 +1,32 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @taishan.tsmc.edu.cn axfr tsmc.edu.cn
+; (1 server found)
+;; global options: +cmd
+tsmc.edu.cn.		18000	IN	SOA	taishan.tsmc.edu.cn. root.taishan.tsmc.edu.cn. 20060506 10800 1800 360000 86400
+tsmc.edu.cn.		18000	IN	NS	tsweb.tsmc.edu.cn.
+tsmc.edu.cn.		18000	IN	NS	taishan.tsmc.edu.cn.
+tsmc.edu.cn.		18000	IN	MX	0 gate.tsmc.edu.cn.
+tsmc.edu.cn.		18000	IN	MX	1 mail.tsmc.edu.cn.
+admission.tsmc.edu.cn.	18000	IN	A	114.255.40.126
+admission.tsmc.edu.cn.	18000	IN	A	124.127.207.99
+alumni.tsmc.edu.cn.	18000	IN	A	202.194.232.41
+eol.tsmc.edu.cn.	18000	IN	CNAME	jpkc.tsmc.edu.cn.
+eres.tsmc.edu.cn.	18000	IN	CNAME	jpkc.tsmc.edu.cn.
+ftp.tsmc.edu.cn.	18000	IN	CNAME	tsweb.tsmc.edu.cn.
+gate.tsmc.edu.cn.	18000	IN	A	202.194.232.23
+gateway.tsmc.edu.cn.	18000	IN	A	202.194.232.25
+jpkc.tsmc.edu.cn.	18000	IN	A	202.194.232.47
+mail.tsmc.edu.cn.	18000	IN	A	202.194.232.22
+taishan.tsmc.edu.cn.	18000	IN	A	202.194.232.10
+tsmcweb.tsmc.edu.cn.	18000	IN	A	202.194.232.15
+tsweb.tsmc.edu.cn.	18000	IN	A	202.194.232.11
+tyxb.tsmc.edu.cn.	18000	IN	A	202.194.232.78
+web.tsmc.edu.cn.	18000	IN	A	202.194.232.16
+webmail.tsmc.edu.cn.	18000	IN	A	202.194.232.22
+www.tsmc.edu.cn.	18000	IN	CNAME	tsmcweb.tsmc.edu.cn.
+tsmc.edu.cn.		18000	IN	SOA	taishan.tsmc.edu.cn. root.taishan.tsmc.edu.cn. 20060506 10800 1800 360000 86400
+;; Query time: 112 msec
+;; SERVER: 202.194.232.10#53(202.194.232.10)
+;; WHEN: Mon Apr 21 20:54:14 中国标准时间 2014
+;; XFR size: 23 records (messages 1, bytes 526)
+

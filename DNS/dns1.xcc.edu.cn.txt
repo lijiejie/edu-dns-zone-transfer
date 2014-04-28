@@ -1,0 +1,46 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns1.xcc.edu.cn axfr xcc.edu.cn
+; (1 server found)
+;; global options: +cmd
+xcc.edu.cn.		3600	IN	SOA	ns1. admin. 52 900 600 86400 3600
+xcc.edu.cn.		3600	IN	NS	dns1.xcc.edu.cn.
+xcc.edu.cn.		3600	IN	NS	ns1.
+ns1.			3600	IN	A	222.214.45.195
+aee.xcc.edu.cn.		3600	IN	A	222.214.45.196
+celtc.xcc.edu.cn.	3600	IN	A	222.214.45.196
+cjy.xcc.edu.cn.		3600	IN	A	222.214.45.196
+dk.xcc.edu.cn.		3600	IN	A	222.214.45.196
+dns1.xcc.edu.cn.	3600	IN	A	222.214.45.195
+eng.xcc.edu.cn.		3600	IN	A	222.214.45.196
+gczg.xcc.edu.cn.	3600	IN	A	222.214.45.196
+hheng.xcc.edu.cn.	3600	IN	A	222.214.45.196
+info.xcc.edu.cn.	3600	IN	A	222.214.45.196
+jgx.xcc.edu.cn.		3600	IN	A	222.214.45.196
+jpkc.xcc.edu.cn.	3600	IN	A	222.214.45.202
+jwc.xcc.edu.cn.		3600	IN	A	222.214.45.201
+jy.xcc.edu.cn.		3600	IN	A	222.214.45.196
+ky.xcc.edu.cn.		3600	IN	A	222.214.45.205
+lib.xcc.edu.cn.		3600	IN	A	218.205.243.214
+lice.xcc.edu.cn.	3600	IN	A	222.214.45.196
+mee.xcc.edu.cn.		3600	IN	A	222.214.45.196
+mldz.xcc.edu.cn.	3600	IN	A	222.214.45.221
+oa.xcc.edu.cn.		3600	IN	A	222.214.45.217
+szb.xcc.edu.cn.		3600	IN	A	222.214.45.196
+tmgc.xcc.edu.cn.	3600	IN	A	222.214.45.196
+tyx.xcc.edu.cn.		3600	IN	A	222.214.45.196
+www.xcc.edu.cn.		3600	IN	A	222.214.45.196
+wyx.xcc.edu.cn.		3600	IN	A	222.214.45.196
+xb.xcc.edu.cn.		3600	IN	A	222.214.45.215
+xszz.xcc.edu.cn.	3600	IN	A	172.16.1.100
+yilc.xcc.edu.cn.	3600	IN	A	222.214.45.196
+yjsc.xcc.edu.cn.	3600	IN	A	222.214.45.196
+ykb.xcc.edu.cn.		3600	IN	A	222.214.45.196
+ysx.xcc.edu.cn.		3600	IN	A	222.214.45.196
+zwx.xcc.edu.cn.		3600	IN	A	222.214.45.196
+zzb.xcc.edu.cn.		3600	IN	A	222.214.45.196
+xcc.edu.cn.		3600	IN	SOA	ns1. admin. 52 900 600 86400 3600
+;; Query time: 91 msec
+;; SERVER: 222.214.45.195#53(222.214.45.195)
+;; WHEN: Mon Apr 21 21:02:45 中国标准时间 2014
+;; XFR size: 37 records (messages 37, bytes 1839)
+

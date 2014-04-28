@@ -1,0 +1,62 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @summer.shift.edu.cn axfr shift.edu.cn
+; (1 server found)
+;; global options: +cmd
+shift.edu.cn.		86400	IN	SOA	ns.shift.edu.cn. gujzh.shift.edu.cn. 2009010901 10800 900 604800 86400
+shift.edu.cn.		86400	IN	NS	spring.shift.edu.cn.
+shift.edu.cn.		86400	IN	NS	summer.shift.edu.cn.
+shift.edu.cn.		86400	IN	MX	10 mail.shift.edu.cn.
+aod.shift.edu.cn.	86400	IN	A	210.35.74.54
+app.shift.edu.cn.	86400	IN	A	210.35.72.27
+bb.shift.edu.cn.	86400	IN	A	210.35.74.142
+career.shift.edu.cn.	86400	IN	A	210.35.74.96
+ce.shift.edu.cn.	86400	IN	A	210.35.74.116
+eclab.shift.edu.cn.	86400	IN	A	210.35.74.74
+eclass.shift.edu.cn.	86400	IN	A	210.35.74.52
+el.shift.edu.cn.	86400	IN	A	210.35.74.125
+elearn.shift.edu.cn.	86400	IN	A	210.35.75.226
+eng.shift.edu.cn.	86400	IN	A	210.35.74.100
+eq.shift.edu.cn.	86400	IN	A	210.35.74.9
+itc.shift.edu.cn.	86400	IN	A	210.35.74.150
+its.shift.edu.cn.	86400	IN	A	210.35.74.151
+jpkc.shift.edu.cn.	86400	IN	A	210.35.74.100
+kjx.shift.edu.cn.	86400	IN	A	210.35.74.119
+kygl.shift.edu.cn.	86400	IN	A	210.35.74.136
+kyry.shift.edu.cn.	86400	IN	A	210.35.74.136
+lc.shift.edu.cn.	86400	IN	A	210.35.75.225
+learn.shift.edu.cn.	86400	IN	A	210.35.74.138
+lib.shift.edu.cn.	86400	IN	A	210.35.75.129
+mail.shift.edu.cn.	86400	IN	A	210.35.72.91
+mail3.shift.edu.cn.	86400	IN	A	210.35.72.97
+mba.shift.edu.cn.	86400	IN	CNAME	41c2125b8c45b28b3f5973b6fac5f336.360wzb.cn.
+me.shift.edu.cn.	86400	IN	A	210.35.74.81
+mms.shift.edu.cn.	86400	IN	A	210.35.74.220
+netstore.shift.edu.cn.	86400	IN	A	210.35.72.11
+ns.shift.edu.cn.	86400	IN	A	210.35.72.1
+oa.shift.edu.cn.	86400	IN	A	210.35.74.121
+office.shift.edu.cn.	86400	IN	A	210.35.74.5
+proxy.shift.edu.cn.	86400	IN	A	210.35.74.1
+sis.shift.edu.cn.	1	IN	CNAME	www1.shift.edu.cn.
+spring.shift.edu.cn.	86400	IN	A	210.35.72.1
+sub.shift.edu.cn.	86400	IN	NS	ns.sub.shift.edu.cn.
+ns.sub.shift.edu.cn.	86400	IN	A	116.246.2.34
+summer.shift.edu.cn.	86400	IN	A	210.35.72.1
+tmt.shift.edu.cn.	86400	IN	A	210.35.74.86
+uia.shift.edu.cn.	86400	IN	A	210.35.72.12
+uia1.shift.edu.cn.	86400	IN	A	210.35.72.14
+vod.shift.edu.cn.	86400	IN	A	210.35.75.230
+vpn.shift.edu.cn.	86400	IN	CNAME	vpn.sub.shift.edu.cn.
+wtoxy.shift.edu.cn.	86400	IN	A	210.35.74.150
+www.shift.edu.cn.	86400	IN	A	210.35.74.2
+www1.shift.edu.cn.	86400	IN	A	210.35.72.7
+www2.shift.edu.cn.	86400	IN	A	210.35.74.54
+www3.shift.edu.cn.	86400	IN	A	210.35.74.150
+xiaoqing50.shift.edu.cn. 86400	IN	A	210.35.74.2
+xsc.shift.edu.cn.	86400	IN	A	210.35.74.95
+zhaosheng.shift.edu.cn.	86400	IN	A	210.35.74.150
+shift.edu.cn.		86400	IN	SOA	ns.shift.edu.cn. gujzh.shift.edu.cn. 2009010901 10800 900 604800 86400
+;; Query time: 60 msec
+;; SERVER: 210.35.72.1#53(210.35.72.1)
+;; WHEN: Mon Apr 21 20:55:15 中国标准时间 2014
+;; XFR size: 53 records (messages 1, bytes 1193)
+

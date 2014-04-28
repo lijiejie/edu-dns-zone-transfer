@@ -1,0 +1,71 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns.esu.edu.cn axfr esu.edu.cn
+; (1 server found)
+;; global options: +cmd
+esu.edu.cn.		3600	IN	SOA	dns.esu.edu.cn. root.esu.edu.cn. 2014041502 30 30 360 3600
+esu.edu.cn.		3600	IN	NS	dns.esu.edu.cn.
+esu.edu.cn.		3600	IN	A	210.35.115.3
+esu.edu.cn.		3600	IN	MX	10 mail.esu.edu.cn.
+1c.esu.edu.cn.		3600	IN	A	192.168.11.1
+1cb.esu.edu.cn.		3600	IN	A	192.168.11.3
+1cm.esu.edu.cn.		3600	IN	A	192.168.11.2
+1cs.esu.edu.cn.		3600	IN	A	192.168.11.1
+able.esu.edu.cn.	3600	IN	A	210.35.112.100
+ames.esu.edu.cn.	3600	IN	A	210.35.112.12
+bank.esu.edu.cn.	3600	IN	A	192.168.11.4
+bgbj.esu.edu.cn.	3600	IN	A	210.35.112.14
+bx.esu.edu.cn.		3600	IN	A	210.35.112.4
+da.esu.edu.cn.		3600	IN	A	210.35.115.7
+dhhg.esu.edu.cn.	3600	IN	A	210.35.115.130
+dhyh.esu.edu.cn.	3600	IN	A	210.35.115.120
+dns.esu.edu.cn.		3600	IN	A	210.35.112.1
+dr.esu.edu.cn.		3600	IN	A	192.168.1.25
+drs.esu.edu.cn.		3600	IN	A	192.168.1.25
+dz.esu.edu.cn.		3600	IN	A	210.35.112.5
+e2.esu.edu.cn.		3600	IN	A	210.35.115.8
+eb.esu.edu.cn.		3600	IN	A	210.35.112.6
+edo.esu.edu.cn.		3600	IN	A	210.35.112.8
+el.esu.edu.cn.		3600	IN	A	210.35.112.13
+els.esu.edu.cn.		3600	IN	A	210.35.112.13
+hd.esu.edu.cn.		3600	IN	A	210.35.112.4
+hdbg.esu.edu.cn.	3600	IN	A	210.35.112.4
+jpk1.esu.edu.cn.	3600	IN	A	210.35.112.21
+jy.esu.edu.cn.		3600	IN	A	210.35.115.7
+kc.esu.edu.cn.		3600	IN	A	210.35.115.5
+kc1.esu.edu.cn.		3600	IN	A	210.35.115.5
+kc2.esu.edu.cn.		3600	IN	A	210.35.115.6
+kj.esu.edu.cn.		3600	IN	A	210.35.112.7
+mail.esu.edu.cn.	3600	IN	A	210.35.112.2
+mis.esu.edu.cn.		3600	IN	A	210.35.115.8
+mjkq.esu.edu.cn.	3600	IN	A	192.168.11.5
+nm.esu.edu.cn.		3600	IN	A	192.168.1.6
+nms.esu.edu.cn.		3600	IN	A	192.168.1.6
+oa2.esu.edu.cn.		3600	IN	A	210.35.115.2
+oa3.esu.edu.cn.		3600	IN	A	210.35.115.3
+oa4.esu.edu.cn.		3600	IN	A	210.35.115.4
+oa5.esu.edu.cn.		3600	IN	A	210.35.115.5
+oa6.esu.edu.cn.		3600	IN	A	210.35.115.6
+oa7.esu.edu.cn.		3600	IN	A	210.35.115.7
+oa8.esu.edu.cn.		3600	IN	A	210.35.115.8
+oar.esu.edu.cn.		3600	IN	A	210.35.115.1
+pic.esu.edu.cn.		3600	IN	A	210.35.115.3
+pop3.esu.edu.cn.	3600	IN	CNAME	mail.esu.edu.cn.
+smas.esu.edu.cn.	3600	IN	A	210.35.115.254
+smtp.esu.edu.cn.	3600	IN	CNAME	mail.esu.edu.cn.
+szcm.esu.edu.cn.	3600	IN	A	210.35.115.12
+tsg.esu.edu.cn.		3600	IN	A	210.35.115.152
+tsgl.esu.edu.cn.	3600	IN	A	210.35.115.150
+vod.esu.edu.cn.		3600	IN	A	210.35.115.10
+w3.esu.edu.cn.		3600	IN	A	210.35.112.3
+www.esu.edu.cn.		3600	IN	A	210.35.115.3
+xl.esu.edu.cn.		3600	IN	A	210.35.115.8
+yh.esu.edu.cn.		3600	IN	A	210.35.112.7
+z1.esu.edu.cn.		3600	IN	A	210.35.112.20
+z2.esu.edu.cn.		3600	IN	A	210.35.112.21
+zc.esu.edu.cn.		3600	IN	A	210.35.115.5
+esu.edu.cn.		3600	IN	SOA	dns.esu.edu.cn. root.esu.edu.cn. 2014041502 30 30 360 3600
+;; Query time: 34 msec
+;; SERVER: 210.35.112.1#53(210.35.112.1)
+;; WHEN: Mon Apr 21 20:55:18 中国标准时间 2014
+;; XFR size: 62 records (messages 1, bytes 1283)
+

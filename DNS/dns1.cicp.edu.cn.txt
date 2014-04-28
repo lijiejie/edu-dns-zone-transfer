@@ -1,0 +1,17 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns1.cicp.edu.cn axfr cicp.edu.cn
+; (1 server found)
+;; global options: +cmd
+cicp.edu.cn.		3600	IN	SOA	dns.cicp.edu.cn. ycf169.126.com. 2014041602 30 30 360 3600
+cicp.edu.cn.		3600	IN	MX	0 mail.cicp.edu.cn.
+cicp.edu.cn.		3600	IN	NS	dns1.cicp.edu.cn.
+dns1.cicp.edu.cn.	3600	IN	A	219.243.116.5
+jwc.cicp.edu.cn.	3600	IN	A	121.195.224.40
+mail.cicp.edu.cn.	3600	IN	A	121.195.224.8
+www.cicp.edu.cn.	3600	IN	A	219.243.116.6
+cicp.edu.cn.		3600	IN	SOA	dns.cicp.edu.cn. ycf169.126.com. 2014041602 30 30 360 3600
+;; Query time: 15 msec
+;; SERVER: 219.243.116.5#53(219.243.116.5)
+;; WHEN: Mon Apr 21 20:48:42 中国标准时间 2014
+;; XFR size: 8 records (messages 1, bytes 231)
+

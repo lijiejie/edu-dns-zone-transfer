@@ -1,0 +1,92 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns2.usx.edu.cn axfr usx.edu.cn
+; (1 server found)
+;; global options: +cmd
+usx.edu.cn.		86400	IN	SOA	dns.usx.edu.cn. master.usx.edu.cn. 2014042101 10800 3600 1209600 1800
+usx.edu.cn.		86400	IN	SPF	"v=spf1 a mx mx:email.usx.edu.cn ip4:210.33.24.3 ~all"
+usx.edu.cn.		86400	IN	TXT	"v=spf1 a mx mx:email.usx.edu.cn ip4:210.33.24.3 ~all"
+usx.edu.cn.		86400	IN	MX	0 email.usx.edu.cn.
+usx.edu.cn.		86400	IN	NS	dns.usx.edu.cn.
+usx.edu.cn.		86400	IN	NS	dns2.usx.edu.cn.
+apply.usx.edu.cn.	86400	IN	A	61.174.215.231
+bbs.usx.edu.cn.		86400	IN	A	210.33.24.4
+bysj.usx.edu.cn.	86400	IN	A	61.174.215.231
+ces.usx.edu.cn.		86400	IN	A	210.33.27.17
+chem.usx.edu.cn.	86400	IN	A	61.174.215.235
+corpus.usx.edu.cn.	86400	IN	A	61.174.215.235
+dajiangtang.usx.edu.cn.	86400	IN	A	61.174.215.236
+dfhz.usx.edu.cn.	86400	IN	A	61.174.215.235
+dns.usx.edu.cn.		86400	IN	A	210.33.24.1
+dns2.usx.edu.cn.	86400	IN	A	210.33.24.2
+email.usx.edu.cn.	86400	IN	A	210.33.24.3
+english.usx.edu.cn.	86400	IN	A	61.174.215.231
+fxy.usx.edu.cn.		86400	IN	A	61.174.215.235
+fzgh.usx.edu.cn.	86400	IN	A	61.174.215.231
+www.gh.usx.edu.cn.	86400	IN	A	61.174.215.238
+gxy.usx.edu.cn.		86400	IN	A	61.174.215.235
+www.hf.usx.edu.cn.	86400	IN	A	61.174.215.236
+hqglc.usx.edu.cn.	86400	IN	A	61.174.215.231
+jcc.usx.edu.cn.		86400	IN	A	61.174.215.231
+jgxy.usx.edu.cn.	86400	IN	A	61.174.215.235
+jsjyjd.usx.edu.cn.	86400	IN	A	210.33.24.7
+jsjzx.usx.edu.cn.	86400	IN	A	210.33.24.13
+jw.usx.edu.cn.		86400	IN	A	61.174.215.230
+jy.usx.edu.cn.		86400	IN	A	61.174.215.231
+lib.usx.edu.cn.		86400	IN	A	61.174.215.238
+libvip.usx.edu.cn.	86400	IN	A	61.174.215.237
+life.usx.edu.cn.	86400	IN	A	61.174.215.235
+localhost.usx.edu.cn.	86400	IN	A	127.0.0.1
+ltshufa.usx.edu.cn.	86400	IN	A	61.174.215.231
+ltxc.usx.edu.cn.	86400	IN	A	61.174.215.231
+mail.usx.edu.cn.	86400	IN	CNAME	210.33.24.1.usx.edu.cn.
+mailgt.usx.edu.cn.	86400	IN	A	210.33.24.3
+mdm.usx.edu.cn.		86400	IN	A	61.174.215.235
+medical.usx.edu.cn.	86400	IN	A	61.174.215.235
+meishu.usx.edu.cn.	86400	IN	A	61.174.215.235
+mlib.usx.edu.cn.	86400	IN	A	61.174.215.237
+mpic.usx.edu.cn.	86400	IN	A	210.33.24.7
+oa.usx.edu.cn.		86400	IN	A	121.192.20.164
+office.usx.edu.cn.	86400	IN	A	61.174.215.235
+opac.usx.edu.cn.	86400	IN	A	61.174.215.238
+phyeie.usx.edu.cn.	86400	IN	A	210.33.24.7
+phylab.usx.edu.cn.	86400	IN	A	210.33.24.7
+rsc.usx.edu.cn.		86400	IN	A	61.174.215.235
+rwxy.usx.edu.cn.	86400	IN	A	61.174.215.231
+sso.usx.edu.cn.		86400	IN	A	121.192.20.131
+ste.usx.edu.cn.		86400	IN	A	61.174.215.235
+sxwlxh.usx.edu.cn.	86400	IN	A	61.174.215.235
+tfc.usx.edu.cn.		86400	IN	A	61.174.215.235
+tg.usx.edu.cn.		86400	IN	A	210.33.24.59
+tmgcxy.usx.edu.cn.	86400	IN	A	61.174.215.231
+txgzcx.usx.edu.cn.	86400	IN	A	61.174.215.231
+tyxy.usx.edu.cn.	86400	IN	A	61.174.215.235
+usxchem.usx.edu.cn.	86400	IN	A	210.33.24.7
+wenku.usx.edu.cn.	86400	IN	A	61.174.215.238
+wgyxy.usx.edu.cn.	86400	IN	A	61.174.215.231
+wlhq.usx.edu.cn.	86400	IN	A	61.174.215.233
+www.ws.usx.edu.cn.	86400	IN	A	61.174.215.236
+wsc.usx.edu.cn.		86400	IN	A	61.174.215.235
+www.usx.edu.cn.		86400	IN	A	61.174.215.231
+xb.usx.edu.cn.		86400	IN	A	210.33.24.59
+xgb.usx.edu.cn.		86400	IN	A	61.174.215.231
+xny.usx.edu.cn.		86400	IN	A	61.174.215.231
+xyh.usx.edu.cn.		86400	IN	A	61.174.215.231
+yjsc.usx.edu.cn.	86400	IN	A	61.174.215.235
+youth.usx.edu.cn.	86400	IN	A	61.174.215.235
+ypcol.usx.edu.cn.	86400	IN	A	61.174.215.232
+ytgc.usx.edu.cn.	86400	IN	A	210.33.24.7
+ywh.usx.edu.cn.		86400	IN	A	61.174.215.235
+yyxy.usx.edu.cn.	86400	IN	A	61.174.215.235
+yzw.usx.edu.cn.		86400	IN	A	61.174.215.231
+zcsb.usx.edu.cn.	86400	IN	A	61.174.215.231
+zlgc.usx.edu.cn.	86400	IN	A	210.33.24.13
+zs.usx.edu.cn.		86400	IN	A	61.174.215.231
+zsgl.usx.edu.cn.	86400	IN	A	61.174.215.234
+zwc.usx.edu.cn.		86400	IN	A	61.174.215.236
+zzb.usx.edu.cn.		86400	IN	A	61.174.215.236
+usx.edu.cn.		86400	IN	SOA	dns.usx.edu.cn. master.usx.edu.cn. 2014042101 10800 3600 1209600 1800
+;; Query time: 48 msec
+;; SERVER: 210.33.24.2#53(210.33.24.2)
+;; WHEN: Mon Apr 21 20:56:29 中国标准时间 2014
+;; XFR size: 83 records (messages 1, bytes 1914)
+

@@ -1,0 +1,17 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @mgzd.imnc.edu.cn axfr imnc.edu.cn
+; (1 server found)
+;; global options: +cmd
+imnc.edu.cn.		3600	IN	SOA	dns.imnc.edu.cn. root.imnc.edu.cn. 2014022309 1800 600 604800 3600
+imnc.edu.cn.		3600	IN	MX	0 mail.imnc.edu.cn.
+imnc.edu.cn.		3600	IN	NS	mgzd.imnc.edu.cn.
+mail.imnc.edu.cn.	3600	IN	A	211.82.176.10
+mgzd.imnc.edu.cn.	3600	IN	A	211.82.176.6
+pay.imnc.edu.cn.	3600	IN	A	211.82.176.20
+www.imnc.edu.cn.	3600	IN	A	211.82.176.4
+imnc.edu.cn.		3600	IN	SOA	dns.imnc.edu.cn. root.imnc.edu.cn. 2014022309 1800 600 604800 3600
+;; Query time: 384 msec
+;; SERVER: 211.82.176.6#53(211.82.176.6)
+;; WHEN: Mon Apr 21 20:49:21 中国标准时间 2014
+;; XFR size: 8 records (messages 1, bytes 222)
+

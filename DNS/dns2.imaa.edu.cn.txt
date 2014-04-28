@@ -1,0 +1,77 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns2.imaa.edu.cn axfr imaa.edu.cn
+; (1 server found)
+;; global options: +cmd
+imaa.edu.cn.		86400	IN	SOA	dns2.imaa.edu.cn. root.dns2.imaa.edu.cn. 201001220 28800 7200 3600000 86400
+imaa.edu.cn.		86400	IN	NS	dns2.imaa.edu.cn.
+imaa.edu.cn.		86400	IN	MX	10 mail.imaa.edu.cn.
+bbser.imaa.edu.cn.	86400	IN	A	222.31.224.201
+book.imaa.edu.cn.	86400	IN	A	222.31.224.30
+bwc.imaa.edu.cn.	86400	IN	CNAME	news.imaa.edu.cn.
+cams.imaa.edu.cn.	86400	IN	A	222.31.224.2
+cname.imaa.edu.cn.	86400	IN	A	222.31.224.197
+cwc.imaa.edu.cn.	86400	IN	CNAME	news.imaa.edu.cn.
+dc.imaa.edu.cn.		86400	IN	A	222.31.224.133
+dns2.imaa.edu.cn.	86400	IN	A	222.31.224.198
+dsy.imaa.edu.cn.	86400	IN	CNAME	gjs.imaa.edu.cn.
+dy.imaa.edu.cn.		86400	IN	CNAME	vod.imaa.edu.cn.
+ftp.imaa.edu.cn.	86400	IN	CNAME	share.imaa.edu.cn.
+ggjy.imaa.edu.cn.	86400	IN	CNAME	news.imaa.edu.cn.
+ggxy.imaa.edu.cn.	86400	IN	CNAME	news.imaa.edu.cn.
+gjs.imaa.edu.cn.	86400	IN	A	222.31.224.204
+gsa.imaa.edu.cn.	86400	IN	A	222.31.224.214
+inc.imaa.edu.cn.	86400	IN	CNAME	news.imaa.edu.cn.
+info.imaa.edu.cn.	86400	IN	A	222.31.224.202
+jdntxy.imaa.edu.cn.	86400	IN	CNAME	news.imaa.edu.cn.
+jgxy.imaa.edu.cn.	86400	IN	CNAME	news.imaa.edu.cn.
+job.imaa.edu.cn.	86400	IN	CNAME	cname.imaa.edu.cn.
+jpkc.imaa.edu.cn.	86400	IN	A	222.31.224.208
+jsc.imaa.edu.cn.	86400	IN	CNAME	news.imaa.edu.cn.
+jwc.imaa.edu.cn.	86400	IN	CNAME	news.imaa.edu.cn.
+jwxt.imaa.edu.cn.	86400	IN	A	222.31.224.203
+jxcg.imaa.edu.cn.	86400	IN	CNAME	cname.imaa.edu.cn.
+jxjy.imaa.edu.cn.	86400	IN	CNAME	news.imaa.edu.cn.
+kjc.imaa.edu.cn.	86400	IN	CNAME	news.imaa.edu.cn.
+kjzy.imaa.edu.cn.	86400	IN	A	222.31.224.51
+ks.imaa.edu.cn.		86400	IN	CNAME	xuebao.imaa.edu.cn.
+lib.imaa.edu.cn.	86400	IN	A	222.31.224.26
+lib1.imaa.edu.cn.	86400	IN	CNAME	news.imaa.edu.cn.
+mail.imaa.edu.cn.	86400	IN	A	222.31.224.200
+netinfo.imaa.edu.cn.	86400	IN	A	222.31.224.49
+news.imaa.edu.cn.	86400	IN	A	222.31.224.158
+oa.imaa.edu.cn.		86400	IN	A	222.31.224.144
+opac.imaa.edu.cn.	86400	IN	CNAME	share.imaa.edu.cn.
+pay.imaa.edu.cn.	86400	IN	A	222.31.226.188
+photo.imaa.edu.cn.	86400	IN	CNAME	cname.imaa.edu.cn.
+portal.imaa.edu.cn.	86400	IN	A	222.31.224.215
+s.imaa.edu.cn.		86400	IN	CNAME	cname.imaa.edu.cn.
+sbcl.imaa.edu.cn.	86400	IN	CNAME	cname.imaa.edu.cn.
+sfjs.imaa.edu.cn.	86400	IN	CNAME	cname.imaa.edu.cn.
+share.imaa.edu.cn.	86400	IN	A	222.31.224.58
+sjy.imaa.edu.cn.	86400	IN	CNAME	news.imaa.edu.cn.
+sxzx.imaa.edu.cn.	86400	IN	CNAME	news.imaa.edu.cn.
+szjy.imaa.edu.cn.	86400	IN	CNAME	cname.imaa.edu.cn.
+szlq.imaa.edu.cn.	86400	IN	CNAME	news.imaa.edu.cn.
+tiyu.imaa.edu.cn.	86400	IN	CNAME	xgc.imaa.edu.cn.
+tsg.imaa.edu.cn.	86400	IN	CNAME	cname.imaa.edu.cn.
+tw.imaa.edu.cn.		86400	IN	CNAME	news.imaa.edu.cn.
+vod.imaa.edu.cn.	86400	IN	A	222.31.224.228
+wlkc.imaa.edu.cn.	86400	IN	CNAME	cname.imaa.edu.cn.
+www.imaa.edu.cn.	86400	IN	CNAME	news.imaa.edu.cn.
+www1.imaa.edu.cn.	86400	IN	CNAME	cname.imaa.edu.cn.
+xgc.imaa.edu.cn.	86400	IN	A	222.31.224.15
+xq.imaa.edu.cn.		86400	IN	CNAME	cname.imaa.edu.cn.
+xsgl.imaa.edu.cn.	86400	IN	A	222.31.224.139
+xuebao.imaa.edu.cn.	86400	IN	A	222.31.224.13
+xzh.imaa.edu.cn.	86400	IN	CNAME	news.imaa.edu.cn.
+yscl.imaa.edu.cn.	86400	IN	A	58.18.168.164
+zs.imaa.edu.cn.		86400	IN	CNAME	news.imaa.edu.cn.
+zyk.imaa.edu.cn.	86400	IN	A	222.31.224.19
+zyxy.imaa.edu.cn.	86400	IN	CNAME	news.imaa.edu.cn.
+zzb.imaa.edu.cn.	86400	IN	CNAME	news.imaa.edu.cn.
+imaa.edu.cn.		86400	IN	SOA	dns2.imaa.edu.cn. root.dns2.imaa.edu.cn. 201001220 28800 7200 3600000 86400
+;; Query time: 22 msec
+;; SERVER: 222.31.224.198#53(222.31.224.198)
+;; WHEN: Mon Apr 21 20:49:17 中国标准时间 2014
+;; XFR size: 68 records (messages 1, bytes 1379)
+

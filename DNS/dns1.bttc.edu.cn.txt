@@ -1,0 +1,59 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns1.bttc.edu.cn axfr bttc.edu.cn
+; (1 server found)
+;; global options: +cmd
+bttc.edu.cn.		3600	IN	SOA	dns1.bttc.edu.cn. root.bttc.edu.cn. 2014022514 30 30 360 3600
+bttc.edu.cn.		3600	IN	MX	0 mail.bttc.edu.cn.
+bttc.edu.cn.		3600	IN	NS	dns1.bttc.edu.cn.
+bwc.bttc.edu.cn.	3600	IN	A	221.199.150.102
+cwc.bttc.edu.cn.	3600	IN	A	221.199.150.102
+dangdaihui.bttc.edu.cn.	3600	IN	A	221.31.192.104
+dns1.bttc.edu.cn.	3600	IN	A	222.31.192.8
+dwxcb.bttc.edu.cn.	3600	IN	A	221.199.150.102
+dzbgs.bttc.edu.cn.	3600	IN	A	221.199.150.102
+gh.bttc.edu.cn.		3600	IN	A	221.199.150.102
+gjxy.bttc.edu.cn.	3600	IN	A	221.199.150.103
+gyzcglc.bttc.edu.cn.	3600	IN	A	221.199.150.106
+hqc.bttc.edu.cn.	3600	IN	A	221.199.150.102
+hxxy.bttc.edu.cn.	3600	IN	A	221.199.150.103
+jixutest.bttc.edu.cn.	3600	IN	A	221.199.150.104
+jjyglxy.bttc.edu.cn.	3600	IN	A	221.199.150.104
+jpkc.bttc.edu.cn.	3600	IN	A	221.199.150.106
+jwc.bttc.edu.cn.	3600	IN	A	221.199.150.102
+jwjsc.bttc.edu.cn.	3600	IN	A	221.199.150.102
+jxjyxy.bttc.edu.cn.	3600	IN	A	221.199.150.102
+jykxxy.bttc.edu.cn.	3600	IN	A	221.199.150.103
+kjc.bttc.edu.cn.	3600	IN	A	221.199.150.102
+kyc.bttc.edu.cn.	3600	IN	A	221.199.150.102
+lib.bttc.edu.cn.	3600	IN	A	221.199.150.102
+lswhxy.bttc.edu.cn.	3600	IN	A	221.199.150.103
+mail.bttc.edu.cn.	3600	IN	A	221.199.150.98
+mkszyxy.bttc.edu.cn.	3600	IN	A	221.199.150.103
+msxy.bttc.edu.cn.	3600	IN	A	221.199.150.103
+nic.bttc.edu.cn.	3600	IN	A	221.199.150.102
+people.bttc.edu.cn.	3600	IN	A	221.199.150.104
+swkxyjsxy.bttc.edu.cn.	3600	IN	A	221.199.150.103
+sxkxxy.bttc.edu.cn.	3600	IN	A	221.199.150.103
+tw.bttc.edu.cn.		3600	IN	A	221.199.150.102
+tyxy.bttc.edu.cn.	3600	IN	A	221.199.150.103
+wgyxy.bttc.edu.cn.	3600	IN	A	221.199.150.103
+wlkxjsxy.bttc.edu.cn.	3600	IN	A	221.199.150.103
+wlxy.bttc.edu.cn.	3600	IN	A	221.199.150.103
+wsb.bttc.edu.cn.	3600	IN	A	221.199.150.104
+www.bttc.edu.cn.	3600	IN	A	221.199.150.99
+wxy.bttc.edu.cn.	3600	IN	A	221.199.150.103
+xbbjb.bttc.edu.cn.	3600	IN	A	221.199.150.104
+xsc.bttc.edu.cn.	3600	IN	A	221.199.150.106
+xxkxyjsxy.bttc.edu.cn.	3600	IN	A	221.199.150.103
+yjsc.bttc.edu.cn.	3600	IN	A	221.199.150.102
+yyxy.bttc.edu.cn.	3600	IN	A	221.199.150.103
+zsjyc.bttc.edu.cn.	3600	IN	A	221.199.150.101
+zyyhjxy.bttc.edu.cn.	3600	IN	A	221.199.150.103
+zzrsb.bttc.edu.cn.	3600	IN	A	221.199.150.106
+zzyflxy.bttc.edu.cn.	3600	IN	A	221.199.150.104
+bttc.edu.cn.		3600	IN	SOA	dns1.bttc.edu.cn. root.bttc.edu.cn. 2014022514 30 30 360 3600
+;; Query time: 456 msec
+;; SERVER: 222.31.192.8#53(222.31.192.8)
+;; WHEN: Mon Apr 21 20:49:17 中国标准时间 2014
+;; XFR size: 50 records (messages 1, bytes 1142)
+

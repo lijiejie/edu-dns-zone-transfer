@@ -1,0 +1,97 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns.tjfsu.edu.cn axfr tjfsu.edu.cn
+; (1 server found)
+;; global options: +cmd
+tjfsu.edu.cn.		86400	IN	SOA	dns.tjfsu.edu.cn. root.tjfsu.edu.cn. 2014041102 3600 300 36000 86400
+tjfsu.edu.cn.		86400	IN	NS	dns.tjfsu.edu.cn.
+tjfsu.edu.cn.		86400	IN	NS	sun.tjfsu.edu.cn.
+tjfsu.edu.cn.		86400	IN	A	211.68.208.10
+tjfsu.edu.cn.		86400	IN	MX	10 webmail.tjfsu.edu.cn.
+40years.tjfsu.edu.cn.	86400	IN	CNAME	vhost.tjfsu.edu.cn.
+50th.tjfsu.edu.cn.	86400	IN	CNAME	dept.tjfsu.edu.cn.
+antivirus.tjfsu.edu.cn.	86400	IN	A	211.68.208.40
+anygate.tjfsu.edu.cn.	86400	IN	A	211.68.208.15
+bhws.tjfsu.edu.cn.	86400	IN	A	222.30.90.3
+card.tjfsu.edu.cn.	86400	IN	A	211.68.223.7
+cfle.tjfsu.edu.cn.	86400	IN	CNAME	vhost.tjfsu.edu.cn.
+chinese.tjfsu.edu.cn.	86400	IN	CNAME	vhost.tjfsu.edu.cn.
+cis.tjfsu.edu.cn.	86400	IN	CNAME	medianew.tjfsu.edu.cn.
+cjcx.tjfsu.edu.cn.	86400	IN	A	211.68.208.48
+counter.tjfsu.edu.cn.	86400	IN	CNAME	vhost.tjfsu.edu.cn.
+dept.tjfsu.edu.cn.	86400	IN	A	211.68.208.39
+dns.tjfsu.edu.cn.	86400	IN	A	211.68.208.10
+eajes.tjfsu.edu.cn.	86400	IN	CNAME	vhost.tjfsu.edu.cn.
+east.tjfsu.edu.cn.	86400	IN	CNAME	vhost.tjfsu.edu.cn.
+english.tjfsu.edu.cn.	86400	IN	CNAME	vhost.tjfsu.edu.cn.
+european.tjfsu.edu.cn.	86400	IN	CNAME	vhost.tjfsu.edu.cn.
+exchange.tjfsu.edu.cn.	86400	IN	CNAME	vhost.tjfsu.edu.cn.
+fanyizhongxin.tjfsu.edu.cn. 86400 IN	CNAME	vhost.tjfsu.edu.cn.
+fazheng.tjfsu.edu.cn.	86400	IN	CNAME	vhost.tjfsu.edu.cn.
+flashsky.tjfsu.edu.cn.	86400	IN	A	211.68.208.56
+fllcc.tjfsu.edu.cn.	86400	IN	CNAME	vhost.tjfsu.edu.cn.
+fnews.tjfsu.edu.cn.	86400	IN	CNAME	dept.tjfsu.edu.cn.
+fsunews.tjfsu.edu.cn.	86400	IN	A	211.68.208.58
+gaofan.tjfsu.edu.cn.	86400	IN	CNAME	dept.tjfsu.edu.cn.
+glx.tjfsu.edu.cn.	86400	IN	CNAME	vhost.tjfsu.edu.cn.
+grad.tjfsu.edu.cn.	86400	IN	CNAME	vhost.tjfsu.edu.cn.
+gsti.tjfsu.edu.cn.	86400	IN	CNAME	dept.tjfsu.edu.cn.
+guoshang.tjfsu.edu.cn.	86400	IN	CNAME	vhost.tjfsu.edu.cn.
+honors.tjfsu.edu.cn.	86400	IN	CNAME	vhost.tjfsu.edu.cn.
+japanese.tjfsu.edu.cn.	86400	IN	CNAME	vhost.tjfsu.edu.cn.
+jckb.tjfsu.edu.cn.	86400	IN	CNAME	vhost.tjfsu.edu.cn.
+jixujiaoyu.tjfsu.edu.cn. 86400	IN	CNAME	vhost.tjfsu.edu.cn.
+jjjc.tjfsu.edu.cn.	86400	IN	CNAME	vhost.tjfsu.edu.cn.
+jpkc.tjfsu.edu.cn.	86400	IN	A	211.68.208.42
+junxun.tjfsu.edu.cn.	86400	IN	CNAME	vhost.tjfsu.edu.cn.
+kyc.tjfsu.edu.cn.	86400	IN	CNAME	vhost.tjfsu.edu.cn.
+www.lib.tjfsu.edu.cn.	86400	IN	A	211.68.209.25
+media.tjfsu.edu.cn.	86400	IN	CNAME	vhost.tjfsu.edu.cn.
+medianew.tjfsu.edu.cn.	86400	IN	A	211.68.208.43
+my.tjfsu.edu.cn.	86400	IN	A	211.68.208.71
+news.tjfsu.edu.cn.	86400	IN	CNAME	vhost.tjfsu.edu.cn.
+nic.tjfsu.edu.cn.	86400	IN	CNAME	vhost.tjfsu.edu.cn.
+oa.tjfsu.edu.cn.	86400	IN	A	211.68.208.53
+office.tjfsu.edu.cn.	86400	IN	CNAME	dept.tjfsu.edu.cn.
+pop.tjfsu.edu.cn.	86400	IN	CNAME	webmail.tjfsu.edu.cn.
+portal.tjfsu.edu.cn.	86400	IN	A	211.68.208.66
+proxy.tjfsu.edu.cn.	86400	IN	A	211.68.208.16
+realfull.tjfsu.edu.cn.	86400	IN	A	211.68.208.52
+realws.tjfsu.edu.cn.	86400	IN	A	211.68.208.51
+rsc.tjfsu.edu.cn.	86400	IN	CNAME	vhost.tjfsu.edu.cn.
+rtx.tjfsu.edu.cn.	86400	IN	A	211.68.208.34
+sars.tjfsu.edu.cn.	86400	IN	CNAME	vhost.tjfsu.edu.cn.
+sc.tjfsu.edu.cn.	86400	IN	CNAME	dept.tjfsu.edu.cn.
+smtp.tjfsu.edu.cn.	86400	IN	CNAME	webmail.tjfsu.edu.cn.
+sports.tjfsu.edu.cn.	86400	IN	A	211.68.214.240
+sun.tjfsu.edu.cn.	86400	IN	A	211.68.208.11
+tad.tjfsu.edu.cn.	86400	IN	A	211.68.208.132
+tas.tjfsu.edu.cn.	86400	IN	A	211.68.208.130
+tas1.tjfsu.edu.cn.	86400	IN	A	211.68.208.131
+tflaph.tjfsu.edu.cn.	86400	IN	CNAME	vhost.tjfsu.edu.cn.
+tjwwxh.tjfsu.edu.cn.	86400	IN	CNAME	dept.tjfsu.edu.cn.
+vhost.tjfsu.edu.cn.	86400	IN	A	211.68.208.49
+webmail.tjfsu.edu.cn.	86400	IN	A	211.68.208.13
+webso.tjfsu.edu.cn.	86400	IN	A	211.68.208.55
+windowsupdate.tjfsu.edu.cn. 86400 IN	A	211.68.208.45
+workmeeting.tjfsu.edu.cn. 86400	IN	CNAME	vhost.tjfsu.edu.cn.
+www.tjfsu.edu.cn.	86400	IN	A	211.68.208.12
+xb.tjfsu.edu.cn.	86400	IN	CNAME	vhost.tjfsu.edu.cn.
+xiaoqing.tjfsu.edu.cn.	86400	IN	CNAME	vhost.tjfsu.edu.cn.
+xiaoyou.tjfsu.edu.cn.	86400	IN	CNAME	vhost.tjfsu.edu.cn.
+xibu.tjfsu.edu.cn.	86400	IN	A	211.68.208.44
+xjw.tjfsu.edu.cn.	86400	IN	CNAME	vhost.tjfsu.edu.cn.
+yafei.tjfsu.edu.cn.	86400	IN	CNAME	vhost.tjfsu.edu.cn.
+youth.tjfsu.edu.cn.	86400	IN	CNAME	vhost.tjfsu.edu.cn.
+ypw.tjfsu.edu.cn.	86400	IN	CNAME	vhost.tjfsu.edu.cn.
+yx.tjfsu.edu.cn.	86400	IN	A	211.68.223.32
+zgw.tjfsu.edu.cn.	86400	IN	CNAME	vhost.tjfsu.edu.cn.
+zhgryjx.tjfsu.edu.cn.	86400	IN	CNAME	vhost.tjfsu.edu.cn.
+zsb.tjfsu.edu.cn.	86400	IN	CNAME	vhost.tjfsu.edu.cn.
+zywx.tjfsu.edu.cn.	86400	IN	CNAME	dept.tjfsu.edu.cn.
+zywxfy.tjfsu.edu.cn.	86400	IN	CNAME	dept.tjfsu.edu.cn.
+tjfsu.edu.cn.		86400	IN	SOA	dns.tjfsu.edu.cn. root.tjfsu.edu.cn. 2014041102 3600 300 36000 86400
+;; Query time: 365 msec
+;; SERVER: 211.68.208.10#53(211.68.208.10)
+;; WHEN: Mon Apr 21 20:48:11 中国标准时间 2014
+;; XFR size: 88 records (messages 1, bytes 1891)
+

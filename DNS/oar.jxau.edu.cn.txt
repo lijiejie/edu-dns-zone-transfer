@@ -1,0 +1,134 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @oar.jxau.edu.cn axfr jxau.edu.cn
+; (1 server found)
+;; global options: +cmd
+jxau.edu.cn.		86400	IN	SOA	dns.jxau.edu.cn. zhouchao.jxau.edu.cn. 172800 28800 7200 604800 86400
+jxau.edu.cn.		172800	IN	NS	dns.jxau.edu.cn.
+jxau.edu.cn.		172800	IN	NS	oar.jxau.edu.cn.
+jxau.edu.cn.		86400	IN	MX	10 mail.jxau.edu.cn.
+jxau.edu.cn.		86400	IN	MX	15 jxau.edu.cn.
+baowei.jxau.edu.cn.	86400	IN	A	220.175.15.204
+bbs.jxau.edu.cn.	86400	IN	A	220.175.15.208
+boya.jxau.edu.cn.	86400	IN	A	220.175.15.204
+caiwu.jxau.edu.cn.	86400	IN	A	220.175.15.204
+chemexp.jxau.edu.cn.	86400	IN	A	220.175.15.204
+chengjiao.jxau.edu.cn.	86400	IN	A	220.175.15.204
+cjy.jxau.edu.cn.	86400	IN	A	220.175.15.204
+codb.jxau.edu.cn.	86400	IN	A	220.175.15.203
+cwc.jxau.edu.cn.	86400	IN	A	220.175.15.204
+dangan.jxau.edu.cn.	86400	IN	A	220.175.15.204
+dangxiao.jxau.edu.cn.	86400	IN	A	220.175.15.204
+dns.jxau.edu.cn.	172800	IN	A	210.35.128.1
+dongk.jxau.edu.cn.	86400	IN	A	220.175.15.204
+english.jxau.edu.cn.	86400	IN	A	220.175.15.204
+ewinner.jxau.edu.cn.	86400	IN	A	220.175.15.208
+fuzhong.jxau.edu.cn.	86400	IN	A	220.175.15.204
+fzong.jxau.edu.cn.	86400	IN	A	220.175.15.204
+gjjl.jxau.edu.cn.	86400	IN	A	220.175.15.204
+gjs.jxau.edu.cn.	86400	IN	A	220.175.15.204
+gonghui.jxau.edu.cn.	86400	IN	A	220.175.15.204
+gongxue.jxau.edu.cn.	86400	IN	A	220.175.15.204
+gongxueopenlab.jxau.edu.cn. 86400 IN	A	220.175.15.204
+guangbozhan.jxau.edu.cn. 86400	IN	A	220.175.15.204
+guanli.jxau.edu.cn.	86400	IN	A	220.175.15.204
+guotu.jxau.edu.cn.	86400	IN	A	220.175.15.204
+houqin.jxau.edu.cn.	86400	IN	A	220.175.15.204
+imjw.jxau.edu.cn.	86400	IN	A	220.175.15.203
+jiaoliu.jxau.edu.cn.	86400	IN	A	220.175.15.204
+jiaowu.jxau.edu.cn.	86400	IN	A	220.175.15.204
+jijian.jxau.edu.cn.	86400	IN	A	220.175.15.204
+jingmao.jxau.edu.cn.	86400	IN	A	220.175.15.204
+jixin.jxau.edu.cn.	86400	IN	A	220.175.15.204
+jpk.jxau.edu.cn.	86400	IN	A	220.175.15.203
+jpkc.jxau.edu.cn.	86400	IN	A	220.175.15.203
+jsb.jxau.edu.cn.	86400	IN	A	220.175.15.204
+junti.jxau.edu.cn.	86400	IN	A	220.175.15.204
+jwc.jxau.edu.cn.	86400	IN	A	220.175.15.203
+jwccms.jxau.edu.cn.	86400	IN	A	220.175.15.203
+jwgl.jxau.edu.cn.	86400	IN	A	220.175.15.203
+jxndsk.jxau.edu.cn.	86400	IN	A	220.175.15.204
+jy.jxau.edu.cn.		86400	IN	A	59.36.100.104
+jyxh.jxau.edu.cn.	86400	IN	A	220.175.15.213
+keyan.jxau.edu.cn.	86400	IN	A	220.175.15.204
+kgy.jxau.edu.cn.	86400	IN	A	220.175.15.204
+kjy.jxau.edu.cn.	86400	IN	A	220.175.15.204
+laogan.jxau.edu.cn.	86400	IN	A	220.175.15.204
+library.jxau.edu.cn.	86400	IN	A	210.35.128.196
+lixue.jxau.edu.cn.	86400	IN	A	220.175.15.204
+ljwh.jxau.edu.cn.	86400	IN	A	220.175.15.205
+lsb.jxau.edu.cn.	86400	IN	A	220.175.15.204
+ltx.jxau.edu.cn.	86400	IN	A	220.175.15.204
+mail.jxau.edu.cn.	86400	IN	A	219.229.222.4
+mksxy.jxau.edu.cn.	86400	IN	A	220.175.15.204
+mpa.jxau.edu.cn.	86400	IN	A	220.175.15.204
+nongxue.jxau.edu.cn.	86400	IN	A	220.175.15.204
+nxy185.jxau.edu.cn.	86400	IN	A	220.175.15.204
+nyzyyhj.jxau.edu.cn.	86400	IN	A	220.175.15.204
+oa.jxau.edu.cn.		86400	IN	A	220.175.15.214
+oar.jxau.edu.cn.	172800	IN	A	210.35.128.2
+police.jxau.edu.cn.	86400	IN	A	218.95.3.132
+pop3.jxau.edu.cn.	86400	IN	A	219.229.222.4
+pwc.jxau.edu.cn.	86400	IN	A	220.175.15.204
+qiushi.jxau.edu.cn.	86400	IN	A	219.229.222.4
+qmail.jxau.edu.cn.	86400	IN	A	219.229.222.4
+renshi.jxau.edu.cn.	86400	IN	A	220.175.15.204
+renwen.jxau.edu.cn.	86400	IN	A	220.175.15.204
+ruanjianxy.jxau.edu.cn.	86400	IN	A	220.175.15.204
+sannong.jxau.edu.cn.	86400	IN	A	220.175.15.204
+sbc.jxau.edu.cn.	86400	IN	A	220.175.15.204
+shangxue.jxau.edu.cn.	86400	IN	A	220.175.15.204
+shenggong.jxau.edu.cn.	86400	IN	A	220.175.15.204
+shipin.jxau.edu.cn.	86400	IN	A	220.175.15.203
+siliao.jxau.edu.cn.	86400	IN	A	220.175.15.204
+smtp.jxau.edu.cn.	86400	IN	A	219.229.222.4
+stjj.jxau.edu.cn.	86400	IN	A	220.175.15.204
+tongzhan.jxau.edu.cn.	86400	IN	A	220.175.15.204
+trcw.jxau.edu.cn.	86400	IN	A	220.175.15.204
+tszln.jxau.edu.cn.	86400	IN	A	220.175.15.204
+tuanwei.jxau.edu.cn.	86400	IN	A	220.175.15.204
+tushu.jxau.edu.cn.	86400	IN	A	220.175.15.204
+updata.jxau.edu.cn.	86400	IN	A	210.35.128.70
+vpn.jxau.edu.cn.	86400	IN	A	220.175.15.202
+vpn1.jxau.edu.cn.	86400	IN	A	220.175.15.221
+vpnuse.jxau.edu.cn.	86400	IN	A	220.175.15.204
+waiyu.jxau.edu.cn.	86400	IN	A	220.175.15.204
+wgyx.jxau.edu.cn.	86400	IN	A	210.35.131.197
+wlfw.jxau.edu.cn.	86400	IN	A	219.229.222.26
+www.jxau.edu.cn.	86400	IN	A	220.175.15.217
+xcb.jxau.edu.cn.	86400	IN	A	220.175.15.204
+xgc.jxau.edu.cn.	86400	IN	A	220.175.15.203
+xhpx.jxau.edu.cn.	86400	IN	A	220.175.15.204
+xiaoban.jxau.edu.cn.	86400	IN	A	220.175.15.204
+xiaobao.jxau.edu.cn.	86400	IN	A	220.175.15.204
+xiaoqing.jxau.edu.cn.	86400	IN	A	220.175.15.204
+xinwen.jxau.edu.cn.	86400	IN	A	220.175.15.204
+xjb.jxau.edu.cn.	86400	IN	A	220.175.15.204
+xnjs.jxau.edu.cn.	86400	IN	A	220.175.15.204
+xsh.jxau.edu.cn.	86400	IN	A	220.175.15.204
+xuebao.jxau.edu.cn.	86400	IN	A	220.175.15.204
+xuegong.jxau.edu.cn.	86400	IN	A	220.175.15.204
+xxzx.jxau.edu.cn.	86400	IN	A	220.175.15.204
+xyglc.jxau.edu.cn.	86400	IN	A	220.175.15.204
+yanjiusheng.jxau.edu.cn. 86400	IN	A	220.175.15.204
+yiyuan.jxau.edu.cn.	86400	IN	A	220.175.15.204
+yjs.jxau.edu.cn.	86400	IN	A	220.175.15.204
+ypban.jxau.edu.cn.	86400	IN	A	220.175.15.204
+yrdslzy.jxau.edu.cn.	86400	IN	A	220.175.15.204
+yrdsw.jxau.edu.cn.	86400	IN	A	220.175.15.204
+yuanlin.jxau.edu.cn.	86400	IN	A	220.175.15.204
+zhaojiu.jxau.edu.cn.	86400	IN	A	59.36.100.104
+zhishi.jxau.edu.cn.	86400	IN	A	220.175.15.204
+zjjd.jxau.edu.cn.	86400	IN	A	220.175.15.204
+zlgc.jxau.edu.cn.	86400	IN	A	220.175.15.203
+zongwu.jxau.edu.cn.	86400	IN	A	220.175.15.204
+zs.jxau.edu.cn.		86400	IN	A	59.36.100.104
+zsy.jxau.edu.cn.	86400	IN	A	220.175.15.204
+zuzhi.jxau.edu.cn.	86400	IN	A	220.175.15.204
+zwsc.jxau.edu.cn.	86400	IN	A	220.175.15.204
+zwy.jxau.edu.cn.	86400	IN	A	220.175.15.204
+jxau.edu.cn.		86400	IN	SOA	dns.jxau.edu.cn. zhouchao.jxau.edu.cn. 172800 28800 7200 604800 86400
+;; Query time: 59 msec
+;; SERVER: 210.35.128.2#53(210.35.128.2)
+;; WHEN: Mon Apr 21 20:56:33 中国标准时间 2014
+;; XFR size: 125 records (messages 1, bytes 2814)
+

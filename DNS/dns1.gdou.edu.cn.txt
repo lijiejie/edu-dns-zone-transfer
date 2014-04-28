@@ -1,0 +1,38 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns1.gdou.edu.cn axfr gdou.edu.cn
+; (1 server found)
+;; global options: +cmd
+gdou.edu.cn.		3600	IN	SOA	dns1.gdou.edu.cn. root.gdou.edu.cn. 2014031502 30 30 360 3600
+gdou.edu.cn.		3600	IN	MX	10 gw.gdou.edu.cn.
+gdou.edu.cn.		3600	IN	NS	dns1.gdou.edu.cn.
+bb.gdou.edu.cn.		3600	IN	A	210.38.139.2
+bbs.gdou.edu.cn.	3600	IN	A	210.38.137.118
+cai.gdou.edu.cn.	3600	IN	A	210.38.137.73
+dns1.gdou.edu.cn.	3600	IN	A	210.38.128.34
+eic.gdou.edu.cn.	3600	IN	A	210.38.137.67
+gcxl.gdou.edu.cn.	3600	IN	A	210.38.139.44
+gdours.gdou.edu.cn.	3600	IN	A	210.38.139.33
+gw.gdou.edu.cn.		3600	IN	A	210.38.128.35
+haiqian.gdou.edu.cn.	3600	IN	A	210.38.139.35
+jpkc.gdou.edu.cn.	3600	IN	A	210.38.137.104
+lib.gdou.edu.cn.	3600	IN	A	210.38.128.66
+mail.gdou.edu.cn.	3600	IN	A	210.38.128.67
+nec.gdou.edu.cn.	3600	IN	A	210.38.137.112
+news.gdou.edu.cn.	3600	IN	A	210.38.137.68
+oa.gdou.edu.cn.		3600	IN	A	210.38.137.84
+portal.gdou.edu.cn.	3600	IN	A	210.38.137.86
+proxy.gdou.edu.cn.	3600	IN	A	210.38.128.26
+query.gdou.edu.cn.	3600	IN	A	210.38.139.38
+tdoa.gdou.edu.cn.	3600	IN	A	210.38.137.102
+www.gdou.edu.cn.	3600	IN	A	210.38.137.98
+www1.gdou.edu.cn.	3600	IN	A	210.38.137.111
+www2.gdou.edu.cn.	3600	IN	A	210.38.137.25
+www3.gdou.edu.cn.	3600	IN	A	210.38.137.115
+yjs.gdou.edu.cn.	3600	IN	A	210.38.128.99
+zsjy.gdou.edu.cn.	3600	IN	A	210.38.128.41
+gdou.edu.cn.		3600	IN	SOA	dns1.gdou.edu.cn. root.gdou.edu.cn. 2014031502 30 30 360 3600
+;; Query time: 78 msec
+;; SERVER: 210.38.128.34#53(210.38.128.34)
+;; WHEN: Mon Apr 21 20:59:48 中国标准时间 2014
+;; XFR size: 29 records (messages 1, bytes 657)
+

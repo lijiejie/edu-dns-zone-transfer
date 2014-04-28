@@ -1,0 +1,138 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @pdns.xtu.edu.cn axfr xtu.edu.cn
+; (1 server found)
+;; global options: +cmd
+xtu.edu.cn.		86400	IN	SOA	pdns.xtu.edu.cn. sdns.xtu.edu.cn. 20111028 10800 3600 604800 86400
+xtu.edu.cn.		86400	IN	NS	pdns.xtu.edu.cn.
+xtu.edu.cn.		86400	IN	NS	sdns.xtu.edu.cn.
+xtu.edu.cn.		86400	IN	A	202.197.224.1
+xtu.edu.cn.		86400	IN	MX	5 eyouxtu.cn4e.com.
+xtu.edu.cn.		86400	IN	MX	15 server2.xtu.edu.cn.
+xtu.edu.cn.		86400	IN	MX	20 server3.xtu.edu.cn.
+*.xtu.edu.cn.		86400	IN	CNAME	www.xtu.edu.cn.
+acm.xtu.edu.cn.		86400	IN	A	218.75.242.250
+algebra.xtu.edu.cn.	86400	IN	A	218.75.242.251
+bbs.xtu.edu.cn.		86400	IN	A	202.197.224.51
+bc.xtu.edu.cn.		86400	IN	A	202.197.225.18
+bs.xtu.edu.cn.		86400	IN	NS	dns.bs.xtu.edu.cn.
+bs.xtu.edu.cn.		86400	IN	A	202.197.238.100
+dns.bs.xtu.edu.cn.	86400	IN	A	172.16.64.4
+bslab.xtu.edu.cn.	86400	IN	CNAME	www.xtu.edu.cn.
+bsmail.xtu.edu.cn.	86400	IN	MX	20 bsmail.xtu.edu.cn.
+business.xtu.edu.cn.	86400	IN	A	218.75.242.212
+cangxiang.xtu.edu.cn.	86400	IN	A	218.75.242.250
+ccelab.xtu.edu.cn.	86400	IN	CNAME	www.xtu.edu.cn.
+ccrr.xtu.edu.cn.	86400	IN	CNAME	business.xtu.edu.cn.
+ccser.xtu.edu.cn.	86400	IN	CNAME	business.xtu.edu.cn.
+cerc.xtu.edu.cn.	86400	IN	A	218.75.242.251
+cie.xtu.edu.cn.		86400	IN	A	218.75.242.250
+cie.xtu.edu.cn.		86400	IN	MX	30 cie.xtu.edu.cn.
+hncpc.cie.xtu.edu.cn.	86400	IN	A	218.75.242.250
+rkpx.cie.xtu.edu.cn.	86400	IN	A	202.197.224.58
+cisco.xtu.edu.cn.	86400	IN	A	202.197.224.253
+cjxyzjf.xtu.edu.cn.	86400	IN	A	218.75.242.250
+cms.xtu.edu.cn.		86400	IN	A	218.75.242.251
+cpt.xtu.edu.cn.		86400	IN	A	218.75.242.250
+csse.xtu.edu.cn.	86400	IN	CNAME	www.xtu.edu.cn.
+cwc.xtu.edu.cn.		86400	IN	CNAME	www.xtu.edu.cn.
+cwcx.xtu.edu.cn.	86400	IN	A	218.75.242.251
+cwjf.xtu.edu.cn.	86400	IN	A	218.75.242.250
+cyl.xtu.edu.cn.		86400	IN	A	222.243.160.22
+djglxt.xtu.edu.cn.	86400	IN	A	202.197.225.18
+dns.xtu.edu.cn.		86400	IN	A	202.197.224.4
+dzb.xtu.edu.cn.		86400	IN	A	202.197.224.68
+en.xtu.edu.cn.		86400	IN	CNAME	www.xtu.edu.cn.
+fxjd.xtu.edu.cn.	86400	IN	CNAME	www.xtu.edu.cn.
+glxy.xtu.edu.cn.	86400	IN	A	218.75.242.251
+hgyl.xtu.edu.cn.	86400	IN	A	202.197.231.6
+hrmis.xtu.edu.cn.	86400	IN	A	202.197.225.18
+huter.xtu.edu.cn.	86400	IN	A	202.197.224.42
+icam.xtu.edu.cn.	86400	IN	A	202.197.237.30
+www.icam.xtu.edu.cn.	86400	IN	A	218.75.242.251
+ietmc.xtu.edu.cn.	86400	IN	A	202.197.228.6
+jck.xtu.edu.cn.		86400	IN	A	172.16.160.96
+jobs.xtu.edu.cn.	86400	IN	A	59.36.100.104
+jpkc.xtu.edu.cn.	86400	IN	A	218.75.242.250
+jwgl.xtu.edu.cn.	86400	IN	A	202.197.224.134
+kspe.xtu.edu.cn.	86400	IN	CNAME	www.xtu.edu.cn.
+www.lab.xtu.edu.cn.	86400	IN	A	202.197.232.119
+www.lcsse.xtu.edu.cn.	86400	IN	CNAME	www.xtu.edu.cn.
+lib.xtu.edu.cn.		86400	IN	A	218.75.242.250
+chemistry.lib.xtu.edu.cn. 86400	IN	A	192.168.88.15
+computer.lib.xtu.edu.cn. 86400	IN	A	192.168.88.15
+cx.lib.xtu.edu.cn.	86400	IN	A	202.197.232.4
+fz.lib.xtu.edu.cn.	86400	IN	A	192.168.88.15
+ic.lib.xtu.edu.cn.	86400	IN	A	192.168.88.15
+material.lib.xtu.edu.cn. 86400	IN	A	192.168.88.15
+maths.lib.xtu.edu.cn.	86400	IN	A	192.168.88.15
+opac.lib.xtu.edu.cn.	86400	IN	A	218.75.242.251
+qh.lib.xtu.edu.cn.	86400	IN	A	202.197.232.6
+vp.lib.xtu.edu.cn.	86400	IN	A	202.197.232.20
+wf.lib.xtu.edu.cn.	86400	IN	A	192.168.90.200
+www.lib.xtu.edu.cn.	86400	IN	A	202.197.232.5
+xk.lib.xtu.edu.cn.	86400	IN	A	192.168.88.15
+xtlib.lib.xtu.edu.cn.	86400	IN	A	218.75.242.250
+linux.xtu.edu.cn.	86400	IN	A	202.197.224.43
+localhost.xtu.edu.cn.	86400	IN	A	127.0.0.1
+mail.xtu.edu.cn.	86400	IN	A	218.75.242.252
+manvpn.xtu.edu.cn.	86400	IN	A	202.197.224.16
+math.xtu.edu.cn.	86400	IN	A	218.75.242.251
+algebra.math.xtu.edu.cn. 86400	IN	A	218.75.242.251
+mba.xtu.edu.cn.		86400	IN	CNAME	business.xtu.edu.cn.
+mbamis.xtu.edu.cn.	86400	IN	CNAME	business.xtu.edu.cn.
+mbo.xtu.edu.cn.		86400	IN	A	202.197.225.18
+mis.xtu.edu.cn.		86400	IN	A	202.197.224.18
+mis.xtu.edu.cn.		86400	IN	MX	40 mis.xtu.edu.cn.
+mpa.xtu.edu.cn.		86400	IN	A	218.75.242.250
+www.multigrid.xtu.edu.cn. 86400	IN	A	202.197.237.101
+mzd.xtu.edu.cn.		86400	IN	CNAME	www.xtu.edu.cn.
+news.xtu.edu.cn.	86400	IN	A	218.75.242.250
+nic.xtu.edu.cn.		86400	IN	CNAME	www.xtu.edu.cn.
+nygc.xtu.edu.cn.	86400	IN	A	218.75.242.250
+office.xtu.edu.cn.	86400	IN	A	202.197.225.8
+online.xtu.edu.cn.	86400	IN	A	218.75.242.253
+pdns.xtu.edu.cn.	86400	IN	A	202.197.224.4
+play.xtu.edu.cn.	86400	IN	NS	dns.play.xtu.edu.cn.
+dns.play.xtu.edu.cn.	86400	IN	A	172.16.178.75
+qzlx.xtu.edu.cn.	86400	IN	A	218.75.242.250
+reg.xtu.edu.cn.		86400	IN	CNAME	wlgl.xtu.edu.cn.
+rsc.xtu.edu.cn.		86400	IN	CNAME	www.xtu.edu.cn.
+sbbfxt.xtu.edu.cn.	86400	IN	A	202.197.224.87
+sdns.xtu.edu.cn.	86400	IN	A	202.197.224.5
+selfservice.xtu.edu.cn.	86400	IN	A	202.197.224.27
+server2.xtu.edu.cn.	86400	IN	A	218.75.242.216
+server3.xtu.edu.cn.	86400	IN	A	202.197.224.1
+shenjichu.xtu.edu.cn.	86400	IN	A	218.75.242.250
+sjjx.xtu.edu.cn.	86400	IN	CNAME	www.xtu.edu.cn.
+smtp.xtu.edu.cn.	86400	IN	A	202.197.224.1
+snl.xtu.edu.cn.		86400	IN	A	202.197.235.15
+test.xtu.edu.cn.	86400	IN	A	218.75.242.230
+web.xtu.edu.cn.		86400	IN	A	218.75.242.251
+*.web.xtu.edu.cn.	86400	IN	CNAME	web.xtu.edu.cn.
+wlgl.xtu.edu.cn.	86400	IN	A	202.197.224.28
+wlsy.xtu.edu.cn.	86400	IN	A	202.197.224.82
+www.xtu.edu.cn.		86400	IN	A	218.75.242.251
+wxyxw.xtu.edu.cn.	86400	IN	A	202.197.228.11
+xcb.xtu.edu.cn.		86400	IN	A	218.75.242.250
+xgonline.xtu.edu.cn.	86400	IN	A	218.75.242.251
+xgzx.xtu.edu.cn.	86400	IN	A	202.197.232.171
+xtlib.xtu.edu.cn.	86400	IN	A	192.168.88.201
+xtuaa.xtu.edu.cn.	86400	IN	A	222.240.128.210
+xturouter.xtu.edu.cn.	86400	IN	A	202.197.224.254
+xxxy.xtu.edu.cn.	86400	IN	CNAME	www.xtu.edu.cn.
+yjsc.xtu.edu.cn.	86400	IN	A	218.75.242.250
+yjsh.xtu.edu.cn.	86400	IN	A	218.75.242.250
+yqwxgl.xtu.edu.cn.	86400	IN	A	202.197.224.87
+yyjxb.xtu.edu.cn.	86400	IN	CNAME	www.xtu.edu.cn.
+zhaosh.xtu.edu.cn.	86400	IN	A	124.232.137.9
+zhoujf.xtu.edu.cn.	86400	IN	A	172.16.156.222
+zp.xtu.edu.cn.		86400	IN	A	218.75.242.250
+zwxxg.xtu.edu.cn.	86400	IN	A	202.197.224.68
+zx.xtu.edu.cn.		86400	IN	A	218.75.242.250
+zyjs.xtu.edu.cn.	86400	IN	A	218.75.242.250
+xtu.edu.cn.		86400	IN	SOA	pdns.xtu.edu.cn. sdns.xtu.edu.cn. 20111028 10800 3600 604800 86400
+;; Query time: 53 msec
+;; SERVER: 202.197.224.4#53(202.197.224.4)
+;; WHEN: Mon Apr 21 20:57:58 中国标准时间 2014
+;; XFR size: 129 records (messages 1, bytes 2748)
+

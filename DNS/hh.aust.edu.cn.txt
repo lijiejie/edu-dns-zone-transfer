@@ -1,0 +1,170 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @hh.aust.edu.cn axfr aust.edu.cn
+; (1 server found)
+;; global options: +cmd
+aust.edu.cn.		86400	IN	SOA	shg.aust.edu.cn. root.shg.aust.edu.cn. 20120522 10800 1800 259200 86400
+aust.edu.cn.		86400	IN	MX	5 mgw.aust.edu.cn.
+aust.edu.cn.		86400	IN	MX	5 smtp.aust.edu.cn.
+aust.edu.cn.		86400	IN	MX	10 mail.aust.edu.cn.
+aust.edu.cn.		86400	IN	MX	10 pop3.aust.edu.cn.
+aust.edu.cn.		86400	IN	MX	10 email.aust.edu.cn.
+aust.edu.cn.		86400	IN	NS	hh.aust.edu.cn.
+aust.edu.cn.		86400	IN	NS	shg.aust.edu.cn.
+aust.edu.cn.		3600	IN	TXT	"v=spf1 ip4:210.45.144.14 ip4:210.45.144.70 ~all"
+3d.aust.edu.cn.		86400	IN	CNAME	view.aust.edu.cn.
+alumni.aust.edu.cn.	86400	IN	CNAME	app.aust.edu.cn.
+app.aust.edu.cn.	86400	IN	A	210.45.144.199
+appsd.aust.edu.cn.	86400	IN	A	210.45.144.131
+aqpx.aust.edu.cn.	86400	IN	CNAME	app.aust.edu.cn.
+bicta2013.aust.edu.cn.	86400	IN	CNAME	app.aust.edu.cn.
+book.aust.edu.cn.	86400	IN	A	210.45.147.189
+book1.aust.edu.cn.	86400	IN	CNAME	book1.3g.chaoxing.com.
+bwc.aust.edu.cn.	86400	IN	CNAME	web.aust.edu.cn.
+cb3500.aust.edu.cn.	86400	IN	A	210.45.144.253
+cce.aust.edu.cn.	86400	IN	CNAME	web.aust.edu.cn.
+ccourse.aust.edu.cn.	86400	IN	A	10.10.253.35
+chxy.aust.edu.cn.	86400	IN	CNAME	web.aust.edu.cn.
+cluster.aust.edu.cn.	86400	IN	CNAME	app.aust.edu.cn.
+clx.aust.edu.cn.	86400	IN	CNAME	web.aust.edu.cn.
+cp.aust.edu.cn.		86400	IN	A	172.18.0.5
+cs.aust.edu.cn.		86400	IN	A	10.10.43.187
+cwc.aust.edu.cn.	86400	IN	CNAME	web.aust.edu.cn.
+cxzy.aust.edu.cn.	86400	IN	CNAME	app.aust.edu.cn.
+dcampus.aust.edu.cn.	86400	IN	CNAME	app.aust.edu.cn.
+dh.aust.edu.cn.		86400	IN	CNAME	app.aust.edu.cn.
+dhxy.aust.edu.cn.	86400	IN	CNAME	web.aust.edu.cn.
+doc.aust.edu.cn.	86400	IN	CNAME	app.aust.edu.cn.
+door.aust.edu.cn.	86400	IN	A	10.99.99.37
+dq.aust.edu.cn.		86400	IN	CNAME	web.aust.edu.cn.
+dszx.aust.edu.cn.	86400	IN	CNAME	web.aust.edu.cn.
+dwxw.aust.edu.cn.	86400	IN	CNAME	web.aust.edu.cn.
+dzbgs.aust.edu.cn.	86400	IN	CNAME	web.aust.edu.cn.
+edoas.aust.edu.cn.	86400	IN	CNAME	pjw.aust.edu.cn.
+edures.aust.edu.cn.	86400	IN	CNAME	app.aust.edu.cn.
+email.aust.edu.cn.	86400	IN	A	210.45.144.14
+eng.aust.edu.cn.	86400	IN	CNAME	fqk.3g.chaoxing.com.
+fgc.aust.edu.cn.	86400	IN	CNAME	web.aust.edu.cn.
+fk.aust.edu.cn.		86400	IN	CNAME	app.aust.edu.cn.
+ftp.aust.edu.cn.	86400	IN	A	210.45.144.16
+fzg.aust.edu.cn.	86400	IN	CNAME	app.aust.edu.cn.
+g.aust.edu.cn.		86400	IN	CNAME	google.aust.edu.cn.
+gate.aust.edu.cn.	86400	IN	CNAME	door.aust.edu.cn.
+gcjk.aust.edu.cn.	86400	IN	CNAME	web.aust.edu.cn.
+gh.aust.edu.cn.		86400	IN	CNAME	web.aust.edu.cn.
+gonghui.aust.edu.cn.	86400	IN	CNAME	app.aust.edu.cn.
+google.aust.edu.cn.	86400	IN	A	210.45.144.220
+gzc.aust.edu.cn.	86400	IN	CNAME	web.aust.edu.cn.
+h1n1.aust.edu.cn.	86400	IN	CNAME	app.aust.edu.cn.
+help.aust.edu.cn.	86400	IN	A	210.45.144.9
+hh.aust.edu.cn.		86400	IN	A	210.45.144.19
+home.aust.edu.cn.	86400	IN	A	210.45.144.17
+hq.aust.edu.cn.		86400	IN	CNAME	app.aust.edu.cn.
+hqjt.aust.edu.cn.	86400	IN	CNAME	web.aust.edu.cn.
+icmma.aust.edu.cn.	86400	IN	CNAME	web.aust.edu.cn.
+imf2010.aust.edu.cn.	86400	IN	CNAME	app.aust.edu.cn.
+infosec.aust.edu.cn.	86400	IN	A	10.10.43.188
+iwdip2010.aust.edu.cn.	86400	IN	CNAME	app.aust.edu.cn.
+jgdw.aust.edu.cn.	86400	IN	CNAME	web.aust.edu.cn.
+jgxy.aust.edu.cn.	86400	IN	CNAME	web.aust.edu.cn.
+jjc.aust.edu.cn.	86400	IN	CNAME	web.aust.edu.cn.
+jjw.aust.edu.cn.	86400	IN	CNAME	web.aust.edu.cn.
+jnjd.aust.edu.cn.	86400	IN	CNAME	web.aust.edu.cn.
+job.aust.edu.cn.	86400	IN	CNAME	web.aust.edu.cn.
+jour.aust.edu.cn.	86400	IN	CNAME	qk.3g.chaoxing.com.
+jsj.aust.edu.cn.	86400	IN	CNAME	web.aust.edu.cn.
+jsjxy.aust.edu.cn.	86400	IN	A	10.10.253.33
+jwc.aust.edu.cn.	86400	IN	CNAME	web.aust.edu.cn.
+jwgl.aust.edu.cn.	86400	IN	A	210.45.144.118
+jwgl3.aust.edu.cn.	86400	IN	A	210.45.144.222
+jxcg.aust.edu.cn.	86400	IN	CNAME	web.aust.edu.cn.
+jxjy.aust.edu.cn.	86400	IN	CNAME	web.aust.edu.cn.
+jxx.aust.edu.cn.	86400	IN	CNAME	web.aust.edu.cn.
+kav.aust.edu.cn.	86400	IN	CNAME	wsus.aust.edu.cn.
+klicege.aust.edu.cn.	86400	IN	CNAME	app.aust.edu.cn.
+kvm.aust.edu.cn.	86400	IN	CNAME	wsus.aust.edu.cn.
+kyc.aust.edu.cn.	86400	IN	CNAME	web.aust.edu.cn.
+lib.aust.edu.cn.	86400	IN	CNAME	web.aust.edu.cn.
+library.aust.edu.cn.	86400	IN	A	210.45.147.186
+linux.aust.edu.cn.	86400	IN	A	210.45.144.110
+localhost.aust.edu.cn.	86400	IN	A	127.0.0.1
+logicsoft.aust.edu.cn.	86400	IN	A	210.45.144.120
+lqcx.aust.edu.cn.	86400	IN	A	210.45.144.136
+ltx.aust.edu.cn.	86400	IN	CNAME	web.aust.edu.cn.
+lxy.aust.edu.cn.	86400	IN	CNAME	web.aust.edu.cn.
+m.aust.edu.cn.		86400	IN	CNAME	www.3g.chaoxing.com.
+mail.aust.edu.cn.	86400	IN	A	210.45.144.14
+map3d.aust.edu.cn.	86400	IN	A	210.45.144.219
+mc.aust.edu.cn.		86400	IN	CNAME	mc.3g.chaoxing.com.
+metc.aust.edu.cn.	86400	IN	CNAME	web.aust.edu.cn.
+mgw.aust.edu.cn.	86400	IN	A	210.45.144.70
+mlib.aust.edu.cn.	86400	IN	CNAME	www.3g.chaoxing.com.
+movie.aust.edu.cn.	86400	IN	CNAME	app.aust.edu.cn.
+ms.aust.edu.cn.		86400	IN	A	210.45.147.177
+myws.aust.edu.cn.	86400	IN	CNAME	web.aust.edu.cn.
+nameserver.aust.edu.cn.	86400	IN	CNAME	shg.aust.edu.cn.
+new.aust.edu.cn.	86400	IN	CNAME	app.aust.edu.cn.
+news.aust.edu.cn.	86400	IN	CNAME	web.aust.edu.cn.
+newspaper.aust.edu.cn.	86400	IN	CNAME	newspaper1.3g.chaoxing.com.
+noa.aust.edu.cn.	86400	IN	A	210.45.144.100
+notice.aust.edu.cn.	86400	IN	CNAME	app.aust.edu.cn.
+nyaq.aust.edu.cn.	86400	IN	CNAME	web.aust.edu.cn.
+ocac.aust.edu.cn.	86400	IN	CNAME	app.aust.edu.cn.
+onews.aust.edu.cn.	86400	IN	A	210.45.144.229
+pjw.aust.edu.cn.	86400	IN	A	210.45.144.227
+pop3.aust.edu.cn.	86400	IN	A	210.45.144.14
+qw.aust.edu.cn.		86400	IN	CNAME	qw.3g.chaoxing.com.
+qzlx.aust.edu.cn.	86400	IN	CNAME	web.aust.edu.cn.
+router.aust.edu.cn.	86400	IN	A	210.45.144.254
+rsc.aust.edu.cn.	86400	IN	CNAME	web.aust.edu.cn.
+rwxy.aust.edu.cn.	86400	IN	CNAME	web.aust.edu.cn.
+seek.aust.edu.cn.	86400	IN	CNAME	app.aust.edu.cn.
+sfl.aust.edu.cn.	86400	IN	CNAME	web.aust.edu.cn.
+shg.aust.edu.cn.	86400	IN	A	210.45.144.18
+sjc.aust.edu.cn.	86400	IN	CNAME	web.aust.edu.cn.
+smtp.aust.edu.cn.	86400	IN	A	210.45.144.70
+star.aust.edu.cn.	86400	IN	A	210.45.144.191
+stlhh.aust.edu.cn.	86400	IN	CNAME	web.aust.edu.cn.
+study.aust.edu.cn.	86400	IN	CNAME	web.aust.edu.cn.
+sygl.aust.edu.cn.	86400	IN	CNAME	web.aust.edu.cn.
+szb.aust.edu.cn.	86400	IN	CNAME	web.aust.edu.cn.
+szfx.aust.edu.cn.	86400	IN	CNAME	web.aust.edu.cn.
+test.aust.edu.cn.	86400	IN	CNAME	web.aust.edu.cn.
+time.aust.edu.cn.	86400	IN	A	210.45.144.96
+tmxy.aust.edu.cn.	86400	IN	CNAME	web.aust.edu.cn.
+tsg.aust.edu.cn.	86400	IN	CNAME	web.aust.edu.cn.
+tyb.aust.edu.cn.	86400	IN	CNAME	web.aust.edu.cn.
+tzb.aust.edu.cn.	86400	IN	CNAME	web.aust.edu.cn.
+video.aust.edu.cn.	86400	IN	CNAME	app.aust.edu.cn.
+vod.aust.edu.cn.	86400	IN	A	10.10.253.1
+vsb.aust.edu.cn.	86400	IN	A	210.45.144.80
+web.aust.edu.cn.	86400	IN	A	210.45.144.180
+wlzx.aust.edu.cn.	86400	IN	CNAME	app.aust.edu.cn.
+wsb.aust.edu.cn.	86400	IN	CNAME	web.aust.edu.cn.
+wsus.aust.edu.cn.	86400	IN	A	210.45.144.225
+www.aust.edu.cn.	86400	IN	A	210.45.144.180
+wzb.aust.edu.cn.	86400	IN	CNAME	web.aust.edu.cn.
+xbmw.aust.edu.cn.	86400	IN	CNAME	web.aust.edu.cn.
+xcb.aust.edu.cn.	86400	IN	CNAME	web.aust.edu.cn.
+xlcs.aust.edu.cn.	86400	IN	A	10.10.253.34
+xq.aust.edu.cn.		86400	IN	CNAME	app.aust.edu.cn.
+xsc.aust.edu.cn.	86400	IN	CNAME	web.aust.edu.cn.
+xsh.aust.edu.cn.	86400	IN	CNAME	web.aust.edu.cn.
+xszz.aust.edu.cn.	86400	IN	A	210.45.144.200
+xtcx.aust.edu.cn.	86400	IN	CNAME	web.aust.edu.cn.
+xuebao.aust.edu.cn.	86400	IN	CNAME	web.aust.edu.cn.
+xwgk.aust.edu.cn.	86400	IN	CNAME	app.aust.edu.cn.
+xxq.aust.edu.cn.	86400	IN	CNAME	web.aust.edu.cn.
+xyw.aust.edu.cn.	86400	IN	A	210.45.144.121
+yjsc.aust.edu.cn.	86400	IN	CNAME	web.aust.edu.cn.
+yjsh.aust.edu.cn.	86400	IN	CNAME	web.aust.edu.cn.
+youth.aust.edu.cn.	86400	IN	CNAME	web.aust.edu.cn.
+yxy.aust.edu.cn.	86400	IN	CNAME	web.aust.edu.cn.
+zlgc.aust.edu.cn.	86400	IN	CNAME	web.aust.edu.cn.
+zs.aust.edu.cn.		86400	IN	CNAME	web.aust.edu.cn.
+zzhb.aust.edu.cn.	86400	IN	CNAME	web.aust.edu.cn.
+aust.edu.cn.		86400	IN	SOA	shg.aust.edu.cn. root.shg.aust.edu.cn. 20120522 10800 1800 259200 86400
+;; Query time: 1885 msec
+;; SERVER: 210.45.144.19#53(210.45.144.19)
+;; WHEN: Mon Apr 21 20:52:48 中国标准时间 2014
+;; XFR size: 161 records (messages 1, bytes 3289)
+

@@ -1,0 +1,70 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns2.csust.edu.cn axfr csust.edu.cn
+; (1 server found)
+;; global options: +cmd
+csust.edu.cn.		86400	IN	SOA	dns.csust.edu.cn. root.localhost.csust.edu.cn. 20140410 28800 7200 604800 86400
+csust.edu.cn.		86400	IN	NS	dns.csust.edu.cn.
+csust.edu.cn.		86400	IN	NS	dns2.csust.edu.cn.
+csust.edu.cn.		86400	IN	A	210.43.192.8
+csust.edu.cn.		86400	IN	A	210.43.192.18
+csust.edu.cn.		86400	IN	MX	10 dns.csust.edu.cn.
+csust.edu.cn.		86400	IN	MX	30 mail.csust.edu.cn.
+csust.edu.cn.		86400	IN	AAAA	2001:da8:d002::d22b:c008
+3g.csust.edu.cn.	86400	IN	A	113.240.233.6
+app7.csust.edu.cn.	86400	IN	A	222.240.152.227
+app8.csust.edu.cn.	86400	IN	A	113.240.233.8
+cas.csust.edu.cn.	86400	IN	A	210.43.198.1
+cslgqkzx.csust.edu.cn.	86400	IN	A	210.43.188.80
+cslgxbsk.csust.edu.cn.	86400	IN	CNAME	cslgqkzx.csust.edu.cn.
+cslgxbzk.csust.edu.cn.	86400	IN	CNAME	cslgqkzx.csust.edu.cn.
+cxlt.csust.edu.cn.	86400	IN	A	222.240.152.203
+dkxnsyzx.csust.edu.cn.	86400	IN	A	222.240.152.200
+dlkjxb.csust.edu.cn.	86400	IN	CNAME	cslgqkzx.csust.edu.cn.
+dns.csust.edu.cn.	86400	IN	A	210.43.192.8
+dns2.csust.edu.cn.	86400	IN	A	210.43.192.18
+dns6.csust.edu.cn.	86400	IN	AAAA	2001:da8:d002::d22b:c008
+eapp.csust.edu.cn.	86400	IN	A	210.43.198.2
+ems.csust.edu.cn.	86400	IN	A	113.240.233.5
+et.csust.edu.cn.	86400	IN	A	113.240.233.148
+glis.csust.edu.cn.	86400	IN	A	210.43.188.8
+glyqy.csust.edu.cn.	86400	IN	CNAME	cslgqkzx.csust.edu.cn.
+ids.csust.edu.cn.	86400	IN	A	113.240.233.12
+ids.csust.edu.cn.	86400	IN	A	222.240.152.226
+imp.csust.edu.cn.	86400	IN	CNAME	welcome.csust.edu.cn.
+isatap.csust.edu.cn.	86400	IN	A	192.168.10.253
+ism.csust.edu.cn.	86400	IN	CNAME	app7.csust.edu.cn.
+jgsjyl.csust.edu.cn.	86400	IN	A	222.240.152.205
+jpkc.csust.edu.cn.	86400	IN	A	113.240.233.149
+jtkxygc.csust.edu.cn.	86400	IN	CNAME	cslgqkzx.csust.edu.cn.
+lx.csust.edu.cn.	86400	IN	CNAME	welcome.csust.edu.cn.
+m.csust.edu.cn.		86400	IN	CNAME	mobile.csust.edu.cn.
+mail.csust.edu.cn.	86400	IN	A	210.43.192.3
+mailgate.csust.edu.cn.	86400	IN	CNAME	dns.csust.edu.cn.
+mcp.csust.edu.cn.	86400	IN	CNAME	welcome.csust.edu.cn.
+mcp1.csust.edu.cn.	86400	IN	CNAME	app7.csust.edu.cn.
+mcp2.csust.edu.cn.	86400	IN	CNAME	app8.csust.edu.cn.
+minigoogle.csust.edu.cn. 86400	IN	A	210.43.188.88
+mobile.csust.edu.cn.	86400	IN	A	113.240.233.4
+my.csust.edu.cn.	86400	IN	CNAME	welcome.csust.edu.cn.
+oa.csust.edu.cn.	86400	IN	CNAME	welcome.csust.edu.cn.
+portal.csust.edu.cn.	86400	IN	CNAME	eapp.csust.edu.cn.
+pt.csust.edu.cn.	86400	IN	A	113.240.233.147
+rs.csust.edu.cn.	86400	IN	CNAME	welcome.csust.edu.cn.
+srv.csust.edu.cn.	86400	IN	A	113.240.233.150
+syjx.csust.edu.cn.	86400	IN	CNAME	cslgqkzx.csust.edu.cn.
+test.csust.edu.cn.	86400	IN	A	210.43.204.236
+test.csust.edu.cn.	86400	IN	AAAA	2001:da8:d002::d22b:c018
+vpn.csust.edu.cn.	86400	IN	CNAME	srv.csust.edu.cn.
+welcome.csust.edu.cn.	86400	IN	A	113.240.233.13
+www.csust.edu.cn.	86400	IN	CNAME	wwwdx.csust.edu.cn.
+wwwdx.csust.edu.cn.	86400	IN	A	113.240.233.146
+wwwedu.csust.edu.cn.	86400	IN	A	210.43.192.7
+wwwlt.csust.edu.cn.	86400	IN	A	58.20.15.130
+xg1.csust.edu.cn.	86400	IN	CNAME	welcome.csust.edu.cn.
+zwgl.csust.edu.cn.	86400	IN	CNAME	cslgqkzx.csust.edu.cn.
+csust.edu.cn.		86400	IN	SOA	dns.csust.edu.cn. root.localhost.csust.edu.cn. 20140410 28800 7200 604800 86400
+;; Query time: 70 msec
+;; SERVER: 210.43.192.18#53(210.43.192.18)
+;; WHEN: Mon Apr 21 20:58:04 中国标准时间 2014
+;; XFR size: 61 records (messages 1, bytes 1318)
+

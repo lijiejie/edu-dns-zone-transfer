@@ -1,0 +1,23 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns.semc.edu.cn axfr semc.edu.cn
+; (1 server found)
+;; global options: +cmd
+semc.edu.cn.		86400	IN	SOA	dns.semc.edu.cn. root.dns.semc.edu.cn. 2010011209 28800 14400 3600000 86400
+semc.edu.cn.		86400	IN	NS	dns.semc.edu.cn.
+semc.edu.cn.		86400	IN	MX	10 mail.semc.edu.cn.
+dns.semc.edu.cn.	86400	IN	A	210.35.83.10
+ftp.semc.edu.cn.	86400	IN	A	116.236.219.197
+gz.semc.edu.cn.		86400	IN	A	116.236.219.195
+international.semc.edu.cn. 86400 IN	A	116.236.219.196
+jx.semc.edu.cn.		86400	IN	A	116.236.219.200
+lib.semc.edu.cn.	86400	IN	A	116.236.219.199
+mail.semc.edu.cn.	86400	IN	A	116.236.219.198
+netdisk.semc.edu.cn.	86400	IN	A	116.236.219.201
+vpn.semc.edu.cn.	86400	IN	A	116.236.219.207
+www.semc.edu.cn.	86400	IN	A	116.236.219.194
+semc.edu.cn.		86400	IN	SOA	dns.semc.edu.cn. root.dns.semc.edu.cn. 2010011209 28800 14400 3600000 86400
+;; Query time: 43 msec
+;; SERVER: 210.35.83.10#53(210.35.83.10)
+;; WHEN: Mon Apr 21 20:55:07 中国标准时间 2014
+;; XFR size: 14 records (messages 1, bytes 349)
+

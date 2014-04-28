@@ -1,0 +1,39 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns2.lynu.edu.cn axfr lynu.edu.cn
+; (1 server found)
+;; global options: +cmd
+lynu.edu.cn.		7200	IN	SOA	dns.lynu.edu.cn. master.lynu.edu.cn. 2014040809 604800 604800 3600000 7200
+lynu.edu.cn.		7200	IN	MX	10 mail.lynu.edu.cn.
+lynu.edu.cn.		7200	IN	NS	dns.lynu.edu.cn.
+lynu.edu.cn.		7200	IN	NS	dns2.lynu.edu.cn.
+ait.lynu.edu.cn.	7200	IN	A	61.136.68.76
+ait1.lynu.edu.cn.	7200	IN	A	211.67.81.37
+art.lynu.edu.cn.	7200	IN	A	61.136.68.69
+bmzy.lynu.edu.cn.	7200	IN	A	61.136.68.68
+dns.lynu.edu.cn.	7200	IN	A	183.170.0.6
+dns2.lynu.edu.cn.	7200	IN	A	183.170.0.7
+ftp.lynu.edu.cn.	7200	IN	A	211.67.81.56
+fz.lynu.edu.cn.		7200	IN	A	61.136.68.68
+hlxc.lynu.edu.cn.	7200	IN	A	61.136.68.84
+jwgl.lynu.edu.cn.	7200	IN	A	211.67.81.29
+jxcg.lynu.edu.cn.	7200	IN	A	211.67.81.29
+jxzy.lynu.edu.cn.	7200	IN	A	211.67.81.35
+mail.lynu.edu.cn.	7200	IN	A	61.136.68.87
+news.lynu.edu.cn.	7200	IN	A	211.67.81.5
+ok.lynu.edu.cn.		7200	IN	A	211.67.81.3
+rjxy.lynu.edu.cn.	7200	IN	A	61.136.68.77
+sou.lynu.edu.cn.	7200	IN	A	211.67.81.68
+sun.lynu.edu.cn.	7200	IN	A	211.67.81.3
+tsg.lynu.edu.cn.	7200	IN	A	61.136.68.74
+tv.lynu.edu.cn.		7200	IN	A	211.67.81.70
+ws.lynu.edu.cn.		7200	IN	A	211.67.81.17
+www.lynu.edu.cn.	7200	IN	A	61.136.68.92
+xsc.lynu.edu.cn.	7200	IN	A	211.67.81.3
+zjc.lynu.edu.cn.	7200	IN	A	61.136.68.68
+zscx.lynu.edu.cn.	7200	IN	A	211.67.81.10
+lynu.edu.cn.		7200	IN	SOA	dns.lynu.edu.cn. master.lynu.edu.cn. 2014040809 604800 604800 3600000 7200
+;; Query time: 24 msec
+;; SERVER: 183.170.0.7#53(183.170.0.7)
+;; WHEN: Mon Apr 21 20:59:01 中国标准时间 2014
+;; XFR size: 30 records (messages 1, bytes 659)
+

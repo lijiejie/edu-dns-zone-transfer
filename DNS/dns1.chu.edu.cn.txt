@@ -1,0 +1,22 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns1.chu.edu.cn axfr chtc.edu.cn
+; (1 server found)
+;; global options: +cmd
+chtc.edu.cn.		3600	IN	SOA	dns1.chu.edu.cn. wlzx\@chu.edu.cn. 2014032512 30 30 360 3600
+chtc.edu.cn.		3600	IN	NS	dns1.chu.edu.cn.
+billing.chtc.edu.cn.	3600	IN	A	210.45.92.15
+dns1.chtc.edu.cn.	3600	IN	A	210.45.92.11
+edoas.chtc.edu.cn.	3600	IN	A	210.45.92.17
+jyx.chtc.edu.cn.	3600	IN	A	210.45.92.32
+mail.chtc.edu.cn.	3600	IN	A	210.45.92.14
+www.chtc.edu.cn.	3600	IN	A	210.45.92.5
+www1.chtc.edu.cn.	3600	IN	A	210.45.92.24
+www2.chtc.edu.cn.	3600	IN	A	210.45.92.26
+zhumin.chtc.edu.cn.	3600	IN	A	218.23.37.36
+zhumin2.chtc.edu.cn.	3600	IN	A	218.23.37.37
+chtc.edu.cn.		3600	IN	SOA	dns1.chu.edu.cn. wlzx\@chu.edu.cn. 2014032512 30 30 360 3600
+;; Query time: 44 msec
+;; SERVER: 210.45.92.11#53(210.45.92.11)
+;; WHEN: Mon Apr 21 20:53:10 中国标准时间 2014
+;; XFR size: 13 records (messages 1, bytes 350)
+

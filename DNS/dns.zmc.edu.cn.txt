@@ -1,0 +1,37 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns.zmc.edu.cn axfr zmc.edu.cn
+; (1 server found)
+;; global options: +cmd
+zmc.edu.cn.		86400	IN	SOA	dns.zmc.edu.cn. root.dns.zmc.edu.cn. 1997022700 28800 14400 3600000 86400
+zmc.edu.cn.		86400	IN	NS	dns.zmc.edu.cn.
+zmc.edu.cn.		86400	IN	MX	10 mail.zmc.edu.cn.
+*.zmc.edu.cn.		86400	IN	A	211.83.160.2
+bas.zmc.edu.cn.		86400	IN	A	211.83.160.54
+dns.zmc.edu.cn.		86400	IN	A	211.83.160.33
+grs.zmc.edu.cn.		86400	IN	A	211.83.160.44
+jnzx.zmc.edu.cn.	86400	IN	A	211.83.160.120
+job.zmc.edu.cn.		86400	IN	A	211.83.161.3
+jw.zmc.edu.cn.		86400	IN	A	211.83.160.58
+jwc.zmc.edu.cn.		86400	IN	A	211.83.160.57
+jyx.zmc.edu.cn.		86400	IN	A	211.83.161.4
+lib.zmc.edu.cn.		86400	IN	A	211.83.161.1
+log.zmc.edu.cn.		86400	IN	A	211.83.160.59
+mail.zmc.edu.cn.	86400	IN	A	211.83.160.50
+mts.zmc.edu.cn.		86400	IN	A	211.83.160.4
+bmssfzx.mts.zmc.edu.cn.	86400	IN	CNAME	mts.zmc.edu.cn.
+en.mts.zmc.edu.cn.	86400	IN	CNAME	mts.zmc.edu.cn.
+oa.mts.zmc.edu.cn.	86400	IN	A	211.83.160.9
+www1.mts.zmc.edu.cn.	86400	IN	A	211.83.160.22
+oa.zmc.edu.cn.		86400	IN	A	211.83.160.8
+san.zmc.edu.cn.		86400	IN	A	211.83.160.55
+scse.zmc.edu.cn.	86400	IN	A	211.83.160.62
+szw.zmc.edu.cn.		86400	IN	A	211.83.161.2
+vod.zmc.edu.cn.		86400	IN	A	211.83.160.61
+www1.zmc.edu.cn.	86400	IN	A	211.83.160.3
+zzb.zmc.edu.cn.		86400	IN	A	211.83.160.46
+zmc.edu.cn.		86400	IN	SOA	dns.zmc.edu.cn. root.dns.zmc.edu.cn. 1997022700 28800 14400 3600000 86400
+;; Query time: 92 msec
+;; SERVER: 211.83.160.33#53(211.83.160.33)
+;; WHEN: Mon Apr 21 21:02:54 中国标准时间 2014
+;; XFR size: 28 records (messages 1, bytes 614)
+

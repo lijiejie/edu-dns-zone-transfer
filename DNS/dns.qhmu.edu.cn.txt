@@ -1,0 +1,19 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns.qhmu.edu.cn axfr qhmu.edu.cn
+; (1 server found)
+;; global options: +cmd
+qhmu.edu.cn.		10	IN	SOA	dns.qhmu.edu.cn. admin.qhmu.edu.cn. 1375177918 3600 3600 86400 10
+qhmu.edu.cn.		10	IN	NS	dns.qhmu.edu.cn.
+qhmu.edu.cn.		3600	IN	MX	10 mail.qhmu.edu.cn.
+dns.qhmu.edu.cn.	3600	IN	A	219.247.255.10
+mail.qhmu.edu.cn.	3600	IN	A	219.247.255.21
+oa.qhmu.edu.cn.		3600	IN	A	219.247.255.46
+szj.qhmu.edu.cn.	3600	IN	A	218.95.241.28
+www.qhmu.edu.cn.	3600	IN	A	218.95.241.27
+zs.qhmu.edu.cn.		3600	IN	A	59.36.100.104
+qhmu.edu.cn.		10	IN	SOA	dns.qhmu.edu.cn. admin.qhmu.edu.cn. 1375177918 3600 3600 86400 10
+;; Query time: 38 msec
+;; SERVER: 219.247.255.10#53(219.247.255.10)
+;; WHEN: Mon Apr 21 21:04:45 中国标准时间 2014
+;; XFR size: 10 records (messages 1, bytes 256)
+

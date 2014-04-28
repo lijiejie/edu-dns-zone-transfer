@@ -1,0 +1,93 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @as.sjzu.edu.cn axfr sjzu.edu.cn
+; (1 server found)
+;; global options: +cmd
+sjzu.edu.cn.		86400	IN	SOA	as.sjzu.edu.cn. root.sjzu.edu.cn. 3 43200 3600 604800 86400
+sjzu.edu.cn.		86400	IN	NS	as.sjzu.edu.cn.
+sjzu.edu.cn.		86400	IN	MX	0 gate.sjzu.edu.cn.
+sjzu.edu.cn.		86400	IN	MX	1 mail.sjzu.edu.cn.
+3mj.sjzu.edu.cn.	86400	IN	A	202.199.64.136
+as.sjzu.edu.cn.		86400	IN	A	202.199.64.5
+as1.sjzu.edu.cn.	86400	IN	A	202.199.64.6
+bbs.sjzu.edu.cn.	86400	IN	A	202.199.64.19
+bwc.sjzu.edu.cn.	86400	IN	A	202.199.64.136
+cl.sjzu.edu.cn.		86400	IN	A	202.199.64.136
+dy.sjzu.edu.cn.		86400	IN	A	202.199.64.136
+english.sjzu.edu.cn.	86400	IN	A	202.199.64.136
+f.sjzu.edu.cn.		86400	IN	A	202.199.64.12
+g.sjzu.edu.cn.		86400	IN	A	202.199.64.36
+gate.sjzu.edu.cn.	86400	IN	A	202.199.64.9
+gbz.sjzu.edu.cn.	86400	IN	A	202.199.64.13
+ggfx.sjzu.edu.cn.	86400	IN	A	202.199.64.36
+gh.sjzu.edu.cn.		86400	IN	A	202.199.64.136
+gj.sjzu.edu.cn.		86400	IN	A	202.199.64.136
+gjxy.sjzu.edu.cn.	86400	IN	A	202.199.64.136
+gl.sjzu.edu.cn.		86400	IN	A	202.199.64.136
+grs.sjzu.edu.cn.	86400	IN	A	202.199.64.36
+grsmis.sjzu.edu.cn.	86400	IN	A	202.199.64.36
+gs.sjzu.edu.cn.		86400	IN	A	202.199.64.13
+gz.sjzu.edu.cn.		86400	IN	A	202.199.78.1
+hjlab.sjzu.edu.cn.	86400	IN	A	202.199.64.13
+hq.sjzu.edu.cn.		86400	IN	A	202.199.64.136
+jjc.sjzu.edu.cn.	86400	IN	A	202.199.64.136
+jl.sjzu.edu.cn.		86400	IN	A	202.199.64.136
+jn.sjzu.edu.cn.		86400	IN	A	202.199.64.13
+jtjx.sjzu.edu.cn.	86400	IN	A	202.199.64.136
+jwjc.sjzu.edu.cn.	86400	IN	A	202.199.64.136
+jxjy.sjzu.edu.cn.	86400	IN	A	202.199.64.136
+jxxk.sjzu.edu.cn.	86400	IN	A	202.199.64.12
+jy.sjzu.edu.cn.		86400	IN	A	202.199.64.33
+jz.sjzu.edu.cn.		86400	IN	A	202.199.64.136
+jzcy.sjzu.edu.cn.	86400	IN	A	202.199.64.136
+jzsj.sjzu.edu.cn.	86400	IN	A	202.199.64.136
+lhy.sjzu.edu.cn.	86400	IN	A	202.199.64.136
+lxy.sjzu.edu.cn.	86400	IN	A	202.199.64.136
+mail.sjzu.edu.cn.	86400	IN	A	202.199.64.10
+manage.sjzu.edu.cn.	86400	IN	A	202.199.64.2
+movie.sjzu.edu.cn.	86400	IN	A	202.199.64.203
+net.sjzu.edu.cn.	86400	IN	A	202.199.64.136
+pop3.sjzu.edu.cn.	86400	IN	A	202.199.64.10
+pufa.sjzu.edu.cn.	86400	IN	A	202.199.64.136
+qzlx.sjzu.edu.cn.	86400	IN	A	202.199.64.136
+rsc.sjzu.edu.cn.	86400	IN	A	202.199.64.136
+sbd.sjzu.edu.cn.	86400	IN	A	202.199.64.136
+shiyan.sjzu.edu.cn.	86400	IN	A	202.199.64.136
+smtp.sjzu.edu.cn.	86400	IN	A	202.199.64.10
+stu.sjzu.edu.cn.	86400	IN	A	202.199.64.138
+su.sjzu.edu.cn.		86400	IN	A	202.199.64.215
+sz.sjzu.edu.cn.		86400	IN	A	202.199.64.136
+szhj.sjzu.edu.cn.	86400	IN	A	202.199.64.136
+szzt.sjzu.edu.cn.	86400	IN	A	202.199.64.136
+tennis.sjzu.edu.cn.	86400	IN	A	202.199.64.136
+test.sjzu.edu.cn.	86400	IN	A	202.199.64.2
+tm.sjzu.edu.cn.		86400	IN	A	202.199.64.136
+tsg.sjzu.edu.cn.	86400	IN	A	202.199.64.136
+tw.sjzu.edu.cn.		86400	IN	A	202.199.64.136
+tyb.sjzu.edu.cn.	86400	IN	A	202.199.64.136
+web.sjzu.edu.cn.	86400	IN	A	202.199.64.136
+ws1.sjzu.edu.cn.	86400	IN	A	61.161.186.92
+ws2.sjzu.edu.cn.	86400	IN	A	61.161.186.93
+ws3.sjzu.edu.cn.	86400	IN	A	61.161.186.94
+www.sjzu.edu.cn.	86400	IN	A	202.199.64.2
+wy.sjzu.edu.cn.		86400	IN	A	202.199.64.136
+wyb.sjzu.edu.cn.	86400	IN	A	202.199.64.30
+xb.sjzu.edu.cn.		86400	IN	A	202.199.64.136
+xcb.sjzu.edu.cn.	86400	IN	A	202.199.64.136
+xiaoyou.sjzu.edu.cn.	86400	IN	A	202.199.64.136
+xsc.sjzu.edu.cn.	86400	IN	A	202.199.64.136
+xuebao.sjzu.edu.cn.	86400	IN	A	202.199.64.136
+xxkz.sjzu.edu.cn.	86400	IN	A	202.199.64.136
+xysys.sjzu.edu.cn.	86400	IN	A	202.199.64.12
+ycspzp.sjzu.edu.cn.	86400	IN	A	202.199.64.34
+ys.sjzu.edu.cn.		86400	IN	A	202.199.64.13
+zcc.sjzu.edu.cn.	86400	IN	A	202.199.64.136
+zdsys.sjzu.edu.cn.	86400	IN	A	202.199.64.36
+zs.sjzu.edu.cn.		86400	IN	A	202.199.64.33
+zsjy.sjzu.edu.cn.	86400	IN	A	202.199.64.33
+zzb.sjzu.edu.cn.	86400	IN	A	202.199.64.136
+sjzu.edu.cn.		86400	IN	SOA	as.sjzu.edu.cn. root.sjzu.edu.cn. 3 43200 3600 604800 86400
+;; Query time: 65 msec
+;; SERVER: 202.199.64.5#53(202.199.64.5)
+;; WHEN: Mon Apr 21 20:49:56 中国标准时间 2014
+;; XFR size: 84 records (messages 1, bytes 1760)
+

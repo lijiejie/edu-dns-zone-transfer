@@ -1,0 +1,24 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @chnu1.chnu.edu.cn axfr hbcnc.edu.cn
+; (1 server found)
+;; global options: +cmd
+hbcnc.edu.cn.		86400	IN	SOA	ns.hbcnc.edu.cn. root.ns.hbcnc.edu.cn. 45 10800 900 604800 86400
+hbcnc.edu.cn.		86400	IN	NS	chnu1.chnu.edu.cn.
+hbcnc.edu.cn.		86400	IN	NS	chnu2.chnu.edu.cn.
+hbcnc.edu.cn.		86400	IN	A	210.45.128.1
+hbcnc.edu.cn.		86400	IN	A	210.45.128.3
+hbcnc.edu.cn.		86400	IN	AAAA	::1
+hbcnc.edu.cn.		86400	IN	MX	20 hbcnc.edu.cn.
+chnu1.hbcnc.edu.cn.	86400	IN	A	210.45.128.1
+chnu2.hbcnc.edu.cn.	86400	IN	A	210.45.128.11
+edoas.hbcnc.edu.cn.	86400	IN	A	210.45.128.10
+mail1.hbcnc.edu.cn.	86400	IN	A	210.45.128.3
+sxjy.hbcnc.edu.cn.	86400	IN	A	210.45.128.7
+virus.hbcnc.edu.cn.	86400	IN	A	210.45.128.28
+www.hbcnc.edu.cn.	86400	IN	A	210.45.128.35
+hbcnc.edu.cn.		86400	IN	SOA	ns.hbcnc.edu.cn. root.ns.hbcnc.edu.cn. 45 10800 900 604800 86400
+;; Query time: 62 msec
+;; SERVER: 210.45.128.1#53(210.45.128.1)
+;; WHEN: Mon Apr 21 20:53:31 中国标准时间 2014
+;; XFR size: 15 records (messages 1, bytes 382)
+

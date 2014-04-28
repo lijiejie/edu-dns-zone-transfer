@@ -1,0 +1,57 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @bamboo.dlrtvu.edu.cn axfr dlrtvu.edu.cn
+; (1 server found)
+;; global options: +cmd
+dlrtvu.edu.cn.		604800	IN	SOA	bamboo.dlrtvu.edu.cn. root.bamboo.dlrtvu.edu.cn. 2008092503 10800 4800 604800 432000
+dlrtvu.edu.cn.		604800	IN	NS	bamboo.dlrtvu.edu.cn.
+dlrtvu.edu.cn.		604800	IN	MX	1 mail.dlrtvu.edu.cn.
+bamboo.dlrtvu.edu.cn.	604800	IN	A	210.47.224.2
+bamboo.dlrtvu.edu.cn.	604800	IN	MX	10 bamboo.dlrtvu.edu.cn.
+bbs.dlrtvu.edu.cn.	604800	IN	A	210.47.224.8
+campus.dlrtvu.edu.cn.	604800	IN	A	210.47.228.1
+campus.dlrtvu.edu.cn.	604800	IN	A	210.47.229.1
+ch.dlrtvu.edu.cn.	604800	IN	A	210.47.238.5
+dns.dlrtvu.edu.cn.	604800	IN	CNAME	bamboo.dlrtvu.edu.cn.
+ftp.dlrtvu.edu.cn.	604800	IN	CNAME	nsserver.dlrtvu.edu.cn.
+gjz.dlrtvu.edu.cn.	604800	IN	A	210.47.238.68
+jctg.dlrtvu.edu.cn.	604800	IN	A	210.47.239.5
+jwgl.dlrtvu.edu.cn.	604800	IN	A	210.47.224.40
+kb.dlrtvu.edu.cn.	604800	IN	A	210.47.229.241
+kfq.dlrtvu.edu.cn.	604800	IN	A	210.47.239.254
+kill.dlrtvu.edu.cn.	604800	IN	A	210.47.224.18
+lib.dlrtvu.edu.cn.	604800	IN	CNAME	plum.dlrtvu.edu.cn.
+library.dlrtvu.edu.cn.	604800	IN	A	210.47.224.200
+localhost.dlrtvu.edu.cn. 604800	IN	A	127.0.0.1
+ls.dlrtvu.edu.cn.	604800	IN	A	210.47.238.131
+lwzd.dlrtvu.edu.cn.	604800	IN	A	124.93.247.76
+lxd.dlrtvu.edu.cn.	604800	IN	A	210.47.228.114
+mail.dlrtvu.edu.cn.	604800	IN	A	210.47.224.4
+nerc.dlrtvu.edu.cn.	604800	IN	A	210.47.224.234
+net.dlrtvu.edu.cn.	604800	IN	NS	bamboo.dlrtvu.edu.cn.
+net.dlrtvu.edu.cn.	604800	IN	NS	orchid.dlrtvu.edu.cn.
+netflow.dlrtvu.edu.cn.	604800	IN	CNAME	old.dlrtvu.edu.cn.
+nss.dlrtvu.edu.cn.	604800	IN	CNAME	nsserver.dlrtvu.edu.cn.
+nsserver.dlrtvu.edu.cn.	604800	IN	A	210.47.224.99
+oa.dlrtvu.edu.cn.	604800	IN	A	210.47.224.6
+old.dlrtvu.edu.cn.	604800	IN	A	210.47.224.16
+open.dlrtvu.edu.cn.	604800	IN	A	210.47.224.129
+pinggu.dlrtvu.edu.cn.	604800	IN	A	210.47.224.100
+pld.dlrtvu.edu.cn.	604800	IN	A	210.47.238.253
+plum.dlrtvu.edu.cn.	604800	IN	A	210.47.224.224
+proftp.dlrtvu.edu.cn.	604800	IN	A	210.47.224.20
+proxy.dlrtvu.edu.cn.	604800	IN	CNAME	plum.dlrtvu.edu.cn.
+server.dlrtvu.edu.cn.	604800	IN	A	210.47.224.29
+vod.dlrtvu.edu.cn.	604800	IN	A	210.47.224.120
+wfd.dlrtvu.edu.cn.	604800	IN	A	210.47.239.2
+www.dlrtvu.edu.cn.	604800	IN	A	124.93.247.79
+wyzz.dlrtvu.edu.cn.	604800	IN	A	210.47.239.4
+xk.dlrtvu.edu.cn.	604800	IN	A	124.93.247.75
+zdyc.dlrtvu.edu.cn.	604800	IN	A	210.47.224.121
+zh.dlrtvu.edu.cn.	604800	IN	A	210.47.239.64
+zzdzx.dlrtvu.edu.cn.	604800	IN	CNAME	vod.dlrtvu.edu.cn.
+dlrtvu.edu.cn.		604800	IN	SOA	bamboo.dlrtvu.edu.cn. root.bamboo.dlrtvu.edu.cn. 2008092503 10800 4800 604800 432000
+;; Query time: 3379 msec
+;; SERVER: 210.47.224.2#53(210.47.224.2)
+;; WHEN: Mon Apr 21 20:50:12 中国标准时间 2014
+;; XFR size: 48 records (messages 1, bytes 1037)
+

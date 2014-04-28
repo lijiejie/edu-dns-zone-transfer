@@ -1,0 +1,22 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns1.xit.edu.cn axfr xit.edu.cn
+; (1 server found)
+;; global options: +cmd
+xit.edu.cn.		86400	IN	SOA	xit.edu.cn. service.xit.edu.cn. 2011040107 10800 3600 604800 86400
+xit.edu.cn.		86400	IN	NS	dns.xit.edu.cn.
+xit.edu.cn.		86400	IN	NS	dns1.xit.edu.cn.
+xit.edu.cn.		86400	IN	MX	5 mail.xit.edu.cn.
+bbs.xit.edu.cn.		86400	IN	A	210.13.208.178
+dns.xit.edu.cn.		86400	IN	A	111.187.192.1
+dns1.xit.edu.cn.	86400	IN	A	111.187.192.2
+jwxt.xit.edu.cn.	86400	IN	A	210.13.208.188
+lib.xit.edu.cn.		86400	IN	A	210.13.208.172
+mail.xit.edu.cn.	86400	IN	A	210.13.208.171
+www.xit.edu.cn.		86400	IN	A	210.13.208.170
+zxygj.xit.edu.cn.	86400	IN	A	210.13.208.173
+xit.edu.cn.		86400	IN	SOA	xit.edu.cn. service.xit.edu.cn. 2011040107 10800 3600 604800 86400
+;; Query time: 55 msec
+;; SERVER: 111.187.192.2#53(111.187.192.2)
+;; WHEN: Mon Apr 21 20:57:16 中国标准时间 2014
+;; XFR size: 13 records (messages 1, bytes 317)
+

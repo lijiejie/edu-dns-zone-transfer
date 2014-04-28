@@ -1,0 +1,99 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns2.xjtlu.edu.cn axfr xjtlu.edu.cn
+; (1 server found)
+;; global options: +cmd
+xjtlu.edu.cn.		28800	IN	SOA	dns1.xjtlu.edu.cn. please_set_email.absolutely.nowhere. 286 10800 3600 2419200 900
+xjtlu.edu.cn.		28800	IN	MX	10 mail.xjtlu.edu.cn.
+xjtlu.edu.cn.		28800	IN	NS	dns1.xjtlu.edu.cn.
+xjtlu.edu.cn.		28800	IN	NS	dns2.xjtlu.edu.cn.
+academic.xjtlu.edu.cn.	28800	IN	A	180.208.58.11
+www.academic.xjtlu.edu.cn. 28800 IN	CNAME	academic.xjtlu.edu.cn.
+alumni.xjtlu.edu.cn.	28800	IN	A	58.210.89.26
+arch.xjtlu.edu.cn.	28800	IN	A	58.240.163.189
+www.arch.xjtlu.edu.cn.	28800	IN	CNAME	arch.xjtlu.edu.cn.
+bio.xjtlu.edu.cn.	28800	IN	A	58.240.163.189
+www.bio.xjtlu.edu.cn.	28800	IN	CNAME	bio.xjtlu.edu.cn.
+bmo.xjtlu.edu.cn.	28800	IN	A	58.240.163.189
+bridge.xjtlu.edu.cn.	28800	IN	A	58.240.163.178
+buddy.xjtlu.edu.cn.	28800	IN	A	58.240.163.184
+campus.xjtlu.edu.cn.	28800	IN	A	58.240.163.179
+cctc.xjtlu.edu.cn.	28800	IN	A	58.240.163.189
+chem.xjtlu.edu.cn.	28800	IN	A	58.240.163.189
+www.chem.xjtlu.edu.cn.	28800	IN	CNAME	chem.xjtlu.edu.cn.
+civeng.xjtlu.edu.cn.	28800	IN	A	58.240.163.189
+www.civeng.xjtlu.edu.cn. 28800	IN	CNAME	civeng.xjtlu.edu.cn.
+csse.xjtlu.edu.cn.	28800	IN	A	58.240.163.189
+www.csse.xjtlu.edu.cn.	28800	IN	CNAME	csse.xjtlu.edu.cn.
+dns1.xjtlu.edu.cn.	28800	IN	A	180.208.58.3
+dns2.xjtlu.edu.cn.	28800	IN	A	180.208.58.4
+ebridge.xjtlu.edu.cn.	28800	IN	A	180.208.58.12
+ecard.xjtlu.edu.cn.	28800	IN	A	58.210.89.25
+ecc.xjtlu.edu.cn.	28800	IN	A	58.240.163.189
+www.ecc.xjtlu.edu.cn.	28800	IN	CNAME	ecc.xjtlu.edu.cn.
+eee.xjtlu.edu.cn.	28800	IN	A	58.240.163.189
+www.eee.xjtlu.edu.cn.	28800	IN	CNAME	eee.xjtlu.edu.cn.
+envsci.xjtlu.edu.cn.	28800	IN	A	58.240.163.189
+www.envsci.xjtlu.edu.cn. 28800	IN	CNAME	envsci.xjtlu.edu.cn.
+etic.xjtlu.edu.cn.	28800	IN	A	58.210.89.21
+foundation.xjtlu.edu.cn. 28800	IN	A	58.210.89.25
+graduation.xjtlu.edu.cn. 28800	IN	A	58.240.163.189
+www.graduation.xjtlu.edu.cn. 28800 IN	CNAME	graduation.xjtlu.edu.cn.
+hr.xjtlu.edu.cn.	28800	IN	CNAME	hr-xjtlu-edu-cn.powercdn.cn.
+ibss.xjtlu.edu.cn.	28800	IN	A	58.240.163.189
+www.ibss.xjtlu.edu.cn.	28800	IN	CNAME	ibss.xjtlu.edu.cn.
+ice.xjtlu.edu.cn.	28800	IN	A	218.107.254.173
+id.xjtlu.edu.cn.	28800	IN	A	58.240.163.189
+www.id.xjtlu.edu.cn.	28800	IN	CNAME	id.xjtlu.edu.cn.
+ilead.xjtlu.edu.cn.	28800	IN	A	58.240.163.189
+www.ilead.xjtlu.edu.cn.	28800	IN	CNAME	ilead.xjtlu.edu.cn.
+international.xjtlu.edu.cn. 28800 IN	A	58.240.163.189
+www.international.xjtlu.edu.cn.	28800 IN CNAME	international.xjtlu.edu.cn.
+jobs.xjtlu.edu.cn.	28800	IN	A	218.107.254.172
+lc.xjtlu.edu.cn.	28800	IN	A	58.240.163.189
+www.lc.xjtlu.edu.cn.	28800	IN	CNAME	lc.xjtlu.edu.cn.
+lib.xjtlu.edu.cn.	28800	IN	A	222.92.148.167
+idp.lib.xjtlu.edu.cn.	28800	IN	A	58.240.163.181
+libcal.lib.xjtlu.edu.cn. 28800	IN	A	174.132.94.170
+libguides.lib.xjtlu.edu.cn. 28800 IN	A	174.132.16.38
+opac.lib.xjtlu.edu.cn.	28800	IN	A	222.92.148.169
+login.xjtlu.edu.cn.	28800	IN	A	58.240.163.185
+mail.xjtlu.edu.cn.	28800	IN	A	218.107.254.171
+marks.xjtlu.edu.cn.	28800	IN	A	58.240.163.178
+maths.xjtlu.edu.cn.	28800	IN	A	58.240.163.189
+www.maths.xjtlu.edu.cn.	28800	IN	CNAME	maths.xjtlu.edu.cn.
+media.xjtlu.edu.cn.	28800	IN	A	58.210.89.29
+mediaload.xjtlu.edu.cn.	28800	IN	A	58.210.89.30
+mediaserver.xjtlu.edu.cn. 28800	IN	A	58.210.89.28
+mpc.xjtlu.edu.cn.	28800	IN	A	58.240.163.189
+www.mpc.xjtlu.edu.cn.	28800	IN	CNAME	mpc.xjtlu.edu.cn.
+my.xjtlu.edu.cn.	28800	IN	A	58.210.89.26
+newice.xjtlu.edu.cn.	28800	IN	A	58.240.163.188
+news.xjtlu.edu.cn.	28800	IN	CNAME	news-xjtlu-edu-cn.powercdn.cn.
+party.xjtlu.edu.cn.	28800	IN	A	58.210.89.25
+pmail.xjtlu.edu.cn.	28800	IN	A	58.240.163.186
+pmail.xjtlu.edu.cn.	28800	IN	MX	10 pmail.xjtlu.edu.cn.
+portal.xjtlu.edu.cn.	28800	IN	A	58.240.163.185
+qq.xjtlu.edu.cn.	28800	IN	A	3.3.3.3
+research.xjtlu.edu.cn.	28800	IN	A	58.240.163.189
+www.research.xjtlu.edu.cn. 28800 IN	CNAME	research.xjtlu.edu.cn.
+sits.xjtlu.edu.cn.	28800	IN	A	58.210.89.25
+spowa.xjtlu.edu.cn.	28800	IN	A	58.240.163.187
+sslvpn.xjtlu.edu.cn.	28800	IN	A	58.210.89.19
+student.xjtlu.edu.cn.	28800	IN	MX	10 mail.xjtlu.edu.cn.
+study.xjtlu.edu.cn.	28800	IN	A	58.240.163.189
+www.study.xjtlu.edu.cn.	28800	IN	CNAME	study.xjtlu.edu.cn.
+timetable.xjtlu.edu.cn.	28800	IN	A	222.92.148.170
+uask.xjtlu.edu.cn.	28800	IN	A	222.92.148.173
+upd.xjtlu.edu.cn.	28800	IN	A	58.240.163.189
+www.upd.xjtlu.edu.cn.	28800	IN	CNAME	upd.xjtlu.edu.cn.
+utalk.xjtlu.edu.cn.	28800	IN	A	58.210.89.26
+vccr.xjtlu.edu.cn.	28800	IN	A	58.210.89.24
+win-mis01.xjtlu.edu.cn.	28800	IN	A	222.92.148.171
+writingtools.xjtlu.edu.cn. 28800 IN	A	58.210.89.20
+www.xjtlu.edu.cn.	28800	IN	CNAME	www-xjtlu-edu-cn.powercdn.cn.
+xjtlu.edu.cn.		28800	IN	SOA	dns1.xjtlu.edu.cn. please_set_email.absolutely.nowhere. 286 10800 3600 2419200 900
+;; Query time: 87 msec
+;; SERVER: 180.208.58.4#53(180.208.58.4)
+;; WHEN: Mon Apr 21 20:51:36 中国标准时间 2014
+;; XFR size: 90 records (messages 1, bytes 2035)
+

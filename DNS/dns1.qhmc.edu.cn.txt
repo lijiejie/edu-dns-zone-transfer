@@ -1,0 +1,31 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns1.qhmc.edu.cn axfr qhmc.edu.cn
+; (1 server found)
+;; global options: +cmd
+qhmc.edu.cn.		86400	IN	SOA	qhmc.edu.cn. info.qhmc.edu.cn. 2009090105 36000 1800 3456000 36000
+qhmc.edu.cn.		86400	IN	NS	dns1.qhmc.edu.cn.
+qhmc.edu.cn.		86400	IN	NS	dns2.qhmc.edu.cn.
+qhmc.edu.cn.		86400	IN	A	210.27.160.5
+qhmc.edu.cn.		86400	IN	MX	10 mailgate.qhmc.edu.cn.
+qhmc.edu.cn.		86400	IN	MX	20 mail.qhmc.edu.cn.
+dns1.qhmc.edu.cn.	600	IN	A	210.27.160.5
+dns2.qhmc.edu.cn.	600	IN	A	210.27.161.5
+gyyx.qhmc.edu.cn.	600	IN	A	210.27.160.6
+info.qhmc.edu.cn.	600	IN	A	210.27.160.14
+mail.qhmc.edu.cn.	600	IN	A	210.27.160.4
+MyData.qhmc.edu.cn.	600	IN	A	210.27.160.14
+pop.qhmc.edu.cn.	600	IN	A	210.27.160.4
+protal.qhmc.edu.cn.	600	IN	A	210.27.160.8
+smtp.qhmc.edu.cn.	600	IN	CNAME	mail.qhmc.edu.cn.
+test.qhmc.edu.cn.	600	IN	A	210.27.160.130
+www.qhmc.edu.cn.	600	IN	A	210.27.160.6
+www1.qhmc.edu.cn.	600	IN	A	210.27.160.6
+wwwbackground.qhmc.edu.cn. 600	IN	A	210.27.160.14
+wwwoth.qhmc.edu.cn.	600	IN	A	210.27.160.6
+yxk.qhmc.edu.cn.	600	IN	A	210.27.160.3
+qhmc.edu.cn.		86400	IN	SOA	qhmc.edu.cn. info.qhmc.edu.cn. 2009090105 36000 1800 3456000 36000
+;; Query time: 387 msec
+;; SERVER: 210.27.160.5#53(210.27.160.5)
+;; WHEN: Mon Apr 21 21:04:46 中国标准时间 2014
+;; XFR size: 22 records (messages 1, bytes 511)
+

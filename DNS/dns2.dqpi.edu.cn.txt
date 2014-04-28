@@ -1,0 +1,54 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns2.dqpi.edu.cn axfr dqpi.edu.cn
+; (1 server found)
+;; global options: +cmd
+dqpi.edu.cn.		86400	IN	SOA	dns2.dqpi.edu.cn. root.dns2.dqpi.edu.cn. 916622846 10800 3600 604800 86400
+dqpi.edu.cn.		86400	IN	MX	10 mta1.dqpi.edu.cn.
+dqpi.edu.cn.		86400	IN	MX	20 mta2.dqpi.edu.cn.
+dqpi.edu.cn.		86400	IN	NS	dns1.dqpi.edu.cn.
+dqpi.edu.cn.		86400	IN	NS	dns2.dqpi.edu.cn.
+15th-games.dqpi.edu.cn.	86400	IN	A	61.167.120.181
+50.dqpi.edu.cn.		86400	IN	A	61.167.120.181
+cacti.dqpi.edu.cn.	86400	IN	A	61.167.120.82
+computer.dqpi.edu.cn.	86400	IN	A	61.167.120.2
+cwcx.dqpi.edu.cn.	86400	IN	A	172.16.200.199
+dns1.dqpi.edu.cn.	86400	IN	A	210.46.136.1
+dns2.dqpi.edu.cn.	86400	IN	A	210.46.136.6
+dqjsyjzx.dqpi.edu.cn.	86400	IN	A	61.167.120.29
+english.dqpi.edu.cn.	86400	IN	A	61.167.120.186
+football.dqpi.edu.cn.	86400	IN	A	61.167.120.221
+jiaowuchu.dqpi.edu.cn.	86400	IN	A	61.167.120.164
+jiaowuguanli.dqpi.edu.cn. 86400	IN	A	61.167.120.162
+job.dqpi.edu.cn.	86400	IN	A	61.167.120.181
+jpk.dqpi.edu.cn.	86400	IN	A	61.167.120.186
+jwgl.dqpi.edu.cn.	86400	IN	A	61.167.120.162
+jxjy.dqpi.edu.cn.	86400	IN	A	61.167.120.181
+library.dqpi.edu.cn.	86400	IN	A	61.167.120.66
+mail.dqpi.edu.cn.	86400	IN	A	61.167.120.107
+mta1.dqpi.edu.cn.	86400	IN	A	61.167.120.107
+mta2.dqpi.edu.cn.	86400	IN	A	61.167.120.108
+news.dqpi.edu.cn.	86400	IN	A	61.167.120.102
+news1.dqpi.edu.cn.	86400	IN	A	61.167.120.180
+OA.dqpi.edu.cn.		86400	IN	A	61.167.120.113
+qinghuangdao.dqpi.edu.cn. 86400	IN	A	218.12.112.50
+security.dqpi.edu.cn.	86400	IN	A	61.167.120.221
+selfserver.dqpi.edu.cn.	86400	IN	A	61.167.120.217
+vod.dqpi.edu.cn.	86400	IN	A	61.167.120.189
+vpn.dqpi.edu.cn.	86400	IN	A	61.167.120.77
+wap.dqpi.edu.cn.	86400	IN	A	61.167.120.10
+webct.dqpi.edu.cn.	86400	IN	A	61.167.120.167
+wish.dqpi.edu.cn.	86400	IN	A	61.167.120.181
+wsdy.dqpi.edu.cn.	86400	IN	A	58.155.37.252
+wspx.dqpi.edu.cn.	86400	IN	A	61.167.120.186
+www.dqpi.edu.cn.	86400	IN	A	61.167.120.101
+www1.dqpi.edu.cn.	86400	IN	A	61.167.120.181
+www2.dqpi.edu.cn.	86400	IN	A	61.167.120.221
+www3.dqpi.edu.cn.	86400	IN	A	210.46.136.1
+wysf.dqpi.edu.cn.	86400	IN	A	61.167.120.174
+zsb.dqpi.edu.cn.	86400	IN	A	61.167.120.181
+dqpi.edu.cn.		86400	IN	SOA	dns2.dqpi.edu.cn. root.dns2.dqpi.edu.cn. 916622846 10800 3600 604800 86400
+;; Query time: 35 msec
+;; SERVER: 210.46.136.6#53(210.46.136.6)
+;; WHEN: Mon Apr 21 20:50:38 中国标准时间 2014
+;; XFR size: 45 records (messages 1, bytes 1032)
+

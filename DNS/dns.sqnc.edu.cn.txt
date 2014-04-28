@@ -1,0 +1,61 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns.sqnc.edu.cn axfr sqnc.edu.cn
+; (1 server found)
+;; global options: +cmd
+sqnc.edu.cn.		120	IN	SOA	dns.sqnc.edu.cn. master.sqnc.edu.cn. 2012030610 604800 604800 3600000 120
+sqnc.edu.cn.		120	IN	MX	10 mail.sqnc.edu.cn.
+sqnc.edu.cn.		120	IN	NS	dns.sqnc.edu.cn.
+sqnc.edu.cn.		120	IN	NS	dns2.sqnc.edu.cn.
+sqnc.edu.cn.		120	IN	A	211.84.64.10
+*.sqnc.edu.cn.		120	IN	A	211.84.64.18
+access.sqnc.edu.cn.	120	IN	CNAME	cms.sqnc.edu.cn.
+cms.sqnc.edu.cn.	120	IN	A	211.84.64.10
+cxzy.sqnc.edu.cn.	120	IN	CNAME	cms.sqnc.edu.cn.
+djks.sqnc.edu.cn.	120	IN	A	211.84.64.16
+dns.sqnc.edu.cn.	120	IN	A	211.84.64.6
+dns2.sqnc.edu.cn.	120	IN	A	211.84.64.8
+gh125.sqnc.edu.cn.	120	IN	CNAME	cms.sqnc.edu.cn.
+gpjh.sqnc.edu.cn.	120	IN	CNAME	cms.sqnc.edu.cn.
+hjghsyjx.sqnc.edu.cn.	120	IN	A	211.84.64.18
+houqin.sqnc.edu.cn.	120	IN	CNAME	cms.sqnc.edu.cn.
+jgdw.sqnc.edu.cn.	120	IN	CNAME	cms.sqnc.edu.cn.
+jiangong.sqnc.edu.cn.	120	IN	CNAME	cms.sqnc.edu.cn.
+jiaowu.sqnc.edu.cn.	120	IN	A	211.84.64.7
+jiwei.sqnc.edu.cn.	120	IN	CNAME	cms.sqnc.edu.cn.
+jpkc.sqnc.edu.cn.	120	IN	A	211.84.64.19
+jwgl.sqnc.edu.cn.	120	IN	A	211.84.64.17
+jwmis.sqnc.edu.cn.	120	IN	A	211.84.64.25
+jxcgj.sqnc.edu.cn.	120	IN	A	211.84.64.17
+lib.sqnc.edu.cn.	120	IN	A	211.84.68.9
+libyirui.sqnc.edu.cn.	120	IN	A	211.84.68.13
+lishi.sqnc.edu.cn.	120	IN	CNAME	cms.sqnc.edu.cn.
+mail.sqnc.edu.cn.	120	IN	A	211.84.64.11
+oa.sqnc.edu.cn.		120	IN	A	211.84.64.29
+pop3.sqnc.edu.cn.	120	IN	CNAME	mail.sqnc.edu.cn.
+renshi.sqnc.edu.cn.	120	IN	CNAME	cms.sqnc.edu.cn.
+resource.sqnc.edu.cn.	120	IN	CNAME	cms.sqnc.edu.cn.
+shenji.sqnc.edu.cn.	120	IN	CNAME	cms.sqnc.edu.cn.
+smtp.sqnc.edu.cn.	120	IN	CNAME	mail.sqnc.edu.cn.
+szsl.sqnc.edu.cn.	120	IN	CNAME	cms.sqnc.edu.cn.
+tongzhanbu.sqnc.edu.cn.	120	IN	CNAME	cms.sqnc.edu.cn.
+tuanwei.sqnc.edu.cn.	120	IN	CNAME	cms.sqnc.edu.cn.
+video.sqnc.edu.cn.	120	IN	A	211.84.64.4
+vod.sqnc.edu.cn.	120	IN	A	211.84.64.4
+work.sqnc.edu.cn.	120	IN	A	218.29.140.102
+www.sqnc.edu.cn.	120	IN	A	211.84.64.10
+www2.sqnc.edu.cn.	120	IN	CNAME	cms.sqnc.edu.cn.
+xdfxjs.sqnc.edu.cn.	120	IN	CNAME	cms.sqnc.edu.cn.
+xdjyjsyy.sqnc.edu.cn.	120	IN	A	211.84.64.17
+xinwen.sqnc.edu.cn.	120	IN	CNAME	cms.sqnc.edu.cn.
+xuanchuanbu.sqnc.edu.cn. 120	IN	CNAME	cms.sqnc.edu.cn.
+xuebao.sqnc.edu.cn.	120	IN	CNAME	cms.sqnc.edu.cn.
+xueshenghui.sqnc.edu.cn. 120	IN	CNAME	cms.sqnc.edu.cn.
+xwsy.sqnc.edu.cn.	120	IN	CNAME	cms.sqnc.edu.cn.
+zuzhibu.sqnc.edu.cn.	120	IN	CNAME	cms.sqnc.edu.cn.
+zxswxjxsj.sqnc.edu.cn.	120	IN	A	211.84.64.17
+sqnc.edu.cn.		120	IN	SOA	dns.sqnc.edu.cn. master.sqnc.edu.cn. 2012030610 604800 604800 3600000 120
+;; Query time: 35 msec
+;; SERVER: 211.84.64.6#53(211.84.64.6)
+;; WHEN: Mon Apr 21 20:59:03 中国标准时间 2014
+;; XFR size: 52 records (messages 1, bytes 1147)
+

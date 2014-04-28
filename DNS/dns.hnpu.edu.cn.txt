@@ -1,0 +1,73 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns.hnpu.edu.cn axfr hnpu.edu.cn
+; (1 server found)
+;; global options: +cmd
+hnpu.edu.cn.		3600	IN	SOA	hnpu.edu.cn. admin. 139 900 600 86400 3600
+hnpu.edu.cn.		3600	IN	NS	dns.hnpu.edu.cn.
+hnpu.edu.cn.		3600	IN	MX	10 mail.hnpu.edu.cn.
+aqgc.hnpu.edu.cn.	3600	IN	A	59.51.114.201
+bwc.hnpu.edu.cn.	3600	IN	A	59.51.114.201
+chgc.hnpu.edu.cn.	3600	IN	A	59.51.114.201
+cpx.hnpu.edu.cn.	3600	IN	A	59.51.114.201
+cwc.hnpu.edu.cn.	3600	IN	A	59.51.114.194
+cylan.hnpu.edu.cn.	3600	IN	A	59.51.114.199
+dns.hnpu.edu.cn.	3600	IN	A	218.196.8.8
+dqgc.hnpu.edu.cn.	3600	IN	A	59.51.114.0
+dsh.hnpu.edu.cn.	3600	IN	A	59.51.114.218
+dxsfz.hnpu.edu.cn.	3600	IN	A	59.51.114.196
+dzb.hnpu.edu.cn.	3600	IN	A	59.51.114.194
+fzc.hnpu.edu.cn.	3600	IN	A	59.51.114.194
+gh.hnpu.edu.cn.		3600	IN	A	59.51.114.201
+gjc.hnpu.edu.cn.	3600	IN	A	59.51.114.204
+hqc.hnpu.edu.cn.	3600	IN	A	59.51.114.194
+hzbx.hnpu.edu.cn.	3600	IN	A	59.51.114.201
+ireader.hnpu.edu.cn.	3600	IN	A	59.51.114.199
+jgdw.hnpu.edu.cn.	3600	IN	A	59.51.114.200
+jjc.hnpu.edu.cn.	3600	IN	A	59.51.114.194
+jjgl.hnpu.edu.cn.	3600	IN	A	59.51.114.194
+jpkc.hnpu.edu.cn.	3600	IN	A	59.51.114.196
+jpkc1.hnpu.edu.cn.	3600	IN	A	59.51.114.200
+jsjkx.hnpu.edu.cn.	3600	IN	A	59.51.114.201
+jw.hnpu.edu.cn.		3600	IN	A	59.51.114.222
+jwb.hnpu.edu.cn.	3600	IN	A	59.51.114.194
+jwc.hnpu.edu.cn.	3600	IN	A	59.51.114.194
+jwgl.hnpu.edu.cn.	3600	IN	A	59.51.114.222
+jxgc.hnpu.edu.cn.	3600	IN	A	59.51.114.201
+jxjy.hnpu.edu.cn.	3600	IN	A	59.51.114.194
+jy.hnpu.edu.cn.		3600	IN	A	59.51.114.194
+jyc.hnpu.edu.cn.	3600	IN	A	59.51.114.194
+jzgc.hnpu.edu.cn.	3600	IN	A	59.51.114.201
+kjc.hnpu.edu.cn.	3600	IN	A	59.51.114.194
+lib.hnpu.edu.cn.	3600	IN	A	59.51.114.200
+ltc.hnpu.edu.cn.	3600	IN	A	59.51.114.194
+mail.hnpu.edu.cn.	3600	IN	A	59.51.114.205
+mlib.hnpu.edu.cn.	3600	IN	A	59.51.114.199
+nic.hnpu.edu.cn.	3600	IN	A	59.51.114.194
+oa.hnpu.edu.cn.		3600	IN	A	59.51.114.202
+rsc.hnpu.edu.cn.	3600	IN	A	59.51.114.194
+sjc.hnpu.edu.cn.	3600	IN	A	59.51.114.194
+sjjx.hnpu.edu.cn.	3600	IN	A	59.51.114.200
+sljx.hnpu.edu.cn.	3600	IN	A	59.51.114.201
+tw.hnpu.edu.cn.		3600	IN	A	59.51.114.201
+tyjx.hnpu.edu.cn.	3600	IN	A	59.51.114.201
+vod.hnpu.edu.cn.	3600	IN	A	59.51.114.215
+vpn.hnpu.edu.cn.	3600	IN	A	59.51.114.211
+wgyxy.hnpu.edu.cn.	3600	IN	A	59.51.114.201
+www.hnpu.edu.cn.	3600	IN	A	59.51.114.194
+www2.hnpu.edu.cn.	3600	IN	A	59.51.114.201
+www3.hnpu.edu.cn.	3600	IN	A	59.51.114.204
+xcb.hnpu.edu.cn.	3600	IN	A	59.51.114.194
+xgb.hnpu.edu.cn.	3600	IN	A	59.51.114.204
+xn.hnpu.edu.cn.		3600	IN	A	59.51.114.220
+xyh.hnpu.edu.cn.	3600	IN	A	59.51.114.218
+zcc.hnpu.edu.cn.	3600	IN	A	59.51.114.194
+zdxk.hnpu.edu.cn.	3600	IN	A	59.51.114.201
+zsc.hnpu.edu.cn.	3600	IN	A	59.51.114.194
+zzb.hnpu.edu.cn.	3600	IN	A	59.51.114.201
+zzjx.hnpu.edu.cn.	3600	IN	A	59.51.114.194
+hnpu.edu.cn.		3600	IN	SOA	hnpu.edu.cn. admin. 139 900 600 86400 3600
+;; Query time: 232 msec
+;; SERVER: 218.196.8.8#53(218.196.8.8)
+;; WHEN: Mon Apr 21 20:58:10 中国标准时间 2014
+;; XFR size: 64 records (messages 64, bytes 3205)
+

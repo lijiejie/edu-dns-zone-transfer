@@ -1,0 +1,19 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns1.sdngy.edu.cn axfr sdngy.edu.cn
+; (1 server found)
+;; global options: +cmd
+sdngy.edu.cn.		600	IN	SOA	dns1.sdngy.edu.cn. root.sdngy.edu.cn. 2014011008 30 30 360 600
+sdngy.edu.cn.		600	IN	A	211.64.116.11
+sdngy.edu.cn.		600	IN	NS	dns1.sdngy.edu.cn.
+dns1.sdngy.edu.cn.	600	IN	A	211.64.116.10
+ftp.sdngy.edu.cn.	600	IN	A	211.64.116.11
+oa.sdngy.edu.cn.	600	IN	A	211.64.116.11
+test.sdngy.edu.cn.	600	IN	A	211.64.116.11
+www.sdngy.edu.cn.	600	IN	A	211.64.116.11
+xsc.sdngy.edu.cn.	600	IN	A	211.64.116.11
+sdngy.edu.cn.		600	IN	SOA	dns1.sdngy.edu.cn. root.sdngy.edu.cn. 2014011008 30 30 360 600
+;; Query time: 363 msec
+;; SERVER: 211.64.116.10#53(211.64.116.10)
+;; WHEN: Mon Apr 21 20:54:25 中国标准时间 2014
+;; XFR size: 10 records (messages 1, bytes 258)
+

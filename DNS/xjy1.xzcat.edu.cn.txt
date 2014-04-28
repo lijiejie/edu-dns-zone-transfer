@@ -1,0 +1,120 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @xjy1.xzcat.edu.cn axfr xzcat.edu.cn
+; (1 server found)
+;; global options: +cmd
+xzcat.edu.cn.		3600	IN	SOA	dns.jsjzi.cn. root.xzcat.edu.cn. 2014040208 30 30 360 3600
+xzcat.edu.cn.		3600	IN	MX	0 mail.xzcat.edu.cn.
+xzcat.edu.cn.		3600	IN	MX	5 kill.xzcat.edu.cn.
+xzcat.edu.cn.		3600	IN	NS	xjy1.xzcat.edu.cn.
+xzcat.edu.cn.		3600	IN	NS	xjy2.xzcat.edu.cn.
+alumni.xzcat.edu.cn.	3600	IN	A	211.70.248.23
+art.xzcat.edu.cn.	3600	IN	A	211.70.248.20
+base.xzcat.edu.cn.	3600	IN	CNAME	art.xzcat.edu.cn.
+bwc.xzcat.edu.cn.	3600	IN	A	211.70.248.23
+bxjf.xzcat.edu.cn.	3600	IN	A	211.70.248.28
+cad.xzcat.edu.cn.	3600	IN	A	211.70.248.28
+ccs.xzcat.edu.cn.	3600	IN	CNAME	my.xzcat.edu.cn.
+center.xzcat.edu.cn.	3600	IN	A	211.70.248.22
+cjxy.xzcat.edu.cn.	3600	IN	A	211.70.248.20
+cneter.xzcat.edu.cn.	3600	IN	A	211.70.248.22
+computer.xzcat.edu.cn.	3600	IN	A	211.70.248.20
+create.xzcat.edu.cn.	3600	IN	A	211.70.248.23
+cwc.xzcat.edu.cn.	3600	IN	A	211.70.248.23
+dangxia.xzcat.edu.cn.	3600	IN	CNAME	office.xzcat.edu.cn.
+ddh.xzcat.edu.cn.	3600	IN	CNAME	office.xzcat.edu.cn.
+dpstar.xzcat.edu.cn.	3600	IN	A	211.70.248.59
+dx.xzcat.edu.cn.	3600	IN	CNAME	office.xzcat.edu.cn.
+ecdd.xzcat.edu.cn.	3600	IN	A	211.70.248.23
+english.xzcat.edu.cn.	3600	IN	A	211.70.248.20
+englishxg.xzcat.edu.cn.	3600	IN	CNAME	art.xzcat.edu.cn.
+erp.xzcat.edu.cn.	3600	IN	A	211.70.248.59
+ftp.xzcat.edu.cn.	3600	IN	A	211.70.248.18
+gbkh.xzcat.edu.cn.	3600	IN	A	222.192.166.101
+gjg.xzcat.edu.cn.	3600	IN	A	211.70.248.28
+gjs.xzcat.edu.cn.	3600	IN	A	211.70.248.23
+gonghui.xzcat.edu.cn.	3600	IN	A	211.70.248.23
+hhgz.xzcat.edu.cn.	3600	IN	A	211.70.248.20
+hqc.xzcat.edu.cn.	3600	IN	CNAME	office.xzcat.edu.cn.
+hqccx.xzcat.edu.cn.	3600	IN	A	211.70.248.14
+hqjt.xzcat.edu.cn.	3600	IN	A	211.70.248.20
+ids1.xzcat.edu.cn.	3600	IN	A	211.70.248.57
+ids2.xzcat.edu.cn.	3600	IN	A	211.70.248.58
+imp.xzcat.edu.cn.	3600	IN	A	211.70.248.59
+jdx.xzcat.edu.cn.	3600	IN	A	211.70.248.20
+jgdzz.xzcat.edu.cn.	3600	IN	CNAME	office.xzcat.edu.cn.
+jidiandj.xzcat.edu.cn.	3600	IN	CNAME	art.xzcat.edu.cn.
+jiwei.xzcat.edu.cn.	3600	IN	A	211.70.248.23
+jjc.xzcat.edu.cn.	3600	IN	CNAME	office.xzcat.edu.cn.
+jnzx.xzcat.edu.cn.	3600	IN	A	211.70.248.20
+job.xzcat.edu.cn.	3600	IN	A	211.70.248.23
+jpkc.xzcat.edu.cn.	3600	IN	A	211.70.248.20
+jpkch.xzcat.edu.cn.	3600	IN	A	211.70.248.28
+jsjz.xzcat.edu.cn.	3600	IN	CNAME	office.xzcat.edu.cn.
+jwc.xzcat.edu.cn.	3600	IN	A	211.70.248.6
+jxpj.xzcat.edu.cn.	3600	IN	A	211.70.248.12
+jxzlkh.xzcat.edu.cn.	3600	IN	A	211.70.248.23
+jzgl.xzcat.edu.cn.	3600	IN	CNAME	office.xzcat.edu.cn.
+jzglx.xzcat.edu.cn.	3600	IN	A	211.70.248.20
+jzjn.xzcat.edu.cn.	3600	IN	CNAME	office.xzcat.edu.cn.
+jzjnjs.xzcat.edu.cn.	3600	IN	A	211.70.248.28
+jzsjxy.xzcat.edu.cn.	3600	IN	A	211.70.248.20
+jzsxjd.xzcat.edu.cn.	3600	IN	A	211.70.248.20
+jzw.xzcat.edu.cn.	3600	IN	A	211.70.248.13
+www.kc.xzcat.edu.cn.	3600	IN	CNAME	art.xzcat.edu.cn.
+kill.xzcat.edu.cn.	3600	IN	A	211.70.248.11
+kjcyc.xzcat.edu.cn.	3600	IN	A	211.70.248.23
+kjx.xzcat.edu.cn.	3600	IN	A	211.70.248.20
+ksgg.xzcat.edu.cn.	3600	IN	CNAME	office.xzcat.edu.cn.
+lib.xzcat.edu.cn.	3600	IN	A	211.70.248.23
+mail.xzcat.edu.cn.	3600	IN	A	211.70.248.50
+metc.xzcat.edu.cn.	3600	IN	A	211.70.248.23
+moodle.xzcat.edu.cn.	3600	IN	A	211.70.248.24
+moodle1.xzcat.edu.cn.	3600	IN	A	211.70.248.24
+my.xzcat.edu.cn.	3600	IN	A	211.70.248.59
+netway.xzcat.edu.cn.	3600	IN	A	211.70.248.35
+network.xzcat.edu.cn.	3600	IN	A	211.70.248.17
+oa.xzcat.edu.cn.	3600	IN	A	211.70.248.56
+office.xzcat.edu.cn.	3600	IN	A	211.70.248.4
+www.office.xzcat.edu.cn. 3600	IN	A	211.70.248.34
+www1.office.xzcat.edu.cn. 3600	IN	A	211.70.248.34
+pinggu.xzcat.edu.cn.	3600	IN	CNAME	office.xzcat.edu.cn.
+rep.xzcat.edu.cn.	3600	IN	A	211.70.248.59
+rsc.xzcat.edu.cn.	3600	IN	A	211.70.248.23
+rwx.xzcat.edu.cn.	3600	IN	A	211.70.248.20
+sd05y.xzcat.edu.cn.	3600	IN	CNAME	office.xzcat.edu.cn.
+sjc.xzcat.edu.cn.	3600	IN	A	211.70.248.23
+sjsm.xzcat.edu.cn.	3600	IN	A	211.70.248.28
+swred.xzcat.edu.cn.	3600	IN	A	211.70.248.23
+sxwhs.xzcat.edu.cn.	3600	IN	A	211.70.248.23
+sysxb.xzcat.edu.cn.	3600	IN	A	211.70.248.20
+szb.xzcat.edu.cn.	3600	IN	A	211.70.248.20
+tfkt.xzcat.edu.cn.	3600	IN	A	211.70.248.28
+tiyubu.xzcat.edu.cn.	3600	IN	A	211.70.248.20
+tmx.xzcat.edu.cn.	3600	IN	CNAME	art.xzcat.edu.cn.
+tmxg.xzcat.edu.cn.	3600	IN	CNAME	office.xzcat.edu.cn.
+tmxy.xzcat.edu.cn.	3600	IN	A	211.70.248.20
+tw.xzcat.edu.cn.	3600	IN	A	211.70.248.20
+vod.xzcat.edu.cn.	3600	IN	A	211.70.248.18
+vpn.xzcat.edu.cn.	3600	IN	A	211.70.248.7
+was.xzcat.edu.cn.	3600	IN	A	211.70.248.59
+wlkc.xzcat.edu.cn.	3600	IN	A	211.70.248.68
+www.xzcat.edu.cn.	3600	IN	A	211.70.248.3
+wzl.xzcat.edu.cn.	3600	IN	A	211.70.248.24
+xb.xzcat.edu.cn.	3600	IN	CNAME	office.xzcat.edu.cn.
+xgc.xzcat.edu.cn.	3600	IN	A	211.70.248.23
+xiaobao.xzcat.edu.cn.	3600	IN	A	211.70.248.78
+xjy1.xzcat.edu.cn.	3600	IN	A	211.70.248.1
+xjy2.xzcat.edu.cn.	3600	IN	A	211.70.248.2
+xyy.xzcat.edu.cn.	3600	IN	A	211.70.248.20
+ys.xzcat.edu.cn.	3600	IN	A	211.70.248.49
+zero.xzcat.edu.cn.	3600	IN	A	211.70.248.20
+zjjt.xzcat.edu.cn.	3600	IN	A	211.70.248.23
+www.zs.xzcat.edu.cn.	3600	IN	CNAME	art.xzcat.edu.cn.
+zsb.xzcat.edu.cn.	3600	IN	A	211.70.248.23
+zzhb.xzcat.edu.cn.	3600	IN	A	211.70.248.23
+xzcat.edu.cn.		3600	IN	SOA	dns.jsjzi.cn. root.xzcat.edu.cn. 2014040208 30 30 360 3600
+;; Query time: 109 msec
+;; SERVER: 211.70.248.1#53(211.70.248.1)
+;; WHEN: Mon Apr 21 20:51:54 中国标准时间 2014
+;; XFR size: 111 records (messages 1, bytes 2367)
+

@@ -1,0 +1,132 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns.huel.edu.cn axfr huel.edu.cn
+; (1 server found)
+;; global options: +cmd
+huel.edu.cn.		3600	IN	SOA	dns.huel.edu.cn. root.huel.edu.cn. 2014041616 30 30 360 3600
+huel.edu.cn.		3600	IN	A	49.122.0.12
+huel.edu.cn.		3600	IN	MX	10 mail.huel.edu.cn.
+huel.edu.cn.		3600	IN	NS	dns.huel.edu.cn.
+18.huel.edu.cn.		3600	IN	A	49.122.0.27
+bw.huel.edu.cn.		3600	IN	A	49.122.0.27
+cache.huel.edu.cn.	3600	IN	A	211.67.128.125
+cc.huel.edu.cn.		3600	IN	A	211.67.128.26
+cdsearch.huel.edu.cn.	3600	IN	A	211.67.133.130
+cjy.huel.edu.cn.	3600	IN	A	49.122.0.27
+classroom.huel.edu.cn.	3600	IN	A	211.67.128.17
+cmail.huel.edu.cn.	3600	IN	CNAME	mail.huel.edu.cn.
+cs.huel.edu.cn.		3600	IN	A	211.67.128.141
+czsw.huel.edu.cn.	3600	IN	A	49.122.0.27
+data.huel.edu.cn.	3600	IN	A	49.122.0.18
+db.huel.edu.cn.		3600	IN	A	49.122.0.27
+dns.huel.edu.cn.	3600	IN	A	211.67.128.1
+dns1.huel.edu.cn.	3600	IN	A	211.67.128.8
+dns2.huel.edu.cn.	3600	IN	A	211.67.128.8
+dswl.huel.edu.cn.	3600	IN	A	49.122.0.27
+dzzw.huel.edu.cn.	3600	IN	A	61.163.228.231
+eerc.huel.edu.cn.	3600	IN	A	211.67.128.140
+emlab.huel.edu.cn.	3600	IN	A	49.122.0.27
+fgc.huel.edu.cn.	3600	IN	A	211.67.128.155
+flswc.huel.edu.cn.	3600	IN	A	49.122.0.27
+ftp.huel.edu.cn.	3600	IN	A	211.67.128.19
+fxy.huel.edu.cn.	3600	IN	A	203.171.225.119
+fxyjy.huel.edu.cn.	3600	IN	A	211.67.128.165
+gc.huel.edu.cn.		3600	IN	A	49.122.0.27
+gcxy.huel.edu.cn.	3600	IN	A	211.67.132.252
+gm.huel.edu.cn.		3600	IN	A	211.67.128.131
+grid.huel.edu.cn.	3600	IN	A	211.67.128.134
+grid2.huel.edu.cn.	3600	IN	A	211.67.128.135
+grid3.huel.edu.cn.	3600	IN	A	211.67.128.136
+gs.huel.edu.cn.		3600	IN	A	49.122.0.27
+hnes.huel.edu.cn.	3600	IN	A	211.67.137.235
+hnsxtcxzx.huel.edu.cn.	3600	IN	A	49.122.0.27
+hq.huel.edu.cn.		3600	IN	A	49.122.0.27
+ice.huel.edu.cn.	3600	IN	A	116.255.138.144
+icicse.huel.edu.cn.	3600	IN	A	211.67.128.142
+info.huel.edu.cn.	3600	IN	A	49.122.0.17
+jfc.huel.edu.cn.	3600	IN	A	220.181.120.202
+jjjc.huel.edu.cn.	3600	IN	A	49.122.0.27
+jjjw.huel.edu.cn.	3600	IN	A	49.122.0.27
+jjx.huel.edu.cn.	3600	IN	A	211.67.143.84
+jjxy.huel.edu.cn.	3600	IN	A	49.122.0.27
+job.huel.edu.cn.	3600	IN	A	49.122.0.27
+jpkc.huel.edu.cn.	3600	IN	CNAME	learn.huel.edu.cn.
+jpzx.huel.edu.cn.	3600	IN	A	49.122.0.27
+jrxy.huel.edu.cn.	3600	IN	A	49.122.0.27
+jw.huel.edu.cn.		3600	IN	A	211.67.131.88
+kj.huel.edu.cn.		3600	IN	A	211.67.132.249
+kyc.huel.edu.cn.	3600	IN	A	49.122.0.27
+lab.huel.edu.cn.	3600	IN	A	211.67.128.142
+lib.huel.edu.cn.	3600	IN	A	211.67.133.132
+liujun.huel.edu.cn.	3600	IN	A	61.163.228.229
+live.huel.edu.cn.	3600	IN	A	211.67.143.101
+login.huel.edu.cn.	3600	IN	A	210.43.146.103
+lyhz.huel.edu.cn.	3600	IN	A	49.122.0.27
+mail.huel.edu.cn.	3600	IN	MX	10 mail.huel.edu.cn.
+mail.huel.edu.cn.	3600	IN	A	49.122.0.12
+msjj.huel.edu.cn.	3600	IN	A	49.122.0.27
+n.huel.edu.cn.		3600	IN	A	211.67.143.6
+nc.huel.edu.cn.		3600	IN	A	49.122.0.27
+news.huel.edu.cn.	3600	IN	A	49.122.0.27
+oa.huel.edu.cn.		3600	IN	A	49.122.0.14
+portal.huel.edu.cn.	3600	IN	A	49.122.0.16
+prop.huel.edu.cn.	3600	IN	A	49.122.0.27
+qzlx.huel.edu.cn.	3600	IN	A	49.122.0.27
+rsc.huel.edu.cn.	3600	IN	A	49.122.0.27
+www.sbwcz.huel.edu.cn.	3600	IN	A	49.122.0.27
+sfc.huel.edu.cn.	3600	IN	A	211.67.132.252
+shx.huel.edu.cn.	3600	IN	A	49.122.0.21
+sie.huel.edu.cn.	3600	IN	A	49.122.0.27
+software.huel.edu.cn.	3600	IN	A	211.67.128.142
+spam.huel.edu.cn.	3600	IN	A	49.122.0.12
+spam.huel.edu.cn.	3600	IN	A	49.122.0.13
+ssbooks.huel.edu.cn.	3600	IN	A	211.67.133.131
+ssf.huel.edu.cn.	3600	IN	A	211.67.143.18
+stu.huel.edu.cn.	3600	IN	MX	0 stu.huel.edu.cn.
+stu.huel.edu.cn.	3600	IN	A	49.122.0.12
+svod.huel.edu.cn.	3600	IN	A	211.67.143.40
+sy.huel.edu.cn.		3600	IN	A	49.122.0.27
+sz.huel.edu.cn.		3600	IN	A	49.122.0.27
+szb.huel.edu.cn.	3600	IN	A	49.122.0.20
+tjxx.huel.edu.cn.	3600	IN	A	49.122.0.27
+tw.huel.edu.cn.		3600	IN	A	49.122.0.27
+tzb.huel.edu.cn.	3600	IN	A	211.67.128.161
+update.huel.edu.cn.	3600	IN	A	211.67.140.249
+vpn.huel.edu.cn.	3600	IN	A	49.122.0.30
+vpn.huel.edu.cn.	3600	IN	A	123.15.41.134
+wage.huel.edu.cn.	3600	IN	A	183.170.169.252
+wb.huel.edu.cn.		3600	IN	A	49.122.0.27
+wbcm.huel.edu.cn.	3600	IN	A	49.122.0.27
+wbgl.huel.edu.cn.	3600	IN	A	49.122.0.27
+webgoat.huel.edu.cn.	3600	IN	A	211.67.128.134
+wmw.huel.edu.cn.	3600	IN	A	49.122.0.27
+wnjws.huel.edu.cn.	3600	IN	A	211.67.141.11
+work.huel.edu.cn.	3600	IN	A	218.29.140.102
+ww3.huel.edu.cn.	3600	IN	A	211.67.128.15
+www.huel.edu.cn.	3600	IN	A	49.122.0.27
+www1.huel.edu.cn.	3600	IN	A	49.122.0.27
+www3.huel.edu.cn.	3600	IN	A	211.67.128.12
+www5.huel.edu.cn.	3600	IN	A	211.84.200.6
+wy.huel.edu.cn.		3600	IN	A	49.122.0.27
+wzb.huel.edu.cn.	3600	IN	A	49.122.0.27
+wzgl.huel.edu.cn.	3600	IN	A	49.122.0.10
+xb.huel.edu.cn.		3600	IN	A	49.122.0.27
+xbbjb.huel.edu.cn.	3600	IN	A	211.67.143.96
+xcb.huel.edu.cn.	3600	IN	A	49.122.0.27
+xgb.huel.edu.cn.	3600	IN	A	49.122.0.27
+xjli.huel.edu.cn.	3600	IN	A	211.67.128.25
+xkb.huel.edu.cn.	3600	IN	A	211.67.128.163
+xkyfgc.huel.edu.cn.	3600	IN	A	49.122.0.27
+xnw.huel.edu.cn.	3600	IN	A	49.122.0.27
+xssf.huel.edu.cn.	3600	IN	A	49.122.0.27
+xxq.huel.edu.cn.	3600	IN	A	49.122.0.27
+xyh.huel.edu.cn.	3600	IN	A	211.67.128.154
+yjs.huel.edu.cn.	3600	IN	A	49.122.0.27
+yjy.huel.edu.cn.	3600	IN	A	49.122.0.27
+zh.huel.edu.cn.		3600	IN	A	49.122.0.27
+zs.huel.edu.cn.		3600	IN	CNAME	tweb.haedu.cn.
+huel.edu.cn.		3600	IN	SOA	dns.huel.edu.cn. root.huel.edu.cn. 2014041616 30 30 360 3600
+;; Query time: 71 msec
+;; SERVER: 211.67.128.1#53(211.67.128.1)
+;; WHEN: Mon Apr 21 20:58:21 中国标准时间 2014
+;; XFR size: 123 records (messages 1, bytes 2592)
+

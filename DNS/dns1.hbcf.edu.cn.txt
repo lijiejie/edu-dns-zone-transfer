@@ -1,0 +1,69 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns1.hbcf.edu.cn axfr hbcf.edu.cn
+; (1 server found)
+;; global options: +cmd
+hbcf.edu.cn.		86400	IN	SOA	dns1.hbcf.edu.cn. root.hbcf.edu.cn. 20010427 10800 3600 604800 86400
+hbcf.edu.cn.		86400	IN	NS	dns1.hbcf.edu.cn.
+hbcf.edu.cn.		86400	IN	MX	10 mail.hbcf.edu.cn.
+#proxy.hbcf.edu.cn.	86400	IN	CNAME	dns.hbcf.edu.cn.
+bbs.hbcf.edu.cn.	86400	IN	A	222.30.192.60
+cas.hbcf.edu.cn.	86400	IN	A	221.192.232.80
+ceat.hbcf.edu.cn.	86400	IN	A	221.192.232.75
+cnki.hbcf.edu.cn.	86400	IN	A	221.192.232.79
+dbs.hbcf.edu.cn.	86400	IN	A	222.30.192.56
+debian.hbcf.edu.cn.	86400	IN	A	192.168.180.171
+demo.hbcf.edu.cn.	86400	IN	A	222.30.192.55
+demodb.hbcf.edu.cn.	86400	IN	A	222.30.192.56
+dns1.hbcf.edu.cn.	86400	IN	A	222.30.192.8
+down.hbcf.edu.cn.	86400	IN	CNAME	bbs.hbcf.edu.cn.
+ecard.hbcf.edu.cn.	86400	IN	A	192.168.160.13
+email.hbcf.edu.cn.	86400	IN	A	221.192.232.84
+en.hbcf.edu.cn.		86400	IN	A	222.30.192.48
+estudy.hbcf.edu.cn.	86400	IN	A	221.192.232.85
+gjjl.hbcf.edu.cn.	86400	IN	CNAME	kyxx.hbcf.edu.cn.
+imed.hbcf.edu.cn.	86400	IN	A	221.192.232.77
+ins.hbcf.edu.cn.	86400	IN	A	221.192.232.73
+job.hbcf.edu.cn.	86400	IN	A	221.192.232.91
+jpk.hbcf.edu.cn.	86400	IN	CNAME	ceat.hbcf.edu.cn.
+jpkc.hbcf.edu.cn.	86400	IN	A	221.192.232.88
+jw.hbcf.edu.cn.		86400	IN	A	222.30.192.12
+jyqn.hbcf.edu.cn.	86400	IN	A	222.30.192.24
+kyxx.hbcf.edu.cn.	86400	IN	A	221.192.232.92
+learn.hbcf.edu.cn.	86400	IN	A	221.192.232.85
+learnen.hbcf.edu.cn.	86400	IN	A	221.192.232.89
+localhost.hbcf.edu.cn.	86400	IN	A	127.0.0.1
+mail.hbcf.edu.cn.	86400	IN	A	222.30.192.99
+media.hbcf.edu.cn.	86400	IN	A	221.192.232.76
+monitor.hbcf.edu.cn.	86400	IN	A	221.192.232.71
+news.hbcf.edu.cn.	86400	IN	A	221.192.232.76
+news1.hbcf.edu.cn.	86400	IN	A	221.192.232.91
+news2.hbcf.edu.cn.	86400	IN	A	221.192.232.79
+oa6.hbcf.edu.cn.	86400	IN	AAAA	2001:250:806:1::18
+portal.hbcf.edu.cn.	86400	IN	A	221.192.232.73
+portaldb.hbcf.edu.cn.	86400	IN	A	221.192.232.99
+sso.hbcf.edu.cn.	86400	IN	A	192.168.180.156
+tfkl.hbcf.edu.cn.	86400	IN	A	221.192.232.100
+tzb.hbcf.edu.cn.	86400	IN	A	221.192.232.91
+web.hbcf.edu.cn.	86400	IN	A	221.192.232.81
+websites.hbcf.edu.cn.	86400	IN	A	221.192.232.82
+wsfile.hbcf.edu.cn.	86400	IN	A	221.192.232.103
+wsim.hbcf.edu.cn.	86400	IN	A	221.192.232.102
+wsmgr.hbcf.edu.cn.	86400	IN	A	221.192.232.101
+www.hbcf.edu.cn.	86400	IN	A	221.192.232.83
+xb.hbcf.edu.cn.		86400	IN	A	222.30.192.9
+xb2.hbcf.edu.cn.	86400	IN	A	221.192.232.68
+www.xfh.hbcf.edu.cn.	86400	IN	A	221.192.232.91
+xmpp.hbcf.edu.cn.	86400	IN	A	222.30.192.71
+xpj.hbcf.edu.cn.	86400	IN	A	221.192.232.91
+xsc.hbcf.edu.cn.	86400	IN	A	221.192.232.78
+xwjpk.hbcf.edu.cn.	86400	IN	A	221.192.232.72
+xyl.hbcf.edu.cn.	86400	IN	A	222.30.192.48
+yjs.hbcf.edu.cn.	86400	IN	CNAME	jpkc.hbcf.edu.cn.
+ys.hbcf.edu.cn.		86400	IN	A	221.192.232.67
+zyz.hbcf.edu.cn.	86400	IN	CNAME	news1.hbcf.edu.cn.
+hbcf.edu.cn.		86400	IN	SOA	dns1.hbcf.edu.cn. root.hbcf.edu.cn. 20010427 10800 3600 604800 86400
+;; Query time: 42 msec
+;; SERVER: 222.30.192.8#53(222.30.192.8)
+;; WHEN: Mon Apr 21 20:48:41 中国标准时间 2014
+;; XFR size: 60 records (messages 1, bytes 1333)
+

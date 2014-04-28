@@ -1,0 +1,113 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns1.gcp.edu.cn axfr gcp.edu.cn
+; (1 server found)
+;; global options: +cmd
+gcp.edu.cn.		86400	IN	SOA	dns1.gcp.edu.cn. root.gcp.edu.cn. 2014040101 28800 7200 604800 86400
+gcp.edu.cn.		86400	IN	NS	dns1.gcp.edu.cn.
+gcp.edu.cn.		86400	IN	NS	dns2.gcp.edu.cn.
+gcp.edu.cn.		86400	IN	MX	5 mxbiz1.qq.com.
+gcp.edu.cn.		86400	IN	MX	10 mxbiz2.qq.com.
+bb.gcp.edu.cn.		86400	IN	A	183.24.141.178
+bmweb.gcp.edu.cn.	86400	IN	A	183.24.141.187
+bnb.gcp.edu.cn.		86400	IN	A	219.222.224.195
+card.gcp.edu.cn.	86400	IN	A	218.192.32.11
+cms.gcp.edu.cn.		86400	IN	A	183.24.141.185
+course.gcp.edu.cn.	86400	IN	A	183.24.141.177
+cs.gcp.edu.cn.		86400	IN	CNAME	hust.gcp.edu.cn.
+cwc.gcp.edu.cn.		86400	IN	A	183.24.141.146
+datacenter.gcp.edu.cn.	86400	IN	A	183.24.141.185
+db.gcp.edu.cn.		86400	IN	A	183.24.141.210
+dep.gcp.edu.cn.		86400	IN	A	183.24.141.193
+dj.gcp.edu.cn.		86400	IN	A	219.222.224.84
+dns1.gcp.edu.cn.	86400	IN	A	219.222.224.1
+dns2.gcp.edu.cn.	86400	IN	A	219.222.224.2
+dr.gcp.edu.cn.		86400	IN	A	183.24.141.161
+dwb.gcp.edu.cn.		86400	IN	A	183.24.141.139
+exmail.gcp.edu.cn.	86400	IN	A	183.24.141.164
+gzlearn.gcp.edu.cn.	86400	IN	A	183.24.141.205
+gzsj.gcp.edu.cn.	86400	IN	CNAME	hust.gcp.edu.cn.
+hqc.gcp.edu.cn.		86400	IN	A	183.24.141.202
+hrm.gcp.edu.cn.		86400	IN	A	183.24.141.185
+hust.gcp.edu.cn.	86400	IN	A	183.24.141.211
+imap.gcp.edu.cn.	86400	IN	CNAME	imap.exmail.qq.com.
+info.gcp.edu.cn.	86400	IN	A	183.24.141.135
+ism.gcp.edu.cn.		86400	IN	A	183.24.141.181
+jmx.gcp.edu.cn.		86400	IN	A	183.24.141.140
+jpkc.gcp.edu.cn.	86400	IN	A	183.24.141.149
+jpkc2.gcp.edu.cn.	86400	IN	A	183.24.141.149
+jpkca.gcp.edu.cn.	86400	IN	A	183.24.141.150
+jwb.gcp.edu.cn.		86400	IN	A	183.24.141.138
+jwc.gcp.edu.cn.		86400	IN	A	183.24.141.145
+jwcjw.gcp.edu.cn.	86400	IN	A	183.24.141.184
+jy.gcp.edu.cn.		86400	IN	A	183.24.141.185
+jy2.gcp.edu.cn.		86400	IN	A	183.24.141.176
+jyht.gcp.edu.cn.	86400	IN	A	183.24.141.176
+kav.gcp.edu.cn.		86400	IN	A	219.222.224.37
+kjzx.gcp.edu.cn.	86400	IN	A	183.24.141.141
+ldap1.gcp.edu.cn.	86400	IN	A	219.222.224.5
+lib.gcp.edu.cn.		86400	IN	A	183.24.141.183
+wap.lib.gcp.edu.cn.	86400	IN	A	219.222.225.8
+lyg.gcp.edu.cn.		86400	IN	A	183.24.141.152
+mail.gcp.edu.cn.	86400	IN	CNAME	exmail.qq.com.
+m.mail.gcp.edu.cn.	86400	IN	CNAME	m.exmail.qq.com.
+matrix.gcp.edu.cn.	86400	IN	A	219.222.224.7
+my.gcp.edu.cn.		86400	IN	A	183.24.141.185
+my2.gcp.edu.cn.		86400	IN	A	183.24.141.185
+ndisk.gcp.edu.cn.	86400	IN	A	183.24.141.190
+net.gcp.edu.cn.		86400	IN	A	183.24.141.147
+netkuu.gcp.edu.cn.	86400	IN	A	219.222.244.53
+oa.gcp.edu.cn.		86400	IN	A	183.24.141.189
+pg.gcp.edu.cn.		86400	IN	A	183.24.141.194
+pop.gcp.edu.cn.		86400	IN	CNAME	pop.exmail.qq.com.
+project.gcp.edu.cn.	86400	IN	A	183.24.141.200
+publish.gcp.edu.cn.	86400	IN	A	183.24.141.185
+rsc.gcp.edu.cn.		86400	IN	A	183.24.141.136
+rtx.gcp.edu.cn.		86400	IN	A	183.24.141.195
+rwst.gcp.edu.cn.	86400	IN	A	219.222.224.18
+s.gcp.edu.cn.		86400	IN	MX	5 mxbiz1.qq.com.
+s.gcp.edu.cn.		86400	IN	MX	10 mxbiz2.qq.com.
+imap.s.gcp.edu.cn.	86400	IN	CNAME	imap.exmail.qq.com.
+mail.s.gcp.edu.cn.	86400	IN	CNAME	exmail.qq.com.
+pop.s.gcp.edu.cn.	86400	IN	CNAME	pop.exmail.qq.com.
+smtp.s.gcp.edu.cn.	86400	IN	CNAME	smtp.exmail.qq.com.
+scedu.gcp.edu.cn.	86400	IN	A	219.222.224.86
+security.gcp.edu.cn.	86400	IN	A	183.24.141.181
+shekebu.gcp.edu.cn.	86400	IN	A	183.24.141.197
+shipin.gcp.edu.cn.	86400	IN	CNAME	www.gcp.edu.cn.
+sms.gcp.edu.cn.		86400	IN	A	219.222.224.4
+smtp.gcp.edu.cn.	86400	IN	CNAME	smtp.exmail.qq.com.
+smx.gcp.edu.cn.		86400	IN	A	219.222.224.71
+sq.gcp.edu.cn.		86400	IN	A	219.222.224.86
+student.gcp.edu.cn.	86400	IN	A	183.24.141.175
+study.gcp.edu.cn.	86400	IN	A	183.24.141.179
+svr.gcp.edu.cn.		86400	IN	A	183.24.141.204
+svr2.gcp.edu.cn.	86400	IN	A	183.24.141.164
+test.gcp.edu.cn.	86400	IN	A	2.2.2.2
+tv.gcp.edu.cn.		86400	IN	A	219.222.224.101
+tw.gcp.edu.cn.		86400	IN	A	183.24.141.143
+ucenter.gcp.edu.cn.	86400	IN	A	183.24.141.185
+v.gcp.edu.cn.		86400	IN	MX	5 mxbiz1.qq.com.
+v.gcp.edu.cn.		86400	IN	MX	10 mxbiz2.qq.com.
+imap.v.gcp.edu.cn.	86400	IN	CNAME	imap.exmail.qq.com.
+mail.v.gcp.edu.cn.	86400	IN	CNAME	exmail.qq.com.
+pop.v.gcp.edu.cn.	86400	IN	CNAME	pop.exmail.qq.com.
+smtp.v.gcp.edu.cn.	86400	IN	CNAME	smtp.exmail.qq.com.
+vod.gcp.edu.cn.		86400	IN	A	183.24.141.148
+wsapp.gcp.edu.cn.	86400	IN	A	219.222.244.72
+wsim.gcp.edu.cn.	86400	IN	A	219.222.244.71
+wsms.gcp.edu.cn.	86400	IN	A	219.222.244.70
+www.gcp.edu.cn.		86400	IN	A	183.24.141.188
+xiaoyou.gcp.edu.cn.	86400	IN	A	219.222.224.94
+xinli.gcp.edu.cn.	86400	IN	A	183.24.141.162
+xs.gcp.edu.cn.		86400	IN	CNAME	jyht.gcp.edu.cn.
+xsht.gcp.edu.cn.	86400	IN	CNAME	jyht.gcp.edu.cn.
+yb.gcp.edu.cn.		86400	IN	A	183.24.141.144
+ypw.gcp.edu.cn.		86400	IN	A	183.24.141.191
+yx.gcp.edu.cn.		86400	IN	A	183.24.141.163
+zs.gcp.edu.cn.		86400	IN	A	183.24.141.142
+gcp.edu.cn.		86400	IN	SOA	dns1.gcp.edu.cn. root.gcp.edu.cn. 2014040101 28800 7200 604800 86400
+;; Query time: 57 msec
+;; SERVER: 219.222.224.1#53(219.222.224.1)
+;; WHEN: Mon Apr 21 21:00:44 中国标准时间 2014
+;; XFR size: 104 records (messages 1, bytes 2201)
+

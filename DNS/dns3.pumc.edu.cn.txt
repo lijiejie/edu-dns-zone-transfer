@@ -1,0 +1,161 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns3.pumc.edu.cn axfr pumc.edu.cn
+; (1 server found)
+;; global options: +cmd
+pumc.edu.cn.		3600	IN	SOA	kj-dns.pumc.edu.cn. root.cams.ac.cn. 2014032404 30 30 360 3600
+pumc.edu.cn.		3600	IN	A	124.17.100.122
+pumc.edu.cn.		3600	IN	NS	kj-dns.pumc.edu.cn.
+pumc.edu.cn.		3600	IN	NS	bak-dns.pumc.edu.cn.
+pumc.edu.cn.		3600	IN	MX	1 mailgate.pumc.edu.cn.
+pumc.edu.cn.		3600	IN	MX	9 mailgate1.pumc.edu.cn.
+bak-dns.pumc.edu.cn.	3600	IN	A	222.28.160.110
+bbs.pumc.edu.cn.	3600	IN	A	222.28.170.251
+bme.pumc.edu.cn.	3600	IN	A	222.28.173.6
+cbs.pumc.edu.cn.	3600	IN	A	222.28.160.113
+cbs.pumc.edu.cn.	3600	IN	MX	5 mailgate.pumc.edu.cn.
+cbs.pumc.edu.cn.	3600	IN	MX	9 mailgate1.pumc.edu.cn.
+ch.pumc.edu.cn.		3600	IN	A	220.113.4.110
+ch2.pumc.edu.cn.	3600	IN	A	222.28.160.186
+cic.pumc.edu.cn.	3600	IN	A	222.28.160.113
+cic.pumc.edu.cn.	3600	IN	MX	5 mailgate.pumc.edu.cn.
+cic.pumc.edu.cn.	3600	IN	MX	9 mailgate1.pumc.edu.cn.
+cmsdc.pumc.edu.cn.	3600	IN	A	124.205.240.76
+www.cmsdc.pumc.edu.cn.	3600	IN	A	124.205.240.76
+pumc.edu.cn.pumc.edu.cn. 3600	IN	NS	kj-dns.pumc.edu.cn.
+cnilas.pumc.edu.cn.	3600	IN	A	222.28.160.113
+cnilas.pumc.edu.cn.	3600	IN	MX	5 mailgate.pumc.edu.cn.
+cnilas.pumc.edu.cn.	3600	IN	MX	9 mailgate1.pumc.edu.cn.
+cscm.pumc.edu.cn.	3600	IN	A	124.17.90.21
+www.cscm.pumc.edu.cn.	3600	IN	A	124.17.90.21
+dangjian.pumc.edu.cn.	3600	IN	A	222.28.160.158
+dj.pumc.edu.cn.		3600	IN	A	222.28.160.113
+dj.pumc.edu.cn.		3600	IN	MX	5 mailgate.pumc.edu.cn.
+dj.pumc.edu.cn.		3600	IN	MX	9 mailgate1.pumc.edu.cn.
+eng.pumc.edu.cn.	3600	IN	A	124.17.124.111
+english.pumc.edu.cn.	3600	IN	A	124.17.124.111
+enursing.pumc.edu.cn.	3600	IN	A	124.17.124.120
+eyou.pumc.edu.cn.	3600	IN	A	222.28.160.113
+eyou.pumc.edu.cn.	3600	IN	MX	5 mailgate.pumc.edu.cn.
+eyou.pumc.edu.cn.	3600	IN	MX	9 mailgate1.pumc.edu.cn.
+graduate.pumc.edu.cn.	3600	IN	A	222.28.160.222
+graduate2.pumc.edu.cn.	3600	IN	A	222.28.160.222
+gu.pumc.edu.cn.		3600	IN	A	58.64.205.165
+hpcc.pumc.edu.cn.	3600	IN	A	124.17.100.122
+hq.pumc.edu.cn.		3600	IN	A	222.28.160.113
+hq.pumc.edu.cn.		3600	IN	MX	5 mailgate.pumc.edu.cn.
+hq.pumc.edu.cn.		3600	IN	MX	9 mailgate1.pumc.edu.cn.
+i.pumc.edu.cn.		3600	IN	A	124.17.124.122
+ibms.pumc.edu.cn.	3600	IN	A	222.28.160.113
+ibms.pumc.edu.cn.	3600	IN	MX	5 mailgate.pumc.edu.cn.
+ibms.pumc.edu.cn.	3600	IN	MX	9 mailgate1.pumc.edu.cn.
+idc-jcs.pumc.edu.cn.	3600	IN	A	222.28.160.221
+idc-jwweb.pumc.edu.cn.	3600	IN	A	124.205.240.71
+idc-mail.pumc.edu.cn.	3600	IN	A	222.28.160.113
+idc-oa.pumc.edu.cn.	3600	IN	A	222.28.160.133
+idc-rz.pumc.edu.cn.	3600	IN	A	222.28.160.130
+idc-vod.pumc.edu.cn.	3600	IN	A	222.28.160.134
+idc-wlxt.pumc.edu.cn.	3600	IN	A	222.28.160.206
+idc-yhgl.pumc.edu.cn.	3600	IN	A	222.28.160.132
+idc-yjsyzs.pumc.edu.cn.	3600	IN	A	222.28.160.25
+imb.pumc.edu.cn.	3600	IN	A	124.17.101.12
+imb.pumc.edu.cn.	3600	IN	MX	10 5b11ed4c92b7c24f712bc06e8fa3a8.mail.outlook.com.
+imc.pumc.edu.cn.	3600	IN	MX	5 mailgate.pumc.edu.cn.
+imc.pumc.edu.cn.	3600	IN	MX	9 mailgate1.pumc.edu.cn.
+imc.pumc.edu.cn.	3600	IN	A	222.28.160.100
+www.imc.pumc.edu.cn.	3600	IN	A	222.28.160.100
+imc2.pumc.edu.cn.	3600	IN	A	124.17.124.120
+imm.pumc.edu.cn.	3600	IN	NS	imm.pumc.edu.cn.
+imm.pumc.edu.cn.	3600	IN	A	219.238.229.195
+info.pumc.edu.cn.	3600	IN	A	124.17.100.122
+iopb.pumc.edu.cn.	3600	IN	A	222.28.160.113
+iopb.pumc.edu.cn.	3600	IN	MX	5 mailgate.pumc.edu.cn.
+iopb.pumc.edu.cn.	3600	IN	MX	9 mailgate1.pumc.edu.cn.
+ipb.pumc.edu.cn.	3600	IN	A	222.28.160.113
+ipb.pumc.edu.cn.	3600	IN	MX	5 mailgate.pumc.edu.cn.
+ipb.pumc.edu.cn.	3600	IN	MX	9 mailgate1.pumc.edu.cn.
+jcyxylc.pumc.edu.cn.	3600	IN	A	118.145.16.232
+jjxmglxt.pumc.edu.cn.	3600	IN	A	222.28.160.72
+jjxypxzx.pumc.edu.cn.	3600	IN	A	222.28.160.187
+jpkc.pumc.edu.cn.	3600	IN	A	222.28.160.68
+jwweb.pumc.edu.cn.	3600	IN	CNAME	idc-jwweb.pumc.edu.cn.
+jxcg.pumc.edu.cn.	3600	IN	A	222.28.160.68
+jxjy.pumc.edu.cn.	3600	IN	A	222.28.160.113
+jxjy.pumc.edu.cn.	3600	IN	MX	5 mailgate.pumc.edu.cn.
+jxjy.pumc.edu.cn.	3600	IN	MX	9 mailgate1.pumc.edu.cn.
+jy.pumc.edu.cn.		3600	IN	A	222.28.160.180
+kfgs.pumc.edu.cn.	3600	IN	A	222.28.160.113
+kfgs.pumc.edu.cn.	3600	IN	MX	5 mailgate.pumc.edu.cn.
+kfgs.pumc.edu.cn.	3600	IN	MX	9 mailgate1.pumc.edu.cn.
+kgc.pumc.edu.cn.	3600	IN	A	124.17.100.106
+kj-dns.pumc.edu.cn.	3600	IN	A	124.17.96.110
+kjgc.pumc.edu.cn.	3600	IN	A	124.17.100.106
+kjzx.pumc.edu.cn.	3600	IN	A	222.28.160.113
+kjzx.pumc.edu.cn.	3600	IN	MX	5 mailgate.pumc.edu.cn.
+kjzx.pumc.edu.cn.	3600	IN	MX	9 mailgate1.pumc.edu.cn.
+mail.pumc.edu.cn.	3600	IN	A	222.28.160.113
+mailgate.pumc.edu.cn.	3600	IN	A	222.28.160.160
+mailgate1.pumc.edu.cn.	3600	IN	A	222.28.160.113
+ncbi.pumc.edu.cn.	3600	IN	A	222.28.173.5
+news.pumc.edu.cn.	3600	IN	A	124.17.100.122
+nic-dns.pumc.edu.cn.	3600	IN	A	222.28.160.2
+nic3-dns.pumc.edu.cn.	3600	IN	A	124.17.96.110
+nursing.pumc.edu.cn.	3600	IN	A	124.17.100.122
+nursing.pumc.edu.cn.	3600	IN	MX	5 mailgate.pumc.edu.cn.
+nursing.pumc.edu.cn.	3600	IN	MX	9 mailgate1.pumc.edu.cn.
+oa.pumc.edu.cn.		3600	IN	CNAME	idc-oa.pumc.edu.cn.
+pathology.pumc.edu.cn.	3600	IN	A	222.28.160.140
+psh.pumc.edu.cn.	3600	IN	MX	5 mailgate.pumc.edu.cn.
+psh.pumc.edu.cn.	3600	IN	MX	9 mailgate1.pumc.edu.cn.
+psh.pumc.edu.cn.	3600	IN	A	222.28.160.113
+pumc6.pumc.edu.cn.	3600	IN	AAAA	2001:cc0:2418:500:214:22ff:fe23:af5e
+pumccs.pumc.edu.cn.	3600	IN	A	124.205.240.100
+pumcef.pumc.edu.cn.	3600	IN	A	124.17.100.122
+rczx.pumc.edu.cn.	3600	IN	A	222.28.160.113
+rczx.pumc.edu.cn.	3600	IN	MX	5 mailgate.pumc.edu.cn.
+rczx.pumc.edu.cn.	3600	IN	MX	9 mailgate1.pumc.edu.cn.
+renzheng.pumc.edu.cn.	3600	IN	A	124.17.96.78
+resource.pumc.edu.cn.	3600	IN	A	222.28.160.196
+rz.pumc.edu.cn.		3600	IN	CNAME	idc-rz.pumc.edu.cn.
+sbm.pumc.edu.cn.	3600	IN	CNAME	idc-jcs.pumc.edu.cn.
+anatomy.sbm.pumc.edu.cn. 3600	IN	A	222.28.164.176
+sce.pumc.edu.cn.	3600	IN	A	222.28.160.187
+search.pumc.edu.cn.	3600	IN	A	124.17.124.112
+server.pumc.edu.cn.	3600	IN	A	222.28.160.113
+server.pumc.edu.cn.	3600	IN	MX	5 mailgate.pumc.edu.cn.
+server.pumc.edu.cn.	3600	IN	MX	9 mailgate1.pumc.edu.cn.
+skleh.pumc.edu.cn.	3600	IN	A	124.17.90.20
+sph.pumc.edu.cn.	3600	IN	A	222.28.160.113
+student.pumc.edu.cn.	3600	IN	A	222.28.160.113
+student.pumc.edu.cn.	3600	IN	MX	5 mailgate.pumc.edu.cn.
+student.pumc.edu.cn.	3600	IN	MX	9 mailgate1.pumc.edu.cn.
+test.pumc.edu.cn.	3600	IN	A	222.28.160.158
+tongzhan.pumc.edu.cn.	3600	IN	A	222.28.160.158
+vod.pumc.edu.cn.	3600	IN	CNAME	idc-vod.pumc.edu.cn.
+wlxt.pumc.edu.cn.	3600	IN	CNAME	idc-wlxt.pumc.edu.cn.
+www.pumc.edu.cn.	3600	IN	A	124.17.100.122
+www-old.pumc.edu.cn.	3600	IN	A	124.17.96.112
+wxhs.pumc.edu.cn.	3600	IN	A	222.28.160.113
+wxhs.pumc.edu.cn.	3600	IN	MX	5 mailgate.pumc.edu.cn.
+wxhs.pumc.edu.cn.	3600	IN	MX	9 mailgate1.pumc.edu.cn.
+xhyy.pumc.edu.cn.	3600	IN	A	222.28.160.113
+xhyy.pumc.edu.cn.	3600	IN	MX	5 mailgate.pumc.edu.cn.
+xhyy.pumc.edu.cn.	3600	IN	MX	9 mailgate1.pumc.edu.cn.
+xinli.pumc.edu.cn.	3600	IN	A	222.28.160.222
+yanzhao.pumc.edu.cn.	3600	IN	A	124.17.100.122
+yhgl.pumc.edu.cn.	3600	IN	CNAME	idc-yhgl.pumc.edu.cn.
+yjszs.pumc.edu.cn.	3600	IN	CNAME	idc-yjsyzs.pumc.edu.cn.
+ykyyb.pumc.edu.cn.	3600	IN	A	124.17.96.99
+yss.pumc.edu.cn.	3600	IN	A	124.17.101.13
+yxgh.pumc.edu.cn.	3600	IN	A	222.28.160.184
+yz.pumc.edu.cn.		3600	IN	A	222.28.166.84
+yzjg.pumc.edu.cn.	3600	IN	A	222.28.160.113
+yzjg.pumc.edu.cn.	3600	IN	MX	5 mailgate.pumc.edu.cn.
+yzjg.pumc.edu.cn.	3600	IN	MX	9 mailgate1.pumc.edu.cn.
+zkzs.pumc.edu.cn.	3600	IN	A	222.28.160.177
+zxcy.pumc.edu.cn.	3600	IN	A	222.28.160.184
+pumc.edu.cn.		3600	IN	SOA	kj-dns.pumc.edu.cn. root.cams.ac.cn. 2014032404 30 30 360 3600
+;; Query time: 58 msec
+;; SERVER: 124.17.96.110#53(124.17.96.110)
+;; WHEN: Mon Apr 21 20:47:37 中国标准时间 2014
+;; XFR size: 152 records (messages 1, bytes 3155)
+

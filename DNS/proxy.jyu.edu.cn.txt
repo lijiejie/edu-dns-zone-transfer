@@ -1,0 +1,38 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @proxy.jyu.edu.cn axfr jyu.edu.cn
+; (1 server found)
+;; global options: +cmd
+jyu.edu.cn.		86400	IN	SOA	jyu.edu.cn. postmaster.jyu.edu.cn. 400084 28800 7200 604800 86400
+jyu.edu.cn.		86400	IN	MX	10 gw.jyu.edu.cn.
+jyu.edu.cn.		86400	IN	A	210.38.160.121
+jyu.edu.cn.		86400	IN	NS	proxy.jyu.edu.cn.
+admin.jyu.edu.cn.	86400	IN	CNAME	webmail.jyu.edu.cn.
+admission.jyu.edu.cn.	86400	IN	A	210.38.160.82
+Alumni.jyu.edu.cn.	86400	IN	A	210.38.160.96
+bnxq.jyu.edu.cn.	86400	IN	A	210.38.160.79
+chengjiao.jyu.edu.cn.	86400	IN	A	210.38.160.72
+chuange.jyu.edu.cn.	86400	IN	A	210.38.160.75
+*.chuange.jyu.edu.cn.	86400	IN	A	210.38.160.75
+elearning.jyu.edu.cn.	86400	IN	A	210.38.160.132
+esx01.jyu.edu.cn.	86400	IN	A	210.38.160.241
+esx02.jyu.edu.cn.	86400	IN	A	210.38.160.242
+esx03.jyu.edu.cn.	86400	IN	A	210.38.160.243
+gw.jyu.edu.cn.		86400	IN	A	210.38.160.125
+ip.jyu.edu.cn.		86400	IN	A	210.38.160.62
+jisuanji.jyu.edu.cn.	86400	IN	A	210.38.160.95
+jwc.jyu.edu.cn.		86400	IN	A	210.38.160.68
+jyu-vc.jyu.edu.cn.	86400	IN	A	210.38.160.245
+lib.jyu.edu.cn.		86400	IN	A	210.38.160.73
+localhost.jyu.edu.cn.	86400	IN	A	127.0.0.1
+newsadmin.jyu.edu.cn.	86400	IN	A	210.38.160.4
+proxy.jyu.edu.cn.	86400	IN	A	210.38.160.3
+sites.jyu.edu.cn.	86400	IN	A	210.38.160.81
+webmail.jyu.edu.cn.	86400	IN	A	210.38.160.121
+www.jyu.edu.cn.		86400	IN	A	210.38.160.4
+xyh.jyu.edu.cn.		86400	IN	A	210.38.162.99
+jyu.edu.cn.		86400	IN	SOA	jyu.edu.cn. postmaster.jyu.edu.cn. 400084 28800 7200 604800 86400
+;; Query time: 66 msec
+;; SERVER: 210.38.160.3#53(210.38.160.3)
+;; WHEN: Mon Apr 21 21:00:11 中国标准时间 2014
+;; XFR size: 29 records (messages 1, bytes 693)
+

@@ -1,0 +1,38 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns1.nanshan.edu.cn axfr nanshan.edu.cn
+; (1 server found)
+;; global options: +cmd
+nanshan.edu.cn.		60	IN	SOA	dns1.nanshan.edu.cn. master.nanshan.edu.cn. 2011042718 28800 14400 3600000 60
+nanshan.edu.cn.		60	IN	MX	10 mail.nanshan.com.cn.
+nanshan.edu.cn.		60	IN	A	60.212.47.218
+nanshan.edu.cn.		60	IN	NS	dns1.nanshan.edu.cn.
+nanshan.edu.cn.		60	IN	NS	dns2.nanshan.edu.cn.
+*.nanshan.edu.cn.	60	IN	A	60.212.47.218
+autodiscover.nanshan.edu.cn. 60	IN	A	221.214.166.13
+bm.nanshan.edu.cn.	60	IN	A	60.212.47.221
+cx.nanshan.edu.cn.	60	IN	A	60.212.47.221
+dns1.nanshan.edu.cn.	60	IN	A	219.218.55.2
+dns2.nanshan.edu.cn.	60	IN	A	219.218.55.3
+elearn.nanshan.edu.cn.	60	IN	A	60.212.47.220
+gonghui.nanshan.edu.cn.	60	IN	A	60.212.47.218
+im.nanshan.edu.cn.	60	IN	A	219.218.55.20
+kjc.nanshan.edu.cn.	60	IN	A	60.212.47.218
+ly.nanshan.edu.cn.	60	IN	A	60.212.47.218
+mail.nanshan.edu.cn.	60	IN	A	221.214.166.13
+photo.nanshan.edu.cn.	60	IN	A	60.212.47.218
+qg.nanshan.edu.cn.	60	IN	A	60.212.47.222
+sce.nanshan.edu.cn.	60	IN	A	60.212.47.218
+smtp.nanshan.edu.cn.	60	IN	A	60.212.47.219
+stu.nanshan.edu.cn.	60	IN	A	60.212.47.218
+wap.nanshan.edu.cn.	60	IN	A	60.212.47.218
+www.nanshan.edu.cn.	60	IN	A	60.212.47.218
+xz.nanshan.edu.cn.	60	IN	A	60.212.47.222
+zlgc.nanshan.edu.cn.	60	IN	A	60.212.47.173
+zs.nanshan.edu.cn.	60	IN	A	60.212.47.218
+zyjs.nanshan.edu.cn.	60	IN	A	60.212.47.218
+nanshan.edu.cn.		60	IN	SOA	dns1.nanshan.edu.cn. master.nanshan.edu.cn. 2011042718 28800 14400 3600000 60
+;; Query time: 60 msec
+;; SERVER: 219.218.55.2#53(219.218.55.2)
+;; WHEN: Mon Apr 21 20:54:55 中国标准时间 2014
+;; XFR size: 29 records (messages 1, bytes 663)
+

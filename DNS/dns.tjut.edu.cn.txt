@@ -1,0 +1,56 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns.tjut.edu.cn axfr tjut.edu.cn
+; (1 server found)
+;; global options: +cmd
+tjut.edu.cn.		86400	IN	SOA	tjut.edu.cn. wfy128.tjut.edu.cn. 93 10800 900 604800 86400
+tjut.edu.cn.		86400	IN	MX	10 mail.tjut.edu.cn.
+tjut.edu.cn.		86400	IN	NS	dns.tjut.edu.cn.
+tjut.edu.cn.		86400	IN	NS	dns1.tjut.edu.cn.
+acm.tjut.edu.cn.	86400	IN	A	59.67.152.15
+ccs.tjut.edu.cn.	86400	IN	A	59.67.148.196
+ChinaSecEdu2012.tjut.edu.cn. 86400 IN	A	59.67.152.66
+cs.tjut.edu.cn.		86400	IN	A	59.67.152.3
+dns.tjut.edu.cn.	86400	IN	A	202.113.64.3
+dns1.tjut.edu.cn.	86400	IN	A	59.67.148.5
+dpstar.tjut.edu.cn.	86400	IN	A	59.67.148.196
+eie.tjut.edu.cn.	86400	IN	A	202.113.65.230
+gzc.tjut.edu.cn.	86400	IN	A	202.113.66.35
+hr.tjut.edu.cn.		86400	IN	A	59.67.148.196
+hr.tjut.edu.cn.		86400	IN	A	59.67.148.197
+ids1.tjut.edu.cn.	86400	IN	A	59.67.148.196
+ids2.tjut.edu.cn.	86400	IN	A	59.67.148.196
+imp.tjut.edu.cn.	86400	IN	A	59.67.148.196
+itil.tjut.edu.cn.	86400	IN	A	59.67.148.196
+itil.tjut.edu.cn.	86400	IN	A	59.67.148.197
+jw.tjut.edu.cn.		86400	IN	A	59.67.148.66
+jwgl.tjut.edu.cn.	86400	IN	A	59.67.148.195
+jwgl.tjut.edu.cn.	86400	IN	A	59.67.148.201
+jwgl.tjut.edu.cn.	86400	IN	A	59.67.148.202
+jyzx.tjut.edu.cn.	86400	IN	A	59.67.148.65
+lib.tjut.edu.cn.	86400	IN	A	202.113.68.3
+mail.tjut.edu.cn.	86400	IN	A	59.67.148.8
+ms.tjut.edu.cn.		86400	IN	A	59.67.157.162
+my.tjut.edu.cn.		86400	IN	A	59.67.148.196
+*.org.tjut.edu.cn.	86400	IN	A	202.113.65.230
+portal.tjut.edu.cn.	86400	IN	A	59.67.148.196
+rzjf.tjut.edu.cn.	86400	IN	A	59.67.148.42
+shadu.tjut.edu.cn.	86400	IN	A	59.67.148.6
+ssfw.tjut.edu.cn.	86400	IN	A	59.67.148.195
+ssfw.tjut.edu.cn.	86400	IN	A	59.67.148.201
+study.tjut.edu.cn.	86400	IN	A	59.67.152.62
+www.tjut.edu.cn.	86400	IN	A	202.113.64.2
+xg.tjut.edu.cn.		86400	IN	A	59.67.148.196
+xg.tjut.edu.cn.		86400	IN	A	59.67.148.197
+xgb.tjut.edu.cn.	86400	IN	A	59.67.157.80
+xk.tjut.edu.cn.		86400	IN	A	59.67.148.195
+xk.tjut.edu.cn.		86400	IN	A	59.67.148.200
+xk.tjut.edu.cn.		86400	IN	A	59.67.148.201
+xk.tjut.edu.cn.		86400	IN	A	59.67.148.202
+yktcx.tjut.edu.cn.	86400	IN	A	59.67.148.40
+yktcz.tjut.edu.cn.	86400	IN	A	59.67.148.60
+tjut.edu.cn.		86400	IN	SOA	tjut.edu.cn. wfy128.tjut.edu.cn. 93 10800 900 604800 86400
+;; Query time: 348 msec
+;; SERVER: 202.113.64.3#53(202.113.64.3)
+;; WHEN: Mon Apr 21 20:48:01 中国标准时间 2014
+;; XFR size: 47 records (messages 1, bytes 986)
+

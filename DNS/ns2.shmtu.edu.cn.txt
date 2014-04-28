@@ -1,0 +1,306 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @ns2.shmtu.edu.cn axfr shmtu.edu.cn
+; (2 servers found)
+;; global options: +cmd
+shmtu.edu.cn.		21600	IN	SOA	orient.shmtu.edu.cn. wyp.shmtu.edu.cn. 2014041901 10800 900 1814400 86400
+shmtu.edu.cn.		21600	IN	NS	orient.shmtu.edu.cn.
+shmtu.edu.cn.		21600	IN	NS	ns2.shmtu.edu.cn.
+shmtu.edu.cn.		1814400	IN	MX	5 mail.shmtu.edu.cn.
+shmtu.edu.cn.		21600	IN	A	58.40.126.6
+ad.shmtu.edu.cn.	21600	IN	CNAME	www2.shmtu.edu.cn.
+adm.shmtu.edu.cn.	21600	IN	MX	10 mail.shmtu.edu.cn.
+adm.shmtu.edu.cn.	21600	IN	A	58.40.126.4
+admission.shmtu.edu.cn.	21600	IN	CNAME	www4.shmtu.edu.cn.
+alumni.shmtu.edu.cn.	21600	IN	A	58.40.126.81
+api.shmtu.edu.cn.	21600	IN	CNAME	www1.shmtu.edu.cn.
+app.shmtu.edu.cn.	21600	IN	A	58.40.126.22
+lms.app.shmtu.edu.cn.	21600	IN	A	58.40.126.58
+app1.shmtu.edu.cn.	21600	IN	A	58.40.126.13
+app2.shmtu.edu.cn.	21600	IN	A	58.40.126.14
+app3.shmtu.edu.cn.	21600	IN	A	58.40.126.125
+apporadb.shmtu.edu.cn.	21600	IN	A	10.72.34.94
+arc.shmtu.edu.cn.	21600	IN	CNAME	www2.shmtu.edu.cn.
+baksvr.shmtu.edu.cn.	21600	IN	A	202.121.209.51
+binfo.shmtu.edu.cn.	21600	IN	A	58.40.126.139
+c.shmtu.edu.cn.		21600	IN	A	202.121.209.24
+ca.shmtu.edu.cn.	21600	IN	A	202.121.209.15
+cas.shmtu.edu.cn.	21600	IN	A	58.40.126.24
+svr1.cas.shmtu.edu.cn.	21600	IN	A	10.72.34.82
+svr2.cas.shmtu.edu.cn.	21600	IN	A	10.72.34.83
+ccs.shmtu.edu.cn.	21600	IN	MX	10 mail.shmtu.edu.cn.
+ccs.shmtu.edu.cn.	21600	IN	A	58.40.126.6
+www.ccs.shmtu.edu.cn.	21600	IN	CNAME	www3.shmtu.edu.cn.
+cct.shmtu.edu.cn.	21600	IN	MX	10 mail.shmtu.edu.cn.
+cct.shmtu.edu.cn.	21600	IN	A	58.40.126.4
+cdi.shmtu.edu.cn.	21600	IN	CNAME	www2.shmtu.edu.cn.
+cdn.shmtu.edu.cn.	21600	IN	CNAME	www1.shmtu.edu.cn.
+cec.shmtu.edu.cn.	21600	IN	MX	10 mail.shmtu.edu.cn.
+cec.shmtu.edu.cn.	21600	IN	A	58.40.126.4
+cec-seafarer.shmtu.edu.cn. 21600 IN	A	222.66.202.186
+cen.shmtu.edu.cn.	21600	IN	MX	10 mail.shmtu.edu.cn.
+cen.shmtu.edu.cn.	21600	IN	A	58.40.126.4
+cfl.shmtu.edu.cn.	21600	IN	MX	10 mail.shmtu.edu.cn.
+cfl.shmtu.edu.cn.	21600	IN	A	58.40.126.6
+www.cfl.shmtu.edu.cn.	21600	IN	CNAME	www3.shmtu.edu.cn.
+cheia.shmtu.edu.cn.	21600	IN	CNAME	www4.shmtu.edu.cn.
+cie.shmtu.edu.cn.	21600	IN	MX	10 mail.shmtu.edu.cn.
+cie.shmtu.edu.cn.	21600	IN	A	58.40.126.61
+cifsc.shmtu.edu.cn.	21600	IN	CNAME	www4.shmtu.edu.cn.
+cle.shmtu.edu.cn.	21600	IN	MX	10 mail.shmtu.edu.cn.
+cle.shmtu.edu.cn.	21600	IN	A	58.40.126.4
+cms.shmtu.edu.cn.	21600	IN	A	202.121.209.3
+csc.shmtu.edu.cn.	21600	IN	CNAME	www2.shmtu.edu.cn.
+cyl.shmtu.edu.cn.	21600	IN	CNAME	www4.shmtu.edu.cn.
+cyl2.shmtu.edu.cn.	21600	IN	CNAME	www2.shmtu.edu.cn.
+orarac.db.shmtu.edu.cn.	21600	IN	A	10.72.40.16
+orarac1.db.shmtu.edu.cn. 21600	IN	A	10.72.33.171
+orarac1-pri.db.shmtu.edu.cn. 21600 IN	A	172.16.3.171
+orarac1-vip.db.shmtu.edu.cn. 21600 IN	A	10.72.33.173
+orarac2.db.shmtu.edu.cn. 21600	IN	A	10.72.33.172
+orarac2-pri.db.shmtu.edu.cn. 21600 IN	A	172.16.3.172
+orarac2-vip.db.shmtu.edu.cn. 21600 IN	A	10.72.33.174
+rac.test.db.shmtu.edu.cn. 21600	IN	A	202.121.209.70
+rac1.test.db.shmtu.edu.cn. 21600 IN	A	202.121.209.71
+rac1-vip.test.db.shmtu.edu.cn. 21600 IN	A	202.121.209.73
+rac2.test.db.shmtu.edu.cn. 21600 IN	A	202.121.209.72
+rac2-vip.test.db.shmtu.edu.cn. 21600 IN	A	202.121.209.74
+dbc.shmtu.edu.cn.	21600	IN	MX	10 mail.shmtu.edu.cn.
+dbc.shmtu.edu.cn.	21600	IN	A	58.40.126.4
+cms.dcp.shmtu.edu.cn.	21600	IN	A	10.72.34.61
+idcapp.dcp.shmtu.edu.cn. 21600	IN	A	10.72.34.85
+idcapp1.dcp.shmtu.edu.cn. 21600	IN	A	10.72.34.86
+idcapp2.dcp.shmtu.edu.cn. 21600	IN	A	10.72.34.87
+im.dcp.shmtu.edu.cn.	21600	IN	A	10.72.34.95
+im1.dcp.shmtu.edu.cn.	21600	IN	A	10.72.34.96
+im2.dcp.shmtu.edu.cn.	21600	IN	A	10.72.34.97
+odi.dcp.shmtu.edu.cn.	21600	IN	A	10.72.34.79
+odi2.dcp.shmtu.edu.cn.	21600	IN	A	10.72.34.78
+report.dcp.shmtu.edu.cn. 21600	IN	A	58.40.126.74
+sms.dcp.shmtu.edu.cn.	21600	IN	A	10.72.34.88
+test.dcp.shmtu.edu.cn.	21600	IN	A	10.72.34.77
+dwb.shmtu.edu.cn.	21600	IN	CNAME	www2.shmtu.edu.cn.
+dwgk.shmtu.edu.cn.	21600	IN	A	202.121.209.42
+ecampus.shmtu.edu.cn.	21600	IN	A	58.40.126.80
+ecard.shmtu.edu.cn.	21600	IN	A	58.40.126.2
+edf.shmtu.edu.cn.	21600	IN	CNAME	www3.shmtu.edu.cn.
+elearning.shmtu.edu.cn.	21600	IN	A	202.121.209.82
+email.shmtu.edu.cn.	21600	IN	CNAME	mail.shmtu.edu.cn.
+en.shmtu.edu.cn.	21600	IN	CNAME	www2.shmtu.edu.cn.
+old.en.shmtu.edu.cn.	21600	IN	CNAME	www1.shmtu.edu.cn.
+enroll.shmtu.edu.cn.	21600	IN	A	58.40.126.18
+estage.shmtu.edu.cn.	21600	IN	A	116.236.110.226
+eyjs.shmtu.edu.cn.	21600	IN	CNAME	gs.shmtu.edu.cn.
+finance.shmtu.edu.cn.	21600	IN	A	58.40.126.41
+finance2.shmtu.edu.cn.	21600	IN	A	58.40.126.145
+ftp.shmtu.edu.cn.	21600	IN	A	10.72.33.29
+ftp2.shmtu.edu.cn.	21600	IN	CNAME	ftp.shmtu.edu.cn.
+ftp3.shmtu.edu.cn.	21600	IN	A	10.72.33.44
+fwh.shmtu.edu.cn.	21600	IN	CNAME	www2.shmtu.edu.cn.
+galileo.shmtu.edu.cn.	21600	IN	A	202.121.215.216
+gamits.shmtu.edu.cn.	21600	IN	A	60.190.223.76
+gamits-en.shmtu.edu.cn.	21600	IN	A	60.190.223.76
+gdmis.shmtu.edu.cn.	21600	IN	A	202.121.217.113
+glkx.shmtu.edu.cn.	21600	IN	A	58.40.126.147
+gonghui.shmtu.edu.cn.	21600	IN	CNAME	www1.shmtu.edu.cn.
+gra.shmtu.edu.cn.	21600	IN	MX	10 mail.shmtu.edu.cn.
+gra.shmtu.edu.cn.	21600	IN	A	58.40.126.4
+grid.shmtu.edu.cn.	21600	IN	A	202.121.211.185
+gs.shmtu.edu.cn.	21600	IN	A	58.40.126.109
+hr.shmtu.edu.cn.	21600	IN	CNAME	www3.shmtu.edu.cn.
+hvc.shmtu.edu.cn.	21600	IN	MX	10 mail.shmtu.edu.cn.
+hvc.shmtu.edu.cn.	21600	IN	A	58.40.126.8
+i.shmtu.edu.cn.		21600	IN	A	10.72.34.90
+id.shmtu.edu.cn.	21600	IN	A	202.121.209.16
+idp.shmtu.edu.cn.	21600	IN	A	58.40.126.97
+app.iec.shmtu.edu.cn.	21600	IN	A	58.40.126.73
+ilogistics.shmtu.edu.cn. 21600	IN	A	117.144.212.88
+ilogistics.shmtu.edu.cn. 21600	IN	A	58.246.160.161
+ilogistics.shmtu.edu.cn. 21600	IN	A	180.166.237.178
+imla.shmtu.edu.cn.	21600	IN	A	202.121.209.46
+imla18.shmtu.edu.cn.	21600	IN	CNAME	www2.shmtu.edu.cn.
+imm.shmtu.edu.cn.	21600	IN	CNAME	www2.shmtu.edu.cn.
+immse.shmtu.edu.cn.	21600	IN	CNAME	www3.shmtu.edu.cn.
+info.shmtu.edu.cn.	21600	IN	A	58.40.126.118
+it.shmtu.edu.cn.	21600	IN	CNAME	www3.shmtu.edu.cn.
+jj.shmtu.edu.cn.	21600	IN	CNAME	www3.shmtu.edu.cn.
+job.shmtu.edu.cn.	21600	IN	A	58.40.126.117
+jpkc.shmtu.edu.cn.	21600	IN	A	58.40.126.146
+jwc.shmtu.edu.cn.	21600	IN	A	58.40.126.67
+jworadb.shmtu.edu.cn.	21600	IN	A	10.72.40.16
+jwxt.shmtu.edu.cn.	21600	IN	A	58.40.126.70
+kjc.shmtu.edu.cn.	21600	IN	CNAME	www4.shmtu.edu.cn.
+kms.shmtu.edu.cn.	21600	IN	A	10.72.33.14
+labmis.shmtu.edu.cn.	21600	IN	A	10.72.81.32
+law.shmtu.edu.cn.	21600	IN	CNAME	www2.shmtu.edu.cn.
+ldap.shmtu.edu.cn.	21600	IN	CNAME	cas.shmtu.edu.cn.
+lhl.shmtu.edu.cn.	21600	IN	A	202.121.209.20
+lib.shmtu.edu.cn.	21600	IN	MX	10 mail.shmtu.edu.cn.
+lib.shmtu.edu.cn.	21600	IN	A	58.40.126.4
+kjcx.library.shmtu.edu.cn. 21600 IN	A	58.40.126.47
+lii.library.shmtu.edu.cn. 21600	IN	A	58.40.126.48
+opac.library.shmtu.edu.cn. 21600 IN	A	58.40.126.44
+vpn.library.shmtu.edu.cn. 21600	IN	A	58.40.126.49
+www.library.shmtu.edu.cn. 21600	IN	A	58.40.126.50
+lj.shmtu.edu.cn.	21600	IN	A	10.72.33.110
+lms.shmtu.edu.cn.	21600	IN	CNAME	www2.shmtu.edu.cn.
+lmsdb.shmtu.edu.cn.	21600	IN	A	202.121.209.70
+lrc.shmtu.edu.cn.	21600	IN	A	58.40.126.114
+lrcapp.shmtu.edu.cn.	21600	IN	A	180.166.237.181
+lrcapp.shmtu.edu.cn.	21600	IN	A	58.246.160.164
+lrcapp.shmtu.edu.cn.	21600	IN	A	117.144.212.91
+ls.shmtu.edu.cn.	21600	IN	CNAME	www3.shmtu.edu.cn.
+new.ls.shmtu.edu.cn.	21600	IN	CNAME	www3.shmtu.edu.cn.
+old.ls.shmtu.edu.cn.	21600	IN	CNAME	www2.shmtu.edu.cn.
+lsc.shmtu.edu.cn.	21600	IN	MX	10 mail.shmtu.edu.cn.
+lsc.shmtu.edu.cn.	21600	IN	A	58.40.126.125
+lxyjs.shmtu.edu.cn.	21600	IN	A	58.40.126.72
+m.shmtu.edu.cn.		21600	IN	A	58.40.126.78
+mail.shmtu.edu.cn.	21600	IN	A	58.40.126.4
+mba.shmtu.edu.cn.	21600	IN	MX	10 mail.shmtu.edu.cn.
+mba.shmtu.edu.cn.	21600	IN	A	58.40.126.68
+mec.shmtu.edu.cn.	21600	IN	MX	10 mail.shmtu.edu.cn.
+mec.shmtu.edu.cn.	21600	IN	A	58.40.126.84
+media.shmtu.edu.cn.	21600	IN	CNAME	www1.shmtu.edu.cn.
+mis.shmtu.edu.cn.	21600	IN	A	202.121.209.110
+misc.shmtu.edu.cn.	21600	IN	CNAME	time.shmtu.edu.cn.
+mits.shmtu.edu.cn.	21600	IN	A	114.80.152.103
+mits2009.shmtu.edu.cn.	21600	IN	A	222.73.27.142
+mmc.shmtu.edu.cn.	21600	IN	A	58.40.126.148
+score.mmc.shmtu.edu.cn.	21600	IN	A	58.40.126.52
+msc.shmtu.edu.cn.	21600	IN	MX	10 mail.shmtu.edu.cn.
+msc.shmtu.edu.cn.	21600	IN	A	58.40.126.4
+msi.shmtu.edu.cn.	21600	IN	CNAME	www4.shmtu.edu.cn.
+mstc.shmtu.edu.cn.	21600	IN	A	58.40.126.144
+msvl.shmtu.edu.cn.	21600	IN	A	202.121.209.24
+museum.shmtu.edu.cn.	21600	IN	CNAME	www3.shmtu.edu.cn.
+trends.neusoft.shmtu.edu.cn. 21600 IN	A	202.121.209.151
+new.shmtu.edu.cn.	21600	IN	CNAME	www3.shmtu.edu.cn.
+new-ftp.shmtu.edu.cn.	21600	IN	CNAME	newftp.shmtu.edu.cn.
+newftp.shmtu.edu.cn.	21600	IN	A	10.72.33.20
+news.shmtu.edu.cn.	21600	IN	CNAME	www3.shmtu.edu.cn.
+ns2.shmtu.edu.cn.	21600	IN	A	58.40.126.17
+ns2.shmtu.edu.cn.	21600	IN	A	10.72.33.11
+ns3.shmtu.edu.cn.	21600	IN	A	10.72.33.11
+oec.shmtu.edu.cn.	21600	IN	CNAME	www4.shmtu.edu.cn.
+oes.shmtu.edu.cn.	21600	IN	MX	10 mail.shmtu.edu.cn.
+oes.shmtu.edu.cn.	21600	IN	A	58.40.126.4
+omm.shmtu.edu.cn.	21600	IN	A	58.40.126.53
+oragc.shmtu.edu.cn.	21600	IN	A	202.121.209.61
+org.shmtu.edu.cn.	21600	IN	CNAME	www2.shmtu.edu.cn.
+orient.shmtu.edu.cn.	21600	IN	A	202.121.209.11
+orient.shmtu.edu.cn.	21600	IN	AAAA	2001:da8:801b:40f:250:56ff:fea3:641d
+our.shmtu.edu.cn.	21600	IN	A	58.40.126.139
+p.shmtu.edu.cn.		21600	IN	A	58.40.126.7
+*.p.shmtu.edu.cn.	21600	IN	A	58.40.126.7
+pba.shmtu.edu.cn.	21600	IN	MX	10 mail.shmtu.edu.cn.
+pba.shmtu.edu.cn.	21600	IN	A	58.40.126.4
+person.shmtu.edu.cn.	21600	IN	A	61.152.161.244
+po.shmtu.edu.cn.	21600	IN	CNAME	www3.shmtu.edu.cn.
+pop.shmtu.edu.cn.	21600	IN	CNAME	mail.shmtu.edu.cn.
+pop3.shmtu.edu.cn.	21600	IN	CNAME	mail.shmtu.edu.cn.
+portal.shmtu.edu.cn.	21600	IN	A	58.40.126.21
+portal1.shmtu.edu.cn.	21600	IN	A	58.40.126.11
+portal2.shmtu.edu.cn.	21600	IN	A	58.40.126.12
+portaltest.shmtu.edu.cn. 21600	IN	CNAME	portal.shmtu.edu.cn.
+portalv2.shmtu.edu.cn.	21600	IN	CNAME	portal.shmtu.edu.cn.
+pre.shmtu.edu.cn.	21600	IN	MX	10 mail.shmtu.edu.cn.
+pre.shmtu.edu.cn.	21600	IN	A	58.40.126.4
+project.shmtu.edu.cn.	21600	IN	A	58.40.126.19
+qzlx.shmtu.edu.cn.	21600	IN	CNAME	www3.shmtu.edu.cn.
+racr.shmtu.edu.cn.	21600	IN	CNAME	www2.shmtu.edu.cn.
+rcsc.shmtu.edu.cn.	21600	IN	CNAME	www4.shmtu.edu.cn.
+rin.shmtu.edu.cn.	21600	IN	MX	10 mail.shmtu.edu.cn.
+rin.shmtu.edu.cn.	21600	IN	A	58.40.126.4
+saiis.shmtu.edu.cn.	21600	IN	A	58.40.126.72
+scxy.shmtu.edu.cn.	21600	IN	CNAME	www2.shmtu.edu.cn.
+sec.shmtu.edu.cn.	21600	IN	CNAME	www1.shmtu.edu.cn.
+security.shmtu.edu.cn.	21600	IN	CNAME	www2.shmtu.edu.cn.
+sem.shmtu.edu.cn.	21600	IN	MX	10 mail.shmtu.edu.cn.
+sem.shmtu.edu.cn.	21600	IN	A	58.40.126.107
+shipping.shmtu.edu.cn.	21600	IN	A	202.121.210.3
+shs.shmtu.edu.cn.	21600	IN	MX	10 mail.shmtu.edu.cn.
+shs.shmtu.edu.cn.	21600	IN	A	58.40.126.4
+sic.shmtu.edu.cn.	21600	IN	MX	10 mail.shmtu.edu.cn.
+sic.shmtu.edu.cn.	21600	IN	A	58.40.126.4
+sie.shmtu.edu.cn.	21600	IN	A	202.121.211.158
+sisi.shmtu.edu.cn.	21600	IN	A	58.40.126.9
+sli.shmtu.edu.cn.	21600	IN	CNAME	lrc.shmtu.edu.cn.
+smtp.shmtu.edu.cn.	21600	IN	CNAME	mail.shmtu.edu.cn.
+smu-video.shmtu.edu.cn.	21600	IN	A	192.168.97.240
+smuccs.shmtu.edu.cn.	21600	IN	CNAME	www2.shmtu.edu.cn.
+smuiml.shmtu.edu.cn.	21600	IN	A	61.152.239.188
+smulsc.shmtu.edu.cn.	21600	IN	A	58.40.126.125
+smusem.shmtu.edu.cn.	21600	IN	A	58.40.126.107
+smuzone.shmtu.edu.cn.	21600	IN	A	202.121.210.70
+mgmt.sql.shmtu.edu.cn.	21600	IN	A	10.72.33.230
+sqn.shmtu.edu.cn.	21600	IN	MX	10 mail.shmtu.edu.cn.
+sqn.shmtu.edu.cn.	21600	IN	A	58.40.126.4
+sr.shmtu.edu.cn.	21600	IN	CNAME	www4.shmtu.edu.cn.
+sra.shmtu.edu.cn.	21600	IN	CNAME	www4.shmtu.edu.cn.
+sst.shmtu.edu.cn.	21600	IN	A	58.40.126.59
+sti.shmtu.edu.cn.	21600	IN	A	58.40.126.48
+student.shmtu.edu.cn.	21600	IN	A	58.40.126.19
+survey.shmtu.edu.cn.	21600	IN	CNAME	www3.shmtu.edu.cn.
+ie9.win7.test.shmtu.edu.cn. 21600 IN	A	202.121.209.144
+ie10.win8.test.shmtu.edu.cn. 21600 IN	A	202.121.209.145
+ie6.xp.test.shmtu.edu.cn. 21600	IN	A	202.121.209.141
+ie7.xp.test.shmtu.edu.cn. 21600	IN	A	202.121.209.142
+ie8.xp.test.shmtu.edu.cn. 21600	IN	A	202.121.209.143
+time.shmtu.edu.cn.	21600	IN	A	58.40.126.7
+v2010.shmtu.edu.cn.	21600	IN	CNAME	www1.shmtu.edu.cn.
+vcs.shmtu.edu.cn.	21600	IN	A	58.40.126.89
+via.shmtu.edu.cn.	21600	IN	A	60.190.223.76
+blade02.vm.shmtu.edu.cn. 21600	IN	A	10.72.33.224
+blade04.vm.shmtu.edu.cn. 21600	IN	A	10.72.33.225
+esxi-pe820-06.vm.shmtu.edu.cn. 21600 IN	A	10.72.33.217
+idrac6.vm.shmtu.edu.cn.	21600	IN	A	10.72.33.210
+oradb.vm.shmtu.edu.cn.	21600	IN	A	10.72.33.193
+per820vm1.vm.shmtu.edu.cn. 21600 IN	A	10.72.33.211
+per820vm2.vm.shmtu.edu.cn. 21600 IN	A	10.72.33.212
+per820vm3.vm.shmtu.edu.cn. 21600 IN	A	10.72.33.213
+per820vm4.vm.shmtu.edu.cn. 21600 IN	A	10.72.33.216
+per820vm5.vm.shmtu.edu.cn. 21600 IN	A	10.72.33.215
+vc.vm.shmtu.edu.cn.	21600	IN	A	10.72.33.236
+vcenter.vm.shmtu.edu.cn. 21600	IN	A	202.121.209.25
+vcenter1.vm.shmtu.edu.cn. 21600	IN	A	202.121.209.111
+vcenter2.vm.shmtu.edu.cn. 21600	IN	A	202.121.209.112
+vdp.vm.shmtu.edu.cn.	21600	IN	A	202.121.209.52
+vdp2.vm.shmtu.edu.cn.	21600	IN	A	202.121.209.55
+vdp3.vm.shmtu.edu.cn.	21600	IN	A	10.72.33.191
+vdp4.vm.shmtu.edu.cn.	21600	IN	A	10.72.33.190
+vum.vm.shmtu.edu.cn.	21600	IN	A	10.72.33.192
+voc.shmtu.edu.cn.	21600	IN	MX	10 mail.shmtu.edu.cn.
+voc.shmtu.edu.cn.	21600	IN	A	58.40.126.4
+vpn.shmtu.edu.cn.	21600	IN	A	58.40.126.100
+webplus.shmtu.edu.cn.	21600	IN	A	202.121.209.41
+weisheng.shmtu.edu.cn.	21600	IN	A	58.40.126.124
+why.shmtu.edu.cn.	21600	IN	A	202.121.209.19
+wifi.shmtu.edu.cn.	21600	IN	CNAME	www4.shmtu.edu.cn.
+wtest.shmtu.edu.cn.	21600	IN	A	202.121.209.154
+wvs.shmtu.edu.cn.	21600	IN	MX	10 mail.shmtu.edu.cn.
+wvs.shmtu.edu.cn.	21600	IN	A	58.40.126.4
+www.shmtu.edu.cn.	21600	IN	CNAME	www3.shmtu.edu.cn.
+www1.shmtu.edu.cn.	21600	IN	A	58.40.126.8
+www1.shmtu.edu.cn.	21600	IN	AAAA	2001:da8:801b:402:e14a:9452:6e0:1a57
+www2.shmtu.edu.cn.	21600	IN	A	58.40.126.9
+www2.shmtu.edu.cn.	21600	IN	AAAA	2001:0:9d38:90d7:3:6cfc:c5d7:8115
+www3.shmtu.edu.cn.	21600	IN	A	58.40.126.6
+www3.shmtu.edu.cn.	21600	IN	AAAA	2001:da8:801b:402:250:56ff:fea3:28be
+www4.shmtu.edu.cn.	21600	IN	A	58.40.126.5
+www4.shmtu.edu.cn.	21600	IN	AAAA	2001:da8:801b:402:250:56ff:fea3:72e8
+www5.shmtu.edu.cn.	21600	IN	A	202.121.209.136
+wyp.shmtu.edu.cn.	21600	IN	A	202.121.209.18
+macpro.wyp.shmtu.edu.cn. 21600	IN	A	58.40.126.88
+wyp2.shmtu.edu.cn.	21600	IN	A	58.40.126.88
+xsc.shmtu.edu.cn.	21600	IN	CNAME	www2.shmtu.edu.cn.
+zz.xsc.shmtu.edu.cn.	21600	IN	CNAME	www3.shmtu.edu.cn.
+yum.shmtu.edu.cn.	21600	IN	A	202.121.209.16
+yxyjs.shmtu.edu.cn.	21600	IN	CNAME	gs.shmtu.edu.cn.
+yz.shmtu.edu.cn.	21600	IN	A	58.40.126.72
+zcc.shmtu.edu.cn.	21600	IN	CNAME	www2.shmtu.edu.cn.
+shmtu.edu.cn.		21600	IN	SOA	orient.shmtu.edu.cn. wyp.shmtu.edu.cn. 2014041901 10800 900 1814400 86400
+;; Query time: 42 msec
+;; SERVER: 58.40.126.17#53(58.40.126.17)
+;; WHEN: Mon Apr 21 20:55:01 中国标准时间 2014
+;; XFR size: 297 records (messages 1, bytes 6198)
+

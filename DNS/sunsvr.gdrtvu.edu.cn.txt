@@ -1,0 +1,96 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @sunsvr.gdrtvu.edu.cn axfr gdrtvu.edu.cn
+; (1 server found)
+;; global options: +cmd
+gdrtvu.edu.cn.		3600	IN	SOA	SUNSVR.gdrtvu.edu.cn. root.ximo.com.cn. 2014032404 30 30 360 3600
+gdrtvu.edu.cn.		3600	IN	NS	sunsvr.gdrtvu.edu.cn.
+gdrtvu.edu.cn.		3600	IN	MX	10 matrix.gdrtvu.edu.cn.
+chaozhou.gdrtvu.edu.cn.	3600	IN	A	210.38.46.18
+cj.gdrtvu.edu.cn.	3600	IN	A	210.38.32.186
+cms.gdrtvu.edu.cn.	3600	IN	A	210.38.32.91
+cms1.gdrtvu.edu.cn.	3600	IN	A	210.38.32.82
+database.gdrtvu.edu.cn.	3600	IN	A	210.38.32.95
+dns.gdrtvu.edu.cn.	3600	IN	CNAME	sunsvr.gdrtvu.edu.cn.
+dongguan.gdrtvu.edu.cn.	3600	IN	MX	90 matrix.gdrtvu.edu.cn.
+dongguan.gdrtvu.edu.cn.	3600	IN	A	210.38.45.220
+eyoufilter.gdrtvu.edu.cn. 3600	IN	A	210.38.32.34
+foshan.gdrtvu.edu.cn.	3600	IN	A	210.38.45.82
+ftp.gdrtvu.edu.cn.	3600	IN	CNAME	ncsvr8.gdrtvu.edu.cn.
+gdcj.gdrtvu.edu.cn.	3600	IN	CNAME	cms1.gdrtvu.edu.cn.
+ghchen.gdrtvu.edu.cn.	3600	IN	A	210.38.47.11
+ghwu.gdrtvu.edu.cn.	3600	IN	A	210.38.47.17
+gonglu.gdrtvu.edu.cn.	3600	IN	A	210.38.46.242
+gs.gdrtvu.edu.cn.	3600	IN	A	210.38.47.12
+haifeng.gdrtvu.edu.cn.	3600	IN	A	210.38.43.2
+heyuan.gdrtvu.edu.cn.	3600	IN	A	210.38.45.18
+heyuanmail.gdrtvu.edu.cn. 3600	IN	MX	500 heyuanmail.gdrtvu.edu.cn.
+heyuanmail.gdrtvu.edu.cn. 3600	IN	A	210.38.45.20
+huizhou.gdrtvu.edu.cn.	3600	IN	MX	80 matrix.gdrtvu.edu.cn.
+huizhou.gdrtvu.edu.cn.	3600	IN	A	210.38.45.226
+jiangmen.gdrtvu.edu.cn.	3600	IN	A	210.38.45.146
+jiaowu.gdrtvu.edu.cn.	3600	IN	MX	30 matrix.gdrtvu.edu.cn.
+jieyang.gdrtvu.edu.cn.	3600	IN	A	210.38.45.242
+kecheng.gdrtvu.edu.cn.	3600	IN	A	210.38.32.42
+ks.gdrtvu.edu.cn.	3600	IN	A	210.38.32.182
+ksz.gdrtvu.edu.cn.	3600	IN	A	210.38.32.182
+ldap.gdrtvu.edu.cn.	3600	IN	A	210.38.32.93
+ldap1.gdrtvu.edu.cn.	3600	IN	A	210.38.32.95
+library.gdrtvu.edu.cn.	3600	IN	A	210.38.32.194
+lufeng.gdrtvu.edu.cn.	3600	IN	A	210.38.43.10
+luhe.gdrtvu.edu.cn.	3600	IN	A	210.38.43.18
+luoding.gdrtvu.edu.cn.	3600	IN	A	210.38.44.250
+mail.gdrtvu.edu.cn.	3600	IN	CNAME	smtp.gdrtvu.edu.cn.
+maoming.gdrtvu.edu.cn.	3600	IN	MX	110 matrix.gdrtvu.edu.cn.
+maoming.gdrtvu.edu.cn.	3600	IN	A	210.38.45.178
+matrix.gdrtvu.edu.cn.	3600	IN	A	59.42.214.94
+mcs.gdrtvu.edu.cn.	3600	IN	A	210.38.32.12
+meizhou.gdrtvu.edu.cn.	3600	IN	MX	60 matrix.gdrtvu.edu.cn.
+meizhou.gdrtvu.edu.cn.	3600	IN	A	210.38.46.34
+my.gdrtvu.edu.cn.	3600	IN	CNAME	portal.gdrtvu.edu.cn.
+nanhai.gdrtvu.edu.cn.	3600	IN	A	210.38.45.98
+nc.gdrtvu.edu.cn.	3600	IN	MX	20 matrix.gdrtvu.edu.cn.
+ncsvr8.gdrtvu.edu.cn.	3600	IN	A	210.38.32.6
+nerc.gdrtvu.edu.cn.	3600	IN	A	210.38.32.220
+nhdd.gdrtvu.edu.cn.	3600	IN	A	210.38.32.6
+ntsvr.gdrtvu.edu.cn.	3600	IN	A	210.38.32.5
+oa.gdrtvu.edu.cn.	3600	IN	A	210.38.32.118
+open.gdrtvu.edu.cn.	3600	IN	A	210.38.32.10
+pop3.gdrtvu.edu.cn.	3600	IN	CNAME	smtp.gdrtvu.edu.cn.
+portal.gdrtvu.edu.cn.	3600	IN	A	210.38.32.92
+pub.gdrtvu.edu.cn.	3600	IN	A	210.38.32.42
+publish.gdrtvu.edu.cn.	3600	IN	CNAME	portal.gdrtvu.edu.cn.
+qingyuan.gdrtvu.edu.cn.	3600	IN	A	210.38.46.66
+security.gdrtvu.edu.cn.	3600	IN	CNAME	ldap.gdrtvu.edu.cn.
+shantou.gdrtvu.edu.cn.	3600	IN	A	210.38.46.2
+shanwei.gdrtvu.edu.cn.	3600	IN	MX	40 matrix.gdrtvu.edu.cn.
+shanwei.gdrtvu.edu.cn.	3600	IN	A	210.38.45.2
+shaoguan.gdrtvu.edu.cn.	3600	IN	A	210.38.46.50
+smtp.gdrtvu.edu.cn.	3600	IN	A	210.38.32.22
+sq.gdrtvu.edu.cn.	3600	IN	A	210.38.32.12
+SUNSVR.gdrtvu.edu.cn.	3600	IN	A	210.38.32.2
+ucenter.gdrtvu.edu.cn.	3600	IN	CNAME	ldap.gdrtvu.edu.cn.
+unixdomain.gdrtvu.edu.cn. 3600	IN	A	210.38.32.25
+vbi.gdrtvu.edu.cn.	3600	IN	A	210.38.32.222
+vpn.gdrtvu.edu.cn.	3600	IN	A	210.38.47.50
+www.gdrtvu.edu.cn.	3600	IN	A	210.38.32.4
+www1.gdrtvu.edu.cn.	3600	IN	CNAME	www.gdrtvu.edu.cn.
+xiaoban.gdrtvu.edu.cn.	3600	IN	MX	70 matrix.gdrtvu.edu.cn.
+xj.gdrtvu.edu.cn.	3600	IN	A	210.38.32.189
+yangjiang.gdrtvu.edu.cn. 3600	IN	MX	50 matrix.gdrtvu.edu.cn.
+yangjiang.gdrtvu.edu.cn. 3600	IN	A	210.38.45.34
+yunfu.gdrtvu.edu.cn.	3600	IN	A	61.143.183.140
+zhanjiang.gdrtvu.edu.cn. 3600	IN	MX	100 matrix.gdrtvu.edu.cn.
+zhanjiang.gdrtvu.edu.cn. 3600	IN	A	210.38.45.194
+zhaoqing.gdrtvu.edu.cn.	3600	IN	A	210.38.45.162
+zhongshan.gdrtvu.edu.cn. 3600	IN	A	210.38.45.130
+zhuhai.gdrtvu.edu.cn.	3600	IN	MX	60 zhuhaimail.gdrtvu.edu.cn.
+zhuhai.gdrtvu.edu.cn.	3600	IN	A	210.38.45.66
+zhuhaimail.gdrtvu.edu.cn. 3600	IN	A	210.38.45.67
+zs.gdrtvu.edu.cn.	3600	IN	A	210.38.32.180
+zzxx.gdrtvu.edu.cn.	3600	IN	A	210.38.32.41
+gdrtvu.edu.cn.		3600	IN	SOA	SUNSVR.gdrtvu.edu.cn. root.ximo.com.cn. 2014032404 30 30 360 3600
+;; Query time: 77 msec
+;; SERVER: 210.38.32.2#53(210.38.32.2)
+;; WHEN: Mon Apr 21 20:59:23 中国标准时间 2014
+;; XFR size: 87 records (messages 1, bytes 1942)
+

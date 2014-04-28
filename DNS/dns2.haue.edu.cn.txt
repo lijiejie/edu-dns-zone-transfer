@@ -1,0 +1,78 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns2.haue.edu.cn axfr haue.edu.cn
+; (1 server found)
+;; global options: +cmd
+haue.edu.cn.		86400	IN	SOA	dns.haue.edu.cn. root.haue.edu.cn. 42 10800 900 604800 86400
+haue.edu.cn.		86400	IN	MX	10 mail.haue.edu.cn.
+haue.edu.cn.		86400	IN	NS	dns.haue.edu.cn.
+haue.edu.cn.		86400	IN	NS	dns2.haue.edu.cn.
+*.haue.edu.cn.		86400	IN	A	218.28.36.143
+aqgc.haue.edu.cn.	86400	IN	A	218.28.36.147
+atc.haue.edu.cn.	86400	IN	A	218.28.36.147
+business.haue.edu.cn.	86400	IN	A	211.84.0.20
+bwc.haue.edu.cn.	86400	IN	A	218.28.36.147
+clhx.haue.edu.cn.	86400	IN	A	218.28.36.147
+cwc.haue.edu.cn.	86400	IN	A	218.28.36.147
+db.haue.edu.cn.		86400	IN	A	218.28.36.147
+dns.haue.edu.cn.	86400	IN	A	125.219.48.8
+dns2.haue.edu.cn.	86400	IN	A	211.84.0.6
+dxgc.haue.edu.cn.	86400	IN	A	218.28.36.147
+fao.haue.edu.cn.	86400	IN	A	218.28.36.147
+ftp.haue.edu.cn.	86400	IN	A	218.28.36.158
+fzsj.haue.edu.cn.	86400	IN	A	218.28.36.147
+fzxy.haue.edu.cn.	86400	IN	A	218.28.36.147
+gjs.haue.edu.cn.	86400	IN	A	218.28.36.147
+glgc.haue.edu.cn.	86400	IN	A	218.28.36.147
+gonghui.haue.edu.cn.	86400	IN	A	218.28.36.147
+hndyh2012.haue.edu.cn.	86400	IN	A	218.28.36.147
+hqc.haue.edu.cn.	86400	IN	A	218.28.36.147
+hqgs.haue.edu.cn.	86400	IN	A	211.84.0.19
+jgdzz.haue.edu.cn.	86400	IN	A	218.28.36.147
+jjc.haue.edu.cn.	86400	IN	A	218.28.36.147
+jjmy.haue.edu.cn.	86400	IN	A	218.28.36.147
+jpkc.haue.edu.cn.	86400	IN	A	125.219.48.22
+*.jpkc.haue.edu.cn.	86400	IN	A	125.219.48.22
+*.jpzy.haue.edu.cn.	86400	IN	A	125.219.48.22
+jpzy2012.haue.edu.cn.	86400	IN	A	125.219.48.20
+jsjdzb.haue.edu.cn.	86400	IN	A	211.84.0.21
+jsjjc.haue.edu.cn.	86400	IN	A	183.170.25.48
+jw.haue.edu.cn.		86400	IN	A	218.28.36.147
+jwc1.haue.edu.cn.	86400	IN	A	218.28.36.147
+jxgc.haue.edu.cn.	86400	IN	A	218.28.36.147
+jxtd.haue.edu.cn.	86400	IN	A	125.219.48.22
+*.jxtd.haue.edu.cn.	86400	IN	A	125.219.48.22
+kjxy.haue.edu.cn.	86400	IN	A	218.28.36.147
+lib.haue.edu.cn.	86400	IN	A	218.28.36.147
+mail.haue.edu.cn.	86400	IN	A	218.28.36.139
+mkkcx.haue.edu.cn.	86400	IN	A	218.28.36.147
+pe.haue.edu.cn.		86400	IN	A	218.28.36.147
+rwxy.haue.edu.cn.	86400	IN	A	218.28.36.147
+safenet.haue.edu.cn.	86400	IN	A	218.28.36.147
+sbc.haue.edu.cn.	86400	IN	A	218.28.36.147
+sie.haue.edu.cn.	86400	IN	A	218.28.36.147
+sjc.haue.edu.cn.	86400	IN	A	218.28.36.147
+skl.haue.edu.cn.	86400	IN	A	218.28.36.147
+*.syzx.haue.edu.cn.	86400	IN	A	125.219.48.22
+tfaqx.haue.edu.cn.	86400	IN	A	218.28.36.147
+tmgc.haue.edu.cn.	86400	IN	A	218.28.36.147
+*.tszy.haue.edu.cn.	86400	IN	A	125.219.48.22
+tw.haue.edu.cn.		86400	IN	A	218.28.36.147
+tzb.haue.edu.cn.	86400	IN	A	218.28.36.147
+vod.haue.edu.cn.	86400	IN	A	218.28.36.141
+www.haue.edu.cn.	86400	IN	A	218.28.36.147
+www2.haue.edu.cn.	86400	IN	A	218.28.36.147
+xcb.haue.edu.cn.	86400	IN	A	218.28.36.147
+xlzx.haue.edu.cn.	86400	IN	A	211.84.0.16
+xsc.haue.edu.cn.	86400	IN	A	218.28.36.147
+xwnw.haue.edu.cn.	86400	IN	A	218.28.36.147
+yb.haue.edu.cn.		86400	IN	A	218.28.36.147
+yes.haue.edu.cn.	86400	IN	A	218.28.36.150
+zjc.haue.edu.cn.	86400	IN	A	218.28.36.147
+zyhj.haue.edu.cn.	86400	IN	A	218.28.36.147
+zzb.haue.edu.cn.	86400	IN	A	218.28.36.147
+haue.edu.cn.		86400	IN	SOA	dns.haue.edu.cn. root.haue.edu.cn. 42 10800 900 604800 86400
+;; Query time: 30 msec
+;; SERVER: 211.84.0.6#53(211.84.0.6)
+;; WHEN: Mon Apr 21 20:58:21 中国标准时间 2014
+;; XFR size: 69 records (messages 1, bytes 1484)
+

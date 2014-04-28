@@ -1,0 +1,35 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @ns.sjzpc.edu.cn axfr sjzpc.edu.cn
+; (2 servers found)
+;; global options: +cmd
+sjzpc.edu.cn.		86400	IN	SOA	green.sjzpc.edu.cn. root.localhost.sjzpc.edu.cn. 4 28800 7200 604800 86400
+sjzpc.edu.cn.		86400	IN	NS	green.sjzpc.edu.cn.
+sjzpc.edu.cn.		86400	IN	NS	ns.sjzpc.edu.cn.
+sjzpc.edu.cn.		86400	IN	MX	1 green.sjzpc.edu.cn.
+cjpt.sjzpc.edu.cn.	86400	IN	A	202.207.127.47
+dangan.sjzpc.edu.cn.	86400	IN	A	202.207.120.50
+green.sjzpc.edu.cn.	86400	IN	A	202.207.120.35
+ip.sjzpc.edu.cn.	86400	IN	A	202.207.120.35
+jpk.sjzpc.edu.cn.	86400	IN	CNAME	jpk.cptc.cn.
+jpk2.sjzpc.edu.cn.	86400	IN	A	202.207.120.37
+jwc.sjzpc.edu.cn.	86400	IN	A	202.207.127.37
+jwc1.sjzpc.edu.cn.	86400	IN	CNAME	jwc.cptc.cn.
+learn.sjzpc.edu.cn.	86400	IN	CNAME	learn.cptc.cn.
+library.sjzpc.edu.cn.	86400	IN	A	202.207.125.135
+localhost.sjzpc.edu.cn.	86400	IN	A	127.0.0.1
+netedu.sjzpc.edu.cn.	86400	IN	A	202.207.127.101
+ns.sjzpc.edu.cn.	86400	IN	A	202.207.120.35
+ns.sjzpc.edu.cn.	86400	IN	A	202.207.127.35
+postudy.sjzpc.edu.cn.	86400	IN	CNAME	sykj.sjzpc.edu.cn.
+sykj.sjzpc.edu.cn.	86400	IN	CNAME	sykj.cpde.cn.
+wljx.sjzpc.edu.cn.	86400	IN	CNAME	wljx.cptc.cn.
+wsbgt.sjzpc.edu.cn.	86400	IN	CNAME	wsbgt.cptc.cn.
+www.sjzpc.edu.cn.	86400	IN	CNAME	www.cptc.cn.
+zhaosheng.sjzpc.edu.cn.	86400	IN	CNAME	zhaosheng.cptc.cn.
+zygx.sjzpc.edu.cn.	86400	IN	CNAME	zygx.cptc.cn.
+sjzpc.edu.cn.		86400	IN	SOA	green.sjzpc.edu.cn. root.localhost.sjzpc.edu.cn. 4 28800 7200 604800 86400
+;; Query time: 53 msec
+;; SERVER: 202.207.127.35#53(202.207.127.35)
+;; WHEN: Mon Apr 21 20:48:38 中国标准时间 2014
+;; XFR size: 26 records (messages 1, bytes 642)
+

@@ -1,0 +1,20 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @ns1.czie.edu.cn axfr czie.edu.cn
+; (1 server found)
+;; global options: +cmd
+czie.edu.cn.		10800	IN	SOA	czie.edu.cn. rname.invalid. 0 86400 3600 604800 10800
+czie.edu.cn.		10800	IN	MX	10 mail.czie.edu.cn.
+czie.edu.cn.		10800	IN	NS	ns1.czie.edu.cn.
+czie.edu.cn.		10800	IN	NS	ns2.czie.edu.cn.
+czie.edu.cn.		10800	IN	AAAA	::1
+jpkc.czie.edu.cn.	10800	IN	CNAME	www.czie.edu.cn.
+mail.czie.edu.cn.	10800	IN	A	58.216.233.99
+ns1.czie.edu.cn.	10800	IN	A	58.193.96.1
+ns2.czie.edu.cn.	10800	IN	A	58.193.96.2
+www.czie.edu.cn.	10800	IN	A	58.193.98.98
+czie.edu.cn.		10800	IN	SOA	czie.edu.cn. rname.invalid. 0 86400 3600 604800 10800
+;; Query time: 128 msec
+;; SERVER: 58.193.96.1#53(58.193.96.1)
+;; WHEN: Mon Apr 21 20:53:09 中国标准时间 2014
+;; XFR size: 11 records (messages 1, bytes 286)
+

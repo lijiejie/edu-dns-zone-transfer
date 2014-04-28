@@ -1,0 +1,95 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns1.tstc.edu.cn axfr tstc.edu.cn
+; (1 server found)
+;; global options: +cmd
+tstc.edu.cn.		3600	IN	SOA	dns1.tstc.edu.cn. root.tstc.edu.cn. 2014022404 30 30 360 3600
+tstc.edu.cn.		3600	IN	MX	10 mail.tstc.edu.cn.
+tstc.edu.cn.		3600	IN	NS	dns1.tstc.edu.cn.
+tstc.edu.cn.		3600	IN	NS	dns2.tstc.edu.cn.
+tstc.edu.cn.		3600	IN	NS	dns3.tstc.edu.cn.
+admin.tstc.edu.cn.	3600	IN	A	211.81.200.5
+bwc.tstc.edu.cn.	3600	IN	A	60.2.22.35
+cwc.tstc.edu.cn.	3600	IN	A	60.2.22.35
+ddjy.tstc.edu.cn.	3600	IN	A	60.2.22.35
+dns1.tstc.edu.cn.	3600	IN	A	60.2.22.40
+dns2.tstc.edu.cn.	3600	IN	A	60.2.22.40
+dns3.tstc.edu.cn.	3600	IN	A	60.2.22.40
+drcom.tstc.edu.cn.	3600	IN	A	60.2.228.126
+dxyy.tstc.edu.cn.	3600	IN	A	60.2.22.35
+ggfw.tstc.edu.cn.	3600	IN	A	60.2.22.35
+gh.tstc.edu.cn.		3600	IN	A	60.2.22.35
+ghc.tstc.edu.cn.	3600	IN	A	60.2.22.36
+gzc.tstc.edu.cn.	3600	IN	A	60.2.22.35
+hjsw.tstc.edu.cn.	3600	IN	A	60.2.22.36
+hqc.tstc.edu.cn.	3600	IN	A	60.2.22.35
+hxx.tstc.edu.cn.	3600	IN	A	60.2.22.35
+icours.tstc.edu.cn.	3600	IN	A	60.2.22.40
+jcjy.tstc.edu.cn.	3600	IN	A	60.2.22.35
+jgx.tstc.edu.cn.	3600	IN	A	60.2.22.35
+jjw.tstc.edu.cn.	3600	IN	A	60.2.22.35
+jpk.tstc.edu.cn.	3600	IN	A	60.2.22.43
+jpkc.tstc.edu.cn.	3600	IN	A	60.2.22.35
+jsj.tstc.edu.cn.	3600	IN	A	60.2.22.35
+jsjy.tstc.edu.cn.	3600	IN	A	60.2.228.74
+jsll.tstc.edu.cn.	3600	IN	A	60.2.22.36
+jwc.tstc.edu.cn.	3600	IN	A	60.2.22.35
+jwgl.tstc.edu.cn.	3600	IN	A	60.2.22.37
+jxgl.tstc.edu.cn.	3600	IN	A	60.2.228.72
+jxjy.tstc.edu.cn.	3600	IN	A	60.2.22.35
+jxzy.tstc.edu.cn.	3600	IN	A	60.2.22.35
+jyx.tstc.edu.cn.	3600	IN	A	60.2.22.35
+jyxe.tstc.edu.cn.	3600	IN	A	60.2.22.35
+jyxx.tstc.edu.cn.	3600	IN	A	60.2.22.35
+jyyd.tstc.edu.cn.	3600	IN	A	60.2.228.69
+kyc.tstc.edu.cn.	3600	IN	A	60.2.22.35
+lib.tstc.edu.cn.	3600	IN	A	60.2.22.44
+lqcx.tstc.edu.cn.	3600	IN	A	60.2.22.36
+ltx.tstc.edu.cn.	3600	IN	A	60.2.22.35
+lwf.tstc.edu.cn.	3600	IN	A	60.2.22.35
+mail.tstc.edu.cn.	3600	IN	A	60.2.22.42
+math.tstc.edu.cn.	3600	IN	A	60.2.22.35
+mis.tstc.edu.cn.	3600	IN	A	60.2.228.67
+msx.tstc.edu.cn.	3600	IN	A	60.2.22.35
+nhce.tstc.edu.cn.	3600	IN	A	60.2.22.39
+rsc.tstc.edu.cn.	3600	IN	A	60.2.22.35
+shkx.tstc.edu.cn.	3600	IN	A	60.2.22.35
+skx.tstc.edu.cn.	3600	IN	A	60.2.22.35
+szyx.tstc.edu.cn.	3600	IN	A	60.2.22.40
+tsnykj.tstc.edu.cn.	3600	IN	A	60.2.22.35
+tw.tstc.edu.cn.		3600	IN	A	60.2.228.123
+tyx.tstc.edu.cn.	3600	IN	A	60.2.22.35
+vpn.tstc.edu.cn.	3600	IN	A	60.2.22.41
+wjdc.tstc.edu.cn.	3600	IN	A	60.2.228.75
+wk.tstc.edu.cn.		3600	IN	A	60.2.228.74
+wlkc.tstc.edu.cn.	3600	IN	A	211.81.200.3
+wlx.tstc.edu.cn.	3600	IN	A	60.2.22.35
+wsyh.tstc.edu.cn.	3600	IN	A	60.2.228.121
+www.tstc.edu.cn.	3600	IN	A	60.2.22.35
+wwww.tstc.edu.cn.	3600	IN	CNAME	www.tstc.edu.cn.
+wyx.tstc.edu.cn.	3600	IN	A	60.2.22.35
+xcb.tstc.edu.cn.	3600	IN	A	60.2.22.35
+xdjy.tstc.edu.cn.	3600	IN	A	60.2.22.35
+xlx.tstc.edu.cn.	3600	IN	A	60.2.228.74
+xsc.tstc.edu.cn.	3600	IN	A	60.2.22.35
+xuebao.tstc.edu.cn.	3600	IN	A	60.2.22.36
+xxzx.tstc.edu.cn.	3600	IN	A	60.2.22.35
+ydbgs.tstc.edu.cn.	3600	IN	A	60.2.22.35
+ykcx.tstc.edu.cn.	3600	IN	A	60.2.228.123
+yyx.tstc.edu.cn.	3600	IN	A	60.2.22.35
+yzl.tstc.edu.cn.	3600	IN	A	60.2.22.35
+zsjy.tstc.edu.cn.	3600	IN	A	60.2.228.123
+zsjyc.tstc.edu.cn.	3600	IN	A	60.2.22.35
+zsx.tstc.edu.cn.	3600	IN	A	60.2.22.35
+zsxx.tstc.edu.cn.	3600	IN	CNAME	zxjy.tstc.edu.cn.
+zsxy.tstc.edu.cn.	3600	IN	A	60.2.228.77
+zuzhibu.tstc.edu.cn.	3600	IN	A	60.2.22.39
+zwcx.tstc.edu.cn.	3600	IN	A	60.2.22.40
+zwx.tstc.edu.cn.	3600	IN	A	60.2.22.35
+zygl.tstc.edu.cn.	3600	IN	A	60.2.22.36
+zzb.tstc.edu.cn.	3600	IN	A	60.2.22.35
+tstc.edu.cn.		3600	IN	SOA	dns1.tstc.edu.cn. root.tstc.edu.cn. 2014022404 30 30 360 3600
+;; Query time: 45 msec
+;; SERVER: 60.2.22.40#53(60.2.22.40)
+;; WHEN: Mon Apr 21 20:48:41 中国标准时间 2014
+;; XFR size: 86 records (messages 1, bytes 1819)
+

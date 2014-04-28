@@ -1,0 +1,118 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns.sgmtu.edu.cn axfr sgmtu.edu.cn
+; (1 server found)
+;; global options: +cmd
+sgmtu.edu.cn.		86400	IN	SOA	dns.sgmtu.edu.cn. root.dns.sgmtu.edu.cn. 2007041603 28800 14400 3600000 86400
+sgmtu.edu.cn.		86400	IN	NS	dns.sgmtu.edu.cn.
+sgmtu.edu.cn.		86400	IN	NS	sec-dns.sgmtu.edu.cn.
+sgmtu.edu.cn.		86400	IN	MX	10 email.sgmtu.edu.cn.
+account.sgmtu.edu.cn.	86400	IN	A	218.194.224.42
+bwc.sgmtu.edu.cn.	86400	IN	A	218.194.224.52
+cjc.sgmtu.edu.cn.	86400	IN	A	218.194.224.52
+cluster.sgmtu.edu.cn.	86400	IN	A	218.194.224.52
+clusteradmin.sgmtu.edu.cn. 86400 IN	A	218.194.224.49
+cpcmis.sgmtu.edu.cn.	86400	IN	A	218.194.224.51
+csd.sgmtu.edu.cn.	86400	IN	A	218.194.224.52
+csd1.sgmtu.edu.cn.	86400	IN	A	218.194.224.56
+cwc.sgmtu.edu.cn.	86400	IN	A	218.194.229.21
+cxxt.sgmtu.edu.cn.	86400	IN	A	218.194.224.43
+db.sgmtu.edu.cn.	86400	IN	A	218.194.224.52
+djks.sgmtu.edu.cn.	86400	IN	A	218.194.224.69
+dns.sgmtu.edu.cn.	86400	IN	A	218.194.224.33
+dnxh.sgmtu.edu.cn.	86400	IN	A	218.194.224.56
+dsxq.sgmtu.edu.cn.	86400	IN	A	218.194.224.52
+dyxjx.sgmtu.edu.cn.	86400	IN	A	218.194.224.56
+dzgw.sgmtu.edu.cn.	86400	IN	A	218.194.224.57
+edumanager.sgmtu.edu.cn. 86400	IN	A	218.194.224.43
+email.sgmtu.edu.cn.	86400	IN	A	218.194.224.59
+en.sgmtu.edu.cn.	86400	IN	A	218.194.224.52
+ftp.sgmtu.edu.cn.	86400	IN	A	218.194.224.53
+gbz.sgmtu.edu.cn.	86400	IN	A	218.194.224.52
+gh.sgmtu.edu.cn.	86400	IN	A	218.194.224.52
+gkx.sgmtu.edu.cn.	86400	IN	A	218.194.224.52
+gpjh.sgmtu.edu.cn.	86400	IN	A	218.194.224.43
+gzc.sgmtu.edu.cn.	86400	IN	A	218.194.224.52
+hg.sgmtu.edu.cn.	86400	IN	A	218.194.224.52
+hqfwzx.sgmtu.edu.cn.	86400	IN	A	218.194.224.56
+jcc.sgmtu.edu.cn.	86400	IN	A	218.194.224.56
+jijian.sgmtu.edu.cn.	86400	IN	A	218.194.224.52
+jjc.sgmtu.edu.cn.	86400	IN	A	218.194.224.56
+jk.sgmtu.edu.cn.	86400	IN	A	218.194.224.52
+jkxbysj.sgmtu.edu.cn.	86400	IN	A	218.194.224.43
+jkxxsh.sgmtu.edu.cn.	86400	IN	A	218.194.224.56
+jpkc.sgmtu.edu.cn.	86400	IN	A	218.194.224.60
+jw.sgmtu.edu.cn.	86400	IN	A	218.194.224.52
+jwc.sgmtu.edu.cn.	86400	IN	A	218.194.224.66
+jwc1.sgmtu.edu.cn.	86400	IN	A	218.194.224.52
+jxpg.sgmtu.edu.cn.	86400	IN	A	218.194.224.56
+jyw.sgmtu.edu.cn.	86400	IN	A	218.194.224.52
+kyc.sgmtu.edu.cn.	86400	IN	A	218.194.224.52
+lib.sgmtu.edu.cn.	86400	IN	A	218.194.224.52
+lsx.sgmtu.edu.cn.	86400	IN	A	218.194.224.52
+math.sgmtu.edu.cn.	86400	IN	A	218.194.224.52
+mathgpu.sgmtu.edu.cn.	86400	IN	A	218.194.232.34
+mlb.sgmtu.edu.cn.	86400	IN	A	218.194.224.52
+msx.sgmtu.edu.cn.	86400	IN	A	218.194.224.52
+mys.sgmtu.edu.cn.	86400	IN	A	218.194.224.52
+myzyj.sgmtu.edu.cn.	86400	IN	A	218.194.224.52
+myzyjs.sgmtu.edu.cn.	86400	IN	A	218.194.224.52
+netadmin.sgmtu.edu.cn.	86400	IN	A	218.194.224.41
+news.sgmtu.edu.cn.	86400	IN	A	218.194.224.52
+office.sgmtu.edu.cn.	86400	IN	A	218.194.224.52
+past.sgmtu.edu.cn.	86400	IN	A	218.194.224.52
+pf.sgmtu.edu.cn.	86400	IN	A	218.194.224.52
+pfw.sgmtu.edu.cn.	86400	IN	A	218.194.224.52
+qnsy-openview.sgmtu.edu.cn. 86400 IN	A	218.194.224.13
+qnsyb.sgmtu.edu.cn.	86400	IN	A	218.194.224.52
+qnsynewspaper.sgmtu.edu.cn. 86400 IN	A	218.194.224.52
+qnsytv.sgmtu.edu.cn.	86400	IN	A	218.194.224.52
+qnzyz.sgmtu.edu.cn.	86400	IN	A	218.194.224.52
+qzlx.sgmtu.edu.cn.	86400	IN	A	218.194.224.52
+sec-dns.sgmtu.edu.cn.	86400	IN	A	218.194.224.34
+smkxx.sgmtu.edu.cn.	86400	IN	A	218.194.224.52
+stfans.sgmtu.edu.cn.	86400	IN	A	218.194.224.56
+support.sgmtu.edu.cn.	86400	IN	A	218.194.224.52
+sxzz.sgmtu.edu.cn.	86400	IN	A	218.194.224.56
+syzxpt.sgmtu.edu.cn.	86400	IN	A	218.194.224.43
+syzzb.sgmtu.edu.cn.	86400	IN	A	218.194.224.52
+szw.sgmtu.edu.cn.	86400	IN	A	218.194.224.52
+tw.sgmtu.edu.cn.	86400	IN	A	218.194.224.52
+tyx.sgmtu.edu.cn.	86400	IN	A	218.194.224.52
+tyxbwg.sgmtu.edu.cn.	86400	IN	A	218.194.224.43
+tzb.sgmtu.edu.cn.	86400	IN	A	218.194.224.52
+vatano.sgmtu.edu.cn.	86400	IN	A	218.194.224.56
+vod.sgmtu.edu.cn.	86400	IN	A	218.194.224.52
+vod.sgmtu.edu.cn.	86400	IN	A	218.194.224.54
+vod2.sgmtu.edu.cn.	86400	IN	A	218.194.224.55
+wcftest.sgmtu.edu.cn.	86400	IN	A	218.194.224.56
+wgzx.sgmtu.edu.cn.	86400	IN	A	218.194.224.52
+wlx.sgmtu.edu.cn.	86400	IN	A	218.194.224.52
+woh.sgmtu.edu.cn.	86400	IN	A	218.194.224.52
+www.sgmtu.edu.cn.	86400	IN	A	218.194.224.52
+wyx.sgmtu.edu.cn.	86400	IN	A	218.194.224.52
+xb.sgmtu.edu.cn.	86400	IN	A	218.194.224.52
+xcb.sgmtu.edu.cn.	86400	IN	A	218.194.224.52
+xsc.sgmtu.edu.cn.	86400	IN	A	218.194.224.52
+xsgl.sgmtu.edu.cn.	86400	IN	A	218.194.224.65
+xsst.sgmtu.edu.cn.	86400	IN	A	218.194.224.56
+yb.sgmtu.edu.cn.	86400	IN	A	218.194.224.43
+ygb.sgmtu.edu.cn.	86400	IN	A	218.194.224.52
+yjslqcx.sgmtu.edu.cn.	86400	IN	A	218.194.224.69
+ykb.sgmtu.edu.cn.	86400	IN	A	218.194.224.52
+yxsh.sgmtu.edu.cn.	86400	IN	A	218.194.224.43
+yxshrs.sgmtu.edu.cn.	86400	IN	A	218.194.224.56
+yyx.sgmtu.edu.cn.	86400	IN	A	218.194.224.52
+zfjjx.sgmtu.edu.cn.	86400	IN	A	218.194.224.52
+zfjjx1.sgmtu.edu.cn.	86400	IN	A	218.194.224.51
+zlgc.sgmtu.edu.cn.	86400	IN	A	218.194.224.52
+zscx.sgmtu.edu.cn.	86400	IN	A	218.194.224.43
+zsjyc.sgmtu.edu.cn.	86400	IN	A	218.194.224.52
+zsw.sgmtu.edu.cn.	86400	IN	A	218.194.224.52
+zwc.sgmtu.edu.cn.	86400	IN	A	218.194.224.52
+zwx.sgmtu.edu.cn.	86400	IN	A	218.194.224.52
+sgmtu.edu.cn.		86400	IN	SOA	dns.sgmtu.edu.cn. root.dns.sgmtu.edu.cn. 2007041603 28800 14400 3600000 86400
+;; Query time: 421 msec
+;; SERVER: 218.194.224.33#53(218.194.224.33)
+;; WHEN: Mon Apr 21 21:02:55 中国标准时间 2014
+;; XFR size: 109 records (messages 1, bytes 2369)
+

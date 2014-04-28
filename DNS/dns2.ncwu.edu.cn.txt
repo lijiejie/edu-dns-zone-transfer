@@ -1,0 +1,73 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns2.ncwu.edu.cn axfr ncwu.edu.cn
+; (1 server found)
+;; global options: +cmd
+ncwu.edu.cn.		3600	IN	SOA	dns.ncwu.edu.cn. root.ximo.com.cn. 2014041824 30 30 360 3600
+ncwu.edu.cn.		3600	IN	NS	dns.ncwu.edu.cn.
+ncwu.edu.cn.		3600	IN	NS	dns2.ncwu.edu.cn.
+ncwu.edu.cn.		3600	IN	NS	dns3.ncwu.edu.cn.
+ncwu.edu.cn.		3600	IN	MX	9 smg.ncwu.edu.cn.
+ncwu.edu.cn.		3600	IN	MX	10 ncwu.edu.cn.
+ncwu.edu.cn.		3600	IN	A	210.43.128.17
+ncwu.edu.cn.		3600	IN	TXT	"v=spf1 ip4:210.43.128.17 ip4:210.43.128.18 ~all"
+bbs.ncwu.edu.cn.	3600	IN	A	210.43.128.173
+cjjw.ncwu.edu.cn.	3600	IN	A	210.43.128.108
+dns.ncwu.edu.cn.	3600	IN	A	210.43.128.1
+dns2.ncwu.edu.cn.	3600	IN	A	210.43.128.2
+dns3.ncwu.edu.cn.	3600	IN	AAAA	2001:da8:5010::1
+englishonline.ncwu.edu.cn. 3600	IN	A	210.43.128.100
+ftp.ncwu.edu.cn.	3600	IN	A	210.43.128.131
+hbsyb.ncwu.edu.cn.	3600	IN	CNAME	ncwu.cuepa.cn.
+hspx.ncwu.edu.cn.	3600	IN	A	116.255.200.196
+insge.ncwu.edu.cn.	3600	IN	A	202.196.151.121
+isatap.ncwu.edu.cn.	3600	IN	A	210.43.128.67
+jiuye.ncwu.edu.cn.	3600	IN	A	202.196.151.18
+job.ncwu.edu.cn.	3600	IN	A	202.196.151.18
+jpkc.ncwu.edu.cn.	3600	IN	A	210.43.128.116
+jxsp.ncwu.edu.cn.	3600	IN	A	210.43.128.100
+keyan.ncwu.edu.cn.	3600	IN	A	210.43.128.63
+lib.ncwu.edu.cn.	3600	IN	A	202.196.146.122
+m.ncwu.edu.cn.		3600	IN	A	210.43.128.81
+oa.ncwu.edu.cn.		3600	IN	A	210.43.129.203
+os2005.ncwu.edu.cn.	3600	IN	A	210.43.131.252
+search.ncwu.edu.cn.	3600	IN	A	210.43.128.109
+shuili.ncwu.edu.cn.	3600	IN	A	202.196.144.106
+sip.ncwu.edu.cn.	3600	IN	A	210.43.128.88
+smail.ncwu.edu.cn.	3600	IN	MX	0 smail.ncwu.edu.cn.
+smail.ncwu.edu.cn.	3600	IN	A	210.43.128.16
+smg.ncwu.edu.cn.	3600	IN	A	210.43.128.18
+spxw.ncwu.edu.cn.	3600	IN	A	210.43.128.134
+swh.ncwu.edu.cn.	3600	IN	A	220.181.120.198
+sxsyzx.ncwu.edu.cn.	3600	IN	A	125.219.65.201
+test1.ncwu.edu.cn.	3600	IN	A	202.1.1.201
+update.ncwu.edu.cn.	3600	IN	A	210.43.128.111
+vcenter.ncwu.edu.cn.	3600	IN	A	210.43.128.240
+vdp.ncwu.edu.cn.	3600	IN	A	210.43.128.242
+vod3.ncwu.edu.cn.	3600	IN	A	210.43.133.164
+vod4.ncwu.edu.cn.	3600	IN	A	210.43.133.161
+vpn.ncwu.edu.cn.	3600	IN	A	210.43.128.125
+wg.ncwu.edu.cn.		3600	IN	A	210.43.128.106
+windowsupdate.ncwu.edu.cn. 3600	IN	A	210.43.128.111
+wmb.ncwu.edu.cn.	3600	IN	CNAME	s313.dns-china.com.
+www.ncwu.edu.cn.	3600	IN	A	210.43.128.5
+www.ncwu.edu.cn.	3600	IN	AAAA	2001:da8:5010::5
+www2.ncwu.edu.cn.	3600	IN	A	210.43.128.23
+www3.ncwu.edu.cn.	3600	IN	A	210.43.128.23
+www5.ncwu.edu.cn.	3600	IN	A	210.43.128.34
+www56.ncwu.edu.cn.	3600	IN	AAAA	2001:da8:5010::34
+www6.ncwu.edu.cn.	3600	IN	AAAA	2001:da8:5010::5
+xb.ncwu.edu.cn.		3600	IN	CNAME	xiaobao.haedu.cn.
+xbskb.ncwu.edu.cn.	3600	IN	A	202.117.3.46
+xbzrb.ncwu.edu.cn.	3600	IN	A	202.117.3.46
+xljy.ncwu.edu.cn.	3600	IN	A	210.43.128.67
+xuebao.ncwu.edu.cn.	3600	IN	A	202.117.3.46
+xysp.ncwu.edu.cn.	3600	IN	A	210.43.128.133
+yyjx.ncwu.edu.cn.	3600	IN	A	210.43.128.66
+zhaosheng.ncwu.edu.cn.	3600	IN	A	210.43.128.31
+zzfw.ncwu.edu.cn.	3600	IN	A	10.10.200.1
+ncwu.edu.cn.		3600	IN	SOA	dns.ncwu.edu.cn. root.ximo.com.cn. 2014041824 30 30 360 3600
+;; Query time: 68 msec
+;; SERVER: 210.43.128.2#53(210.43.128.2)
+;; WHEN: Mon Apr 21 20:58:26 中国标准时间 2014
+;; XFR size: 64 records (messages 1, bytes 1523)
+

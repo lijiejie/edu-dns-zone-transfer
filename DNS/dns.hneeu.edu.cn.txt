@@ -1,0 +1,20 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns.hneeu.edu.cn axfr hneeu.edu.cn
+; (1 server found)
+;; global options: +cmd
+hneeu.edu.cn.		86400	IN	SOA	dns.hneeu.edu.cn. root.ximo.com.cn. 2014042002 150 200 4000 86400
+hneeu.edu.cn.		86400	IN	MX	0 mail.hneeu.edu.cn.
+hneeu.edu.cn.		86400	IN	NS	dns.hneeu.edu.cn.
+*.hneeu.edu.cn.		86400	IN	A	211.69.0.6
+dns.hneeu.edu.cn.	86400	IN	A	211.69.0.8
+jpkc.hneeu.edu.cn.	86400	IN	A	211.69.0.38
+mail.hneeu.edu.cn.	86400	IN	A	211.69.0.9
+oa.hneeu.edu.cn.	86400	IN	A	211.69.0.28
+sjk.hneeu.edu.cn.	86400	IN	A	211.69.0.33
+www.hneeu.edu.cn.	86400	IN	A	211.69.0.6
+hneeu.edu.cn.		86400	IN	SOA	dns.hneeu.edu.cn. root.ximo.com.cn. 2014042002 150 200 4000 86400
+;; Query time: 26 msec
+;; SERVER: 211.69.0.8#53(211.69.0.8)
+;; WHEN: Mon Apr 21 20:58:22 中国标准时间 2014
+;; XFR size: 11 records (messages 1, bytes 285)
+

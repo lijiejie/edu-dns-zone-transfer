@@ -1,0 +1,115 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns1.sntcm.edu.cn axfr sntcm.edu.cn
+; (1 server found)
+;; global options: +cmd
+sntcm.edu.cn.		3600	IN	SOA	dns1.sntcm.edu.cn. root.sntcm.edu.cn. 2014040206 30 30 360 3600
+sntcm.edu.cn.		3600	IN	MX	0 gateway.sntcm.edu.cn.
+sntcm.edu.cn.		3600	IN	NS	dns1.sntcm.edu.cn.
+blix.sntcm.edu.cn.	3600	IN	A	218.195.64.12
+bwc.sntcm.edu.cn.	3600	IN	A	218.195.64.19
+bwg.sntcm.edu.cn.	3600	IN	A	218.195.64.19
+cifazhj.sntcm.edu.cn.	3600	IN	A	218.195.64.12
+cxzx.sntcm.edu.cn.	3600	IN	A	218.195.64.19
+das.sntcm.edu.cn.	3600	IN	A	218.195.64.19
+ddh.sntcm.edu.cn.	3600	IN	A	218.195.65.248
+dns1.sntcm.edu.cn.	3600	IN	A	218.195.64.31
+dwhz.sntcm.edu.cn.	3600	IN	A	218.195.64.19
+dyb.sntcm.edu.cn.	3600	IN	A	218.195.64.19
+fangji.sntcm.edu.cn.	3600	IN	A	218.195.64.12
+fuchan.sntcm.edu.cn.	3600	IN	A	218.195.64.12
+gatb.sntcm.edu.cn.	3600	IN	A	218.195.64.19
+gateway.sntcm.edu.cn.	3600	IN	A	218.195.64.6
+ggws.sntcm.edu.cn.	3600	IN	A	218.195.64.19
+gh.sntcm.edu.cn.	3600	IN	A	218.195.64.19
+gjzx.sntcm.edu.cn.	3600	IN	A	218.195.64.19
+gyds.sntcm.edu.cn.	3600	IN	A	218.195.64.19
+gzc.sntcm.edu.cn.	3600	IN	A	218.195.64.19
+hljc.sntcm.edu.cn.	3600	IN	A	218.195.64.12
+hlx.sntcm.edu.cn.	3600	IN	A	218.195.64.19
+hqbz.sntcm.edu.cn.	3600	IN	A	218.195.64.19
+img.sntcm.edu.cn.	3600	IN	A	218.195.64.19
+jcc.sntcm.edu.cn.	3600	IN	A	218.195.64.19
+jcyx.sntcm.edu.cn.	3600	IN	A	218.195.64.19
+jczdsy.sntcm.edu.cn.	3600	IN	A	218.195.64.12
+jczh.sntcm.edu.cn.	3600	IN	A	218.195.64.19
+jgcga.sntcm.edu.cn.	3600	IN	A	218.195.64.19
+jjc.sntcm.edu.cn.	3600	IN	A	218.195.64.19
+jw.sntcm.edu.cn.	3600	IN	A	218.195.64.19
+jwc.sntcm.edu.cn.	3600	IN	A	218.195.64.19
+jwxt.sntcm.edu.cn.	3600	IN	A	218.195.65.240
+jy.sntcm.edu.cn.	3600	IN	A	218.195.64.19
+kjc.sntcm.edu.cn.	3600	IN	A	218.195.64.19
+kysy.sntcm.edu.cn.	3600	IN	A	218.195.64.19
+lcwsw.sntcm.edu.cn.	3600	IN	A	218.195.64.33
+lcyx.sntcm.edu.cn.	3600	IN	A	218.195.64.19
+lib.sntcm.edu.cn.	3600	IN	A	218.195.64.19
+lib1.sntcm.edu.cn.	3600	IN	A	218.195.64.44
+lib2.sntcm.edu.cn.	3600	IN	A	218.195.64.39
+ltgz.sntcm.edu.cn.	3600	IN	A	218.195.64.19
+mail.sntcm.edu.cn.	3600	IN	A	218.195.64.5
+news.sntcm.edu.cn.	3600	IN	A	218.195.64.19
+rsc.sntcm.edu.cn.	3600	IN	A	218.195.64.19
+rwkx.sntcm.edu.cn.	3600	IN	A	218.195.64.19
+sec.sntcm.edu.cn.	3600	IN	A	218.195.64.61
+shhl.sntcm.edu.cn.	3600	IN	A	218.195.64.33
+shkx.sntcm.edu.cn.	3600	IN	A	218.195.64.19
+shwhx.sntcm.edu.cn.	3600	IN	A	218.195.64.12
+sjc.sntcm.edu.cn.	3600	IN	A	218.195.64.19
+sxzz.sntcm.edu.cn.	3600	IN	A	218.195.64.19
+syzhj.sntcm.edu.cn.	3600	IN	A	218.195.64.12
+syzj.sntcm.edu.cn.	3600	IN	A	218.195.64.33
+tgxt.sntcm.edu.cn.	3600	IN	A	202.117.3.46
+tp.sntcm.edu.cn.	3600	IN	A	218.195.64.12
+tpxw.sntcm.edu.cn.	3600	IN	A	218.195.64.19
+tupian.sntcm.edu.cn.	3600	IN	A	218.195.64.19
+tw.sntcm.edu.cn.	3600	IN	A	218.195.64.19
+tyb.sntcm.edu.cn.	3600	IN	A	218.195.64.19
+wap.sntcm.edu.cn.	3600	IN	A	218.195.64.19
+web.sntcm.edu.cn.	3600	IN	A	218.195.64.19
+wenbing.sntcm.edu.cn.	3600	IN	A	218.195.64.33
+wkx.sntcm.edu.cn.	3600	IN	A	218.195.64.12
+wlzx.sntcm.edu.cn.	3600	IN	A	218.195.64.19
+www.sntcm.edu.cn.	3600	IN	A	218.195.64.19
+xb.sntcm.edu.cn.	3600	IN	A	218.195.64.19
+xcb.sntcm.edu.cn.	3600	IN	A	218.195.64.19
+xdzyy.sntcm.edu.cn.	3600	IN	A	202.117.3.46
+xgb.sntcm.edu.cn.	3600	IN	A	218.195.64.19
+xkjs.sntcm.edu.cn.	3600	IN	A	218.195.64.19
+xq.sntcm.edu.cn.	3600	IN	A	218.195.64.19
+yigw.sntcm.edu.cn.	3600	IN	A	218.195.64.33
+yjsc.sntcm.edu.cn.	3600	IN	A	218.195.64.19
+yw.sntcm.edu.cn.	3600	IN	A	218.195.64.19
+ywyjs.sntcm.edu.cn.	3600	IN	A	218.195.64.12
+yxjs.sntcm.edu.cn.	3600	IN	A	218.195.67.248
+yxmy.sntcm.edu.cn.	3600	IN	A	218.195.64.33
+yxmyx.sntcm.edu.cn.	3600	IN	A	218.195.64.12
+yxy.sntcm.edu.cn.	3600	IN	A	218.195.64.19
+yyx.sntcm.edu.cn.	3600	IN	A	218.195.64.19
+yzb.sntcm.edu.cn.	3600	IN	A	218.195.64.19
+yzw.sntcm.edu.cn.	3600	IN	A	218.195.64.19
+zcgs.sntcm.edu.cn.	3600	IN	A	218.195.64.19
+zhduanx.sntcm.edu.cn.	3600	IN	A	218.195.64.12
+zhenduan.sntcm.edu.cn.	3600	IN	A	218.195.64.33
+zhji.sntcm.edu.cn.	3600	IN	A	218.195.64.12
+zhjiu.sntcm.edu.cn.	3600	IN	A	218.195.64.12
+zhnei.sntcm.edu.cn.	3600	IN	A	218.195.64.12
+zhxty.sntcm.edu.cn.	3600	IN	A	218.195.64.12
+zhyao.sntcm.edu.cn.	3600	IN	A	218.195.64.33
+zhyaoli.sntcm.edu.cn.	3600	IN	A	218.195.64.12
+zhyhx.sntcm.edu.cn.	3600	IN	A	218.195.64.33
+zhyjdx.sntcm.edu.cn.	3600	IN	A	218.195.64.12
+zjtn.sntcm.edu.cn.	3600	IN	A	218.195.64.19
+zs.sntcm.edu.cn.	3600	IN	A	218.195.64.19
+zxcy.sntcm.edu.cn.	3600	IN	A	218.195.64.33
+zxylc.sntcm.edu.cn.	3600	IN	A	218.195.64.19
+zyfkx.sntcm.edu.cn.	3600	IN	A	218.195.64.33
+zylc.sntcm.edu.cn.	3600	IN	A	218.195.64.19
+zyrz.sntcm.edu.cn.	3600	IN	A	218.195.64.19
+zzb.sntcm.edu.cn.	3600	IN	A	218.195.64.19
+zzs.sntcm.edu.cn.	3600	IN	A	218.195.64.19
+sntcm.edu.cn.		3600	IN	SOA	dns1.sntcm.edu.cn. root.sntcm.edu.cn. 2014040206 30 30 360 3600
+;; Query time: 3364 msec
+;; SERVER: 218.195.64.31#53(218.195.64.31)
+;; WHEN: Mon Apr 21 21:04:08 中国标准时间 2014
+;; XFR size: 106 records (messages 1, bytes 2275)
+

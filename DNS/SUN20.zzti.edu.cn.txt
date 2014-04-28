@@ -1,0 +1,135 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @SUN20.zzti.edu.cn axfr zzti.edu.cn
+; (1 server found)
+;; global options: +cmd
+zzti.edu.cn.		7200	IN	SOA	WINNT.zzti.edu.cn. master.zzti.edu.cn. 2013112115 604800 604800 3600000 7200
+zzti.edu.cn.		7200	IN	MX	5 mail.zzti.edu.cn.
+zzti.edu.cn.		7200	IN	MX	15 zzti.edu.cn.
+zzti.edu.cn.		7200	IN	NS	SUN20.zzti.edu.cn.
+zzti.edu.cn.		7200	IN	NS	WINNT.zzti.edu.cn.
+apii.zzti.edu.cn.	7200	IN	A	202.196.32.11
+www.cie.zzti.edu.cn.	7200	IN	CNAME	jxjyxy.zzti.edu.cn.
+cisco.zzti.edu.cn.	7200	IN	A	202.196.32.39
+ftp.cs.zzti.edu.cn.	7200	IN	A	222.22.91.8
+www.cs.zzti.edu.cn.	7200	IN	A	61.163.70.244
+d1.zzti.edu.cn.		7200	IN	A	202.196.32.45
+d10.zzti.edu.cn.	7200	IN	CNAME	d1.zzti.edu.cn.
+d11.zzti.edu.cn.	7200	IN	CNAME	d1.zzti.edu.cn.
+d12.zzti.edu.cn.	7200	IN	CNAME	d1.zzti.edu.cn.
+d13.zzti.edu.cn.	7200	IN	CNAME	d1.zzti.edu.cn.
+d14.zzti.edu.cn.	7200	IN	CNAME	d1.zzti.edu.cn.
+d15.zzti.edu.cn.	7200	IN	CNAME	d1.zzti.edu.cn.
+d16.zzti.edu.cn.	7200	IN	CNAME	d1.zzti.edu.cn.
+d17.zzti.edu.cn.	7200	IN	CNAME	d1.zzti.edu.cn.
+d18.zzti.edu.cn.	7200	IN	CNAME	d1.zzti.edu.cn.
+d19.zzti.edu.cn.	7200	IN	CNAME	d1.zzti.edu.cn.
+d2.zzti.edu.cn.		7200	IN	CNAME	d1.zzti.edu.cn.
+d20.zzti.edu.cn.	7200	IN	CNAME	d1.zzti.edu.cn.
+d21.zzti.edu.cn.	7200	IN	CNAME	d1.zzti.edu.cn.
+d22.zzti.edu.cn.	7200	IN	CNAME	d1.zzti.edu.cn.
+d23.zzti.edu.cn.	7200	IN	CNAME	d1.zzti.edu.cn.
+d24.zzti.edu.cn.	7200	IN	CNAME	d1.zzti.edu.cn.
+d25.zzti.edu.cn.	7200	IN	CNAME	d1.zzti.edu.cn.
+d26.zzti.edu.cn.	7200	IN	CNAME	d1.zzti.edu.cn.
+d27.zzti.edu.cn.	7200	IN	A	202.196.32.47
+d28.zzti.edu.cn.	7200	IN	CNAME	d27.zzti.edu.cn.
+d29.zzti.edu.cn.	7200	IN	CNAME	d27.zzti.edu.cn.
+d3.zzti.edu.cn.		7200	IN	CNAME	d1.zzti.edu.cn.
+d30.zzti.edu.cn.	7200	IN	CNAME	d27.zzti.edu.cn.
+d31.zzti.edu.cn.	7200	IN	CNAME	d27.zzti.edu.cn.
+d32.zzti.edu.cn.	7200	IN	CNAME	d27.zzti.edu.cn.
+d33.zzti.edu.cn.	7200	IN	CNAME	d27.zzti.edu.cn.
+d34.zzti.edu.cn.	7200	IN	CNAME	d27.zzti.edu.cn.
+d35.zzti.edu.cn.	7200	IN	CNAME	d27.zzti.edu.cn.
+d36.zzti.edu.cn.	7200	IN	CNAME	d27.zzti.edu.cn.
+d37.zzti.edu.cn.	7200	IN	CNAME	d27.zzti.edu.cn.
+d38.zzti.edu.cn.	7200	IN	CNAME	d27.zzti.edu.cn.
+d39.zzti.edu.cn.	7200	IN	CNAME	d27.zzti.edu.cn.
+d4.zzti.edu.cn.		7200	IN	CNAME	d1.zzti.edu.cn.
+d40.zzti.edu.cn.	7200	IN	CNAME	d27.zzti.edu.cn.
+d41.zzti.edu.cn.	7200	IN	CNAME	d27.zzti.edu.cn.
+d42.zzti.edu.cn.	7200	IN	CNAME	d27.zzti.edu.cn.
+d43.zzti.edu.cn.	7200	IN	CNAME	d27.zzti.edu.cn.
+d44.zzti.edu.cn.	7200	IN	CNAME	d27.zzti.edu.cn.
+d45.zzti.edu.cn.	7200	IN	CNAME	d27.zzti.edu.cn.
+d46.zzti.edu.cn.	7200	IN	CNAME	d27.zzti.edu.cn.
+d47.zzti.edu.cn.	7200	IN	CNAME	d27.zzti.edu.cn.
+d48.zzti.edu.cn.	7200	IN	CNAME	d27.zzti.edu.cn.
+d49.zzti.edu.cn.	7200	IN	CNAME	d27.zzti.edu.cn.
+d5.zzti.edu.cn.		7200	IN	CNAME	d1.zzti.edu.cn.
+d50.zzti.edu.cn.	7200	IN	CNAME	d27.zzti.edu.cn.
+d51.zzti.edu.cn.	7200	IN	CNAME	d27.zzti.edu.cn.
+d52.zzti.edu.cn.	7200	IN	CNAME	d27.zzti.edu.cn.
+d6.zzti.edu.cn.		7200	IN	CNAME	d1.zzti.edu.cn.
+d7.zzti.edu.cn.		7200	IN	CNAME	d1.zzti.edu.cn.
+d8.zzti.edu.cn.		7200	IN	CNAME	d1.zzti.edu.cn.
+d9.zzti.edu.cn.		7200	IN	CNAME	d1.zzti.edu.cn.
+depart.zzti.edu.cn.	7200	IN	A	61.163.70.233
+depart2.zzti.edu.cn.	7200	IN	A	202.196.32.40
+depart3.zzti.edu.cn.	7200	IN	A	202.196.32.42
+dk.zzti.edu.cn.		7200	IN	A	202.196.32.48
+dpstar.zzti.edu.cn.	7200	IN	CNAME	my.zzti.edu.cn.
+dvd.zzti.edu.cn.	7200	IN	A	202.196.33.114
+ecard.zzti.edu.cn.	7200	IN	A	10.10.22.23
+edong.zzti.edu.cn.	7200	IN	A	202.196.32.35
+fashion.zzti.edu.cn.	7200	IN	A	202.196.32.18
+flash.zzti.edu.cn.	7200	IN	A	202.196.32.14
+ftp.zzti.edu.cn.	7200	IN	A	202.196.33.111
+home.zzti.edu.cn.	7200	IN	A	202.196.32.9
+hq.zzti.edu.cn.		7200	IN	CNAME	jxjyxy.zzti.edu.cn.
+ids.zzti.edu.cn.	7200	IN	A	202.196.32.215
+ids1.zzti.edu.cn.	7200	IN	A	202.196.32.216
+ieat.zzti.edu.cn.	7200	IN	A	61.163.70.235
+imp.zzti.edu.cn.	7200	IN	CNAME	my.zzti.edu.cn.
+job.zzti.edu.cn.	7200	IN	A	202.196.32.16
+jpkc.zzti.edu.cn.	7200	IN	A	61.163.70.231
+jw.zzti.edu.cn.		7200	IN	A	202.196.32.10
+jwc.zzti.edu.cn.	7200	IN	A	202.196.32.26
+jwsys.zzti.edu.cn.	7200	IN	A	202.196.32.21
+jxjyxy.zzti.edu.cn.	7200	IN	A	202.196.32.37
+jy.zzti.edu.cn.		7200	IN	A	202.196.32.13
+kjc.zzti.edu.cn.	7200	IN	A	202.196.32.71
+ldap.zzti.edu.cn.	7200	IN	A	202.196.32.41
+leave.zzti.edu.cn.	7200	IN	CNAME	my.zzti.edu.cn.
+lib.zzti.edu.cn.	7200	IN	A	202.196.33.231
+mail.zzti.edu.cn.	7200	IN	A	61.163.70.239
+media.zzti.edu.cn.	7200	IN	A	202.196.33.112
+movie.zzti.edu.cn.	7200	IN	A	202.196.33.250
+mrtg.zzti.edu.cn.	7200	IN	A	10.10.22.57
+mssql.zzti.edu.cn.	7200	IN	A	202.196.32.134
+my.zzti.edu.cn.		7200	IN	A	61.163.70.242
+myself.zzti.edu.cn.	7200	IN	A	10.10.22.56
+oa.zzti.edu.cn.		7200	IN	A	61.163.70.229
+opac.zzti.edu.cn.	7200	IN	A	202.196.33.227
+pec.zzti.edu.cn.	7200	IN	A	202.196.33.153
+qqview.zzti.edu.cn.	7200	IN	A	61.163.70.232
+rs.zzti.edu.cn.		7200	IN	A	202.196.32.27
+rsc.zzti.edu.cn.	7200	IN	CNAME	depart3.zzti.edu.cn.
+seca.zzti.edu.cn.	7200	IN	CNAME	ieat.zzti.edu.cn.
+soft.zzti.edu.cn.	7200	IN	A	61.163.70.234
+sol.zzti.edu.cn.	7200	IN	A	10.10.22.58
+sp.zzti.edu.cn.		7200	IN	CNAME	jxjyxy.zzti.edu.cn.
+studio.zzti.edu.cn.	7200	IN	A	202.196.32.31
+SUN20.zzti.edu.cn.	7200	IN	A	202.196.32.1
+update.zzti.edu.cn.	7200	IN	A	202.196.32.53
+user.zzti.edu.cn.	7200	IN	A	202.196.32.49
+vcenter.zzti.edu.cn.	7200	IN	A	202.196.32.36
+video.zzti.edu.cn.	7200	IN	A	202.196.33.116
+vpn.zzti.edu.cn.	7200	IN	A	61.163.70.254
+webservice.zzti.edu.cn.	7200	IN	CNAME	ieat.zzti.edu.cn.
+website.zzti.edu.cn.	7200	IN	A	10.10.21.240
+welcome.zzti.edu.cn.	7200	IN	CNAME	my.zzti.edu.cn.
+WINNT.zzti.edu.cn.	7200	IN	A	202.196.32.2
+wlkt.zzti.edu.cn.	7200	IN	A	202.196.32.44
+wsjx.zzti.edu.cn.	7200	IN	A	202.196.32.60
+www.zzti.edu.cn.	7200	IN	A	61.163.70.228
+wz.zzti.edu.cn.		7200	IN	A	61.163.70.245
+xg.zzti.edu.cn.		7200	IN	CNAME	my.zzti.edu.cn.
+www.xuebao.zzti.edu.cn.	7200	IN	A	202.196.32.19
+zsc.zzti.edu.cn.	7200	IN	A	61.163.70.230
+zzti.edu.cn.		7200	IN	SOA	WINNT.zzti.edu.cn. master.zzti.edu.cn. 2013112115 604800 604800 3600000 7200
+;; Query time: 31 msec
+;; SERVER: 202.196.32.1#53(202.196.32.1)
+;; WHEN: Mon Apr 21 20:59:12 中国标准时间 2014
+;; XFR size: 126 records (messages 1, bytes 2531)
+

@@ -1,0 +1,32 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns1.sicfl.edu.cn axfr sicfl.edu.cn
+; (1 server found)
+;; global options: +cmd
+sicfl.edu.cn.		3600	IN	SOA	dns1.sicfl.edu.cn. root.dns1.sicfl.edu.cn. 20060605 3600 900 3600000 3600
+sicfl.edu.cn.		3600	IN	NS	dns1.sicfl.edu.cn.
+sicfl.edu.cn.		3600	IN	NS	dns2.sicfl.edu.cn.
+sicfl.edu.cn.		3600	IN	MX	10 mail.sicfl.edu.cn.
+dns1.sicfl.edu.cn.	3600	IN	A	219.220.176.66
+dns2.sicfl.edu.cn.	3600	IN	A	219.220.176.67
+job.sicfl.edu.cn.	3600	IN	A	219.220.176.87
+jw.sicfl.edu.cn.	3600	IN	A	219.220.176.125
+lbstu.sicfl.edu.cn.	3600	IN	A	219.220.176.125
+lbyx.sicfl.edu.cn.	3600	IN	A	219.220.176.125
+lib.sicfl.edu.cn.	3600	IN	A	219.220.176.79
+mail.sicfl.edu.cn.	3600	IN	A	219.220.176.100
+mailgate.sicfl.edu.cn.	3600	IN	A	219.220.176.99
+oa.sicfl.edu.cn.	3600	IN	A	219.220.176.125
+rpc.sicfl.edu.cn.	3600	IN	A	219.220.176.125
+rs.sicfl.edu.cn.	3600	IN	A	219.220.176.125
+www.sicfl.edu.cn.	3600	IN	A	219.220.176.70
+www1.sicfl.edu.cn.	3600	IN	A	219.220.176.73
+yx.sicfl.edu.cn.	3600	IN	A	219.220.176.125
+yxcs.sicfl.edu.cn.	3600	IN	A	219.220.190.201
+yywz.sicfl.edu.cn.	3600	IN	A	219.220.176.81
+zs.sicfl.edu.cn.	3600	IN	A	219.220.176.87
+sicfl.edu.cn.		3600	IN	SOA	dns1.sicfl.edu.cn. root.dns1.sicfl.edu.cn. 20060605 3600 900 3600000 3600
+;; Query time: 41 msec
+;; SERVER: 219.220.176.66#53(219.220.176.66)
+;; WHEN: Mon Apr 21 20:55:43 中国标准时间 2014
+;; XFR size: 23 records (messages 1, bytes 520)
+

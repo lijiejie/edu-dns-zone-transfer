@@ -1,0 +1,74 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns1.swfc.edu.cn axfr swfc.edu.cn
+; (1 server found)
+;; global options: +cmd
+swfc.edu.cn.		86400	IN	SOA	dns1.swfc.edu.cn. root.swfc.edu.cn. 2014022801 86400 3600 604800 10800
+swfc.edu.cn.		86400	IN	MX	10 mail.swfc.edu.cn.
+swfc.edu.cn.		86400	IN	NS	dns1.swfc.edu.cn.
+swfc.edu.cn.		86400	IN	NS	dns2.swfc.edu.cn.
+www.bbs.swfc.edu.cn.	86400	IN	A	202.203.132.12
+cisd.swfc.edu.cn.	86400	IN	A	202.203.132.240
+cisd-ftp.swfc.edu.cn.	86400	IN	A	202.203.132.241
+cisd-mail.swfc.edu.cn.	86400	IN	A	202.203.132.241
+cisd-mail.swfc.edu.cn.	86400	IN	MX	15 cisd-mail.swfc.edu.cn.
+cisd-www.swfc.edu.cn.	86400	IN	A	202.203.132.240
+cs.swfc.edu.cn.		86400	IN	A	202.203.132.243
+cs2.swfc.edu.cn.	86400	IN	A	202.203.132.242
+cs3.swfc.edu.cn.	86400	IN	A	202.203.132.244
+csf.swfc.edu.cn.	86400	IN	A	202.203.132.242
+csm.swfc.edu.cn.	86400	IN	A	202.203.132.242
+cwc.swfc.edu.cn.	86400	IN	A	202.203.132.120
+djzx.swfc.edu.cn.	86400	IN	A	202.203.132.250
+dns1.swfc.edu.cn.	86400	IN	A	202.203.132.1
+dns2.swfc.edu.cn.	86400	IN	A	202.203.132.100
+dzb.swfc.edu.cn.	86400	IN	A	202.203.132.32
+em.swfc.edu.cn.		86400	IN	A	202.203.132.247
+www.en.swfc.edu.cn.	86400	IN	A	202.203.132.29
+www.env.swfc.edu.cn.	86400	IN	A	202.203.132.29
+www.environment.swfc.edu.cn. 86400 IN	A	202.203.132.29
+epay.swfc.edu.cn.	86400	IN	A	192.168.60.2
+fc.swfc.edu.cn.		86400	IN	A	202.203.132.41
+ftp.swfc.edu.cn.	86400	IN	A	202.203.132.27
+g.swfc.edu.cn.		86400	IN	A	202.203.132.18
+graduate.swfc.edu.cn.	86400	IN	A	202.203.132.210
+gramis.swfc.edu.cn.	86400	IN	A	202.203.132.194
+www.hkx.swfc.edu.cn.	86400	IN	A	202.203.132.29
+inc.swfc.edu.cn.	86400	IN	A	202.203.132.20
+is.swfc.edu.cn.		86400	IN	A	202.203.132.237
+jcc.swfc.edu.cn.	86400	IN	A	202.203.132.248
+jpkc.swfc.edu.cn.	86400	IN	A	202.203.132.30
+jwc.swfc.edu.cn.	86400	IN	A	202.203.132.220
+ldyjy.swfc.edu.cn.	86400	IN	A	202.203.132.134
+lib.swfc.edu.cn.	86400	IN	A	202.203.132.139
+www.lib.swfc.edu.cn.	86400	IN	A	202.203.132.139
+mail.swfc.edu.cn.	86400	IN	A	202.203.132.14
+news.swfc.edu.cn.	86400	IN	A	202.203.132.24
+nlb.swfc.edu.cn.	86400	IN	A	202.203.132.233
+oa.swfc.edu.cn.		86400	IN	A	202.203.132.2
+php.swfc.edu.cn.	86400	IN	A	202.203.132.44
+pop.swfc.edu.cn.	86400	IN	A	202.203.132.14
+pop3.swfc.edu.cn.	86400	IN	A	202.203.132.14
+sbc.swfc.edu.cn.	86400	IN	A	202.203.132.221
+service.swfc.edu.cn.	86400	IN	A	202.203.132.19
+stmp.swfc.edu.cn.	86400	IN	A	202.203.132.14
+sub.swfc.edu.cn.	86400	IN	A	202.203.132.26
+szw.swfc.edu.cn.	86400	IN	A	202.203.132.24
+update.swfc.edu.cn.	86400	IN	A	202.203.132.55
+www.swfc.edu.cn.	86400	IN	A	202.203.132.5
+www1.swfc.edu.cn.	86400	IN	A	202.203.132.40
+xlcp.swfc.edu.cn.	86400	IN	A	202.203.132.22
+xnldxb.swfc.edu.cn.	86400	IN	A	210.83.81.6
+xq.swfc.edu.cn.		86400	IN	A	202.203.132.123
+xsc.swfc.edu.cn.	86400	IN	A	202.203.132.80
+xyl.swfc.edu.cn.	86400	IN	A	202.203.132.121
+ynsqly.swfc.edu.cn.	86400	IN	A	202.203.132.206
+yx.swfc.edu.cn.		86400	IN	A	202.203.132.40
+zb.swfc.edu.cn.		86400	IN	A	202.203.132.31
+zlgc.swfc.edu.cn.	86400	IN	A	202.203.132.200
+zzrs.swfc.edu.cn.	86400	IN	A	202.203.132.25
+swfc.edu.cn.		86400	IN	SOA	dns1.swfc.edu.cn. root.swfc.edu.cn. 2014022801 86400 3600 604800 10800
+;; Query time: 224 msec
+;; SERVER: 202.203.132.1#53(202.203.132.1)
+;; WHEN: Mon Apr 21 21:03:40 中国标准时间 2014
+;; XFR size: 65 records (messages 1, bytes 1416)
+

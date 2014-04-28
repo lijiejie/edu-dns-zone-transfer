@@ -1,0 +1,111 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @cpqpl1500.henau.edu.cn axfr henau.edu.cn
+; (1 server found)
+;; global options: +cmd
+henau.edu.cn.		3600	IN	SOA	cpqpl1500.henau.edu.cn. root.henau.edu.cn. 2014040704 30 30 360 3600
+henau.edu.cn.		3600	IN	MX	10 email.henau.edu.cn.
+henau.edu.cn.		3600	IN	NS	cpqpl1500.henau.edu.cn.
+100.henau.edu.cn.	3600	IN	A	202.196.80.100
+bbg.henau.edu.cn.	3600	IN	A	202.196.80.131
+cgxy.henau.edu.cn.	3600	IN	A	202.196.80.119
+cic2011.henau.edu.cn.	3600	IN	A	202.196.80.209
+cj.henau.edu.cn.	3600	IN	A	202.196.80.108
+cpqpl1500.henau.edu.cn.	3600	IN	A	202.196.80.1
+croplab.henau.edu.cn.	3600	IN	A	202.196.80.208
+dfhzc.henau.edu.cn.	3600	IN	A	116.255.155.168
+djdb.henau.edu.cn.	3600	IN	A	172.31.0.142
+dpstar.henau.edu.cn.	3600	IN	A	202.196.80.22
+ecard.henau.edu.cn.	3600	IN	A	172.29.0.14
+email.henau.edu.cn.	3600	IN	A	202.196.80.10
+eparty.henau.edu.cn.	3600	IN	A	202.196.80.135
+foodcrop.henau.edu.cn.	3600	IN	A	202.196.80.3
+ftp.henau.edu.cn.	3600	IN	A	202.196.80.8
+gbkh.henau.edu.cn.	3600	IN	A	172.31.0.136
+gbxx.henau.edu.cn.	3600	IN	A	172.31.0.25
+gj.henau.edu.cn.	3600	IN	A	202.196.80.123
+gmzx.henau.edu.cn.	3600	IN	A	202.196.80.136
+gz.henau.edu.cn.	3600	IN	A	202.196.80.128
+hnndb.henau.edu.cn.	3600	IN	CNAME	xiaobao.haedu.cn.
+hr.henau.edu.cn.	3600	IN	A	202.196.80.22
+ids.henau.edu.cn.	3600	IN	A	202.196.80.25
+ids1.henau.edu.cn.	3600	IN	A	202.196.80.26
+imp.henau.edu.cn.	3600	IN	A	202.196.80.22
+jidian.henau.edu.cn.	3600	IN	A	202.196.80.117
+jingguan.henau.edu.cn.	3600	IN	A	202.196.80.3
+jpk2012.henau.edu.cn.	3600	IN	A	202.196.80.202
+jpkc.henau.edu.cn.	3600	IN	A	202.196.80.227
+junxun.henau.edu.cn.	3600	IN	A	183.90.184.207
+jw.henau.edu.cn.	3600	IN	A	172.31.0.29
+jwc.henau.edu.cn.	3600	IN	A	202.196.80.251
+jwgl.henau.edu.cn.	3600	IN	A	172.31.0.29
+jwpt.henau.edu.cn.	3600	IN	A	202.196.80.225
+jwptdb.henau.edu.cn.	3600	IN	A	202.196.80.226
+kyc.henau.edu.cn.	3600	IN	A	202.196.80.102
+kyry.henau.edu.cn.	3600	IN	A	202.196.80.22
+lib.henau.edu.cn.	3600	IN	A	202.196.95.222
+lixue.henau.edu.cn.	3600	IN	A	202.196.80.107
+mac2012.henau.edu.cn.	3600	IN	A	202.196.80.208
+marx.henau.edu.cn.	3600	IN	A	202.196.80.113
+monitor.henau.edu.cn.	3600	IN	A	172.31.0.141
+muyi.henau.edu.cn.	3600	IN	A	202.196.80.118
+my.henau.edu.cn.	3600	IN	A	202.196.80.22
+myxy.henau.edu.cn.	3600	IN	A	202.196.80.3
+natlog.henau.edu.cn.	3600	IN	A	172.31.0.36
+ndcgy.henau.edu.cn.	3600	IN	A	202.196.80.3
+ndcgz.henau.edu.cn.	3600	IN	A	202.196.80.137
+ndfz.henau.edu.cn.	3600	IN	A	202.196.80.115
+nongxue.henau.edu.cn.	3600	IN	A	202.196.80.3
+poultry.henau.edu.cn.	3600	IN	A	202.196.80.126
+rdks.henau.edu.cn.	3600	IN	A	202.196.80.132
+renzheng.henau.edu.cn.	3600	IN	A	172.31.0.7
+rsc.henau.edu.cn.	3600	IN	A	202.196.80.84
+shipin.henau.edu.cn.	3600	IN	A	202.196.80.157
+sk.henau.edu.cn.	3600	IN	A	202.196.80.114
+sport.henau.edu.cn.	3600	IN	A	202.196.80.121
+sports.henau.edu.cn.	3600	IN	A	202.196.80.3
+spsy.henau.edu.cn.	3600	IN	A	202.196.80.130
+sr.henau.edu.cn.	3600	IN	A	202.196.80.22
+ssgl.henau.edu.cn.	3600	IN	A	172.31.0.28
+stu.henau.edu.cn.	3600	IN	A	202.196.80.104
+test.henau.edu.cn.	3600	IN	A	202.196.80.3
+tl.henau.edu.cn.	3600	IN	A	202.55.5.30
+tobacco.henau.edu.cn.	3600	IN	A	202.196.80.21
+tw.henau.edu.cn.	3600	IN	A	202.196.80.110
+vc.henau.edu.cn.	3600	IN	A	202.196.80.203
+welcome.henau.edu.cn.	3600	IN	A	202.196.80.22
+wfxy.henau.edu.cn.	3600	IN	A	202.196.80.105
+wgyxy.henau.edu.cn.	3600	IN	A	202.196.80.122
+wow.henau.edu.cn.	3600	IN	A	202.196.80.6
+www.henau.edu.cn.	3600	IN	A	202.196.80.5
+www2.henau.edu.cn.	3600	IN	A	202.196.80.224
+xg.henau.edu.cn.	3600	IN	A	202.196.80.22
+xghxk.henau.edu.cn.	3600	IN	A	202.196.80.201
+xgzc.henau.edu.cn.	3600	IN	A	172.31.0.138
+xiaobao.henau.edu.cn.	3600	IN	A	202.196.80.95
+xiaoyou.henau.edu.cn.	3600	IN	A	202.196.80.134
+xinli.henau.edu.cn.	3600	IN	A	172.31.0.19
+xinquban.henau.edu.cn.	3600	IN	A	202.196.80.103
+xinxi.henau.edu.cn.	3600	IN	A	202.196.80.106
+xmdns.henau.edu.cn.	3600	IN	A	218.206.228.2
+xqzgc.henau.edu.cn.	3600	IN	A	202.196.80.129
+xtcx.henau.edu.cn.	3600	IN	A	202.196.80.133
+xuchang.henau.edu.cn.	3600	IN	A	202.196.80.3
+xwb.henau.edu.cn.	3600	IN	A	172.31.0.124
+xxc.henau.edu.cn.	3600	IN	A	202.196.80.125
+xyh.henau.edu.cn.	3600	IN	A	202.196.80.111
+yancao.henau.edu.cn.	3600	IN	A	202.196.80.109
+yq.henau.edu.cn.	3600	IN	A	202.196.80.245
+yuanyi.henau.edu.cn.	3600	IN	A	202.196.80.101
+yzytest.henau.edu.cn.	3600	IN	A	172.31.0.149
+zb.henau.edu.cn.	3600	IN	A	202.196.80.116
+zc.henau.edu.cn.	3600	IN	A	202.196.80.22
+zcgl.henau.edu.cn.	3600	IN	A	202.196.80.245
+zihuan.henau.edu.cn.	3600	IN	A	202.196.80.120
+zsjyc.henau.edu.cn.	3600	IN	A	202.196.80.127
+zuzhibu.henau.edu.cn.	3600	IN	A	172.31.0.112
+henau.edu.cn.		3600	IN	SOA	cpqpl1500.henau.edu.cn. root.henau.edu.cn. 2014040704 30 30 360 3600
+;; Query time: 193 msec
+;; SERVER: 202.196.80.1#53(202.196.80.1)
+;; WHEN: Mon Apr 21 20:58:13 中国标准时间 2014
+;; XFR size: 102 records (messages 1, bytes 2262)
+

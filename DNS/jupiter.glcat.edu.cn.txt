@@ -1,0 +1,37 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @jupiter.glcat.edu.cn axfr glcat.edu.cn
+; (1 server found)
+;; global options: +cmd
+glcat.edu.cn.		86400	IN	SOA	neptune.glcat.edu.cn. kejie.glcat.edu.cn. 2014041801 10800 3600 604800 86400
+glcat.edu.cn.		86400	IN	A	202.193.96.28
+glcat.edu.cn.		86400	IN	NS	jupiter.glcat.edu.cn.
+glcat.edu.cn.		86400	IN	NS	neptune.glcat.edu.cn.
+glcat.edu.cn.		86400	IN	MX	10 mail.glcat.edu.cn.
+auth.glcat.edu.cn.	86400	IN	A	202.193.96.7
+bisai.glcat.edu.cn.	86400	IN	A	202.193.96.139
+cnki.glcat.edu.cn.	86400	IN	A	202.193.96.145
+cs.glcat.edu.cn.	86400	IN	A	202.193.96.132
+departs.glcat.edu.cn.	86400	IN	A	202.193.96.159
+ftp.glcat.edu.cn.	86400	IN	A	202.193.96.151
+ghqnbs.glcat.edu.cn.	86400	IN	A	202.193.96.135
+gl.glcat.edu.cn.	86400	IN	A	202.193.96.131
+gs.glcat.edu.cn.	86400	IN	A	202.193.96.130
+jpkc.glcat.edu.cn.	86400	IN	A	202.193.96.144
+jupiter.glcat.edu.cn.	86400	IN	A	202.193.96.29
+kejie.glcat.edu.cn.	86400	IN	A	202.193.96.34
+lib.glcat.edu.cn.	86400	IN	A	202.193.99.130
+mail.glcat.edu.cn.	86400	IN	A	202.193.96.27
+mgmt.glcat.edu.cn.	86400	IN	A	202.193.96.6
+ncftp.glcat.edu.cn.	86400	IN	A	202.193.96.14
+neptune.glcat.edu.cn.	86400	IN	A	202.193.96.30
+qngh.glcat.edu.cn.	86400	IN	A	202.193.96.136
+test.glcat.edu.cn.	86400	IN	A	202.193.96.161
+time.glcat.edu.cn.	86400	IN	A	202.193.96.7
+www.glcat.edu.cn.	86400	IN	A	202.193.96.28
+xlzx.glcat.edu.cn.	86400	IN	A	202.193.96.140
+glcat.edu.cn.		86400	IN	SOA	neptune.glcat.edu.cn. kejie.glcat.edu.cn. 2014041801 10800 3600 604800 86400
+;; Query time: 404 msec
+;; SERVER: 202.193.96.29#53(202.193.96.29)
+;; WHEN: Mon Apr 21 21:01:13 中国标准时间 2014
+;; XFR size: 28 records (messages 1, bytes 629)
+

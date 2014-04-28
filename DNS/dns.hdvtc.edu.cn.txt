@@ -1,0 +1,43 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns.hdvtc.edu.cn axfr hdvtc.edu.cn
+; (1 server found)
+;; global options: +cmd
+hdvtc.edu.cn.		3600	IN	SOA	hdvtc.edu.cn. hostmaster. 97 900 600 86400 3600
+hdvtc.edu.cn.		3600	IN	A	211.81.120.70
+hdvtc.edu.cn.		3600	IN	NS	dns.hdvtc.edu.cn.
+hdvtc.edu.cn.		3600	IN	NS	a-eb7edc192c094.
+hdvtc.edu.cn.		3600	IN	MX	1 mail.hdvtc.edu.cn.
+bbs.hdvtc.edu.cn.	3600	IN	A	211.81.120.84
+ca.hdvtc.edu.cn.	3600	IN	A	172.16.99.212
+dns.hdvtc.edu.cn.	3600	IN	A	211.81.120.70
+dxsydh.hdvtc.edu.cn.	3600	IN	A	211.81.120.66
+dyh.hdvtc.edu.cn.	3600	IN	A	211.81.120.66
+gggz.hdvtc.edu.cn.	3600	IN	A	211.81.120.66
+jgx.hdvtc.edu.cn.	3600	IN	A	115.47.51.162
+jingjx.hdvtc.edu.cn.	3600	IN	A	115.47.51.162
+jjx.hdvtc.edu.cn.	3600	IN	A	211.81.120.66
+jwxt.hdvtc.edu.cn.	3600	IN	A	211.81.120.52
+jwxt.hdvtc.edu.cn.	3600	IN	A	211.81.120.51
+jxpg.hdvtc.edu.cn.	3600	IN	A	211.81.120.66
+kxfzg.hdvtc.edu.cn.	3600	IN	A	211.81.120.82
+mail.hdvtc.edu.cn.	3600	IN	A	211.81.120.69
+ns.hdvtc.edu.cn.	3600	IN	A	211.81.120.70
+ns1.hdvtc.edu.cn.	3600	IN	A	211.81.120.70
+ns2.hdvtc.edu.cn.	3600	IN	A	211.81.120.67
+oa.hdvtc.edu.cn.	3600	IN	A	172.16.99.212
+portal.hdvtc.edu.cn.	3600	IN	A	172.16.98.115
+test.hdvtc.edu.cn.	3600	IN	A	211.81.120.66
+tsg.hdvtc.edu.cn.	3600	IN	A	211.81.120.130
+www.hdvtc.edu.cn.	3600	IN	A	221.193.216.172
+www1.hdvtc.edu.cn.	3600	IN	A	221.193.216.176
+www2.hdvtc.edu.cn.	3600	IN	A	211.81.120.61
+xjzx.hdvtc.edu.cn.	3600	IN	A	211.81.120.66
+zhengy.hdvtc.edu.cn.	3600	IN	A	211.81.120.66
+zsb.hdvtc.edu.cn.	1200	IN	A	211.81.120.83
+zzb.hdvtc.edu.cn.	3600	IN	A	211.81.120.66
+hdvtc.edu.cn.		3600	IN	SOA	hdvtc.edu.cn. hostmaster. 97 900 600 86400 3600
+;; Query time: 31 msec
+;; SERVER: 211.81.120.70#53(211.81.120.70)
+;; WHEN: Mon Apr 21 20:48:41 中国标准时间 2014
+;; XFR size: 34 records (messages 34, bytes 1787)
+

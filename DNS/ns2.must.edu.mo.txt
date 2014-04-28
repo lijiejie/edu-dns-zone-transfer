@@ -1,0 +1,76 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @ns2.must.edu.mo axfr must.edu.mo
+; (1 server found)
+;; global options: +cmd
+must.edu.mo.		3600	IN	SOA	ns1.must.edu.mo. postmaster.must.edu.mo. 26042045 10800 3600 604800 38400
+must.edu.mo.		3600	IN	NS	ns1.must.edu.mo.
+must.edu.mo.		3600	IN	NS	ns2.must.edu.mo.
+must.edu.mo.		3600	IN	MX	10 mailgate.must.edu.mo.
+must.edu.mo.		3600	IN	MX	20 exchange.must.edu.mo.
+#\@.must.edu.mo.	3600	IN	MX	10 mailbroadband.must.edu.mo.
+#\@.must.edu.mo.	3600	IN	MX	20 mailbroadband2.must.edu.mo.
+#\@.must.edu.mo.	3600	IN	MX	40 exchangeBK.must.edu.mo.
+#\@.must.edu.mo.	3600	IN	MX	50 ex01.must.edu.mo.
+#\@.must.edu.mo.	3600	IN	MX	60 ex02.must.edu.mo.
+#autodiscover.must.edu.mo. 3600	IN	A	202.175.31.141
+#ex01.must.edu.mo.	3600	IN	A	202.175.101.50
+#ex02.must.edu.mo.	3600	IN	A	202.175.101.58
+#exchangeBK.must.edu.mo. 3600	IN	A	202.175.101.59
+#legacy.must.edu.mo.	3600	IN	A	202.175.31.131
+#millennium.must.edu.mo. 3600	IN	A	202.175.177.212
+#www.must.edu.mo.	3600	IN	A	58.213.113.36
+#www.must.edu.mo.	3600	IN	A	122.128.107.103
+#www.must.edu.mo.	3600	IN	A	202.105.182.240
+#www.must.edu.mo.	3600	IN	A	202.175.58.26
+account.must.edu.mo.	3600	IN	A	202.175.31.142
+certenquiry.must.edu.mo. 3600	IN	A	202.105.182.237
+www.cgcm2012.must.edu.mo. 3600	IN	A	202.175.31.136
+coes-stud.must.edu.mo.	3600	IN	A	202.175.69.227
+coes-stud.must.edu.mo.	3600	IN	A	202.175.69.228
+dialin.must.edu.mo.	3600	IN	A	202.86.145.211
+edgeconnect.must.edu.mo. 3600	IN	A	202.86.145.212
+etds.must.edu.mo.	3600	IN	A	202.86.134.59
+exchange.must.edu.mo.	3600	IN	A	202.175.31.141
+ftp.must.edu.mo.	3600	IN	A	202.175.31.139
+intranet.must.edu.mo.	3600	IN	A	202.175.31.136
+its.must.edu.mo.	3600	IN	A	202.175.43.90
+lib.must.edu.mo.	3600	IN	A	202.175.31.136
+libezproxy.must.edu.mo.	3600	IN	A	202.175.104.162
+*.libezproxy.must.edu.mo. 3600	IN	A	202.175.104.162
+library.must.edu.mo.	3600	IN	A	202.175.177.212
+logintest.must.edu.mo.	3600	IN	A	202.175.31.142
+lync1.must.edu.mo.	3600	IN	A	202.86.145.211
+mailbroadband.must.edu.mo. 3600	IN	A	202.175.31.141
+mailbroadband2.must.edu.mo. 3600 IN	A	202.175.101.59
+mailgate.must.edu.mo.	3600	IN	A	202.175.31.141
+meet.must.edu.mo.	3600	IN	A	202.86.145.211
+moss.must.edu.mo.	3600	IN	A	202.175.31.138
+moss2010.must.edu.mo.	3600	IN	A	202.175.31.142
+moss2010test.must.edu.mo. 3600	IN	A	202.175.31.142
+mustmoodle.must.edu.mo.	3600	IN	A	202.175.177.211
+#www.newweb.must.edu.mo. 3600	IN	A	202.175.31.136
+nldl.must.edu.mo.	3600	IN	A	202.86.133.35
+ns1.must.edu.mo.	3600	IN	A	202.175.31.135
+ns2.must.edu.mo.	3600	IN	A	202.86.145.219
+oas.must.edu.mo.	3600	IN	A	202.105.182.240
+old.must.edu.mo.	3600	IN	A	202.105.182.237
+owa.must.edu.mo.	3600	IN	A	202.175.31.141
+portal.must.edu.mo.	3600	IN	A	202.175.31.142
+psyhealth.must.edu.mo.	3600	IN	A	202.175.31.134
+www.sc.must.edu.mo.	3600	IN	A	58.213.113.36
+sip.must.edu.mo.	3600	IN	A	202.86.145.212
+solareclipse.must.edu.mo. 3600	IN	A	202.175.43.91
+student.must.edu.mo.	3600	IN	NS	ns1.must.edu.mo.
+student.must.edu.mo.	3600	IN	NS	ns2.must.edu.mo.
+sw2005.must.edu.mo.	3600	IN	A	202.175.58.51
+uhtest.must.edu.mo.	3600	IN	A	122.128.107.103
+voas.must.edu.mo.	3600	IN	A	202.175.31.138
+#www.webnew.must.edu.mo. 3600	IN	A	202.105.182.237
+www.website.must.edu.mo. 3600	IN	A	202.105.182.237
+www.must.edu.mo.	3600	IN	A	180.188.196.143
+must.edu.mo.		3600	IN	SOA	ns1.must.edu.mo. postmaster.must.edu.mo. 26042045 10800 3600 604800 38400
+;; Query time: 3325 msec
+;; SERVER: 202.86.145.219#53(202.86.145.219)
+;; WHEN: Mon Apr 21 21:05:23 中国标准时间 2014
+;; XFR size: 67 records (messages 1, bytes 1579)
+

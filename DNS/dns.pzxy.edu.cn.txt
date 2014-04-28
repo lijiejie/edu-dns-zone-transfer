@@ -1,0 +1,30 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns.pzxy.edu.cn axfr pzxy.edu.cn
+; (1 server found)
+;; global options: +cmd
+pzxy.edu.cn.		86400	IN	SOA	dns2.pzxy.edu.cn. master.pzxy.edu.cn. 2006061301 28800 14400 3600000 86400
+pzxy.edu.cn.		86400	IN	NS	dns.pzxy.edu.cn.
+pzxy.edu.cn.		86400	IN	NS	dns2.pzxy.edu.cn.
+pzxy.edu.cn.		86400	IN	MX	5 mail.pzxy.edu.cn.
+*.pzxy.edu.cn.		86400	IN	A	61.163.235.211
+bys.pzxy.edu.cn.	86400	IN	A	218.198.14.19
+dns.pzxy.edu.cn.	86400	IN	A	218.198.8.8
+dns2.pzxy.edu.cn.	86400	IN	A	218.198.8.18
+eri.pzxy.edu.cn.	86400	IN	A	218.198.8.17
+ic.pzxy.edu.cn.		86400	IN	A	61.163.235.218
+jpk.pzxy.edu.cn.	86400	IN	A	61.163.235.212
+jpk2.pzxy.edu.cn.	86400	IN	A	61.163.235.221
+jsj.pzxy.edu.cn.	86400	IN	A	61.163.235.222
+jw.pzxy.edu.cn.		86400	IN	A	61.163.235.217
+mail.pzxy.edu.cn.	86400	IN	A	218.198.15.238
+oa.pzxy.edu.cn.		86400	IN	A	61.163.235.216
+software.pzxy.edu.cn.	86400	IN	A	218.198.10.18
+wsus.pzxy.edu.cn.	86400	IN	A	218.198.15.235
+www.pzxy.edu.cn.	86400	IN	A	61.163.235.211
+zs.pzxy.edu.cn.		86400	IN	A	61.163.235.213
+pzxy.edu.cn.		86400	IN	SOA	dns2.pzxy.edu.cn. master.pzxy.edu.cn. 2006061301 28800 14400 3600000 86400
+;; Query time: 25 msec
+;; SERVER: 218.198.8.8#53(218.198.8.8)
+;; WHEN: Mon Apr 21 20:58:35 中国标准时间 2014
+;; XFR size: 21 records (messages 1, bytes 475)
+

@@ -1,0 +1,36 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @ns.nsmc.edu.cn axfr nsmc.edu.cn
+; (1 server found)
+;; global options: +cmd
+nsmc.edu.cn.		604800	IN	SOA	ns.nsmc.edu.cn. root.nsmc.edu.cn. 2011022710 604800 86400 2419200 604800
+nsmc.edu.cn.		604800	IN	NS	ns.nsmc.edu.cn.
+nsmc.edu.cn.		604800	IN	MX	20 mail1.nsmc.edu.cn.
+*.nsmc.edu.cn.		604800	IN	A	202.98.152.135
+alumni.nsmc.edu.cn.	604800	IN	A	202.98.152.132
+cas.nsmc.edu.cn.	604800	IN	A	211.83.41.111
+gs.nsmc.edu.cn.		604800	IN	A	202.98.152.135
+kjc.nsmc.edu.cn.	604800	IN	A	202.98.152.140
+lib.nsmc.edu.cn.	604800	IN	A	211.83.3.2
+www.lib.nsmc.edu.cn.	604800	IN	A	211.83.3.2
+lx.nsmc.edu.cn.		604800	IN	A	211.83.41.120
+mail1.nsmc.edu.cn.	604800	IN	A	211.83.0.75
+meit.nsmc.edu.cn.	604800	IN	A	202.98.152.132
+news.nsmc.edu.cn.	604800	IN	A	202.98.152.132
+noc.nsmc.edu.cn.	604800	IN	A	211.83.0.114
+ns.nsmc.edu.cn.		604800	IN	A	211.83.0.66
+oa.nsmc.edu.cn.		604800	IN	A	202.98.152.155
+portal.nsmc.edu.cn.	604800	IN	A	211.83.41.112
+pro.nsmc.edu.cn.	604800	IN	A	211.83.41.122
+sdc.nsmc.edu.cn.	604800	IN	A	211.83.41.117
+server.nsmc.edu.cn.	604800	IN	A	211.83.0.105
+v.nsmc.edu.cn.		604800	IN	A	211.83.0.109
+view.nsmc.edu.cn.	604800	IN	A	202.98.152.177
+www.nsmc.edu.cn.	604800	IN	A	202.98.152.132
+xy.nsmc.edu.cn.		604800	IN	A	211.83.41.121
+yx.nsmc.edu.cn.		604800	IN	A	211.83.41.119
+nsmc.edu.cn.		604800	IN	SOA	ns.nsmc.edu.cn. root.nsmc.edu.cn. 2011022710 604800 86400 2419200 604800
+;; Query time: 93 msec
+;; SERVER: 211.83.0.66#53(211.83.0.66)
+;; WHEN: Mon Apr 21 21:02:06 中国标准时间 2014
+;; XFR size: 27 records (messages 1, bytes 600)
+

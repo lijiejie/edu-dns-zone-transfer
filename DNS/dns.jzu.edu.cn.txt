@@ -1,0 +1,31 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns.jzu.edu.cn axfr jzu.edu.cn
+; (1 server found)
+;; global options: +cmd
+jzu.edu.cn.		3600	IN	SOA	dns.jzu.edu.cn. root.jzu.edu.cn. 20130527 3600 900 604800 86400
+jzu.edu.cn.		3600	IN	NS	dns.jzu.edu.cn.
+jzu.edu.cn.		3600	IN	MX	5 mail.jzu.edu.cn.
+bbs.jzu.edu.cn.		3600	IN	A	218.198.40.3
+dns.jzu.edu.cn.		3600	IN	A	218.198.40.8
+ftp.jzu.edu.cn.		3600	IN	A	218.198.40.5
+jdtb.jzu.edu.cn.	3600	IN	A	218.198.40.6
+jiankong.jzu.edu.cn.	3600	IN	A	218.198.40.7
+jiuye.jzu.edu.cn.	3600	IN	A	211.67.168.41
+jpkc.jzu.edu.cn.	3600	IN	A	218.28.54.247
+jw.jzu.edu.cn.		3600	IN	A	218.198.43.70
+mail.jzu.edu.cn.	3600	IN	A	218.28.54.246
+pop3.jzu.edu.cn.	3600	IN	CNAME	mail.jzu.edu.cn.
+smtp.jzu.edu.cn.	3600	IN	CNAME	mail.jzu.edu.cn.
+thnet.jzu.edu.cn.	3600	IN	A	218.198.40.22
+vod.jzu.edu.cn.		3600	IN	A	218.198.40.19
+wlkc.jzu.edu.cn.	3600	IN	A	218.28.54.247
+www.jzu.edu.cn.		3600	IN	A	218.28.54.243
+www1.jzu.edu.cn.	3600	IN	A	218.198.40.21
+wwwdd.jzu.edu.cn.	3600	IN	A	218.198.44.1
+wwwdd2.jzu.edu.cn.	3600	IN	A	218.198.44.3
+jzu.edu.cn.		3600	IN	SOA	dns.jzu.edu.cn. root.jzu.edu.cn. 20130527 3600 900 604800 86400
+;; Query time: 28 msec
+;; SERVER: 218.198.40.8#53(218.198.40.8)
+;; WHEN: Mon Apr 21 20:58:18 中国标准时间 2014
+;; XFR size: 22 records (messages 1, bytes 511)
+

@@ -1,0 +1,102 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @newdns.nxgs.edu.cn axfr nxgs.edu.cn
+; (1 server found)
+;; global options: +cmd
+nxgs.edu.cn.		86400	IN	SOA	nxgs.edu.cn. nxgs.edu.cn. 0 86400 3600 604800 10800
+nxgs.edu.cn.		86400	IN	NS	newdns.nxgs.edu.cn.
+2010jpk.nxgs.edu.cn.	86400	IN	A	119.60.11.211
+2011jpk.nxgs.edu.cn.	86400	IN	A	119.60.11.211
+2012jpk.nxgs.edu.cn.	86400	IN	A	119.60.11.211
+2012jpkps.nxgs.edu.cn.	86400	IN	A	119.60.11.211
+2012spdk.nxgs.edu.cn.	86400	IN	A	119.60.11.211
+3dmax.nxgs.edu.cn.	86400	IN	A	119.60.11.211
+bwc.nxgs.edu.cn.	86400	IN	A	119.60.11.213
+ccps.nxgs.edu.cn.	86400	IN	A	119.60.11.211
+cd.nxgs.edu.cn.		86400	IN	A	119.60.11.211
+cwc.nxgs.edu.cn.	86400	IN	A	119.60.11.213
+cxzy.nxgs.edu.cn.	86400	IN	A	119.60.11.212
+dmt.nxgs.edu.cn.	86400	IN	A	119.60.11.211
+dt.nxgs.edu.cn.		86400	IN	A	59.76.191.100
+dtwy.nxgs.edu.cn.	86400	IN	A	119.60.11.212
+dxyy.nxgs.edu.cn.	86400	IN	A	119.60.11.211
+dyyw.nxgs.edu.cn.	86400	IN	A	119.60.11.211
+dzb.nxgs.edu.cn.	86400	IN	A	119.60.11.213
+en.nxgs.edu.cn.		86400	IN	A	119.60.11.212
+flash.nxgs.edu.cn.	86400	IN	A	119.60.11.212
+ggys.nxgs.edu.cn.	86400	IN	A	119.60.11.213
+gh.nxgs.edu.cn.		86400	IN	A	119.60.11.213
+gjhy.nxgs.edu.cn.	86400	IN	A	119.60.11.211
+hgdycz.nxgs.edu.cn.	86400	IN	A	119.60.11.211
+hggcx.nxgs.edu.cn.	86400	IN	A	119.60.11.213
+hgkc.nxgs.edu.cn.	86400	IN	A	119.60.11.213
+hqzx.nxgs.edu.cn.	86400	IN	A	119.60.11.213
+jcb.nxgs.edu.cn.	86400	IN	A	119.60.11.213
+jcscjs.nxgs.edu.cn.	86400	IN	A	119.60.11.211
+jd.nxgs.edu.cn.		86400	IN	A	119.60.11.211
+jdgc.nxgs.edu.cn.	86400	IN	A	119.60.11.213
+jdrl.nxgs.edu.cn.	86400	IN	A	119.60.11.212
+jds.nxgs.edu.cn.	86400	IN	A	119.60.11.213
+jdyy.nxgs.edu.cn.	86400	IN	A	119.60.11.211
+jjc.nxgs.edu.cn.	86400	IN	A	119.60.11.213
+jpk.nxgs.edu.cn.	86400	IN	A	119.60.11.213
+jpk2006.nxgs.edu.cn.	86400	IN	A	119.60.11.212
+jpk2007.nxgs.edu.cn.	86400	IN	A	119.60.11.212
+jpk2008.nxgs.edu.cn.	86400	IN	A	119.60.11.212
+jpk2009.nxgs.edu.cn.	86400	IN	A	119.60.11.212
+jpk2010.nxgs.edu.cn.	86400	IN	A	119.60.11.212
+jpk2011.nxgs.edu.cn.	86400	IN	A	119.60.11.212
+jsjjc.nxgs.edu.cn.	86400	IN	A	119.60.11.211
+jwc.nxgs.edu.cn.	86400	IN	A	119.60.11.213
+jxgcx.nxgs.edu.cn.	86400	IN	A	119.60.11.213
+jxjg.nxgs.edu.cn.	86400	IN	A	119.60.11.212
+kc.nxgs.edu.cn.		86400	IN	A	119.60.11.214
+kfgl.nxgs.edu.cn.	86400	IN	A	119.60.11.212
+kjx.nxgs.edu.cn.	86400	IN	A	119.60.11.213
+kt.nxgs.edu.cn.		86400	IN	A	119.60.11.212
+kyc.nxgs.edu.cn.	86400	IN	A	119.60.11.213
+lib.nxgs.edu.cn.	86400	IN	A	119.60.11.213
+lygl.nxgs.edu.cn.	86400	IN	A	119.60.11.213
+media.nxgs.edu.cn.	86400	IN	A	119.60.11.212
+mzd.nxgs.edu.cn.	86400	IN	A	119.60.11.212
+network.nxgs.edu.cn.	86400	IN	A	119.60.11.211
+newdns.nxgs.edu.cn.	86400	IN	A	119.60.11.214
+newjpk.nxgs.edu.cn.	86400	IN	A	119.60.11.213
+phzyys.nxgs.edu.cn.	86400	IN	A	119.60.11.213
+police.nxgs.edu.cn.	86400	IN	A	119.60.11.211
+portal.nxgs.edu.cn.	86400	IN	A	10.0.17.2
+prgyx.nxgs.edu.cn.	86400	IN	A	119.60.11.211
+pryyx.nxgs.edu.cn.	86400	IN	A	119.60.11.212
+qcdp.nxgs.edu.cn.	86400	IN	A	119.60.11.211
+qzpr.nxgs.edu.cn.	86400	IN	A	119.60.11.212
+rsc.nxgs.edu.cn.	86400	IN	A	119.60.11.213
+sf.nxgs.edu.cn.		86400	IN	A	119.60.11.212
+sf1.nxgs.edu.cn.	86400	IN	A	119.60.11.211
+smjj.nxgs.edu.cn.	86400	IN	A	119.60.11.213
+swkj.nxgs.edu.cn.	86400	IN	A	119.60.11.211
+sxzbc.nxgs.edu.cn.	86400	IN	A	119.60.11.213
+syjg.nxgs.edu.cn.	86400	IN	A	119.60.11.211
+sz.nxgs.edu.cn.		86400	IN	A	119.60.11.213
+szw.nxgs.edu.cn.	86400	IN	A	119.60.11.212
+tw.nxgs.edu.cn.		86400	IN	A	119.60.11.213
+typx.nxgs.edu.cn.	86400	IN	A	119.60.11.212
+webtest.nxgs.edu.cn.	86400	IN	A	119.60.11.213
+wlcb.nxgs.edu.cn.	86400	IN	A	119.60.11.211
+www.nxgs.edu.cn.	86400	IN	A	119.60.11.213
+wxpt.nxgs.edu.cn.	86400	IN	A	218.203.155.73
+xdtx.nxgs.edu.cn.	86400	IN	A	119.60.11.212
+xdyx.nxgs.edu.cn.	86400	IN	A	119.60.11.211
+xmb.nxgs.edu.cn.	86400	IN	A	119.60.11.213
+xsc.nxgs.edu.cn.	86400	IN	A	119.60.11.213
+xxjs.nxgs.edu.cn.	86400	IN	A	119.60.11.213
+yjhx.nxgs.edu.cn.	86400	IN	A	119.60.11.211
+zsjyc.nxgs.edu.cn.	86400	IN	A	119.60.11.213
+zxc.nxgs.edu.cn.	86400	IN	A	119.60.11.213
+zyk.nxgs.edu.cn.	86400	IN	A	59.76.191.48
+zzb.nxgs.edu.cn.	86400	IN	A	119.60.11.213
+zzwh.nxgs.edu.cn.	86400	IN	A	119.60.11.212
+nxgs.edu.cn.		86400	IN	SOA	nxgs.edu.cn. nxgs.edu.cn. 0 86400 3600 604800 10800
+;; Query time: 31 msec
+;; SERVER: 119.60.11.214#53(119.60.11.214)
+;; WHEN: Mon Apr 21 21:04:43 中国标准时间 2014
+;; XFR size: 93 records (messages 1, bytes 2029)
+

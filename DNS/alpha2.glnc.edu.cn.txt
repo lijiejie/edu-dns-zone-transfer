@@ -1,0 +1,99 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @alpha2.glnc.edu.cn axfr glnc.edu.cn
+; (1 server found)
+;; global options: +cmd
+glnc.edu.cn.		3600	IN	SOA	alpha2.glnc.edu.cn. admin.glnc.edu.cn. 2014033101 10800 3600 604800 86400
+glnc.edu.cn.		3600	IN	NS	dx.glnc.edu.cn.
+glnc.edu.cn.		3600	IN	NS	lt.glnc.edu.cn.
+glnc.edu.cn.		3600	IN	NS	jpkc.glnc.edu.cn.
+glnc.edu.cn.		3600	IN	NS	sun1.glnc.edu.cn.
+glnc.edu.cn.		3600	IN	NS	sun2.glnc.edu.cn.
+glnc.edu.cn.		3600	IN	NS	alpha1.glnc.edu.cn.
+glnc.edu.cn.		3600	IN	NS	alpha2.glnc.edu.cn.
+glnc.edu.cn.		3600	IN	MX	40 mail.glnc.edu.cn.
+glnc.edu.cn.		3600	IN	MX	50 oldmail.glnc.edu.cn.
+glnc.edu.cn.		3600	IN	MX	60 yiya.glnc.edu.cn.
+glnc.edu.cn.		3600	IN	MX	70 bm.glnc.edu.cn.
+glnc.edu.cn.		3600	IN	MX	80 summer.glnc.edu.cn.
+glnc.edu.cn.		3600	IN	MX	87 mailbox.glnc.edu.cn.
+glnc.edu.cn.		3600	IN	MX	88 up.glnc.edu.cn.
+access.glnc.edu.cn.	3600	IN	A	202.193.208.41
+account.glnc.edu.cn.	3600	IN	A	202.193.208.42
+alpha1.glnc.edu.cn.	3600	IN	A	202.193.208.33
+alpha2.glnc.edu.cn.	3600	IN	A	202.193.208.34
+angle.glnc.edu.cn.	3600	IN	A	202.193.209.25
+autum.glnc.edu.cn.	3600	IN	A	202.193.208.108
+bbs.glnc.edu.cn.	3600	IN	A	202.193.208.35
+bbs2.glnc.edu.cn.	3600	IN	A	202.193.208.69
+bbsdev.glnc.edu.cn.	3600	IN	A	202.193.208.51
+bm.glnc.edu.cn.		3600	IN	A	202.193.208.99
+bridge.glnc.edu.cn.	3600	IN	A	202.193.208.1
+bsd.glnc.edu.cn.	3600	IN	CNAME	ftp.glnc.edu.cn.
+bsdunix.glnc.edu.cn.	3600	IN	CNAME	ftp.glnc.edu.cn.
+buffalo.glnc.edu.cn.	3600	IN	CNAME	mail.glnc.edu.cn.
+bug.glnc.edu.cn.	3600	IN	A	202.193.209.18
+cash.glnc.edu.cn.	3600	IN	A	202.193.208.43
+dx.glnc.edu.cn.		3600	IN	A	202.193.208.16
+e1.glnc.edu.cn.		3600	IN	CNAME	yiya.glnc.edu.cn.
+eagle.glnc.edu.cn.	3600	IN	A	202.193.209.26
+ebook.glnc.edu.cn.	3600	IN	A	202.193.208.77
+elephant.glnc.edu.cn.	3600	IN	A	202.193.209.24
+flyer.glnc.edu.cn.	3600	IN	A	202.193.209.21
+freebsd.glnc.edu.cn.	3600	IN	CNAME	ftp.glnc.edu.cn.
+ftp.glnc.edu.cn.	3600	IN	A	202.193.208.39
+ftp1.glnc.edu.cn.	3600	IN	A	202.193.208.40
+gadbee.glnc.edu.cn.	3600	IN	A	202.193.209.17
+glnc-ras.glnc.edu.cn.	3600	IN	A	202.193.208.254
+jp.glnc.edu.cn.		3600	IN	CNAME	jpkc.glnc.edu.cn.
+jpk.glnc.edu.cn.	3600	IN	CNAME	jpkc.glnc.edu.cn.
+jpkc.glnc.edu.cn.	3600	IN	A	202.193.208.52
+jpkc0.glnc.edu.cn.	3600	IN	CNAME	jpkc.glnc.edu.cn.
+jpkc1.glnc.edu.cn.	3600	IN	A	202.193.208.53
+jpkc2.glnc.edu.cn.	3600	IN	A	202.193.208.54
+jpkc3.glnc.edu.cn.	3600	IN	A	202.193.208.55
+jpzy.glnc.edu.cn.	3600	IN	A	202.193.208.170
+jsrouter.glnc.edu.cn.	3600	IN	A	202.193.216.254
+lib.glnc.edu.cn.	3600	IN	A	202.193.208.73
+libbak.glnc.edu.cn.	3600	IN	A	202.193.208.74
+lt.glnc.edu.cn.		3600	IN	A	202.193.208.18
+mail.glnc.edu.cn.	3600	IN	A	202.193.208.36
+mailbox.glnc.edu.cn.	3600	IN	A	202.193.208.87
+mooc.glnc.edu.cn.	3600	IN	A	117.141.38.94
+moocdx.glnc.edu.cn.	3600	IN	A	202.193.208.20
+mooclt.glnc.edu.cn.	3600	IN	A	202.193.208.21
+mv.glnc.edu.cn.		3600	IN	A	202.193.208.68
+mv1.glnc.edu.cn.	3600	IN	A	202.193.208.71
+netbsd.glnc.edu.cn.	3600	IN	CNAME	ftp.glnc.edu.cn.
+news.glnc.edu.cn.	3600	IN	A	202.193.208.40
+oldmail.glnc.edu.cn.	3600	IN	A	202.193.208.50
+openbsd.glnc.edu.cn.	3600	IN	CNAME	ftp.glnc.edu.cn.
+proxy.glnc.edu.cn.	3600	IN	A	202.193.208.38
+python.glnc.edu.cn.	3600	IN	A	202.193.209.22
+router2.glnc.edu.cn.	3600	IN	A	202.193.208.253
+router2.glnc.edu.cn.	3600	IN	A	202.193.209.254
+router2.glnc.edu.cn.	3600	IN	A	202.193.210.254
+router2.glnc.edu.cn.	3600	IN	A	202.193.211.254
+router2.glnc.edu.cn.	3600	IN	A	202.193.212.254
+router3.glnc.edu.cn.	3600	IN	A	202.193.208.252
+spring.glnc.edu.cn.	3600	IN	A	202.193.208.106
+sql.glnc.edu.cn.	3600	IN	A	202.193.208.46
+summer.glnc.edu.cn.	3600	IN	A	202.193.208.107
+sun0.glnc.edu.cn.	3600	IN	A	202.193.208.100
+sun1.glnc.edu.cn.	3600	IN	A	202.193.208.101
+sun2.glnc.edu.cn.	3600	IN	A	202.193.208.102
+sun3.glnc.edu.cn.	3600	IN	A	202.193.208.103
+sun4.glnc.edu.cn.	3600	IN	A	202.193.208.104
+sun5.glnc.edu.cn.	3600	IN	A	202.193.208.105
+test.glnc.edu.cn.	3600	IN	A	202.193.208.49
+tiger.glnc.edu.cn.	3600	IN	A	202.193.209.23
+up.glnc.edu.cn.		3600	IN	A	202.193.208.88
+winter.glnc.edu.cn.	3600	IN	A	202.193.208.109
+www.glnc.edu.cn.	3600	IN	A	117.141.38.95
+xyrouter.glnc.edu.cn.	3600	IN	A	202.193.213.254
+yiya.glnc.edu.cn.	3600	IN	A	202.193.208.60
+glnc.edu.cn.		3600	IN	SOA	alpha2.glnc.edu.cn. admin.glnc.edu.cn. 2014033101 10800 3600 604800 86400
+;; Query time: 414 msec
+;; SERVER: 202.193.208.34#53(202.193.208.34)
+;; WHEN: Mon Apr 21 21:01:13 中国标准时间 2014
+;; XFR size: 90 records (messages 1, bytes 1890)
+

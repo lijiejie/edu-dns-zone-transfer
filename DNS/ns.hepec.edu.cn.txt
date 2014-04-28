@@ -1,0 +1,48 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @ns.hepec.edu.cn axfr hepec.edu.cn
+; (1 server found)
+;; global options: +cmd
+hepec.edu.cn.		86400	IN	SOA	hepec.edu.cn.hepec.edu.cn. root.hepec.edu.cn. 2 28800 7200 604800 86400
+hepec.edu.cn.		86400	IN	NS	ns.hepec.edu.cn.
+bgs.hepec.edu.cn.	86400	IN	A	211.81.176.18
+cjcx.hepec.edu.cn.	86400	IN	A	211.81.176.50
+dtl.hepec.edu.cn.	86400	IN	A	211.81.176.18
+gh.hepec.edu.cn.	86400	IN	A	211.81.176.18
+golf.hepec.edu.cn.	86400	IN	A	211.81.176.18
+jj.hepec.edu.cn.	86400	IN	A	211.81.176.18
+jwc.hepec.edu.cn.	86400	IN	A	211.81.176.18
+jwgl.hepec.edu.cn.	86400	IN	A	211.81.176.91
+jxc.hepec.edu.cn.	86400	IN	A	211.81.176.18
+jxcgj.hepec.edu.cn.	86400	IN	A	211.81.176.18
+lib.hepec.edu.cn.	86400	IN	A	211.81.178.3
+mail.hepec.edu.cn.	86400	IN	A	211.81.176.17
+mail.hepec.edu.cn.	86400	IN	MX	10 mail.hepec.edu.cn.
+ns.hepec.edu.cn.	86400	IN	A	211.81.176.12
+old.hepec.edu.cn.	86400	IN	A	211.81.176.16
+qzlx.hepec.edu.cn.	86400	IN	A	211.81.176.18
+rsc.hepec.edu.cn.	86400	IN	A	211.81.176.18
+rtx.hepec.edu.cn.	86400	IN	A	211.81.176.18
+stlhh.hepec.edu.cn.	86400	IN	A	211.81.176.18
+sxzzjy.hepec.edu.cn.	86400	IN	A	211.81.176.18
+szhxy.hepec.edu.cn.	86400	IN	A	211.81.176.18
+tw.hepec.edu.cn.	86400	IN	A	211.81.176.18
+tyx.hepec.edu.cn.	86400	IN	A	211.81.176.18
+vcenter.hepec.edu.cn.	86400	IN	A	10.1.3.18
+vdp.hepec.edu.cn.	86400	IN	A	10.1.3.21
+webserver.hepec.edu.cn.	86400	IN	CNAME	www.hepec.edu.cn.
+wsx.hepec.edu.cn.	86400	IN	A	211.81.176.18
+www.hepec.edu.cn.	86400	IN	A	211.81.176.18
+www2.hepec.edu.cn.	86400	IN	A	211.81.176.21
+wyx.hepec.edu.cn.	86400	IN	A	211.81.176.18
+xb.hepec.edu.cn.	86400	IN	A	211.81.176.18
+xcb.hepec.edu.cn.	86400	IN	A	211.81.176.18
+xjzx.hepec.edu.cn.	86400	IN	A	211.81.176.18
+ydx.hepec.edu.cn.	86400	IN	A	211.81.176.18
+ysx.hepec.edu.cn.	86400	IN	A	211.81.176.18
+zzb.hepec.edu.cn.	86400	IN	A	211.81.176.18
+hepec.edu.cn.		86400	IN	SOA	hepec.edu.cn.hepec.edu.cn. root.hepec.edu.cn. 2 28800 7200 604800 86400
+;; Query time: 70 msec
+;; SERVER: 211.81.176.12#53(211.81.176.12)
+;; WHEN: Mon Apr 21 20:48:40 中国标准时间 2014
+;; XFR size: 39 records (messages 1, bytes 869)
+

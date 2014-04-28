@@ -1,0 +1,180 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @bnu.hrbnu.edu.cn axfr hrbnu.edu.cn
+; (1 server found)
+;; global options: +cmd
+hrbnu.edu.cn.		3600	IN	SOA	bnu.hrbnu.edu.cn. admin.hrbnu.edu.cn. 637 900 600 86400 3600
+hrbnu.edu.cn.		3600	IN	A	218.7.221.250
+hrbnu.edu.cn.		3600	IN	NS	bnu.hrbnu.edu.cn.
+hrbnu.edu.cn.		3600	IN	MX	10 mx.hosting.edu.cn.
+hrbnu.edu.cn.		3600	IN	TXT	"\"v=spf1 ip4:117.79.83.128/27 222.28.155.0/24 -all\""
+100.hrbnu.edu.cn.	3600	IN	A	218.7.221.250
+art.hrbnu.edu.cn.	3600	IN	A	218.7.221.250
+bbs.hrbnu.edu.cn.	3600	IN	A	218.7.221.196
+bhzhou.hrbnu.edu.cn.	3600	IN	A	218.7.221.250
+bnu.hrbnu.edu.cn.	3600	IN	A	202.118.128.2
+cnki.hrbnu.edu.cn.	3600	IN	A	218.7.221.100
+cs.hrbnu.edu.cn.	3600	IN	A	218.7.221.247
+dev.hrbnu.edu.cn.	3600	IN	A	218.7.221.199
+dlkx.hrbnu.edu.cn.	3600	IN	A	218.7.221.228
+dongyuxueyuan.hrbnu.edu.cn. 3600 IN	A	218.7.221.247
+ebook.hrbnu.edu.cn.	3600	IN	A	218.7.221.241
+eqmail.hrbnu.edu.cn.	3600	IN	A	218.7.221.243
+eyouct.hrbnu.edu.cn.	3600	IN	A	218.7.221.104
+fin.hrbnu.edu.cn.	3600	IN	A	218.7.221.97
+gcyfzx.hrbnu.edu.cn.	3600	IN	A	218.7.221.247
+gxsy.hrbnu.edu.cn.	3600	IN	A	218.7.221.12
+gzc.hrbnu.edu.cn.	3600	IN	A	218.7.221.234
+hotel.hrbnu.edu.cn.	3600	IN	A	218.7.221.74
+hq.hrbnu.edu.cn.	3600	IN	A	218.7.221.74
+hqc.hrbnu.edu.cn.	3600	IN	A	218.7.221.249
+hsdjxjy.hrbnu.edu.cn.	3600	IN	A	218.7.221.178
+is.hrbnu.edu.cn.	3600	IN	A	218.7.221.250
+it.hrbnu.edu.cn.	3600	IN	A	218.7.221.126
+jjxy.hrbnu.edu.cn.	3600	IN	A	218.7.221.249
+jpk.hrbnu.edu.cn.	3600	IN	A	218.7.221.183
+jw.hrbnu.edu.cn.	3600	IN	A	218.7.221.77
+jwc.hrbnu.edu.cn.	3600	IN	A	218.7.221.11
+jxjy.hrbnu.edu.cn.	600	IN	A	192.167.1.167
+jxjy.hrbnu.edu.cn.	3600	IN	A	61.180.253.21
+_kerberos._tcp.default-first-site-name._sites.dc._msdcs.jxjy.hrbnu.edu.cn. 600 IN SRV 0 100 88 yul-wjfwq.jxjy.hrbnu.edu.cn.
+_ldap._tcp.default-first-site-name._sites.dc._msdcs.jxjy.hrbnu.edu.cn. 600 IN SRV 0 100 389 yul-wjfwq.jxjy.hrbnu.edu.cn.
+_kerberos._tcp.dc._msdcs.jxjy.hrbnu.edu.cn. 600	IN SRV 0 100 88 yul-wjfwq.jxjy.hrbnu.edu.cn.
+_ldap._tcp.dc._msdcs.jxjy.hrbnu.edu.cn.	600 IN SRV 0 100 389 yul-wjfwq.jxjy.hrbnu.edu.cn.
+_ldap._tcp.7a74f7cf-f8a7-48e9-b27f-8eee87086c5b.domains._msdcs.jxjy.hrbnu.edu.cn. 600 IN SRV 0 100 389 yul-wjfwq.jxjy.hrbnu.edu.cn.
+fb12c893-c6d2-4c2c-8ce9-1b3d1801e7b2._msdcs.jxjy.hrbnu.edu.cn. 600 IN CNAME yul-wjfwq.jxjy.hrbnu.edu.cn.
+gc._msdcs.jxjy.hrbnu.edu.cn. 600 IN	A	192.167.1.167
+_ldap._tcp.default-first-site-name._sites.gc._msdcs.jxjy.hrbnu.edu.cn. 600 IN SRV 0 100 3268 yul-wjfwq.jxjy.hrbnu.edu.cn.
+_ldap._tcp.gc._msdcs.jxjy.hrbnu.edu.cn.	600 IN SRV 0 100 3268 yul-wjfwq.jxjy.hrbnu.edu.cn.
+_ldap._tcp.pdc._msdcs.jxjy.hrbnu.edu.cn. 600 IN	SRV 0 100 389 yul-wjfwq.jxjy.hrbnu.edu.cn.
+_gc._tcp.default-first-site-name._sites.jxjy.hrbnu.edu.cn. 600 IN SRV 0 100 3268 yul-wjfwq.jxjy.hrbnu.edu.cn.
+_kerberos._tcp.default-first-site-name._sites.jxjy.hrbnu.edu.cn. 600 IN	SRV 0 100 88 yul-wjfwq.jxjy.hrbnu.edu.cn.
+_ldap._tcp.default-first-site-name._sites.jxjy.hrbnu.edu.cn. 600 IN SRV	0 100 389 yul-wjfwq.jxjy.hrbnu.edu.cn.
+_gc._tcp.jxjy.hrbnu.edu.cn. 600	IN	SRV	0 100 3268 yul-wjfwq.jxjy.hrbnu.edu.cn.
+_kerberos._tcp.jxjy.hrbnu.edu.cn. 600 IN SRV	0 100 88 yul-wjfwq.jxjy.hrbnu.edu.cn.
+_kpasswd._tcp.jxjy.hrbnu.edu.cn. 600 IN	SRV	0 100 464 yul-wjfwq.jxjy.hrbnu.edu.cn.
+_ldap._tcp.jxjy.hrbnu.edu.cn. 600 IN	SRV	0 100 389 yul-wjfwq.jxjy.hrbnu.edu.cn.
+_kerberos._udp.jxjy.hrbnu.edu.cn. 600 IN SRV	0 100 88 yul-wjfwq.jxjy.hrbnu.edu.cn.
+_kpasswd._udp.jxjy.hrbnu.edu.cn. 600 IN	SRV	0 100 464 yul-wjfwq.jxjy.hrbnu.edu.cn.
+c-xiufen.jxjy.hrbnu.edu.cn. 1200 IN	A	192.168.1.112
+d-lifeng.jxjy.hrbnu.edu.cn. 1200 IN	A	192.167.1.111
+f-tianshu.jxjy.hrbnu.edu.cn. 1200 IN	A	10.10.12.237
+f-tianshu.jxjy.hrbnu.edu.cn. 1200 IN	A	192.168.1.123
+h-shaocai.jxjy.hrbnu.edu.cn. 1200 IN	A	192.167.1.130
+h-shuguo.jxjy.hrbnu.edu.cn. 1200 IN	A	192.167.1.100
+jwk-tc-tyh.jxjy.hrbnu.edu.cn. 1200 IN	A	192.167.1.75
+l-lanzhi.jxjy.hrbnu.edu.cn. 1200 IN	A	192.167.1.110
+l-linfeng.jxjy.hrbnu.edu.cn. 1200 IN	A	192.167.1.71
+l-zhuo.jxjy.hrbnu.edu.cn. 1200	IN	A	192.167.1.103
+liu-lz.jxjy.hrbnu.edu.cn. 1200	IN	A	192.167.1.227
+s-jian.jxjy.hrbnu.edu.cn. 1200	IN	A	192.167.1.50
+s-yan.jxjy.hrbnu.edu.cn. 1200	IN	A	192.167.1.40
+t-yuhong.jxjy.hrbnu.edu.cn. 1200 IN	A	192.167.1.112
+w-man.jxjy.hrbnu.edu.cn. 1200	IN	A	192.167.1.70
+w-qinglan.jxjy.hrbnu.edu.cn. 1200 IN	A	192.167.1.222
+y-shenglei-t-2k.jxjy.hrbnu.edu.cn. 1200	IN A	192.167.1.30
+z-yingjie.jxjy.hrbnu.edu.cn. 1200 IN	A	192.167.1.120
+jy.hrbnu.edu.cn.	3600	IN	A	218.7.221.239
+jyjs.hrbnu.edu.cn.	3600	IN	A	218.7.221.109
+kjc.hrbnu.edu.cn.	3600	IN	A	218.7.221.231
+lib.hrbnu.edu.cn.	3600	IN	A	218.7.221.242
+mail.hrbnu.edu.cn.	3600	IN	CNAME	mail.hosting.edu.cn.
+mc.hrbnu.edu.cn.	3600	IN	A	218.7.221.108
+media.hrbnu.edu.cn.	3600	IN	A	218.7.221.249
+ms.hrbnu.edu.cn.	3600	IN	A	218.7.221.104
+music.hrbnu.edu.cn.	3600	IN	A	218.7.221.223
+netsec.hrbnu.edu.cn.	3600	IN	A	218.7.221.105
+news.hrbnu.edu.cn.	3600	IN	A	218.7.221.250
+news2009.hrbnu.edu.cn.	3600	IN	A	218.7.221.250
+oa.hrbnu.edu.cn.	3600	IN	A	218.7.221.211
+physics.hrbnu.edu.cn.	3600	IN	A	218.7.221.235
+rsglxt.hrbnu.edu.cn.	3600	IN	A	218.7.221.204
+se.hrbnu.edu.cn.	3600	IN	A	218.7.221.247
+sh.hrbnu.edu.cn.	3600	IN	A	218.7.221.249
+skc.hrbnu.edu.cn.	3600	IN	A	218.7.221.230
+slfy.hrbnu.edu.cn.	3600	IN	A	218.7.221.213
+553dda88-189d-4c72-a421-3641c9d69cb7._msdcs.slfy.hrbnu.edu.cn. 600 IN CNAME server1-2003.slfy.hrbnu.edu.cn.
+server1-2003.slfy.hrbnu.edu.cn.	1200 IN	A	10.10.10.236
+studyathrbnu.hrbnu.edu.cn. 3600	IN	A	218.7.221.249
+szkjd.hrbnu.edu.cn.	3600	IN	A	218.7.221.247
+szmt.hrbnu.edu.cn.	3600	IN	A	218.7.221.247
+tcs2009.hrbnu.edu.cn.	3600	IN	A	218.7.221.236
+tw.hrbnu.edu.cn.	3600	IN	A	218.7.221.25
+wanfang.hrbnu.edu.cn.	3600	IN	A	218.7.221.21
+web.hrbnu.edu.cn.	3600	IN	A	218.7.221.249
+wlsyzx.hrbnu.edu.cn.	3600	IN	A	218.7.221.235
+wlyp.hrbnu.edu.cn.	3600	IN	A	218.7.221.18
+wlzx.hrbnu.edu.cn.	3600	IN	A	218.7.221.47
+www.hrbnu.edu.cn.	3600	IN	A	218.7.221.250
+www-hnu.hrbnu.edu.cn.	1200	IN	A	202.118.128.2
+xjxl.hrbnu.edu.cn.	3600	IN	A	218.7.221.203
+xk.hrbnu.edu.cn.	3600	IN	A	218.7.221.24
+xkk.hrbnu.edu.cn.	3600	IN	A	202.118.132.100
+xkxwc.hrbnu.edu.cn.	3600	IN	A	218.7.221.229
+xljk.hrbnu.edu.cn.	3600	IN	A	218.7.221.237
+xy.hrbnu.edu.cn.	3600	IN	A	218.7.221.195
+yszx.hrbnu.edu.cn.	3600	IN	A	218.7.221.219
+yyb.hrbnu.edu.cn.	3600	IN	A	218.7.221.217
+yyxy.hrbnu.edu.cn.	3600	IN	A	218.7.221.212
+zfxy.hrbnu.edu.cn.	3600	IN	A	218.7.221.249
+zhaosheng.hrbnu.edu.cn.	600	IN	A	192.168.101.200
+abaf123b-450d-4b93-97d9-f616561633f9._msdcs.zhaosheng.hrbnu.edu.cn. 600	IN CNAME ibm.zhaosheng.hrbnu.edu.cn.
+ae23ecf3-c6be-4708-ac9d-297d90158bc6._msdcs.zhaosheng.hrbnu.edu.cn. 600	IN CNAME fgh.zhaosheng.hrbnu.edu.cn.
+_kerberos._tcp.default-first-site-name._sites.dc._msdcs.zhaosheng.hrbnu.edu.cn.	600 IN SRV 0 100 88 fgh.zhaosheng.hrbnu.edu.cn.
+_kerberos._tcp.default-first-site-name._sites.dc._msdcs.zhaosheng.hrbnu.edu.cn.	600 IN SRV 0 100 88 ibm.zhaosheng.hrbnu.edu.cn.
+_ldap._tcp.default-first-site-name._sites.dc._msdcs.zhaosheng.hrbnu.edu.cn. 600	IN SRV 0 100 389 fgh.zhaosheng.hrbnu.edu.cn.
+_ldap._tcp.default-first-site-name._sites.dc._msdcs.zhaosheng.hrbnu.edu.cn. 600	IN SRV 0 100 389 ibm.zhaosheng.hrbnu.edu.cn.
+_kerberos._tcp.dc._msdcs.zhaosheng.hrbnu.edu.cn. 600 IN	SRV 0 100 88 fgh.zhaosheng.hrbnu.edu.cn.
+_kerberos._tcp.dc._msdcs.zhaosheng.hrbnu.edu.cn. 600 IN	SRV 0 100 88 ibm.zhaosheng.hrbnu.edu.cn.
+_ldap._tcp.dc._msdcs.zhaosheng.hrbnu.edu.cn. 600 IN SRV	0 100 389 fgh.zhaosheng.hrbnu.edu.cn.
+_ldap._tcp.dc._msdcs.zhaosheng.hrbnu.edu.cn. 600 IN SRV	0 100 389 ibm.zhaosheng.hrbnu.edu.cn.
+_ldap._tcp.215f1232-a9b8-4496-90bd-887806ab392c.domains._msdcs.zhaosheng.hrbnu.edu.cn. 600 IN SRV 0 100 389 fgh.zhaosheng.hrbnu.edu.cn.
+_ldap._tcp.4bca5b65-b32e-4dc9-9dbf-58b687b43b6e.domains._msdcs.zhaosheng.hrbnu.edu.cn. 600 IN SRV 0 100 389 ibm.zhaosheng.hrbnu.edu.cn.
+gc._msdcs.zhaosheng.hrbnu.edu.cn. 600 IN A	192.168.101.200
+_ldap._tcp.default-first-site-name._sites.gc._msdcs.zhaosheng.hrbnu.edu.cn. 600	IN SRV 0 100 3268 fgh.zhaosheng.hrbnu.edu.cn.
+_ldap._tcp.default-first-site-name._sites.gc._msdcs.zhaosheng.hrbnu.edu.cn. 600	IN SRV 0 100 3268 ibm.zhaosheng.hrbnu.edu.cn.
+_ldap._tcp.gc._msdcs.zhaosheng.hrbnu.edu.cn. 600 IN SRV	0 100 3268 ibm.zhaosheng.hrbnu.edu.cn.
+_ldap._tcp.gc._msdcs.zhaosheng.hrbnu.edu.cn. 600 IN SRV	0 100 3268 fgh.zhaosheng.hrbnu.edu.cn.
+_ldap._tcp.pdc._msdcs.zhaosheng.hrbnu.edu.cn. 600 IN SRV 0 100 389 ibm.zhaosheng.hrbnu.edu.cn.
+_gc._tcp.default-first-site-name._sites.zhaosheng.hrbnu.edu.cn.	600 IN SRV 0 100 3268 fgh.zhaosheng.hrbnu.edu.cn.
+_gc._tcp.default-first-site-name._sites.zhaosheng.hrbnu.edu.cn.	600 IN SRV 0 100 3268 ibm.zhaosheng.hrbnu.edu.cn.
+_kerberos._tcp.default-first-site-name._sites.zhaosheng.hrbnu.edu.cn. 600 IN SRV 0 100 88 fgh.zhaosheng.hrbnu.edu.cn.
+_kerberos._tcp.default-first-site-name._sites.zhaosheng.hrbnu.edu.cn. 600 IN SRV 0 100 88 ibm.zhaosheng.hrbnu.edu.cn.
+_ldap._tcp.default-first-site-name._sites.zhaosheng.hrbnu.edu.cn. 600 IN SRV 0 100 389 fgh.zhaosheng.hrbnu.edu.cn.
+_ldap._tcp.default-first-site-name._sites.zhaosheng.hrbnu.edu.cn. 600 IN SRV 0 100 389 ibm.zhaosheng.hrbnu.edu.cn.
+_gc._tcp.zhaosheng.hrbnu.edu.cn. 600 IN	SRV	0 100 3268 fgh.zhaosheng.hrbnu.edu.cn.
+_gc._tcp.zhaosheng.hrbnu.edu.cn. 600 IN	SRV	0 100 3268 ibm.zhaosheng.hrbnu.edu.cn.
+_kerberos._tcp.zhaosheng.hrbnu.edu.cn. 600 IN SRV 0 100 88 fgh.zhaosheng.hrbnu.edu.cn.
+_kerberos._tcp.zhaosheng.hrbnu.edu.cn. 600 IN SRV 0 100 88 ibm.zhaosheng.hrbnu.edu.cn.
+_kpasswd._tcp.zhaosheng.hrbnu.edu.cn. 600 IN SRV 0 100 464 fgh.zhaosheng.hrbnu.edu.cn.
+_kpasswd._tcp.zhaosheng.hrbnu.edu.cn. 600 IN SRV 0 100 464 ibm.zhaosheng.hrbnu.edu.cn.
+_ldap._tcp.zhaosheng.hrbnu.edu.cn. 600 IN SRV	0 100 389 fgh.zhaosheng.hrbnu.edu.cn.
+_ldap._tcp.zhaosheng.hrbnu.edu.cn. 600 IN SRV	0 100 389 ibm.zhaosheng.hrbnu.edu.cn.
+_kerberos._udp.zhaosheng.hrbnu.edu.cn. 600 IN SRV 0 100 88 fgh.zhaosheng.hrbnu.edu.cn.
+_kerberos._udp.zhaosheng.hrbnu.edu.cn. 600 IN SRV 0 100 88 ibm.zhaosheng.hrbnu.edu.cn.
+_kpasswd._udp.zhaosheng.hrbnu.edu.cn. 600 IN SRV 0 100 464 fgh.zhaosheng.hrbnu.edu.cn.
+_kpasswd._udp.zhaosheng.hrbnu.edu.cn. 600 IN SRV 0 100 464 ibm.zhaosheng.hrbnu.edu.cn.
+com6018.zhaosheng.hrbnu.edu.cn.	1200 IN	A	192.168.101.170
+com6031.zhaosheng.hrbnu.edu.cn.	1200 IN	A	192.168.101.103
+com6041.zhaosheng.hrbnu.edu.cn.	1200 IN	A	192.168.101.186
+com6061.zhaosheng.hrbnu.edu.cn.	1200 IN	A	192.168.101.192
+com6071.zhaosheng.hrbnu.edu.cn.	1200 IN	A	192.168.101.182
+com6081.zhaosheng.hrbnu.edu.cn.	1200 IN	A	192.168.101.108
+com6101.zhaosheng.hrbnu.edu.cn.	1200 IN	A	192.168.101.171
+domaindnszones.zhaosheng.hrbnu.edu.cn. 600 IN A	192.168.101.200
+_ldap._tcp.default-first-site-name._sites.domaindnszones.zhaosheng.hrbnu.edu.cn. 600 IN	SRV 0 100 389 fgh.zhaosheng.hrbnu.edu.cn.
+_ldap._tcp.default-first-site-name._sites.domaindnszones.zhaosheng.hrbnu.edu.cn. 600 IN	SRV 0 100 389 ibm.zhaosheng.hrbnu.edu.cn.
+_ldap._tcp.domaindnszones.zhaosheng.hrbnu.edu.cn. 600 IN SRV 0 100 389 fgh.zhaosheng.hrbnu.edu.cn.
+_ldap._tcp.domaindnszones.zhaosheng.hrbnu.edu.cn. 600 IN SRV 0 100 389 ibm.zhaosheng.hrbnu.edu.cn.
+forestdnszones.zhaosheng.hrbnu.edu.cn. 600 IN A	192.168.101.200
+_ldap._tcp.default-first-site-name._sites.forestdnszones.zhaosheng.hrbnu.edu.cn. 600 IN	SRV 0 100 389 fgh.zhaosheng.hrbnu.edu.cn.
+_ldap._tcp.default-first-site-name._sites.forestdnszones.zhaosheng.hrbnu.edu.cn. 600 IN	SRV 0 100 389 ibm.zhaosheng.hrbnu.edu.cn.
+_ldap._tcp.forestdnszones.zhaosheng.hrbnu.edu.cn. 600 IN SRV 0 100 389 fgh.zhaosheng.hrbnu.edu.cn.
+_ldap._tcp.forestdnszones.zhaosheng.hrbnu.edu.cn. 600 IN SRV 0 100 389 ibm.zhaosheng.hrbnu.edu.cn.
+ibm.zhaosheng.hrbnu.edu.cn. 1200 IN	A	192.168.101.200
+zsb.hrbnu.edu.cn.	3600	IN	A	218.7.221.190
+hrbnu.edu.cn.		3600	IN	SOA	bnu.hrbnu.edu.cn. admin.hrbnu.edu.cn. 637 900 600 86400 3600
+;; Query time: 667 msec
+;; SERVER: 202.118.128.2#53(202.118.128.2)
+;; WHEN: Mon Apr 21 20:50:32 中国标准时间 2014
+;; XFR size: 171 records (messages 171, bytes 13257)
+

@@ -1,0 +1,112 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns2.hitwh.edu.cn axfr hitwh.edu.cn
+; (1 server found)
+;; global options: +cmd
+hitwh.edu.cn.		86400	IN	SOA	dns1.hitwh.edu.cn. root.hitwh.edu.cn. 2960454817 28800 14400 3600000 86400
+hitwh.edu.cn.		86400	IN	A	202.102.144.56
+hitwh.edu.cn.		86400	IN	MX	10 hitmx.hit.edu.cn.
+hitwh.edu.cn.		86400	IN	MX	10 hitsms.hit.edu.cn.
+hitwh.edu.cn.		86400	IN	NS	dns1.hitwh.edu.cn.
+hitwh.edu.cn.		86400	IN	NS	dns2.hitwh.edu.cn.
+*.hitwh.edu.cn.		86400	IN	A	202.102.144.56
+acm.hitwh.edu.cn.	86400	IN	A	202.102.144.36
+auto.hitwh.edu.cn.	86400	IN	A	202.102.144.36
+bb.hitwh.edu.cn.	86400	IN	A	222.194.15.30
+bbstest.hitwh.edu.cn.	86400	IN	A	222.194.15.46
+biox.hitwh.edu.cn.	86400	IN	A	202.102.144.55
+box.hitwh.edu.cn.	86400	IN	A	202.102.144.56
+ce.hitwh.edu.cn.	86400	IN	A	202.102.144.51
+century.hitwh.edu.cn.	86400	IN	CNAME	www2.hitwh.edu.cn.
+civil.hitwh.edu.cn.	86400	IN	A	202.102.144.36
+cj.hitwh.edu.cn.	86400	IN	A	202.102.144.56
+cs.hitwh.edu.cn.	86400	IN	A	202.102.144.36
+cslab.hitwh.edu.cn.	86400	IN	A	202.102.144.36
+dgdz.hitwh.edu.cn.	86400	IN	A	202.102.144.36
+dipt.hitwh.edu.cn.	86400	IN	A	202.102.144.36
+dns1.hitwh.edu.cn.	86400	IN	A	222.194.15.6
+dns2.hitwh.edu.cn.	86400	IN	A	222.194.15.9
+dqb.hitwh.edu.cn.	86400	IN	A	202.102.144.36
+eelab.hitwh.edu.cn.	86400	IN	A	222.194.13.250
+email.hitwh.edu.cn.	86400	IN	A	202.102.144.59
+epaper.hitwh.edu.cn.	86400	IN	A	202.102.144.55
+fed.hitwh.edu.cn.	86400	IN	A	202.102.144.36
+fsae.hitwh.edu.cn.	86400	IN	A	222.194.15.114
+ftp.hitwh.edu.cn.	86400	IN	A	172.17.17.17
+fzjj.hitwh.edu.cn.	86400	IN	CNAME	www.hitwh.edu.cn.
+gcc.hitwh.edu.cn.	86400	IN	A	202.102.144.36
+gh.hitwh.edu.cn.	86400	IN	A	202.102.144.36
+ghtt.hitwh.edu.cn.	86400	IN	A	222.194.15.22
+graphite.hitwh.edu.cn.	86400	IN	CNAME	www2.hitwh.edu.cn.
+hq.hitwh.edu.cn.	86400	IN	A	202.102.144.36
+hr.hitwh.edu.cn.	86400	IN	A	202.102.144.36
+ice.hitwh.edu.cn.	86400	IN	A	202.102.144.51
+imc.hitwh.edu.cn.	86400	IN	CNAME	www2.hitwh.edu.cn.
+inet.hitwh.edu.cn.	86400	IN	A	172.31.159.111
+infosec.hitwh.edu.cn.	86400	IN	A	202.102.144.36
+isear.hitwh.edu.cn.	86400	IN	CNAME	www2.hitwh.edu.cn.
+jcc.hitwh.edu.cn.	86400	IN	A	202.102.144.56
+jdh.hitwh.edu.cn.	86400	IN	A	202.102.144.36
+jjsfb.hitwh.edu.cn.	86400	IN	A	202.102.144.36
+job.hitwh.edu.cn.	86400	IN	A	202.102.144.50
+journal.hitwh.edu.cn.	86400	IN	A	221.2.164.62
+jwc.hitwh.edu.cn.	86400	IN	A	202.102.144.36
+kjc.hitwh.edu.cn.	86400	IN	A	202.102.144.60
+kjfzc.hitwh.edu.cn.	86400	IN	CNAME	www2.hitwh.edu.cn.
+korean.hitwh.edu.cn.	86400	IN	A	172.29.131.211
+lc.hitwh.edu.cn.	86400	IN	A	221.2.164.62
+league.hitwh.edu.cn.	86400	IN	A	202.102.144.36
+lib.hitwh.edu.cn.	86400	IN	A	222.194.15.26
+live.hitwh.edu.cn.	86400	IN	MX	10 896793098.mail.outlook.com.
+mail.hitwh.edu.cn.	86400	IN	A	202.102.144.58
+marine.hitwh.edu.cn.	86400	IN	A	202.102.144.36
+mdjxh.hitwh.edu.cn.	86400	IN	CNAME	www2.hitwh.edu.cn.
+mng.hitwh.edu.cn.	86400	IN	CNAME	ce.hitwh.edu.cn.
+mse.hitwh.edu.cn.	86400	IN	A	202.102.144.36
+netcenter.hitwh.edu.cn.	86400	IN	CNAME	www.hitwh.edu.cn.
+network.hitwh.edu.cn.	86400	IN	A	172.31.159.252
+news.hitwh.edu.cn.	86400	IN	A	202.102.144.56
+nis.hitwh.edu.cn.	86400	IN	A	222.194.15.252
+nrce.hitwh.edu.cn.	86400	IN	A	202.102.144.56
+oerc.hitwh.edu.cn.	86400	IN	A	202.102.144.36
+oerc1.hitwh.edu.cn.	86400	IN	A	202.102.144.36
+office.hitwh.edu.cn.	86400	IN	A	202.102.144.56
+ped.hitwh.edu.cn.	86400	IN	A	202.102.144.36
+pop3.hitwh.edu.cn.	86400	IN	A	202.102.144.58
+psy.hitwh.edu.cn.	86400	IN	A	222.194.15.45
+qc.hitwh.edu.cn.	86400	IN	CNAME	ce.hitwh.edu.cn.
+qd.hitwh.edu.cn.	86400	IN	A	202.102.144.56
+qnkx.hitwh.edu.cn.	86400	IN	A	172.29.27.203
+radio.hitwh.edu.cn.	86400	IN	CNAME	www2.hitwh.edu.cn.
+rsc.hitwh.edu.cn.	86400	IN	A	202.102.144.56
+sem.hitwh.edu.cn.	86400	IN	A	202.102.144.36
+siee.hitwh.edu.cn.	86400	IN	A	202.102.144.36
+sll.hitwh.edu.cn.	86400	IN	A	202.102.144.36
+smtp.hitwh.edu.cn.	86400	IN	A	202.102.144.58
+snaoe.hitwh.edu.cn.	86400	IN	A	202.102.144.36
+software.hitwh.edu.cn.	86400	IN	A	202.102.144.15
+ss.hitwh.edu.cn.	86400	IN	A	202.102.144.36
+stunion.hitwh.edu.cn.	86400	IN	A	202.102.144.36
+test.hitwh.edu.cn.	86400	IN	A	202.102.144.56
+today.hitwh.edu.cn.	86400	IN	A	202.102.144.56
+tv.hitwh.edu.cn.	86400	IN	A	202.102.144.55
+vcenter.hitwh.edu.cn.	86400	IN	A	172.26.25.10
+volunteer.hitwh.edu.cn.	86400	IN	CNAME	www2.hitwh.edu.cn.
+wse2013.hitwh.edu.cn.	86400	IN	CNAME	www2.hitwh.edu.cn.
+www.hitwh.edu.cn.	86400	IN	A	202.102.144.56
+www2.hitwh.edu.cn.	86400	IN	A	202.102.144.36
+xfjjx.hitwh.edu.cn.	86400	IN	A	202.102.144.36
+xgc.hitwh.edu.cn.	86400	IN	A	222.194.15.45
+xshome.hitwh.edu.cn.	86400	IN	CNAME	www2.hitwh.edu.cn.
+xxgk.hitwh.edu.cn.	86400	IN	CNAME	www.hitwh.edu.cn.
+yjs.hitwh.edu.cn.	86400	IN	CNAME	www2.hitwh.edu.cn.
+ysj.hitwh.edu.cn.	86400	IN	A	202.102.144.36
+zcc.hitwh.edu.cn.	86400	IN	A	202.102.144.36
+zdh.hitwh.edu.cn.	86400	IN	CNAME	www2.hitwh.edu.cn.
+zsb.hitwh.edu.cn.	86400	IN	A	202.102.144.52
+zw.hitwh.edu.cn.	86400	IN	A	202.102.144.36
+hitwh.edu.cn.		86400	IN	SOA	dns1.hitwh.edu.cn. root.hitwh.edu.cn. 2960454817 28800 14400 3600000 86400
+;; Query time: 72 msec
+;; SERVER: 222.194.15.9#53(222.194.15.9)
+;; WHEN: Mon Apr 21 20:54:41 中国标准时间 2014
+;; XFR size: 103 records (messages 1, bytes 2217)
+

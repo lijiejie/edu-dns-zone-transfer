@@ -1,0 +1,72 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns.htu.edu.cn axfr henannu.edu.cn
+; (1 server found)
+;; global options: +cmd
+henannu.edu.cn.		86400	IN	SOA	dns.htu.edu.cn. cyh.htu.edu.cn. 1053891169 10800 900 604800 86400
+henannu.edu.cn.		86400	IN	NS	dns.htu.edu.cn.
+henannu.edu.cn.		86400	IN	NS	dns2.htu.edu.cn.
+henannu.edu.cn.		86400	IN	MX	10 mail.htu.edu.cn.
+henannu.edu.cn.		86400	IN	A	218.29.46.36
+21st.henannu.edu.cn.	86400	IN	A	210.42.255.171
+cetc.henannu.edu.cn.	86400	IN	A	210.42.255.173
+class.henannu.edu.cn.	86400	IN	A	210.42.241.8
+cnki.henannu.edu.cn.	86400	IN	A	210.42.250.4
+cwcx.henannu.edu.cn.	86400	IN	A	122.206.201.4
+dag.henannu.edu.cn.	86400	IN	A	59.70.88.11
+dianxin.henannu.edu.cn.	86400	IN	A	219.150.222.29
+dns.henannu.edu.cn.	86400	IN	A	210.42.241.1
+dns2.henannu.edu.cn.	86400	IN	A	210.42.241.2
+e-learning.henannu.edu.cn. 86400 IN	A	59.70.88.21
+english.henannu.edu.cn.	86400	IN	A	210.42.241.22
+hr.henannu.edu.cn.	86400	IN	A	59.70.88.3
+ids.henannu.edu.cn.	86400	IN	A	59.70.88.4
+ids1.henannu.edu.cn.	86400	IN	A	59.70.88.5
+is.henannu.edu.cn.	86400	IN	A	59.70.77.3
+job.henannu.edu.cn.	86400	IN	A	210.42.255.114
+jpzy.henannu.edu.cn.	86400	IN	A	210.42.255.117
+jw.henannu.edu.cn.	86400	IN	A	210.42.255.124
+jy.henannu.edu.cn.	86400	IN	A	59.70.88.3
+ky.henannu.edu.cn.	86400	IN	A	59.70.88.10
+kyc.henannu.edu.cn.	86400	IN	A	210.42.241.182
+lab.henannu.edu.cn.	86400	IN	A	210.42.241.8
+leave.henannu.edu.cn.	86400	IN	A	59.70.88.3
+liantong.henannu.edu.cn. 86400	IN	A	218.29.46.38
+lib.henannu.edu.cn.	86400	IN	A	210.42.250.5
+mail.henannu.edu.cn.	86400	IN	A	210.42.241.19
+mcard.henannu.edu.cn.	86400	IN	A	59.70.88.9
+moa.henannu.edu.cn.	86400	IN	A	218.29.46.37
+mobile.henannu.edu.cn.	86400	IN	A	218.29.46.37
+my.henannu.edu.cn.	86400	IN	A	59.70.88.3
+net.henannu.edu.cn.	86400	IN	A	210.42.241.109
+npels.henannu.edu.cn.	86400	IN	A	210.42.255.172
+oa.henannu.edu.cn.	86400	IN	A	210.42.241.28
+proxy.henannu.edu.cn.	86400	IN	A	210.42.241.104
+report.henannu.edu.cn.	86400	IN	A	59.70.88.3
+sbgl.henannu.edu.cn.	86400	IN	A	210.42.241.50
+sg.henannu.edu.cn.	86400	IN	A	210.42.241.49
+site.henannu.edu.cn.	86400	IN	A	210.42.241.15
+spxw.henannu.edu.cn.	86400	IN	A	210.42.255.123
+stu.henannu.edu.cn.	86400	IN	A	210.42.255.114
+sxysys.henannu.edu.cn.	86400	IN	A	59.70.77.3
+sysgl.henannu.edu.cn.	86400	IN	A	210.42.241.89
+techguide.henannu.edu.cn. 86400	IN	A	59.70.92.4
+techmode.henannu.edu.cn. 86400	IN	A	59.70.92.4
+th.henannu.edu.cn.	86400	IN	A	59.70.77.3
+tv.henannu.edu.cn.	86400	IN	A	192.168.199.76
+video.henannu.edu.cn.	86400	IN	A	210.42.241.77
+vpn.henannu.edu.cn.	86400	IN	A	218.29.46.38
+wd.henannu.edu.cn.	86400	IN	A	59.70.77.3
+welcome.henannu.edu.cn.	86400	IN	A	59.70.88.3
+www.henannu.edu.cn.	86400	IN	A	218.29.46.36
+xg.henannu.edu.cn.	86400	IN	A	59.70.88.3
+xyh.henannu.edu.cn.	86400	IN	A	210.42.241.48
+ydxy.henannu.edu.cn.	86400	IN	A	218.29.46.45
+yjs.henannu.edu.cn.	86400	IN	A	59.70.88.14
+yjsc.henannu.edu.cn.	86400	IN	A	210.42.255.115
+zs.henannu.edu.cn.	86400	IN	A	210.42.255.119
+henannu.edu.cn.		86400	IN	SOA	dns.htu.edu.cn. cyh.htu.edu.cn. 1053891169 10800 900 604800 86400
+;; Query time: 452 msec
+;; SERVER: 210.42.241.1#53(210.42.241.1)
+;; WHEN: Mon Apr 21 20:58:11 中国标准时间 2014
+;; XFR size: 63 records (messages 1, bytes 1384)
+

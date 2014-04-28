@@ -1,0 +1,25 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns1.boustead.edu.cn axfr boustead.edu.cn
+; (1 server found)
+;; global options: +cmd
+boustead.edu.cn.	86400	IN	SOA	dns1.boustead.edu.cn. liudongpeng.boustead.edu.cn. 1997022700 28800 14400 3600000 86400
+boustead.edu.cn.	86400	IN	NS	dns1.boustead.edu.cn.
+dns1.boustead.edu.cn.	86400	IN	A	219.243.24.10
+dns2.boustead.edu.cn.	86400	IN	A	219.243.24.11
+ein.boustead.edu.cn.	86400	IN	A	219.243.24.9
+info.boustead.edu.cn.	86400	IN	A	219.243.24.9
+mail.boustead.edu.cn.	86400	IN	A	219.243.24.2
+office.boustead.edu.cn.	86400	IN	A	219.243.24.17
+sbgl.boustead.edu.cn.	86400	IN	A	219.243.25.97
+sbgl.boustead.edu.cn.	86400	IN	MX	10 spam.boustead.edu.cn.boustead.edu.cn.
+spam.boustead.edu.cn.	86400	IN	A	219.243.24.8
+vod.boustead.edu.cn.	86400	IN	A	219.243.24.7
+waiyu.boustead.edu.cn.	86400	IN	A	219.243.24.9
+www.boustead.edu.cn.	86400	IN	A	219.243.24.9
+young.boustead.edu.cn.	86400	IN	A	219.243.24.4
+boustead.edu.cn.	86400	IN	SOA	dns1.boustead.edu.cn. liudongpeng.boustead.edu.cn. 1997022700 28800 14400 3600000 86400
+;; Query time: 388 msec
+;; SERVER: 219.243.24.10#53(219.243.24.10)
+;; WHEN: Mon Apr 21 20:48:10 中国标准时间 2014
+;; XFR size: 16 records (messages 1, bytes 421)
+

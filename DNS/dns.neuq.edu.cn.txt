@@ -1,0 +1,65 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns.neuq.edu.cn axfr neuq.edu.cn
+; (1 server found)
+;; global options: +cmd
+neuq.edu.cn.		3600	IN	SOA	neuq.edu.cn. root.neuq.edu.cn. 201404153 86400 3600 604800 10800
+neuq.edu.cn.		3600	IN	NS	dns.neuq.edu.cn.
+neuq.edu.cn.		3600	IN	MX	10 mail.neuq.edu.cn.
+neuq.edu.cn.		3600	IN	MX	20 mail.mail.neuq.edu.cn.
+neuq.edu.cn.		3600	IN	TXT	"v=spf1 ip4:202.206.16.5 ip4:121.22.24.3 -all"
+bbs.neuq.edu.cn.	3600	IN	CNAME	dqzx.neuq.edu.cn.
+bdh.neuq.edu.cn.	3600	IN	A	121.22.88.77
+cloud.neuq.edu.cn.	3600	IN	A	121.22.88.84
+dns.neuq.edu.cn.	3600	IN	A	202.206.16.2
+dqzx.neuq.edu.cn.	3600	IN	A	121.22.88.89
+dw.neuq.edu.cn.		3600	IN	A	121.22.88.90
+dzxx.neuq.edu.cn.	3600	IN	CNAME	jsjytx.neuq.edu.cn.
+eol.neuq.edu.cn.	3600	IN	A	121.22.88.92
+gh.neuq.edu.cn.		3600	IN	A	121.22.88.83
+gjc.neuq.edu.cn.	3600	IN	A	121.22.88.87
+iievc.neuq.edu.cn.	3600	IN	A	121.22.88.93
+imap.neuq.edu.cn.	3600	IN	CNAME	mail.neuq.edu.cn.
+jjsj.neuq.edu.cn.	3600	IN	CNAME	dw.neuq.edu.cn.
+jmxy.neuq.edu.cn.	3600	IN	A	121.22.88.69
+job.neuq.edu.cn.	3600	IN	CNAME	xsc.neuq.edu.cn.
+jpk.neuq.edu.cn.	3600	IN	CNAME	jwc.neuq.edu.cn.
+jsjytx.neuq.edu.cn.	3600	IN	A	121.22.88.67
+jszx.neuq.edu.cn.	3600	IN	A	121.22.88.75
+jwc.neuq.edu.cn.	3600	IN	A	121.22.88.92
+kzgc.neuq.edu.cn.	3600	IN	A	121.22.88.66
+lib.neuq.edu.cn.	3600	IN	A	121.22.88.74
+libm.neuq.edu.cn.	3600	IN	A	121.22.88.124
+mail.neuq.edu.cn.	3600	IN	A	121.22.24.3
+mail.mail.neuq.edu.cn.	3600	IN	A	121.22.24.3
+ncc.neuq.edu.cn.	3600	IN	A	121.22.88.86
+office.neuq.edu.cn.	3600	IN	A	121.22.88.81
+pop3.neuq.edu.cn.	3600	IN	CNAME	mail.neuq.edu.cn.
+qzlx.neuq.edu.cn.	3600	IN	A	121.22.88.88
+rsc.neuq.edu.cn.	3600	IN	A	121.22.88.82
+sjjx.neuq.edu.cn.	3600	IN	A	121.22.88.91
+sky.neuq.edu.cn.	3600	IN	A	121.22.88.72
+smtp.neuq.edu.cn.	3600	IN	CNAME	mail.neuq.edu.cn.
+sxtj.neuq.edu.cn.	3600	IN	A	121.22.88.68
+tw.neuq.edu.cn.		3600	IN	A	121.22.88.80
+tyb.neuq.edu.cn.	3600	IN	A	121.22.88.76
+vpn.neuq.edu.cn.	3600	IN	A	121.22.24.14
+wsapp.neuq.edu.cn.	3600	IN	CNAME	wsms.neuq.edu.cn.
+wsim.neuq.edu.cn.	3600	IN	CNAME	wsms.neuq.edu.cn.
+wsms.neuq.edu.cn.	3600	IN	A	121.22.88.85
+www.neuq.edu.cn.	3600	IN	CNAME	www1.neuq.edu.cn.
+www1.neuq.edu.cn.	3600	IN	A	121.22.24.4
+xkx.neuq.edu.cn.	3600	IN	CNAME	sxtj.neuq.edu.cn.
+xsc.neuq.edu.cn.	3600	IN	A	121.22.88.79
+yjs.neuq.edu.cn.	3600	IN	A	121.22.88.73
+yywz.neuq.edu.cn.	3600	IN	CNAME	jwc.neuq.edu.cn.
+yyxy.neuq.edu.cn.	3600	IN	A	121.22.88.70
+zdh.neuq.edu.cn.	3600	IN	CNAME	kzgc.neuq.edu.cn.
+zs.neuq.edu.cn.		3600	IN	CNAME	xsc.neuq.edu.cn.
+zsjy.neuq.edu.cn.	3600	IN	CNAME	xsc.neuq.edu.cn.
+zycl.neuq.edu.cn.	3600	IN	A	121.22.88.71
+neuq.edu.cn.		3600	IN	SOA	neuq.edu.cn. root.neuq.edu.cn. 201404153 86400 3600 604800 10800
+;; Query time: 39 msec
+;; SERVER: 202.206.16.2#53(202.206.16.2)
+;; WHEN: Mon Apr 21 20:48:40 中国标准时间 2014
+;; XFR size: 56 records (messages 1, bytes 1207)
+

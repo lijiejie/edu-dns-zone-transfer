@@ -1,0 +1,81 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns.hnctcm.edu.cn axfr hnctcm.edu.cn
+; (1 server found)
+;; global options: +cmd
+hnctcm.edu.cn.		10800	IN	SOA	dns.hnctcm.edu.cn. root.dns.hnctcm.edu.cn. 20140317 900 600 86400 3600
+hnctcm.edu.cn.		10800	IN	NS	dns.hnctcm.edu.cn.
+hnctcm.edu.cn.		10800	IN	NS	dns2.hnctcm.edu.cn.
+hnctcm.edu.cn.		10800	IN	MX	2 mail.hnctcm.edu.cn.
+*.hnctcm.edu.cn.	10800	IN	A	210.42.176.8
+bbs.hnctcm.edu.cn.	10800	IN	A	210.42.176.201
+blog.hnctcm.edu.cn.	10800	IN	A	210.42.176.201
+chaoxin.hnctcm.edu.cn.	10800	IN	A	210.42.176.99
+cnki.hnctcm.edu.cn.	10800	IN	A	210.42.176.99
+cxzy.hnctcm.edu.cn.	10800	IN	A	210.42.176.8
+dangxiao.hnctcm.edu.cn.	10800	IN	A	210.42.176.8
+delc.hnctcm.edu.cn.	10800	IN	A	210.42.176.8
+dns.hnctcm.edu.cn.	10800	IN	A	210.42.176.3
+dns2.hnctcm.edu.cn.	10800	IN	A	210.42.176.1
+dtcm.hnctcm.edu.cn.	10800	IN	A	210.42.176.8
+duxiu.hnctcm.edu.cn.	10800	IN	A	210.42.176.99
+dy-mis.hnctcm.edu.cn.	10800	IN	A	210.42.176.129
+dylc.hnctcm.edu.cn.	10800	IN	A	210.42.176.8
+gjjy.hnctcm.edu.cn.	10800	IN	A	210.42.176.8
+gjxs-admin.hnctcm.edu.cn. 10800	IN	A	210.42.176.81
+gjxs-nf.hnctcm.edu.cn.	10800	IN	A	210.42.176.81
+gjxs-nfshare.hnctcm.edu.cn. 10800 IN	A	210.42.176.81
+gjxs-passport.hnctcm.edu.cn. 10800 IN	A	210.42.176.81
+gjxs-team.hnctcm.edu.cn. 10800	IN	A	210.42.176.81
+gjxs-teamsyn.hnctcm.edu.cn. 10800 IN	A	210.42.176.81
+gjxs-update.hnctcm.edu.cn. 10800 IN	A	210.42.176.81
+gjxs-usersyn.hnctcm.edu.cn. 10800 IN	A	210.42.176.81
+gjxs-web.hnctcm.edu.cn.	10800	IN	A	210.42.176.81
+gonghui.hnctcm.edu.cn.	10800	IN	A	210.42.176.8
+hlxy.hnctcm.edu.cn.	10800	IN	A	210.42.176.8
+jcyxy.hnctcm.edu.cn.	10800	IN	A	210.42.176.8
+jjjc.hnctcm.edu.cn.	10800	IN	A	210.42.176.8
+jwc-mis.hnctcm.edu.cn.	10800	IN	A	222.240.131.46
+kjkfgd.hnctcm.edu.cn.	10800	IN	A	210.42.176.8
+lib.hnctcm.edu.cn.	10800	IN	A	210.42.176.8
+lib.hnctcm.edu.cn.	10800	IN	NS	ns.lib.hnctcm.edu.cn.
+ns.lib.hnctcm.edu.cn.	10800	IN	A	210.42.176.3
+mail.hnctcm.edu.cn.	10800	IN	A	210.42.176.6
+news.hnctcm.edu.cn.	10800	IN	A	210.42.176.8
+nic.hnctcm.edu.cn.	10800	IN	A	210.42.176.8
+nic.hnctcm.edu.cn.	10800	IN	NS	ns.nic.hnctcm.edu.cn.
+ns.nic.hnctcm.edu.cn.	10800	IN	A	210.42.176.3
+old.hnctcm.edu.cn.	10800	IN	A	61.187.56.118
+pop3.hnctcm.edu.cn.	10800	IN	A	210.42.176.6
+rwxx.hnctcm.edu.cn.	10800	IN	A	210.42.176.8
+skb.hnctcm.edu.cn.	10800	IN	A	210.42.176.8
+smtp.hnctcm.edu.cn.	10800	IN	A	210.42.176.6
+tuanwei.hnctcm.edu.cn.	10800	IN	A	210.42.176.8
+tyys.hnctcm.edu.cn.	10800	IN	A	210.42.176.8
+uc.hnctcm.edu.cn.	10800	IN	A	210.42.176.201
+vip.hnctcm.edu.cn.	10800	IN	A	210.42.176.99
+vod.hnctcm.edu.cn.	10800	IN	A	10.10.10.28
+vod.hnctcm.edu.cn.	10800	IN	A	210.42.176.99
+wfdata.hnctcm.edu.cn.	10800	IN	A	210.42.176.99
+wfmed.hnctcm.edu.cn.	10800	IN	A	210.42.176.99
+wiki.hnctcm.edu.cn.	10800	IN	A	210.42.176.8
+www.hnctcm.edu.cn.	10800	IN	A	210.42.176.8
+www1.hnctcm.edu.cn.	10800	IN	A	210.42.176.8
+xxc.hnctcm.edu.cn.	10800	IN	A	210.42.176.8
+xxxy.hnctcm.edu.cn.	10800	IN	A	210.42.176.8
+yaoxy.hnctcm.edu.cn.	10800	IN	A	210.42.176.8
+yixy.hnctcm.edu.cn.	10800	IN	A	210.42.176.8
+yjs-mis.hnctcm.edu.cn.	10800	IN	A	222.240.131.49
+yjsc.hnctcm.edu.cn.	10800	IN	A	210.42.176.8
+yxjcsy.hnctcm.edu.cn.	10800	IN	A	210.42.176.8
+zdxk.hnctcm.edu.cn.	10800	IN	A	210.42.176.8
+zjtn.hnctcm.edu.cn.	10800	IN	A	210.42.176.8
+zxjh.hnctcm.edu.cn.	10800	IN	A	210.42.176.8
+zyxy.hnctcm.edu.cn.	10800	IN	A	210.42.176.8
+zyzd2014.hnctcm.edu.cn.	10800	IN	A	210.42.176.81
+zzrs.hnctcm.edu.cn.	10800	IN	A	210.42.176.8
+hnctcm.edu.cn.		10800	IN	SOA	dns.hnctcm.edu.cn. root.dns.hnctcm.edu.cn. 20140317 900 600 86400 3600
+;; Query time: 51 msec
+;; SERVER: 210.42.176.3#53(210.42.176.3)
+;; WHEN: Mon Apr 21 20:58:10 中国标准时间 2014
+;; XFR size: 72 records (messages 1, bytes 1614)
+

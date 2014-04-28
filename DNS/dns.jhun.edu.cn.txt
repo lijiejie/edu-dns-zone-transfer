@@ -1,0 +1,149 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns.jhun.edu.cn axfr jhun.edu.cn
+; (1 server found)
+;; global options: +cmd
+jhun.edu.cn.		86400	IN	SOA	dns.jhun.edu.cn. root.jhun.edu.cn. 20071221 28800 7200 3600000 86400
+jhun.edu.cn.		86400	IN	NS	dns.jhun.edu.cn.
+jhun.edu.cn.		86400	IN	MX	1 mail.jhun.edu.cn.
+125.jhun.edu.cn.	86400	IN	A	210.42.72.133
+alumni.jhun.edu.cn.	86400	IN	CNAME	xyh.jhun.edu.cn.
+art.jhun.edu.cn.	86400	IN	A	210.42.72.133
+bbs.jhun.edu.cn.	86400	IN	A	210.42.72.155
+business.jhun.edu.cn.	86400	IN	A	210.42.72.133
+cekong.jhun.edu.cn.	86400	IN	A	210.42.72.133
+cgzh.jhun.edu.cn.	86400	IN	A	210.42.72.133
+chemlab.jhun.edu.cn.	86400	IN	A	210.42.72.133
+community.jhun.edu.cn.	86400	IN	A	210.42.72.133
+cw.jhun.edu.cn.		86400	IN	A	210.42.72.136
+cwc.jhun.edu.cn.	86400	IN	A	210.42.72.133
+cwcx.jhun.edu.cn.	86400	IN	A	210.42.72.133
+cxjd.jhun.edu.cn.	86400	IN	A	210.42.72.133
+da.jhun.edu.cn.		86400	IN	A	210.42.74.218
+dag.jhun.edu.cn.	86400	IN	A	210.42.72.133
+db.jhun.edu.cn.		86400	IN	A	210.42.72.133
+djzx.jhun.edu.cn.	86400	IN	A	210.42.72.133
+dns.jhun.edu.cn.	86400	IN	A	210.42.72.140
+dns.jhun.edu.cn.	86400	IN	MX	5 mail.jhun.edu.cn.
+dpstar.jhun.edu.cn.	86400	IN	A	10.10.10.4
+dyjg.jhun.edu.cn.	86400	IN	A	210.42.72.133
+ecard.jhun.edu.cn.	86400	IN	A	10.254.254.1
+elelab.jhun.edu.cn.	86400	IN	A	210.42.72.133
+emae.jhun.edu.cn.	86400	IN	A	210.42.72.133
+englishxx.jhun.edu.cn.	86400	IN	A	210.42.72.133
+flexible.jhun.edu.cn.	86400	IN	A	210.42.72.178
+foreign.jhun.edu.cn.	86400	IN	A	210.42.72.133
+fxy.jhun.edu.cn.	86400	IN	A	210.42.72.133
+fzyjy.jhun.edu.cn.	86400	IN	A	210.42.72.133
+gh.jhun.edu.cn.		86400	IN	A	210.42.72.133
+golf.jhun.edu.cn.	86400	IN	A	210.42.72.133
+gs.jhun.edu.cn.		86400	IN	A	210.42.72.133
+gyyckz.jhun.edu.cn.	86400	IN	A	210.42.72.133
+gzxy.jhun.edu.cn.	86400	IN	A	210.42.72.133
+hhxy.jhun.edu.cn.	86400	IN	A	210.42.72.133
+hkxq.jhun.edu.cn.	86400	IN	A	210.42.72.133
+hlyyxjsxy.jhun.edu.cn.	86400	IN	A	210.42.72.133
+hqcy.jhun.edu.cn.	86400	IN	A	210.42.72.133
+hqjt.jhun.edu.cn.	86400	IN	A	210.42.72.133
+ids.jhun.edu.cn.	86400	IN	A	10.10.10.12
+ids1.jhun.edu.cn.	86400	IN	A	10.10.10.12
+ids2.jhun.edu.cn.	86400	IN	A	10.10.10.13
+ifsb.jhun.edu.cn.	86400	IN	A	210.42.72.133
+iir.jhun.edu.cn.	86400	IN	A	210.42.72.133
+imp.jhun.edu.cn.	86400	IN	A	210.42.74.45
+jdgjs.jhun.edu.cn.	86400	IN	A	210.42.72.133
+jhdxrsc.jhun.edu.cn.	86400	IN	A	210.42.72.133
+jjy.jhun.edu.cn.	86400	IN	A	210.42.72.133
+jpkc.jhun.edu.cn.	86400	IN	A	210.42.72.185
+jwzx.jhun.edu.cn.	86400	IN	A	210.42.72.73
+jxpg.jhun.edu.cn.	86400	IN	A	210.42.72.133
+jyxy.jhun.edu.cn.	86400	IN	A	210.42.72.133
+kjswds.jhun.edu.cn.	86400	IN	A	210.42.72.133
+kygl.jhun.edu.cn.	86400	IN	A	210.42.72.187
+lab-business.jhun.edu.cn. 86400	IN	A	210.42.72.133
+language.jhun.edu.cn.	86400	IN	A	210.42.72.133
+learning.jhun.edu.cn.	86400	IN	A	210.42.72.141
+leifeng.jhun.edu.cn.	86400	IN	A	210.42.74.18
+apabi.lib.jhun.edu.cn.	86400	IN	CNAME	wf.lib.jhun.edu.cn.
+cnki.lib.jhun.edu.cn.	86400	IN	A	218.197.37.81
+delivery.lib.jhun.edu.cn. 86400	IN	A	218.197.37.87
+ftp.lib.jhun.edu.cn.	86400	IN	CNAME	trs.lib.jhun.edu.cn.
+nas.lib.jhun.edu.cn.	86400	IN	A	218.197.37.84
+nlc.lib.jhun.edu.cn.	86400	IN	CNAME	wf.lib.jhun.edu.cn.
+off.lib.jhun.edu.cn.	86400	IN	A	218.197.37.76
+opac.lib.jhun.edu.cn.	86400	IN	A	218.197.37.64
+shusheng.lib.jhun.edu.cn. 86400	IN	CNAME	vip.lib.jhun.edu.cn.
+sms.lib.jhun.edu.cn.	86400	IN	A	218.197.37.83
+ss.lib.jhun.edu.cn.	86400	IN	A	218.197.37.82
+sy.lib.jhun.edu.cn.	86400	IN	A	218.197.37.79
+trs.lib.jhun.edu.cn.	86400	IN	A	218.197.37.75
+vip.lib.jhun.edu.cn.	86400	IN	A	218.197.37.70
+vrd.lib.jhun.edu.cn.	86400	IN	A	218.197.37.86
+wf.lib.jhun.edu.cn.	86400	IN	A	218.197.37.69
+www.lib.jhun.edu.cn.	86400	IN	A	218.197.37.66
+live.jhun.edu.cn.	86400	IN	MX	10 d44c3dd19215468526c5f82c56ad95.mail.outlook.com.
+localhost.jhun.edu.cn.	86400	IN	A	127.0.0.1
+localhost.jhun.edu.cn.	86400	IN	MX	20 mail.jhun.edu.cn.
+ltb.jhun.edu.cn.	86400	IN	A	210.42.72.133
+m.jhun.edu.cn.		86400	IN	A	210.42.74.45
+macc.jhun.edu.cn.	86400	IN	A	210.42.72.133
+mail.jhun.edu.cn.	86400	IN	A	210.42.72.158
+mail.jhun.edu.cn.	86400	IN	MX	1 mail.jhun.edu.cn.
+map.jhun.edu.cn.	86400	IN	A	210.42.74.46
+mksxy.jhun.edu.cn.	86400	IN	A	210.42.72.133
+my.jhun.edu.cn.		86400	IN	A	210.42.74.45
+myself.jhun.edu.cn.	86400	IN	A	210.42.72.137
+news.jhun.edu.cn.	86400	IN	A	210.42.72.133
+nic.jhun.edu.cn.	86400	IN	A	210.42.72.133
+oa.jhun.edu.cn.		86400	IN	A	210.42.72.182
+optoelec.jhun.edu.cn.	86400	IN	A	210.42.72.133
+phylab.jhun.edu.cn.	86400	IN	A	210.42.72.133
+qks.jhun.edu.cn.	86400	IN	A	210.42.72.166
+qyyg.jhun.edu.cn.	86400	IN	A	210.42.72.133
+researchd.jhun.edu.cn.	86400	IN	A	210.42.72.133
+rvm.jhun.edu.cn.	86400	IN	A	210.42.72.143
+rwxy.jhun.edu.cn.	86400	IN	A	210.42.72.133
+sbc.jhun.edu.cn.	86400	IN	A	210.42.72.126
+sbczcgl.jhun.edu.cn.	86400	IN	A	210.42.72.184
+sh.jhun.edu.cn.		86400	IN	A	210.42.72.133
+shetuan.jhun.edu.cn.	86400	IN	A	210.42.72.133
+sie.jhun.edu.cn.	86400	IN	A	210.42.72.133
+sjxy.jhun.edu.cn.	86400	IN	A	210.42.72.133
+smkx.jhun.edu.cn.	86400	IN	A	210.42.72.133
+sun.jhun.edu.cn.	86400	IN	A	210.42.72.133
+tiyuxueyuan.jhun.edu.cn. 86400	IN	A	210.42.72.133
+tuanwei.jhun.edu.cn.	86400	IN	A	210.42.72.133
+tzb.jhun.edu.cn.	86400	IN	A	210.42.72.133
+vpn.jhun.edu.cn.	86400	IN	A	210.42.72.77
+web2.jhun.edu.cn.	86400	IN	A	210.42.72.133
+whsc.jhun.edu.cn.	86400	IN	A	210.42.72.133
+whzhz.jhun.edu.cn.	86400	IN	A	210.42.72.133
+whzj.jhun.edu.cn.	86400	IN	A	210.42.72.131
+wsc.jhun.edu.cn.	86400	IN	A	210.42.72.133
+wsyh.jhun.edu.cn.	86400	IN	A	210.42.75.105
+wuxin.jhun.edu.cn.	86400	IN	A	210.42.72.133
+www.jhun.edu.cn.	86400	IN	A	210.42.72.130
+xcb.jhun.edu.cn.	86400	IN	A	210.42.72.133
+xinling.jhun.edu.cn.	86400	IN	A	210.42.72.133
+xsc.jhun.edu.cn.	86400	IN	A	210.42.72.133
+xsh.jhun.edu.cn.	86400	IN	A	210.42.72.133
+xuebao.jhun.edu.cn.	86400	IN	A	210.42.72.133
+xy.jhun.edu.cn.		86400	IN	A	210.42.72.133
+xyh.jhun.edu.cn.	86400	IN	A	210.42.72.183
+xywb.jhun.edu.cn.	86400	IN	A	210.42.79.25
+ysxy.jhun.edu.cn.	86400	IN	A	210.42.72.133
+ywzx.jhun.edu.cn.	86400	IN	A	210.42.72.133
+yxsyzx.jhun.edu.cn.	86400	IN	A	210.42.72.133
+yxysky.jhun.edu.cn.	86400	IN	A	210.42.72.133
+yy.jhun.edu.cn.		86400	IN	A	210.42.72.133
+yywz.jhun.edu.cn.	86400	IN	A	210.42.72.133
+zfxy.jhun.edu.cn.	86400	IN	A	210.42.72.133
+zjc.jhun.edu.cn.	86400	IN	A	210.42.72.171
+zjc1.jhun.edu.cn.	86400	IN	A	210.42.74.171
+zjc2.jhun.edu.cn.	86400	IN	A	210.42.74.171
+zzb.jhun.edu.cn.	86400	IN	A	210.42.72.133
+jhun.edu.cn.		86400	IN	SOA	dns.jhun.edu.cn. root.jhun.edu.cn. 20071221 28800 7200 3600000 86400
+;; Query time: 124 msec
+;; SERVER: 210.42.72.140#53(210.42.72.140)
+;; WHEN: Mon Apr 21 20:57:20 中国标准时间 2014
+;; XFR size: 140 records (messages 1, bytes 3072)
+

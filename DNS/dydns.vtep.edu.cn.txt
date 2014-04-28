@@ -1,0 +1,17 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dydns.vtep.edu.cn axfr vtep.edu.cn
+; (1 server found)
+;; global options: +cmd
+vtep.edu.cn.		7200	IN	SOA	dydns.vtep.edu.cn. root.vtep.edu.cn. 2012122102 150 200 4000 7200
+vtep.edu.cn.		7200	IN	NS	dydns.vtep.edu.cn.
+dydns.vtep.edu.cn.	7200	IN	A	222.199.16.1
+jpkc.vtep.edu.cn.	7200	IN	A	222.199.16.5
+jxw.vtep.edu.cn.	7200	IN	A	222.199.16.40
+www.vtep.edu.cn.	7200	IN	A	222.199.16.34
+xljk.vtep.edu.cn.	7200	IN	A	222.199.16.5
+vtep.edu.cn.		7200	IN	SOA	dydns.vtep.edu.cn. root.vtep.edu.cn. 2012122102 150 200 4000 7200
+;; Query time: 22 msec
+;; SERVER: 222.199.16.1#53(222.199.16.1)
+;; WHEN: Mon Apr 21 20:49:13 中国标准时间 2014
+;; XFR size: 8 records (messages 1, bytes 224)
+

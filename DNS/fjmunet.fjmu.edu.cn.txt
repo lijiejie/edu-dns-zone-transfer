@@ -1,0 +1,76 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @fjmunet.fjmu.edu.cn axfr fjmu.edu.cn
+; (1 server found)
+;; global options: +cmd
+fjmu.edu.cn.		86400	IN	SOA	fjmunet.fjmu.edu.cn. root.fjmu.edu.cn. 19990828 10800 3600 604800 86400
+fjmu.edu.cn.		86400	IN	NS	fjmunet.fjmu.edu.cn.
+fjmu.edu.cn.		86400	IN	MX	10 mail.fjmu.edu.cn.
+fjmu.edu.cn.		86400	IN	A	210.34.96.14
+bbs.fjmu.edu.cn.	86400	IN	A	210.34.96.54
+bms.fjmu.edu.cn.	86400	IN	A	210.34.96.183
+bys.fjmu.edu.cn.	86400	IN	A	210.34.96.146
+cjxy.fjmu.edu.cn.	86400	IN	A	210.34.96.62
+cwc.fjmu.edu.cn.	86400	IN	A	210.34.96.183
+distar.fjmu.edu.cn.	86400	IN	A	210.34.96.146
+dpstar.fjmu.edu.cn.	86400	IN	A	210.34.96.146
+dxzc.fjmu.edu.cn.	86400	IN	A	210.34.96.183
+en.fjmu.edu.cn.		86400	IN	A	210.34.96.183
+fjmunet.fjmu.edu.cn.	86400	IN	A	210.34.96.2
+fjmunet1.fjmu.edu.cn.	86400	IN	A	210.34.96.5
+ghb.fjmu.edu.cn.	86400	IN	A	210.34.96.183
+hlxy.fjmu.edu.cn.	86400	IN	A	210.34.96.25
+hr.fjmu.edu.cn.		86400	IN	A	210.34.96.146
+i.fjmu.edu.cn.		86400	IN	A	210.34.96.146
+idstar.fjmu.edu.cn.	86400	IN	A	210.34.96.141
+idstar1.fjmu.edu.cn.	86400	IN	A	210.34.96.140
+idstar2.fjmu.edu.cn.	86400	IN	A	210.34.96.141
+imp.fjmu.edu.cn.	86400	IN	A	210.34.96.146
+jwc.fjmu.edu.cn.	86400	IN	A	210.34.96.18
+jwgl.fjmu.edu.cn.	86400	IN	A	210.34.96.12
+jxcg.fjmu.edu.cn.	86400	IN	A	210.34.96.183
+kaoyi.fjmu.edu.cn.	86400	IN	A	210.34.96.41
+kczx.fjmu.edu.cn.	86400	IN	A	210.34.96.42
+kxfzg.fjmu.edu.cn.	86400	IN	A	210.34.96.111
+ky.fjmu.edu.cn.		86400	IN	A	210.34.96.144
+lib.fjmu.edu.cn.	86400	IN	A	210.34.96.99
+lib1.fjmu.edu.cn.	86400	IN	A	210.34.96.88
+localhost.fjmu.edu.cn.	86400	IN	A	127.0.0.1
+mail.fjmu.edu.cn.	86400	IN	TXT	"v=spf1 ipv4:210.34.96.14 -all"
+mail.fjmu.edu.cn.	86400	IN	A	210.34.96.14
+mail.fjmu.edu.cn.	86400	IN	MX	10 mail.fjmu.edu.cn.
+ns.fjmu.edu.cn.		86400	IN	CNAME	fjmunet.fjmu.edu.cn.
+oa.fjmu.edu.cn.		86400	IN	A	210.34.96.142
+oastar.fjmu.edu.cn.	86400	IN	A	210.34.96.142
+oec.fjmu.edu.cn.	86400	IN	A	210.34.96.111
+rczp.fjmu.edu.cn.	86400	IN	A	210.34.96.129
+report.fjmu.edu.cn.	86400	IN	A	210.34.96.146
+sbc.fjmu.edu.cn.	86400	IN	A	210.34.96.36
+sfl.fjmu.edu.cn.	86400	IN	A	210.34.96.183
+sound.fjmu.edu.cn.	86400	IN	A	210.34.96.54
+sysglk.fjmu.edu.cn.	86400	IN	A	210.34.103.239
+tutor.fjmu.edu.cn.	86400	IN	A	210.34.96.147
+tw.fjmu.edu.cn.		86400	IN	A	210.34.96.183
+vpn.fjmu.edu.cn.	86400	IN	A	59.56.182.145
+was.fjmu.edu.cn.	86400	IN	A	210.34.96.145
+weblib.fjmu.edu.cn.	86400	IN	A	210.34.96.80
+www.fjmu.edu.cn.	86400	IN	A	210.34.96.3
+www2.fjmu.edu.cn.	86400	IN	A	210.34.96.196
+wwwfb.fjmu.edu.cn.	86400	IN	A	210.34.96.182
+wwwsvr.fjmu.edu.cn.	86400	IN	A	210.34.96.13
+xg.fjmu.edu.cn.		86400	IN	A	210.34.96.146
+xq.fjmu.edu.cn.		86400	IN	A	210.34.96.17
+xq75.fjmu.edu.cn.	86400	IN	A	210.34.96.183
+xszj.fjmu.edu.cn.	86400	IN	A	210.34.96.183
+xxgk.fjmu.edu.cn.	86400	IN	A	210.34.96.183
+xyw.fjmu.edu.cn.	86400	IN	A	210.34.96.183
+yjc.fjmu.edu.cn.	86400	IN	A	210.34.96.35
+yjs.fjmu.edu.cn.	86400	IN	A	210.34.96.146
+yjsrep.fjmu.edu.cn.	86400	IN	A	210.34.96.146
+yjszs.fjmu.edu.cn.	86400	IN	A	210.34.96.129
+zwx.fjmu.edu.cn.	86400	IN	A	210.34.96.183
+fjmu.edu.cn.		86400	IN	SOA	fjmunet.fjmu.edu.cn. root.fjmu.edu.cn. 19990828 10800 3600 604800 86400
+;; Query time: 4102 msec
+;; SERVER: 210.34.96.2#53(210.34.96.2)
+;; WHEN: Mon Apr 21 20:56:53 中国标准时间 2014
+;; XFR size: 67 records (messages 1, bytes 1473)
+

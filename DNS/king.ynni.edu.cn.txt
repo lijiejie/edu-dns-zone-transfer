@@ -1,0 +1,59 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @king.ynni.edu.cn axfr ynni.edu.cn
+; (1 server found)
+;; global options: +cmd
+ynni.edu.cn.		18000	IN	SOA	king.ynni.edu.cn. wlzx.ynni.edu.cn. 2009030104 3600 1800 3456000 36000
+ynni.edu.cn.		18000	IN	NS	king.ynni.edu.cn.
+ynni.edu.cn.		18000	IN	MX	10 mail.ynni.edu.cn.
+ynni.edu.cn.		18000	IN	A	202.203.144.33
+60.ynni.edu.cn.		600	IN	A	202.203.158.189
+cjy.ynni.edu.cn.	600	IN	A	202.203.157.216
+cwcx.ynni.edu.cn.	600	IN	A	202.203.146.46
+ddh.ynni.edu.cn.	600	IN	A	202.203.158.166
+dxxy.ynni.edu.cn.	600	IN	A	202.203.158.114
+edu.ynni.edu.cn.	600	IN	A	202.203.158.106
+fszx.ynni.edu.cn.	600	IN	A	202.203.158.163
+grs.ynni.edu.cn.	600	IN	A	202.203.144.1
+gzyjs.ynni.edu.cn.	600	IN	A	202.203.158.164
+jpkc.ynni.edu.cn.	600	IN	A	202.203.144.30
+jyb.ynni.edu.cn.	600	IN	A	202.203.144.12
+king.ynni.edu.cn.	600	IN	A	202.203.144.33
+lhxq.ynni.edu.cn.	600	IN	A	202.203.144.1
+lhxq.ynni.edu.cn.	600	IN	A	202.203.158.166
+macs.ynni.edu.cn.	600	IN	A	202.203.158.122
+mail.ynni.edu.cn.	600	IN	A	202.203.144.199
+mba.ynni.edu.cn.	600	IN	A	202.203.158.163
+min-g30.ynni.edu.cn.	600	IN	A	202.203.145.130
+myrouter.ynni.edu.cn.	600	IN	A	202.203.144.62
+mzwhyjy.ynni.edu.cn.	600	IN	A	202.203.144.1
+nic-nc.ynni.edu.cn.	600	IN	A	202.203.147.35
+oa.ynni.edu.cn.		600	IN	A	202.203.158.194
+reg.ynni.edu.cn.	600	IN	A	202.203.158.37
+sakai.ynni.edu.cn.	600	IN	A	202.203.158.188
+szzx.ynni.edu.cn.	600	IN	A	202.203.144.1
+szzx.ynni.edu.cn.	600	IN	A	202.203.158.166
+tiyu.ynni.edu.cn.	600	IN	A	202.203.144.1
+vpn.ynni.edu.cn.	18000	IN	NS	ns1.vpn.ynni.edu.cn.
+vpn.ynni.edu.cn.	18000	IN	NS	ns2.vpn.ynni.edu.cn.
+ns1.vpn.ynni.edu.cn.	18000	IN	A	116.53.253.131
+ns2.vpn.ynni.edu.cn.	18000	IN	A	119.62.24.100
+whxy.ynni.edu.cn.	600	IN	A	221.213.162.118
+wlzx.ynni.edu.cn.	600	IN	A	202.203.158.165
+www.ynni.edu.cn.	600	IN	A	202.203.144.28
+www2.ynni.edu.cn.	600	IN	A	222.221.252.166
+xb.ynni.edu.cn.		600	IN	A	202.203.149.146
+xsc.ynni.edu.cn.	600	IN	A	202.203.144.1
+xww.ynni.edu.cn.	600	IN	A	202.203.144.1
+xww.ynni.edu.cn.	600	IN	A	202.203.158.166
+xyc.ynni.edu.cn.	600	IN	A	202.203.144.12
+ynat.ynni.edu.cn.	600	IN	A	202.203.158.165
+yuhua.ynni.edu.cn.	600	IN	A	202.203.158.190
+zjxpj.ynni.edu.cn.	600	IN	A	202.203.158.164
+zsb.ynni.edu.cn.	600	IN	A	202.203.144.12
+zsjyc.ynni.edu.cn.	600	IN	A	202.203.144.12
+ynni.edu.cn.		18000	IN	SOA	king.ynni.edu.cn. wlzx.ynni.edu.cn. 2009030104 3600 1800 3456000 36000
+;; Query time: 245 msec
+;; SERVER: 202.203.144.33#53(202.203.144.33)
+;; WHEN: Mon Apr 21 21:03:05 中国标准时间 2014
+;; XFR size: 50 records (messages 1, bytes 1064)
+

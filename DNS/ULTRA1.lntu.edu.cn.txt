@@ -1,0 +1,47 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @ULTRA1.lntu.edu.cn axfr lntu.edu.cn
+; (1 server found)
+;; global options: +cmd
+lntu.edu.cn.		86400	IN	SOA	lntu.edu.cn. root.lntu.edu.cn. 2011021701 10800 3600 604800 86400
+lntu.edu.cn.		86400	IN	NS	ULTRA1.lntu.edu.cn.
+lntu.edu.cn.		86400	IN	MX	10 mail.lntu.edu.cn.
+lntu.edu.cn.		86400	IN	A	202.199.224.1
+aqxy.lntu.edu.cn.	86400	IN	A	202.199.224.147
+cisp-bmei.lntu.edu.cn.	86400	IN	A	111.117.160.16
+cisp-bmei2014.lntu.edu.cn. 86400 IN	A	111.117.160.17
+crwljy.lntu.edu.cn.	86400	IN	A	60.18.146.61
+cxsj.lntu.edu.cn.	86400	IN	A	202.199.224.23
+gdcwc.lntu.edu.cn.	86400	IN	A	202.199.225.249
+gsglxy.lntu.edu.cn.	86400	IN	A	202.199.224.108
+hzfz.lntu.edu.cn.	86400	IN	A	202.199.224.22
+icnc-fskd.lntu.edu.cn.	86400	IN	A	111.117.160.13
+icnc-fskd-2013.lntu.edu.cn. 86400 IN	A	111.117.160.12
+jgxy.lntu.edu.cn.	86400	IN	A	202.199.224.7
+jwch.lntu.edu.cn.	86400	IN	A	202.199.224.109
+kjy.lntu.edu.cn.	86400	IN	A	202.199.224.85
+lib.lntu.edu.cn.	86400	IN	A	202.199.233.12
+lxy.lntu.edu.cn.	86400	IN	A	202.199.224.201
+mail.lntu.edu.cn.	86400	IN	A	202.199.224.38
+mes.lntu.edu.cn.	86400	IN	A	202.199.224.150
+news.lntu.edu.cn.	86400	IN	A	202.199.224.200
+OA.lntu.edu.cn.		86400	IN	A	202.199.224.18
+software.lntu.edu.cn.	86400	IN	A	202.199.224.30
+sog.lntu.edu.cn.	86400	IN	A	202.199.224.3
+stbc.lntu.edu.cn.	86400	IN	A	202.199.224.103
+tyb.lntu.edu.cn.	86400	IN	A	202.199.224.122
+ULTRA1.lntu.edu.cn.	86400	IN	A	202.199.224.1
+wgzx.lntu.edu.cn.	86400	IN	A	202.199.224.121
+www.lntu.edu.cn.	86400	IN	A	202.199.224.2
+wyx.lntu.edu.cn.	86400	IN	A	202.199.224.106
+xkc.lntu.edu.cn.	86400	IN	A	117.79.94.16
+xsc.lntu.edu.cn.	86400	IN	A	202.199.224.123
+xsz.lntu.edu.cn.	86400	IN	A	202.199.224.101
+xuebao.lntu.edu.cn.	86400	IN	A	202.199.224.158
+xxgk.lntu.edu.cn.	86400	IN	A	202.199.224.162
+zwc.lntu.edu.cn.	86400	IN	A	202.199.224.105
+lntu.edu.cn.		86400	IN	SOA	lntu.edu.cn. root.lntu.edu.cn. 2011021701 10800 3600 604800 86400
+;; Query time: 78 msec
+;; SERVER: 202.199.224.1#53(202.199.224.1)
+;; WHEN: Mon Apr 21 20:49:42 中国标准时间 2014
+;; XFR size: 38 records (messages 1, bytes 873)
+

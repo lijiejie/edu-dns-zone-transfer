@@ -1,0 +1,52 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns1.zjslc.edu.cn axfr zjslc.edu.cn
+; (1 server found)
+;; global options: +cmd
+zjslc.edu.cn.		600	IN	SOA	dns1.zjslc.edu.cn. root.dns1.zjslc.edu.cn. 3 10800 1800 360000 86400
+zjslc.edu.cn.		600	IN	NS	dns1.zjslc.edu.cn.
+zjslc.edu.cn.		600	IN	NS	dns2.zjslc.edu.cn.
+zjslc.edu.cn.		600	IN	MX	5 virus.zjslc.edu.cn.
+zjslc.edu.cn.		600	IN	MX	10 mail.zjslc.edu.cn.
+zjslc.edu.cn.		600	IN	MX	15 mail1.zjslc.edu.cn.
+#vhost.zjslc.edu.cn.	600	IN	A	61.153.0.140
+60th.zjslc.edu.cn.	600	IN	CNAME	www.zjslc.edu.cn.
+bwc.zjslc.edu.cn.	600	IN	CNAME	www_win2000.zjslc.edu.cn.
+cjb.zjslc.edu.cn.	600	IN	CNAME	www_win2000.zjslc.edu.cn.
+dns1.zjslc.edu.cn.	600	IN	A	210.33.72.1
+dns2.zjslc.edu.cn.	600	IN	A	210.33.72.2
+dqx.zjslc.edu.cn.	600	IN	CNAME	www_win2000.zjslc.edu.cn.
+dxb.zjslc.edu.cn.	600	IN	CNAME	www_win2000.zjslc.edu.cn.
+edu.zjslc.edu.cn.	600	IN	A	61.153.0.131
+gh.zjslc.edu.cn.	600	IN	CNAME	www_win2000.zjslc.edu.cn.
+hq.zjslc.edu.cn.	600	IN	CNAME	www_win2000.zjslc.edu.cn.
+jcb.zjslc.edu.cn.	600	IN	CNAME	www_win2000.zjslc.edu.cn.
+jdx.zjslc.edu.cn.	600	IN	CNAME	virus.zjslc.edu.cn.
+jgx.zjslc.edu.cn.	600	IN	CNAME	www_win2000.zjslc.edu.cn.
+jjc.zjslc.edu.cn.	600	IN	CNAME	www_win2000.zjslc.edu.cn.
+jpkc.zjslc.edu.cn.	600	IN	A	61.153.0.134
+jpplc.zjslc.edu.cn.	600	IN	CNAME	www_win2000.zjslc.edu.cn.
+jsj.zjslc.edu.cn.	600	IN	CNAME	www_win2000.zjslc.edu.cn.
+jwc.zjslc.edu.cn.	600	IN	CNAME	www_win2000.zjslc.edu.cn.
+mail.zjslc.edu.cn.	600	IN	A	61.153.0.137
+network.zjslc.edu.cn.	600	IN	CNAME	virus.zjslc.edu.cn.
+psy.zjslc.edu.cn.	600	IN	CNAME	www_win2000.zjslc.edu.cn.
+slx.zjslc.edu.cn.	600	IN	CNAME	www_win2000.zjslc.edu.cn.
+ssc.zjslc.edu.cn.	600	IN	CNAME	www_win2000.zjslc.edu.cn.
+tjb.zjslc.edu.cn.	600	IN	CNAME	www_win2000.zjslc.edu.cn.
+tmx.zjslc.edu.cn.	600	IN	CNAME	www_win2000.zjslc.edu.cn.
+tsgcx.zjslc.edu.cn.	600	IN	CNAME	www_win2000.zjslc.edu.cn.
+tsgweb.zjslc.edu.cn.	600	IN	CNAME	www_win2000.zjslc.edu.cn.
+virus.zjslc.edu.cn.	600	IN	A	61.153.0.133
+vpn.zjslc.edu.cn.	600	IN	A	61.153.0.130
+www.zjslc.edu.cn.	600	IN	A	61.153.0.139
+www_win2000.zjslc.edu.cn. 600	IN	A	61.153.0.135
+xinli.zjslc.edu.cn.	600	IN	CNAME	jpkc.zjslc.edu.cn.
+xsc.zjslc.edu.cn.	600	IN	CNAME	www_win2000.zjslc.edu.cn.
+zjc.zjslc.edu.cn.	600	IN	CNAME	www_win2000.zjslc.edu.cn.
+zxb.zjslc.edu.cn.	600	IN	CNAME	www_win2000.zjslc.edu.cn.
+zjslc.edu.cn.		600	IN	SOA	dns1.zjslc.edu.cn. root.dns1.zjslc.edu.cn. 3 10800 1800 360000 86400
+;; Query time: 94 msec
+;; SERVER: 210.33.72.1#53(210.33.72.1)
+;; WHEN: Mon Apr 21 20:56:06 中国标准时间 2014
+;; XFR size: 43 records (messages 1, bytes 886)
+

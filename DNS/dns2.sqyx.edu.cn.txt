@@ -1,0 +1,22 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns2.sqyx.edu.cn axfr sqyx.edu.cn
+; (1 server found)
+;; global options: +cmd
+sqyx.edu.cn.		86400	IN	SOA	dns.sqyx.edu.cn. master.sqyx.edu.cn. 2008121310 28800 14400 3600000 86400
+sqyx.edu.cn.		86400	IN	NS	dns.sqyx.edu.cn.
+sqyx.edu.cn.		86400	IN	NS	dns2.sqyx.edu.cn.
+bbm.sqyx.edu.cn.	86400	IN	CNAME	bbm001.cnm.cn.
+bbq.sqyx.edu.cn.	86400	IN	CNAME	bbq001.cnm.cn.
+DNS.sqyx.edu.cn.	86400	IN	A	222.21.88.8
+DNS2.sqyx.edu.cn.	86400	IN	A	222.21.88.18
+ftp.sqyx.edu.cn.	86400	IN	A	61.158.172.244
+jpkc.sqyx.edu.cn.	86400	IN	A	61.158.172.243
+jwgl.sqyx.edu.cn.	86400	IN	A	61.158.172.241
+mail.sqyx.edu.cn.	86400	IN	A	61.158.172.240
+www.sqyx.edu.cn.	86400	IN	A	61.158.172.242
+sqyx.edu.cn.		86400	IN	SOA	dns.sqyx.edu.cn. master.sqyx.edu.cn. 2008121310 28800 14400 3600000 86400
+;; Query time: 59 msec
+;; SERVER: 222.21.88.18#53(222.21.88.18)
+;; WHEN: Mon Apr 21 20:59:08 中国标准时间 2014
+;; XFR size: 13 records (messages 1, bytes 343)
+

@@ -1,0 +1,109 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns.tynu.edu.cn axfr tynu.edu.cn
+; (1 server found)
+;; global options: +cmd
+tynu.edu.cn.		3600	IN	SOA	dns.tynu.edu.cn. root.dns.tynu.edu.cn. 5 10800 3600 604800 3600
+tynu.edu.cn.		3600	IN	NS	dns.tynu.edu.cn.
+tynu.edu.cn.		3600	IN	MX	0 mail.tynu.edu.cn.
+bwc.tynu.edu.cn.	3600	IN	A	222.31.2.241
+cjc.tynu.edu.cn.	3600	IN	A	222.31.2.241
+clxy.tynu.edu.cn.	3600	IN	A	222.31.2.241
+com.tynu.edu.cn.	3600	IN	A	222.31.3.241
+dag.tynu.edu.cn.	3600	IN	A	222.31.2.241
+dangban.tynu.edu.cn.	3600	IN	A	222.31.2.241
+djzx.tynu.edu.cn.	3600	IN	A	222.31.2.241
+dlx.tynu.edu.cn.	3600	IN	A	222.31.3.239
+dns.tynu.edu.cn.	3600	IN	A	222.31.0.1
+dns2.tynu.edu.cn.	3600	IN	A	222.31.0.2
+dvsvr.tynu.edu.cn.	3600	IN	A	10.1.2.13
+fsw.tynu.edu.cn.	3600	IN	A	222.31.2.241
+ftp.tynu.edu.cn.	3600	IN	A	10.1.2.42
+gh.tynu.edu.cn.		3600	IN	A	222.31.2.241
+glx.tynu.edu.cn.	3600	IN	A	222.31.2.241
+gongwai.tynu.edu.cn.	3600	IN	A	222.31.2.241
+gxb.tynu.edu.cn.	3600	IN	A	222.31.2.241
+gzcx.tynu.edu.cn.	3600	IN	A	222.31.3.102
+hqc.tynu.edu.cn.	3600	IN	A	222.31.2.241
+hqjt.tynu.edu.cn.	3600	IN	A	222.31.2.241
+hxsyzx.tynu.edu.cn.	3600	IN	A	222.31.2.241
+hxx.tynu.edu.cn.	3600	IN	A	222.31.2.241
+info.tynu.edu.cn.	3600	IN	A	222.31.2.241
+its.tynu.edu.cn.	3600	IN	A	222.31.2.241
+jcb.tynu.edu.cn.	3600	IN	A	222.31.2.241
+jcc.tynu.edu.cn.	3600	IN	A	222.31.2.241
+jifei.tynu.edu.cn.	3600	IN	A	222.31.1.3
+jjb.tynu.edu.cn.	3600	IN	A	222.31.2.241
+jjx.tynu.edu.cn.	3600	IN	A	222.31.2.241
+jsjx.tynu.edu.cn.	3600	IN	A	222.31.2.241
+jszx.tynu.edu.cn.	3600	IN	A	222.31.2.241
+jwc.tynu.edu.cn.	3600	IN	A	222.31.5.251
+jyx.tynu.edu.cn.	3600	IN	A	222.31.2.241
+kxfzg.tynu.edu.cn.	3600	IN	A	222.31.3.150
+kyc.tynu.edu.cn.	3600	IN	A	222.31.2.241
+lib.tynu.edu.cn.	3600	IN	A	222.31.4.200
+lsx.tynu.edu.cn.	3600	IN	A	222.31.2.241
+ltc.tynu.edu.cn.	3600	IN	A	222.31.2.241
+lzw.tynu.edu.cn.	3600	IN	A	222.31.2.241
+mail.tynu.edu.cn.	3600	IN	A	222.31.2.250
+moodle.tynu.edu.cn.	3600	IN	A	222.31.2.248
+mov.tynu.edu.cn.	3600	IN	A	222.31.3.105
+new.tynu.edu.cn.	3600	IN	A	222.31.2.241
+nhce.tynu.edu.cn.	3600	IN	A	222.31.3.100
+nqgwh.tynu.edu.cn.	3600	IN	A	222.31.2.241
+oldinfo.tynu.edu.cn.	3600	IN	A	222.31.3.14
+rsc.tynu.edu.cn.	3600	IN	A	222.31.2.241
+sjc.tynu.edu.cn.	3600	IN	A	222.31.2.241
+stg.tynu.edu.cn.	3600	IN	A	222.31.2.241
+suncms.tynu.edu.cn.	3600	IN	A	222.31.3.244
+swx.tynu.edu.cn.	3600	IN	A	222.31.2.241
+swxwpt.tynu.edu.cn.	3600	IN	A	222.31.2.241
+sxc.tynu.edu.cn.	3600	IN	A	222.31.2.241
+sxtyh.tynu.edu.cn.	3600	IN	A	222.31.2.241
+sxx.tynu.edu.cn.	3600	IN	A	222.31.2.241
+sygl.tynu.edu.cn.	3600	IN	A	222.31.3.230
+sygl.tynu.edu.cn.	3600	IN	A	222.31.5.248
+szb.tynu.edu.cn.	3600	IN	A	222.31.2.241
+szqpsm.tynu.edu.cn.	3600	IN	A	222.31.5.248
+szw.tynu.edu.cn.	3600	IN	A	222.31.2.241
+tw.tynu.edu.cn.		3600	IN	A	222.31.2.241
+twnew.tynu.edu.cn.	3600	IN	A	222.31.2.241
+tyx.tynu.edu.cn.	3600	IN	A	222.31.2.241
+vc.tynu.edu.cn.		3600	IN	A	222.31.7.251
+vpn.tynu.edu.cn.	3600	IN	A	202.99.219.43
+wcl.tynu.edu.cn.	3600	IN	A	222.31.2.241
+wdx.tynu.edu.cn.	3600	IN	A	222.31.2.241
+web.tynu.edu.cn.	3600	IN	A	222.31.2.246
+wfspzp.tynu.edu.cn.	3600	IN	A	222.31.5.248
+wlx.tynu.edu.cn.	3600	IN	A	222.31.2.241
+wlxy.tynu.edu.cn.	3600	IN	A	222.31.2.241
+wlzx.tynu.edu.cn.	3600	IN	A	222.31.2.241
+wrp.tynu.edu.cn.	3600	IN	A	222.31.2.241
+wsc.tynu.edu.cn.	3600	IN	A	222.31.2.241
+wsus.tynu.edu.cn.	3600	IN	A	222.31.3.244
+www.tynu.edu.cn.	3600	IN	A	222.31.2.241
+www2.tynu.edu.cn.	3600	IN	A	222.31.3.15
+wxy.tynu.edu.cn.	3600	IN	A	222.31.2.241
+wyx.tynu.edu.cn.	3600	IN	A	222.31.2.241
+xcb.tynu.edu.cn.	3600	IN	A	222.31.2.241
+xcc.tynu.edu.cn.	3600	IN	A	222.31.2.241
+xlyz.tynu.edu.cn.	3600	IN	A	222.31.2.241
+xsc.tynu.edu.cn.	3600	IN	A	222.31.2.241
+xsh.tynu.edu.cn.	3600	IN	A	222.31.2.241
+xxq.tynu.edu.cn.	3600	IN	A	222.31.2.241
+yb.tynu.edu.cn.		3600	IN	A	222.31.2.241
+yjsc.tynu.edu.cn.	3600	IN	A	222.31.2.241
+ysys.tynu.edu.cn.	3600	IN	A	222.31.2.241
+yszx.tynu.edu.cn.	3600	IN	A	222.31.2.241
+yyx.tynu.edu.cn.	3600	IN	A	222.31.2.241
+zcglc.tynu.edu.cn.	3600	IN	A	222.31.2.241
+zfx.tynu.edu.cn.	3600	IN	A	222.31.2.241
+zjc.tynu.edu.cn.	3600	IN	A	222.31.3.251
+zjxy.tynu.edu.cn.	3600	IN	A	222.31.2.241
+zkb.tynu.edu.cn.	3600	IN	A	222.31.2.241
+zzb.tynu.edu.cn.	3600	IN	A	222.31.2.241
+tynu.edu.cn.		3600	IN	SOA	dns.tynu.edu.cn. root.dns.tynu.edu.cn. 5 10800 3600 604800 3600
+;; Query time: 19 msec
+;; SERVER: 222.31.0.1#53(222.31.0.1)
+;; WHEN: Mon Apr 21 20:49:14 中国标准时间 2014
+;; XFR size: 100 records (messages 1, bytes 2112)
+

@@ -1,0 +1,90 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns.njtc.edu.cn axfr njtc.edu.cn
+; (1 server found)
+;; global options: +cmd
+njtc.edu.cn.		86400	IN	SOA	dns.njtc.edu.cn. root.dns.njtc.edu.cn. 2014022703 28800 14400 3600000 86400
+njtc.edu.cn.		86400	IN	NS	dns.njtc.edu.cn.
+njtc.edu.cn.		86400	IN	MX	9 dns.njtc.edu.cn.
+njtc.edu.cn.		86400	IN	MX	20 mail.njtc.edu.cn.
+1.njtc.edu.cn.		86400	IN	PTR	localhost.
+auth.njtc.edu.cn.	86400	IN	A	10.100.100.252
+bio.njtc.edu.cn.	86400	IN	A	61.157.198.133
+bwc.njtc.edu.cn.	86400	IN	A	61.157.198.133
+cas.njtc.edu.cn.	86400	IN	A	61.157.198.139
+chat.njtc.edu.cn.	86400	IN	A	210.41.183.133
+dag.njtc.edu.cn.	86400	IN	A	61.157.198.133
+data.njtc.edu.cn.	86400	IN	A	210.41.183.249
+dlzy.njtc.edu.cn.	86400	IN	A	61.157.198.133
+dns.njtc.edu.cn.	86400	IN	A	210.41.176.6
+drc.njtc.edu.cn.	86400	IN	A	61.157.198.133
+eec.njtc.edu.cn.	86400	IN	A	61.157.198.133
+fish.njtc.edu.cn.	86400	IN	A	61.157.198.133
+freebsd.njtc.edu.cn.	86400	IN	A	210.41.176.31
+fruit.njtc.edu.cn.	86400	IN	A	61.157.198.133
+gc.njtc.edu.cn.		86400	IN	A	61.157.198.133
+gh.njtc.edu.cn.		86400	IN	A	61.157.198.133
+gzc.njtc.edu.cn.	86400	IN	A	61.157.198.133
+hq.njtc.edu.cn.		86400	IN	A	61.157.198.133
+hxhg.njtc.edu.cn.	86400	IN	A	61.157.198.133
+i.njtc.edu.cn.		86400	IN	A	61.157.198.139
+jcc.njtc.edu.cn.	86400	IN	A	61.157.198.133
+jjc.njtc.edu.cn.	86400	IN	A	61.157.198.133
+jjgl.njtc.edu.cn.	86400	IN	A	61.157.198.133
+jkx.njtc.edu.cn.	86400	IN	A	210.41.177.1
+jpkc.njtc.edu.cn.	86400	IN	A	61.157.198.141
+jpzy.njtc.edu.cn.	86400	IN	A	210.41.176.28
+jsc.njtc.edu.cn.	86400	IN	A	61.157.198.133
+jsfz.njtc.edu.cn.	86400	IN	A	210.41.176.30
+jsj.njtc.edu.cn.	86400	IN	A	61.157.198.133
+jsjjc.njtc.edu.cn.	86400	IN	A	61.157.198.142
+jwc.njtc.edu.cn.	86400	IN	A	61.157.198.133
+jxjy.njtc.edu.cn.	86400	IN	A	61.157.198.133
+jy.njtc.edu.cn.		86400	IN	A	61.157.198.133
+kjc.njtc.edu.cn.	86400	IN	A	61.157.198.133
+lab.njtc.edu.cn.	86400	IN	A	61.157.198.133
+lib.njtc.edu.cn.	86400	IN	A	210.41.178.102
+ljb.njtc.edu.cn.	86400	IN	A	61.157.198.133
+ltx.njtc.edu.cn.	86400	IN	A	61.157.198.133
+mail.njtc.edu.cn.	86400	IN	A	210.41.176.10
+mailgate.njtc.edu.cn.	86400	IN	A	61.157.198.137
+media.njtc.edu.cn.	86400	IN	A	210.41.183.210
+metc.njtc.edu.cn.	86400	IN	A	61.157.198.138
+newoa.njtc.edu.cn.	86400	IN	A	61.157.198.149
+njsyb.njtc.edu.cn.	86400	IN	A	210.41.176.14
+njsyxb.njtc.edu.cn.	86400	IN	A	61.157.198.134
+pop3.njtc.edu.cn.	86400	IN	A	61.157.198.140
+pth.njtc.edu.cn.	86400	IN	A	210.41.176.30
+qmt.njtc.edu.cn.	86400	IN	A	210.41.176.30
+rsc.njtc.edu.cn.	86400	IN	A	61.157.198.133
+sbc.njtc.edu.cn.	86400	IN	A	210.41.183.80
+smtp.njtc.edu.cn.	86400	IN	A	210.41.176.140
+stu.njtc.edu.cn.	86400	IN	A	61.157.198.136
+sx.njtc.edu.cn.		86400	IN	A	61.157.198.133
+sxzz.njtc.edu.cn.	86400	IN	A	61.157.198.133
+szfz.njtc.edu.cn.	86400	IN	A	61.157.198.133
+szfzsy.njtc.edu.cn.	86400	IN	A	61.157.198.133
+tsny.njtc.edu.cn.	86400	IN	A	61.157.198.133
+tw.njtc.edu.cn.		86400	IN	A	61.157.198.143
+ty.njtc.edu.cn.		86400	IN	A	61.157.198.133
+www.njtc.edu.cn.	86400	IN	A	61.157.198.138
+www7.njtc.edu.cn.	86400	IN	A	61.157.198.133
+wx.njtc.edu.cn.		86400	IN	A	61.157.198.133
+wy.njtc.edu.cn.		86400	IN	A	61.157.198.133
+xb.njtc.edu.cn.		86400	IN	A	61.157.198.133
+xcb.njtc.edu.cn.	86400	IN	A	61.157.198.133
+xsc.njtc.edu.cn.	86400	IN	A	61.157.198.143
+yb.njtc.edu.cn.		86400	IN	A	61.157.198.133
+yjsc.njtc.edu.cn.	86400	IN	A	61.157.198.133
+yy.njtc.edu.cn.		86400	IN	A	61.157.198.133
+zcgs.njtc.edu.cn.	86400	IN	A	61.157.198.133
+zdq.njtc.edu.cn.	86400	IN	A	61.157.198.133
+zdqzx.njtc.edu.cn.	86400	IN	A	61.157.198.133
+zfls.njtc.edu.cn.	86400	IN	A	61.157.198.133
+zjc.njtc.edu.cn.	86400	IN	A	61.157.198.133
+zzb.njtc.edu.cn.	86400	IN	A	61.157.198.133
+njtc.edu.cn.		86400	IN	SOA	dns.njtc.edu.cn. root.dns.njtc.edu.cn. 2014022703 28800 14400 3600000 86400
+;; Query time: 152 msec
+;; SERVER: 210.41.176.6#53(210.41.176.6)
+;; WHEN: Mon Apr 21 21:02:06 中国标准时间 2014
+;; XFR size: 81 records (messages 1, bytes 1712)
+

@@ -1,0 +1,108 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @OUT.bucm.edu.cn axfr bucm.edu.cn
+; (1 server found)
+;; global options: +cmd
+bucm.edu.cn.		3600	IN	SOA	out.bucm.edu.cn. root.bucm.edu.cn. 2014032604 30 30 86400 3600
+bucm.edu.cn.		3600	IN	MX	0 mail.bucm.edu.cn.
+bucm.edu.cn.		3600	IN	MX	1 email.bucm.edu.cn.
+bucm.edu.cn.		3600	IN	MX	2 emails.bucm.edu.cn.
+bucm.edu.cn.		3600	IN	NS	out.bucm.edu.cn.
+bucm.edu.cn.		3600	IN	NS	bkdns.bucm.edu.cn.
+bb.bucm.edu.cn.		3600	IN	A	124.207.30.12
+bkdns.bucm.edu.cn.	3600	IN	A	202.204.32.112
+bwg.bucm.edu.cn.	3600	IN	A	124.207.30.33
+ca.bucm.edu.cn.		3600	IN	A	202.204.40.145
+cas.bucm.edu.cn.	3600	IN	A	202.204.37.25
+cebm.bucm.edu.cn.	3600	IN	CNAME	www2.bucm.edu.cn.
+ebmedu.bucm.edu.cn.	3600	IN	CNAME	www3.bucm.edu.cn.
+email.bucm.edu.cn.	3600	IN	A	202.204.35.10
+emails.bucm.edu.cn.	3600	IN	A	202.204.35.3
+gjxy.bucm.edu.cn.	3600	IN	A	202.204.35.203
+graduate.bucm.edu.cn.	3600	IN	A	202.204.32.121
+hq.bucm.edu.cn.		3600	IN	CNAME	www1.bucm.edu.cn.
+i.bucm.edu.cn.		3600	IN	A	202.204.37.25
+in.bucm.edu.cn.		3600	IN	A	202.204.40.252
+info.bucm.edu.cn.	3600	IN	A	202.204.40.117
+info1.bucm.edu.cn.	3600	IN	CNAME	info.bucm.edu.cn.
+info2.bucm.edu.cn.	3600	IN	A	202.204.40.117
+jpkc.bucm.edu.cn.	3600	IN	CNAME	www1.bucm.edu.cn.
+jw.bucm.edu.cn.		3600	IN	A	124.207.30.11
+jwmedia.bucm.edu.cn.	3600	IN	A	202.204.32.127
+jxjw.bucm.edu.cn.	3600	IN	A	202.204.35.223
+jxpg.bucm.edu.cn.	3600	IN	A	202.204.32.107
+jy.bucm.edu.cn.		3600	IN	A	202.204.32.59
+jyzy.bucm.edu.cn.	3600	IN	CNAME	ocw.bucm.edu.cn.
+kejian.bucm.edu.cn.	3600	IN	A	202.204.40.195
+keyan.bucm.edu.cn.	3600	IN	A	202.204.37.53
+kms.bucm.edu.cn.	3600	IN	A	202.204.40.102
+kms2.bucm.edu.cn.	3600	IN	A	202.204.40.101
+ldz.bucm.edu.cn.	3600	IN	A	202.204.40.9
+lib.bucm.edu.cn.	3600	IN	A	202.204.33.222
+live.bucm.edu.cn.	3600	IN	MX	0 live-bucm-edu-cn.mail.protection.outlook.com.
+live.bucm.edu.cn.	3600	IN	MX	3 30118801.mail.outlook.com.
+live.bucm.edu.cn.	3600	IN	TXT	"live IN TXT v=spf1 include:outlook.com ~all"
+live.bucm.edu.cn.	3600	IN	TXT	"v=spf1 include:spf.protection.outlook.com -all"
+30118801.live.bucm.edu.cn. 3600	IN	CNAME	domains.live.com.
+_sip.live.bucm.edu.cn.	3600	IN	SRV	100 1 443 sipdir.online.lync.com.
+_sipfederationtls.live.bucm.edu.cn. 3600 IN SRV	100 1 5061 sipfed.online.lync.com.
+autodiscover.live.bucm.edu.cn. 3600 IN	CNAME	autodiscover.outlook.com.
+lyncdiscover.live.bucm.edu.cn. 3600 IN	CNAME	webdir.online.lync.com.
+msoid.live.bucm.edu.cn.	3600	IN	CNAME	clientconfig.microsoftonline-p.net.
+sip.live.bucm.edu.cn.	3600	IN	CNAME	sipdir.online.lync.com.
+mail.bucm.edu.cn.	3600	IN	A	124.207.30.21
+mails.bucm.edu.cn.	3600	IN	CNAME	mail.bucm.edu.cn.
+mod.bucm.edu.cn.	3600	IN	A	202.204.35.155
+moodle.bucm.edu.cn.	3600	IN	A	202.204.32.101
+moodle2.bucm.edu.cn.	3600	IN	A	124.207.30.14
+moss10.bucm.edu.cn.	3600	IN	A	202.204.35.4
+mossinfo.bucm.edu.cn.	3600	IN	A	202.204.35.164
+mossw1.bucm.edu.cn.	3600	IN	A	202.204.35.61
+msldz.bucm.edu.cn.	3600	IN	CNAME	wqg.bucm.edu.cn.
+ocw.bucm.edu.cn.	3600	IN	A	202.204.35.205
+oldinfo.bucm.edu.cn.	3600	IN	A	202.204.40.118
+opensource.bucm.edu.cn.	3600	IN	CNAME	ocw.bucm.edu.cn.
+out.bucm.edu.cn.	3600	IN	A	202.204.32.111
+pharm.bucm.edu.cn.	3600	IN	A	202.204.46.200
+info.pharm.bucm.edu.cn.	3600	IN	A	202.204.46.212
+portal.bucm.edu.cn.	3600	IN	CNAME	www.bucm.edu.cn.
+sas.bucm.edu.cn.	3600	IN	A	202.204.38.100
+sis.bucm.edu.cn.	3600	IN	A	124.207.30.36
+teacher.bucm.edu.cn.	3600	IN	MX	4 1190791246.mail.outlook.com.
+teacher.bucm.edu.cn.	3600	IN	TXT	"teacher IN TXT v=spf1 include:outlook.com ~all"
+1190791246.teacher.bucm.edu.cn.	3600 IN	CNAME	domains.live.com.
+autodiscover.teacher.bucm.edu.cn. 3600 IN CNAME	autodiscover.outlook.com.
+test.bucm.edu.cn.	3600	IN	A	202.204.34.190
+video.bucm.edu.cn.	3600	IN	A	202.204.35.210
+vod.bucm.edu.cn.	3600	IN	A	202.204.40.105
+vpn.bucm.edu.cn.	3600	IN	A	124.207.30.20
+w1.bucm.edu.cn.		3600	IN	A	202.204.34.66
+webapps.bucm.edu.cn.	3600	IN	A	202.204.34.63
+wls.bucm.edu.cn.	3600	IN	A	202.204.40.5
+wlsn.bucm.edu.cn.	3600	IN	A	202.204.34.60
+wmz.bucm.edu.cn.	3600	IN	CNAME	ldz.bucm.edu.cn.
+wqg.bucm.edu.cn.	3600	IN	A	202.204.34.61
+wsapp.bucm.edu.cn.	3600	IN	A	202.204.37.203
+wse.bucm.edu.cn.	3600	IN	CNAME	bucm.remotewebaccess.com.
+wsim.bucm.edu.cn.	3600	IN	A	202.204.37.202
+wsms.bucm.edu.cn.	3600	IN	A	202.204.37.201
+wsus.bucm.edu.cn.	3600	IN	A	202.204.40.100
+www.bucm.edu.cn.	3600	IN	A	124.207.30.16
+www1.bucm.edu.cn.	3600	IN	A	124.207.30.15
+www2.bucm.edu.cn.	3600	IN	A	124.207.30.13
+www3.bucm.edu.cn.	3600	IN	A	202.204.35.7
+www4.bucm.edu.cn.	3600	IN	A	202.204.35.8
+xb.bucm.edu.cn.		3600	IN	A	124.207.30.34
+xblc.bucm.edu.cn.	3600	IN	CNAME	xb.bucm.edu.cn.
+xmpt.bucm.edu.cn.	3600	IN	A	202.204.34.62
+ydzl.bucm.edu.cn.	3600	IN	A	10.10.3.251
+yjszs.bucm.edu.cn.	3600	IN	A	202.204.32.121
+ykt.bucm.edu.cn.	3600	IN	A	202.204.32.40
+yzb.bucm.edu.cn.	3600	IN	CNAME	graduate.bucm.edu.cn.
+zhaopin.bucm.edu.cn.	3600	IN	A	202.204.37.14
+zyjy.bucm.edu.cn.	3600	IN	CNAME	xb.bucm.edu.cn.
+bucm.edu.cn.		3600	IN	SOA	out.bucm.edu.cn. root.bucm.edu.cn. 2014032604 30 30 86400 3600
+;; Query time: 363 msec
+;; SERVER: 202.204.32.111#53(202.204.32.111)
+;; WHEN: Mon Apr 21 20:46:35 中国标准时间 2014
+;; XFR size: 99 records (messages 1, bytes 2451)
+

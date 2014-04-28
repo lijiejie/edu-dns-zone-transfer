@@ -1,0 +1,54 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @fysy1.fync.edu.cn axfr fync.edu.cn
+; (1 server found)
+;; global options: +cmd
+fync.edu.cn.		3600	IN	SOA	ns.fync.edu.cn. root.fync.edu.cn. 47 1200 300 7200 600
+fync.edu.cn.		3600	IN	NS	fysy1.fync.edu.cn.
+fync.edu.cn.		3600	IN	NS	fysy2.fync.edu.cn.
+fync.edu.cn.		3600	IN	MX	5 mail.fync.edu.cn.
+fync.edu.cn.		3600	IN	MX	10 mail1.fync.edu.cn.
+fync.edu.cn.		3600	IN	MX	10 mail2.fync.edu.cn.
+bx.fync.edu.cn.		3600	IN	A	210.45.32.110
+cie.fync.edu.cn.	3600	IN	A	210.45.32.151
+cjy.fync.edu.cn.	3600	IN	A	210.45.40.49
+dns.fync.edu.cn.	3600	IN	A	210.45.32.66
+eng.fync.edu.cn.	3600	IN	A	210.45.32.57
+eng6.fync.edu.cn.	3600	IN	AAAA	2001:250:540a::57
+ens.fync.edu.cn.	3600	IN	A	210.45.32.13
+ftp.fync.edu.cn.	3600	IN	A	210.45.32.110
+fysy1.fync.edu.cn.	3600	IN	A	210.45.32.66
+fysy2.fync.edu.cn.	3600	IN	A	210.45.32.69
+jyzd.fync.edu.cn.	3600	IN	A	210.45.32.78
+mail.fync.edu.cn.	3600	IN	A	210.45.32.1
+mail2.fync.edu.cn.	3600	IN	A	210.45.32.43
+ms.fync.edu.cn.		3600	IN	A	210.45.32.247
+ns.fync.edu.cn.		3600	IN	A	210.45.32.66
+oa.fync.edu.cn.		3600	IN	A	210.45.32.55
+oms.fync.edu.cn.	3600	IN	A	210.45.32.59
+oms6.fync.edu.cn.	3600	IN	AAAA	2001:250:540a::59
+pec.fync.edu.cn.	3600	IN	A	222.207.19.111
+teach.fync.edu.cn.	3600	IN	A	210.45.32.58
+teach6.fync.edu.cn.	3600	IN	AAAA	2001:250:540a::58
+test.fync.edu.cn.	3600	IN	MX	10 test.fync.edu.cn.
+test.fync.edu.cn.	3600	IN	A	210.45.32.4
+update.fync.edu.cn.	3600	IN	A	210.45.32.11
+vod.fync.edu.cn.	3600	IN	A	210.45.32.212
+vod1.fync.edu.cn.	3600	IN	A	210.45.32.240
+vod6.fync.edu.cn.	3600	IN	AAAA	2001:250:540a::240
+vpn.fync.edu.cn.	3600	IN	A	60.172.42.70
+wd.fync.edu.cn.		3600	IN	A	210.45.32.191
+wd1.fync.edu.cn.	3600	IN	A	210.45.32.3
+wd6.fync.edu.cn.	3600	IN	AAAA	2001:250:540a::191
+wsapp.fync.edu.cn.	3600	IN	A	210.45.32.249
+wsim.fync.edu.cn.	3600	IN	A	210.45.32.248
+www.fync.edu.cn.	3600	IN	A	210.45.32.2
+www2.fync.edu.cn.	3600	IN	A	60.172.42.68
+www6.fync.edu.cn.	3600	IN	AAAA	2001:250:540a::2
+zc.fync.edu.cn.		3600	IN	A	210.45.32.5
+zlh.fync.edu.cn.	3600	IN	A	210.45.32.119
+fync.edu.cn.		3600	IN	SOA	ns.fync.edu.cn. root.fync.edu.cn. 47 1200 300 7200 600
+;; Query time: 46 msec
+;; SERVER: 210.45.32.66#53(210.45.32.66)
+;; WHEN: Mon Apr 21 20:53:36 中国标准时间 2014
+;; XFR size: 45 records (messages 1, bytes 1036)
+

@@ -1,0 +1,70 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns1.snie.edu.cn axfr snie.edu.cn
+; (2 servers found)
+;; global options: +cmd
+snie.edu.cn.		3600	IN	SOA	dns1. admin. 93 900 600 86400 3600
+snie.edu.cn.		3600	IN	NS	dns1.snsy.edu.cn.
+snie.edu.cn.		3600	IN	NS	dns1.snie.edu.cn.
+snie.edu.cn.		3600	IN	NS	dns1.snie.cn.
+snie.edu.cn.		3600	IN	NS	dns1.
+snie.edu.cn.		3600	IN	MX	10 mail.snie.edu.cn.
+dns1.snsy.edu.cn.	3600	IN	A	172.18.101.71
+dns1.snsy.edu.cn.	3600	IN	A	202.117.192.6
+dns1.snie.cn.		3600	IN	A	125.76.215.78
+dns1.snie.cn.		3600	IN	A	202.117.192.6
+bwc.snie.edu.cn.	3600	IN	A	202.117.192.3
+cwc.snie.edu.cn.	3600	IN	A	202.117.192.3
+cyjy.snie.edu.cn.	3600	IN	A	202.117.192.3
+dds.snie.edu.cn.	3600	IN	A	202.117.192.3
+dns1.snie.edu.cn.	3600	IN	A	172.18.101.71
+dns1.snie.edu.cn.	3600	IN	A	202.117.192.6
+gh.snie.edu.cn.		3600	IN	A	202.117.192.3
+gzb.snie.edu.cn.	3600	IN	A	202.117.192.3
+gzc.snie.edu.cn.	3600	IN	A	202.117.192.3
+hjzy.snie.edu.cn.	3600	IN	A	202.117.192.3
+hqjt.snie.edu.cn.	3600	IN	A	202.117.192.3
+hxx.snie.edu.cn.	3600	IN	A	202.117.192.3
+jcjy.snie.edu.cn.	3600	IN	A	202.117.192.3
+jjc.snie.edu.cn.	3600	IN	A	202.117.192.3
+jjs.snie.edu.cn.	3600	IN	A	202.117.192.3
+jpkc.snie.edu.cn.	3600	IN	A	202.117.192.3
+jsjx.snie.edu.cn.	3600	IN	A	202.117.192.3
+jw.snie.edu.cn.		3600	IN	A	202.117.192.3
+jwc.snie.edu.cn.	3600	IN	A	202.117.192.3
+jwgl.snie.edu.cn.	3600	IN	A	202.117.192.125
+jxjy.snie.edu.cn.	3600	IN	A	202.117.192.3
+jyw.snie.edu.cn.	3600	IN	A	202.117.192.3
+jyx.snie.edu.cn.	3600	IN	A	202.117.192.3
+kyc.snie.edu.cn.	3600	IN	A	202.117.192.3
+kygl.snie.edu.cn.	3600	IN	A	202.117.192.123
+lswh.snie.edu.cn.	3600	IN	A	202.117.192.3
+ltc.snie.edu.cn.	3600	IN	A	202.117.192.3
+mail.snie.edu.cn.	3600	IN	A	202.117.192.9
+msx.snie.edu.cn.	3600	IN	A	202.117.192.3
+rsc.snie.edu.cn.	3600	IN	A	202.117.192.3
+swx.snie.edu.cn.	3600	IN	A	202.117.192.3
+sxx.snie.edu.cn.	3600	IN	A	202.117.192.3
+sys.snie.edu.cn.	3600	IN	A	202.117.192.3
+szpx.snie.edu.cn.	3600	IN	A	202.117.192.3
+tsg.snie.edu.cn.	3600	IN	A	202.117.192.3
+tszl.snie.edu.cn.	3600	IN	A	202.117.192.3
+tyb.snie.edu.cn.	3600	IN	A	202.117.192.3
+wlx.snie.edu.cn.	3600	IN	A	202.117.192.3
+www.snie.edu.cn.	3600	IN	A	202.117.192.3
+wyx.snie.edu.cn.	3600	IN	A	202.117.192.3
+xcb.snie.edu.cn.	3600	IN	A	202.117.192.3
+xqjy.snie.edu.cn.	3600	IN	A	202.117.192.3
+xsc.snie.edu.cn.	3600	IN	A	202.117.192.3
+xybgs.snie.edu.cn.	3600	IN	A	202.117.192.3
+xzpx.snie.edu.cn.	3600	IN	A	202.117.192.3
+yyx.snie.edu.cn.	3600	IN	A	202.117.192.3
+zsjyc.snie.edu.cn.	3600	IN	A	202.117.192.3
+zwx.snie.edu.cn.	3600	IN	A	202.117.192.3
+zzb.snie.edu.cn.	3600	IN	A	202.117.192.3
+zzjjx.snie.edu.cn.	3600	IN	A	202.117.192.3
+snie.edu.cn.		3600	IN	SOA	dns1. admin. 93 900 600 86400 3600
+;; Query time: 147 msec
+;; SERVER: 202.117.192.6#53(202.117.192.6)
+;; WHEN: Mon Apr 21 21:04:01 中国标准时间 2014
+;; XFR size: 61 records (messages 61, bytes 3125)
+

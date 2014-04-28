@@ -1,0 +1,90 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns2.zjiet.edu.cn axfr zjiet.edu.cn
+; (1 server found)
+;; global options: +cmd
+zjiet.edu.cn.		86400	IN	SOA	dns2.zjiet.edu.cn. root.zjiet.edu.cn. 20131111 10800 900 604800 86400
+zjiet.edu.cn.		86400	IN	MX	20 mail.zjiet.edu.cn.
+zjiet.edu.cn.		86400	IN	NS	dns1.zjiet.edu.cn.
+zjiet.edu.cn.		86400	IN	NS	dns2.zjiet.edu.cn.
+zjiet.edu.cn.		86400	IN	A	122.224.163.173
+as.zjiet.edu.cn.	86400	IN	A	122.224.163.162
+bbs.zjiet.edu.cn.	86400	IN	A	122.224.163.164
+bwc.zjiet.edu.cn.	86400	IN	A	122.224.163.163
+cj.zjiet.edu.cn.	86400	IN	CNAME	www.zjete.com.
+cmnet.zjiet.edu.cn.	86400	IN	A	120.199.57.210
+cwc.zjiet.edu.cn.	86400	IN	A	122.224.163.163
+cwkjx.zjiet.edu.cn.	86400	IN	A	122.224.163.168
+cxb.zjiet.edu.cn.	86400	IN	A	122.224.163.163
+cxzy.zjiet.edu.cn.	86400	IN	A	122.224.163.163
+ddh.zjiet.edu.cn.	86400	IN	A	122.224.163.163
+dds.zjiet.edu.cn.	86400	IN	A	192.168.2.44
+dgsx.zjiet.edu.cn.	86400	IN	A	122.224.163.172
+djw.zjiet.edu.cn.	86400	IN	A	122.224.163.163
+dns1.zjiet.edu.cn.	86400	IN	A	210.33.152.6
+dns2.zjiet.edu.cn.	86400	IN	A	122.224.163.174
+dyzj.zjiet.edu.cn.	86400	IN	A	122.224.163.163
+eng.zjiet.edu.cn.	86400	IN	A	122.224.163.163
+ftp.zjiet.edu.cn.	86400	IN	A	192.168.2.88
+gh.zjiet.edu.cn.	86400	IN	A	122.224.163.167
+gjmyx.zjiet.edu.cn.	86400	IN	A	122.224.163.168
+ideal.zjiet.edu.cn.	86400	IN	A	122.224.163.162
+it.zjiet.edu.cn.	86400	IN	A	122.224.163.168
+jcjxb.zjiet.edu.cn.	86400	IN	A	122.224.163.168
+jdzq.zjiet.edu.cn.	86400	IN	A	122.224.163.163
+jmjx.zjiet.edu.cn.	86400	IN	A	122.224.163.163
+jmsg.zjiet.edu.cn.	86400	IN	A	122.224.163.162
+jpkc.zjiet.edu.cn.	86400	IN	A	122.224.163.170
+jrxh.zjiet.edu.cn.	86400	IN	A	122.224.163.163
+jwc.zjiet.edu.cn.	86400	IN	A	192.168.2.201
+jxcg.zjiet.edu.cn.	86400	IN	A	122.224.163.162
+jxgl.zjiet.edu.cn.	86400	IN	A	122.224.163.165
+kyc.zjiet.edu.cn.	86400	IN	A	122.224.163.163
+libinfo.zjiet.edu.cn.	86400	IN	A	122.224.163.163
+mail.zjiet.edu.cn.	86400	IN	A	122.224.163.166
+mh.zjiet.edu.cn.	86400	IN	A	122.224.163.167
+ms.zjiet.edu.cn.	86400	IN	A	122.224.163.162
+my.zjiet.edu.cn.	86400	IN	A	192.168.2.101
+net.zjiet.edu.cn.	86400	IN	A	122.224.163.167
+nvssc.zjiet.edu.cn.	86400	IN	CNAME	x4.wjxit.com.
+pay.zjiet.edu.cn.	86400	IN	A	124.160.71.138
+rsc.zjiet.edu.cn.	86400	IN	A	122.224.163.163
+rwlyx.zjiet.edu.cn.	86400	IN	A	122.224.163.168
+sbgl.zjiet.edu.cn.	86400	IN	A	122.224.163.163
+sfw.zjiet.edu.cn.	86400	IN	A	122.224.163.162
+sfysw.zjiet.edu.cn.	86400	IN	A	192.168.2.44
+shifan.zjiet.edu.cn.	86400	IN	A	122.224.163.167
+sjjcs.zjiet.edu.cn.	86400	IN	A	192.168.2.44
+sl.zjiet.edu.cn.	86400	IN	A	122.224.163.163
+swh.zjiet.edu.cn.	86400	IN	A	122.224.163.163
+tel.zjiet.edu.cn.	86400	IN	A	122.224.163.226
+tw.zjiet.edu.cn.	86400	IN	A	122.224.163.163
+vpn.zjiet.edu.cn.	86400	IN	A	122.224.163.171
+wasu.zjiet.edu.cn.	86400	IN	A	218.108.80.122
+wgy.zjiet.edu.cn.	86400	IN	A	122.224.163.163
+wlxh.zjiet.edu.cn.	86400	IN	A	122.224.163.163
+www.zjiet.edu.cn.	86400	IN	A	122.224.163.173
+www2.zjiet.edu.cn.	86400	IN	NS	tel.zjiet.edu.cn.
+www2.zjiet.edu.cn.	86400	IN	NS	wasu.zjiet.edu.cn.
+www2.zjiet.edu.cn.	86400	IN	NS	cmnet.zjiet.edu.cn.
+xlcs.zjiet.edu.cn.	86400	IN	A	122.224.163.167
+xlzx.zjiet.edu.cn.	86400	IN	A	122.224.163.163
+xq.zjiet.edu.cn.	86400	IN	A	122.224.163.163
+xsc.zjiet.edu.cn.	86400	IN	A	122.224.163.163
+xsgl.zjiet.edu.cn.	86400	IN	A	122.224.163.169
+xsh.zjiet.edu.cn.	86400	IN	A	122.224.163.163
+xxgk.zjiet.edu.cn.	86400	IN	A	122.224.163.162
+xy.zjiet.edu.cn.	86400	IN	A	122.224.163.163
+xyglzy.zjiet.edu.cn.	86400	IN	A	122.224.163.162
+yygcx.zjiet.edu.cn.	86400	IN	A	122.224.163.168
+zhiye.zjiet.edu.cn.	86400	IN	A	122.224.163.170
+zs.zjiet.edu.cn.	86400	IN	A	122.224.163.162
+zwc.zjiet.edu.cn.	86400	IN	A	122.224.163.163
+zwc1.zjiet.edu.cn.	86400	IN	A	122.224.163.163
+zyys.zjiet.edu.cn.	86400	IN	A	122.224.163.162
+zzb.zjiet.edu.cn.	86400	IN	A	122.224.163.163
+zjiet.edu.cn.		86400	IN	SOA	dns2.zjiet.edu.cn. root.zjiet.edu.cn. 20131111 10800 900 604800 86400
+;; Query time: 48 msec
+;; SERVER: 122.224.163.174#53(122.224.163.174)
+;; WHEN: Mon Apr 21 20:56:18 中国标准时间 2014
+;; XFR size: 81 records (messages 1, bytes 1714)
+

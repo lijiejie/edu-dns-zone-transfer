@@ -1,0 +1,65 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns.xxmu.edu.cn axfr xxmu.edu.cn
+; (1 server found)
+;; global options: +cmd
+xxmu.edu.cn.		7200	IN	SOA	dns.xxmu.edu.cn. master.xxmu.edu.cn. 2014012009 604800 604800 3600000 7200
+xxmu.edu.cn.		7200	IN	MX	10 mail.xxmu.edu.cn.
+xxmu.edu.cn.		7200	IN	NS	dns.xxmu.edu.cn.
+1hospital.xxmu.edu.cn.	7200	IN	CNAME	yfy.xxmu.edu.cn.
+2fywww.xxmu.edu.cn.	7200	IN	CNAME	store01.17888.com.
+3fy.xxmu.edu.cn.	7200	IN	A	202.196.208.23
+3hospital.xxmu.edu.cn.	7200	IN	CNAME	3fy.xxmu.edu.cn.
+antivirus.xxmu.edu.cn.	7200	IN	A	202.196.208.43
+bb.xxmu.edu.cn.		7200	IN	A	202.196.208.45
+bbres.xxmu.edu.cn.	7200	IN	A	125.219.4.1
+cas.xxmu.edu.cn.	7200	IN	CNAME	mh.xxmu.edu.cn.
+ccjn.xxmu.edu.cn.	7200	IN	A	61.163.216.91
+dhcp.xxmu.edu.cn.	7200	IN	A	202.196.208.113
+dns.xxmu.edu.cn.	7200	IN	A	202.196.208.18
+dns2.xxmu.edu.cn.	7200	IN	A	202.196.223.68
+download.xxmu.edu.cn.	7200	IN	A	202.196.208.141
+e-lib.xxmu.edu.cn.	7200	IN	A	202.196.210.1
+freeres.xxmu.edu.cn.	7200	IN	A	202.196.208.158
+ftp.xxmu.edu.cn.	7200	IN	A	202.196.208.141
+hsm.xxmu.edu.cn.	7200	IN	A	202.196.208.54
+im.xxmu.edu.cn.		7200	IN	A	202.196.208.141
+immuneweb.xxmu.edu.cn.	7200	IN	A	202.196.208.10
+info.xxmu.edu.cn.	7200	IN	A	202.196.208.145
+itat.xxmu.edu.cn.	7200	IN	A	202.196.208.87
+job.xxmu.edu.cn.	7200	IN	A	202.196.222.153
+jpkc.xxmu.edu.cn.	7200	IN	A	202.196.208.52
+jxzy.xxmu.edu.cn.	7200	IN	A	125.219.4.2
+jy.xxmu.edu.cn.		7200	IN	A	218.29.140.102
+kaspersky.xxmu.edu.cn.	7200	IN	A	202.196.208.11
+lib.xxmu.edu.cn.	7200	IN	A	202.196.210.3
+lib1.xxmu.edu.cn.	7200	IN	A	202.196.211.4
+mail.xxmu.edu.cn.	7200	IN	A	202.196.208.8
+mh.xxmu.edu.cn.		7200	IN	A	202.196.208.120
+newmail.xxmu.edu.cn.	7200	IN	CNAME	mail.xxmu.edu.cn.
+nic.xxmu.edu.cn.	7200	IN	A	202.196.208.51
+oa.xxmu.edu.cn.		7200	IN	CNAME	mh.xxmu.edu.cn.
+res.xxmu.edu.cn.	7200	IN	A	202.196.208.142
+resource.xxmu.edu.cn.	7200	IN	A	202.196.208.35
+sql.xxmu.edu.cn.	7200	IN	A	202.196.208.2
+sqlserver.xxmu.edu.cn.	7200	IN	CNAME	sql.xxmu.edu.cn.
+sxjy.xxmu.edu.cn.	7200	IN	A	202.196.208.49
+tv1.xxmu.edu.cn.	7200	IN	A	202.196.208.25
+tv2.xxmu.edu.cn.	7200	IN	A	202.196.208.26
+upload.xxmu.edu.cn.	7200	IN	A	202.196.208.28
+v-lib.xxmu.edu.cn.	7200	IN	A	202.196.210.2
+vod.xxmu.edu.cn.	7200	IN	A	202.196.208.131
+vodserver.xxmu.edu.cn.	7200	IN	CNAME	vod.xxmu.edu.cn.
+vodup.xxmu.edu.cn.	7200	IN	A	202.196.208.13
+vpn.xxmu.edu.cn.	7200	IN	A	202.196.208.19
+wsus.xxmu.edu.cn.	7200	IN	A	202.196.208.46
+www.xxmu.edu.cn.	7200	IN	A	125.46.31.238
+www2.xxmu.edu.cn.	7200	IN	A	202.196.208.5
+yfy.xxmu.edu.cn.	7200	IN	A	202.196.208.21
+yxycxwl.xxmu.edu.cn.	7200	IN	A	202.196.208.24
+zlgc.xxmu.edu.cn.	7200	IN	A	202.196.208.114
+xxmu.edu.cn.		7200	IN	SOA	dns.xxmu.edu.cn. master.xxmu.edu.cn. 2014012009 604800 604800 3600000 7200
+;; Query time: 333 msec
+;; SERVER: 202.196.208.18#53(202.196.208.18)
+;; WHEN: Mon Apr 21 20:58:36 中国标准时间 2014
+;; XFR size: 56 records (messages 1, bytes 1265)
+

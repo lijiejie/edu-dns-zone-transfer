@@ -1,0 +1,19 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns1.lfsfxy.edu.cn axfr lfsfxy.edu.cn
+; (1 server found)
+;; global options: +cmd
+lfsfxy.edu.cn.		86400	IN	SOA	dns1.lfsfxy.edu.cn. root.localhost.lfsfxy.edu.cn. 12 28800 7200 604800 86400
+lfsfxy.edu.cn.		86400	IN	NS	dns1.lfsfxy.edu.cn.
+dns1.lfsfxy.edu.cn.	86400	IN	A	219.243.79.6
+dqlx.lfsfxy.edu.cn.	86400	IN	A	219.243.79.4
+jwc.lfsfxy.edu.cn.	86400	IN	A	219.243.79.4
+jylkcgg.lfsfxy.edu.cn.	86400	IN	A	219.243.79.4
+kill.lfsfxy.edu.cn.	86400	IN	A	219.243.79.186
+new.lfsfxy.edu.cn.	86400	IN	A	219.243.79.4
+www.lfsfxy.edu.cn.	86400	IN	A	219.243.79.8
+lfsfxy.edu.cn.		86400	IN	SOA	dns1.lfsfxy.edu.cn. root.localhost.lfsfxy.edu.cn. 12 28800 7200 604800 86400
+;; Query time: 50 msec
+;; SERVER: 219.243.79.6#53(219.243.79.6)
+;; WHEN: Mon Apr 21 20:48:40 中国标准时间 2014
+;; XFR size: 10 records (messages 1, bytes 279)
+

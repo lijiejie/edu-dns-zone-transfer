@@ -1,0 +1,121 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns.zknu.edu.cn axfr zknu.edu.cn
+; (1 server found)
+;; global options: +cmd
+zknu.edu.cn.		3600	IN	SOA	dns.zknu.edu.cn. root.zknu.edu.cn. 2014041704 30 30 360 3600
+zknu.edu.cn.		3600	IN	MX	20 mail.zknu.edu.cn.
+zknu.edu.cn.		3600	IN	NS	dns.zknu.edu.cn.
+zknu.edu.cn.		3600	IN	NS	dns1.zknu.edu.cn.
+*.zknu.edu.cn.		3600	IN	A	211.67.150.67
+artdb.zknu.edu.cn.	3600	IN	A	211.67.150.74
+biolab.zknu.edu.cn.	3600	IN	A	211.67.144.31
+bwc.zknu.edu.cn.	3600	IN	CNAME	webout.zknu.edu.cn.
+bylw.zknu.edu.cn.	3600	IN	A	211.67.150.80
+clf.zknu.edu.cn.	3600	IN	CNAME	webout.zknu.edu.cn.
+cms.zknu.edu.cn.	3600	IN	A	211.67.150.116
+cpedu.zknu.edu.cn.	3600	IN	A	211.67.150.67
+cwc.zknu.edu.cn.	3600	IN	CNAME	webout.zknu.edu.cn.
+cwcx.zknu.edu.cn.	3600	IN	A	192.168.5.120
+dangban.zknu.edu.cn.	3600	IN	CNAME	www.zknu.edu.cn.
+ddh.zknu.edu.cn.	3600	IN	CNAME	webout.zknu.edu.cn.
+djks.zknu.edu.cn.	3600	IN	A	122.206.152.251
+dns.zknu.edu.cn.	3600	IN	A	211.67.150.3
+dns1.zknu.edu.cn.	3600	IN	A	211.67.150.129
+dotnet.zknu.edu.cn.	3600	IN	A	211.67.147.46
+download.zknu.edu.cn.	3600	IN	A	211.67.150.65
+dpstar.zknu.edu.cn.	3600	IN	A	211.67.150.110
+e-learning.zknu.edu.cn.	3600	IN	A	211.67.150.69
+ecard.zknu.edu.cn.	3600	IN	CNAME	webout.zknu.edu.cn.
+flc.zknu.edu.cn.	3600	IN	CNAME	webout.zknu.edu.cn.
+ftp.zknu.edu.cn.	3600	IN	A	211.67.150.65
+fzghc.zknu.edu.cn.	3600	IN	CNAME	webout.zknu.edu.cn.
+glb.zknu.edu.cn.	3600	IN	CNAME	webout.zknu.edu.cn.
+gonghui.zknu.edu.cn.	3600	IN	CNAME	webout.zknu.edu.cn.
+gzcx.zknu.edu.cn.	3600	IN	A	211.67.150.95
+gzltj.zknu.edu.cn.	3600	IN	A	211.67.150.71
+hxsyzx.zknu.edu.cn.	3600	IN	CNAME	webout.zknu.edu.cn.
+hxx.zknu.edu.cn.	3600	IN	CNAME	webout.zknu.edu.cn.
+ids.zknu.edu.cn.	3600	IN	A	211.67.150.108
+ids1.zknu.edu.cn.	3600	IN	A	211.67.150.109
+im.zknu.edu.cn.		3600	IN	A	211.67.150.48
+imp.zknu.edu.cn.	3600	IN	A	211.67.150.110
+jc.zknu.edu.cn.		3600	IN	CNAME	webout.zknu.edu.cn.
+jfgl.zknu.edu.cn.	3600	IN	A	211.67.150.50
+jgx.zknu.edu.cn.	3600	IN	CNAME	webout.zknu.edu.cn.
+jiayuan.zknu.edu.cn.	3600	IN	CNAME	www.zknu.edu.cn.
+jjc.zknu.edu.cn.	3600	IN	CNAME	webout.zknu.edu.cn.
+jks.zknu.edu.cn.	3600	IN	CNAME	webout.zknu.edu.cn.
+jkx.zknu.edu.cn.	3600	IN	CNAME	webout.zknu.edu.cn.
+jljc.zknu.edu.cn.	3600	IN	CNAME	webout.zknu.edu.cn.
+job.zknu.edu.cn.	3600	IN	CNAME	webout.zknu.edu.cn.
+jsjsyzx.zknu.edu.cn.	3600	IN	CNAME	webout.zknu.edu.cn.
+jsjy.zknu.edu.cn.	3600	IN	A	211.67.150.67
+jw.zknu.edu.cn.		3600	IN	A	211.67.150.72
+jwc.zknu.edu.cn.	3600	IN	CNAME	webout.zknu.edu.cn.
+jxda.zknu.edu.cn.	3600	IN	A	211.67.150.100
+jykxx.zknu.edu.cn.	3600	IN	CNAME	webout.zknu.edu.cn.
+jyxy.zknu.edu.cn.	3600	IN	CNAME	webout.zknu.edu.cn.
+keyan.zknu.edu.cn.	3600	IN	CNAME	webout.zknu.edu.cn.
+ky.zknu.edu.cn.		3600	IN	A	211.67.150.60
+lib.zknu.edu.cn.	3600	IN	CNAME	webout.zknu.edu.cn.
+litui.zknu.edu.cn.	3600	IN	CNAME	webout.zknu.edu.cn.
+mail.zknu.edu.cn.	3600	IN	A	211.67.150.4
+map.zknu.edu.cn.	3600	IN	A	211.67.150.107
+meishuxi.zknu.edu.cn.	3600	IN	CNAME	webout.zknu.edu.cn.
+ms.zknu.edu.cn.		3600	IN	A	211.67.150.47
+my.zknu.edu.cn.		3600	IN	A	211.67.150.110
+net.zknu.edu.cn.	3600	IN	CNAME	webout.zknu.edu.cn.
+oa.zknu.edu.cn.		3600	IN	A	211.67.150.94
+pgmbkeylab.zknu.edu.cn.	3600	IN	CNAME	webout.zknu.edu.cn.
+pgmblab.zknu.edu.cn.	3600	IN	CNAME	webout.zknu.edu.cn.
+pinggu.zknu.edu.cn.	3600	IN	A	211.67.150.5
+qzlx.zknu.edu.cn.	3600	IN	CNAME	webout.zknu.edu.cn.
+relab.zknu.edu.cn.	3600	IN	CNAME	webout.zknu.edu.cn.
+resource.zknu.edu.cn.	3600	IN	A	211.67.150.45
+rs.zknu.edu.cn.		3600	IN	A	211.67.150.110
+rsc.zknu.edu.cn.	3600	IN	CNAME	webout.zknu.edu.cn.
+shebei.zknu.edu.cn.	3600	IN	A	211.67.150.12
+smkxx.zknu.edu.cn.	3600	IN	CNAME	webout.zknu.edu.cn.
+study.zknu.edu.cn.	3600	IN	A	211.67.150.76
+sudi.zknu.edu.cn.	3600	IN	A	211.67.150.58
+sxx.zknu.edu.cn.	3600	IN	CNAME	webout.zknu.edu.cn.
+sygl.zknu.edu.cn.	3600	IN	A	211.67.150.12
+syq.zknu.edu.cn.	3600	IN	CNAME	webout.zknu.edu.cn.
+syzx.zknu.edu.cn.	3600	IN	CNAME	webout.zknu.edu.cn.
+szyx.zknu.edu.cn.	3600	IN	A	211.67.150.105
+tiyuxi.zknu.edu.cn.	3600	IN	CNAME	webout.zknu.edu.cn.
+tsg.zknu.edu.cn.	3600	IN	A	211.67.145.228
+tuanwei.zknu.edu.cn.	3600	IN	CNAME	webout.zknu.edu.cn.
+vod.zknu.edu.cn.	3600	IN	A	211.67.150.30
+vpn.zknu.edu.cn.	3600	IN	A	123.55.201.100
+webout.zknu.edu.cn.	3600	IN	A	211.67.150.2
+weishao.zknu.edu.cn.	3600	IN	A	211.67.150.49
+wulixi.zknu.edu.cn.	3600	IN	CNAME	webout.zknu.edu.cn.
+www.zknu.edu.cn.	3600	IN	A	211.67.150.2
+www6.zknu.edu.cn.	3600	IN	AAAA	2001:250:4806:1::2
+xfjs.zknu.edu.cn.	3600	IN	CNAME	webout.zknu.edu.cn.
+xg.zknu.edu.cn.		3600	IN	A	211.67.150.110
+xkb.zknu.edu.cn.	3600	IN	CNAME	webout.zknu.edu.cn.
+xsc.zknu.edu.cn.	3600	IN	CNAME	webout.zknu.edu.cn.
+xuebao.zknu.edu.cn.	3600	IN	CNAME	webout.zknu.edu.cn.
+xwx.zknu.edu.cn.	3600	IN	CNAME	webout.zknu.edu.cn.
+yb.zknu.edu.cn.		3600	IN	CNAME	webout.zknu.edu.cn.
+yinyuexi.zknu.edu.cn.	3600	IN	CNAME	webout.zknu.edu.cn.
+yjzx.zknu.edu.cn.	3600	IN	CNAME	webout.zknu.edu.cn.
+ykt.zknu.edu.cn.	3600	IN	A	211.67.150.97
+zfx.zknu.edu.cn.	3600	IN	CNAME	webout.zknu.edu.cn.
+zhaopin.zknu.edu.cn.	3600	IN	CNAME	cpedu.zknu.edu.cn.
+zongwuchu.zknu.edu.cn.	3600	IN	CNAME	webout.zknu.edu.cn.
+zs.zknu.edu.cn.		3600	IN	CNAME	webout.zknu.edu.cn.
+zsjy.zknu.edu.cn.	3600	IN	CNAME	webout.zknu.edu.cn.
+zwx.zknu.edu.cn.	3600	IN	CNAME	webout.zknu.edu.cn.
+zyjn.zknu.edu.cn.	3600	IN	CNAME	webout.zknu.edu.cn.
+zzb.zknu.edu.cn.	3600	IN	CNAME	webout.zknu.edu.cn.
+zzfw.zknu.edu.cn.	3600	IN	A	211.67.150.61
+zzxx.zknu.edu.cn.	3600	IN	A	211.67.150.70
+zknu.edu.cn.		3600	IN	SOA	dns.zknu.edu.cn. root.zknu.edu.cn. 2014041704 30 30 360 3600
+;; Query time: 26 msec
+;; SERVER: 211.67.150.3#53(211.67.150.3)
+;; WHEN: Mon Apr 21 20:58:36 中国标准时间 2014
+;; XFR size: 112 records (messages 1, bytes 2323)
+

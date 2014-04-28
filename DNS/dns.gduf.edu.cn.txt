@@ -1,0 +1,72 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns.gduf.edu.cn axfr gduf.edu.cn
+; (1 server found)
+;; global options: +cmd
+gduf.edu.cn.		86400	IN	SOA	dns.gduf.edu.cn. root.gduf.edu.cn. 2013092702 150 200 4000 86400
+gduf.edu.cn.		86400	IN	MX	10 mail.gduf.edu.cn.
+gduf.edu.cn.		86400	IN	NS	dns.gduf.edu.cn.
+gduf.edu.cn.		86400	IN	NS	oar.gduf.edu.cn.
+bbs.gduf.edu.cn.	86400	IN	A	218.192.12.16
+bm.gduf.edu.cn.		86400	IN	A	218.192.12.13
+bm1.gduf.edu.cn.	86400	IN	A	218.192.12.9
+card.gduf.edu.cn.	86400	IN	A	172.18.2.33
+cjxt.gduf.edu.cn.	86400	IN	A	121.8.235.84
+cnki.gduf.edu.cn.	86400	IN	A	218.192.12.8
+dep.gduf.edu.cn.	86400	IN	A	218.192.12.8
+dkcx.gduf.edu.cn.	86400	IN	A	172.18.2.40
+dns.gduf.edu.cn.	86400	IN	A	218.192.12.6
+download.gduf.edu.cn.	86400	IN	A	218.192.12.14
+dtone1.gduf.edu.cn.	86400	IN	A	218.192.12.233
+ftp.gduf.edu.cn.	86400	IN	A	218.192.12.30
+ftp2.gduf.edu.cn.	86400	IN	A	172.18.1.252
+ftp3.gduf.edu.cn.	86400	IN	A	218.192.12.33
+ftp4.gduf.edu.cn.	86400	IN	A	172.18.1.123
+ftp5.gduf.edu.cn.	86400	IN	A	172.18.1.124
+ftp6.gduf.edu.cn.	86400	IN	A	172.18.1.127
+ftp7.gduf.edu.cn.	86400	IN	A	172.18.1.126
+ftp9.gduf.edu.cn.	86400	IN	A	172.16.29.135
+gjbs.gduf.edu.cn.	86400	IN	A	218.192.12.114
+godenlight.gduf.edu.cn.	86400	IN	A	218.192.12.53
+hbg.gduf.edu.cn.	86400	IN	A	218.192.12.55
+home.gduf.edu.cn.	86400	IN	A	218.192.12.7
+jfe.gduf.edu.cn.	86400	IN	A	218.192.12.95
+jpkc.gduf.edu.cn.	86400	IN	A	218.192.12.5
+jrf.gduf.edu.cn.	86400	IN	A	218.192.12.80
+jrfx.gduf.edu.cn.	86400	IN	A	218.192.12.97
+jwc.gduf.edu.cn.	86400	IN	A	218.192.12.41
+jwc.gduf.edu.cn.	86400	IN	A	218.192.12.87
+jwc.gduf.edu.cn.	86400	IN	A	218.192.12.98
+jwc.gduf.edu.cn.	86400	IN	A	218.192.12.99
+jxjyxy.gduf.edu.cn.	86400	IN	A	218.192.12.96
+jxpt.gduf.edu.cn.	86400	IN	A	218.192.12.132
+jzzg.gduf.edu.cn.	86400	IN	A	218.192.12.53
+kas.gduf.edu.cn.	86400	IN	A	172.18.1.245
+mail.gduf.edu.cn.	86400	IN	A	218.192.12.49
+mail2.gduf.edu.cn.	86400	IN	A	218.192.12.19
+media.gduf.edu.cn.	86400	IN	A	218.192.12.56
+oa.gduf.edu.cn.		86400	IN	A	218.192.12.133
+oar.gduf.edu.cn.	86400	IN	A	218.192.13.6
+pb.gduf.edu.cn.		86400	IN	A	121.8.235.77
+pctv.gduf.edu.cn.	86400	IN	A	10.10.14.98
+pop3.gduf.edu.cn.	86400	IN	A	218.192.12.49
+s4506.gduf.edu.cn.	86400	IN	A	172.18.1.251
+service.gduf.edu.cn.	86400	IN	A	172.18.1.99
+shelian.gduf.edu.cn.	86400	IN	A	218.192.12.51
+smtp.gduf.edu.cn.	86400	IN	A	218.192.12.49
+ssreader.gduf.edu.cn.	86400	IN	A	218.192.12.9
+trip.gduf.edu.cn.	86400	IN	A	218.192.12.59
+tw.gduf.edu.cn.		86400	IN	A	218.192.12.102
+vod.gduf.edu.cn.	86400	IN	A	218.192.12.52
+www.gduf.edu.cn.	86400	IN	A	121.8.235.88
+xc.gduf.edu.cn.		86400	IN	A	218.192.12.33
+xyw.gduf.edu.cn.	86400	IN	A	218.192.12.53
+ycjy.gduf.edu.cn.	86400	IN	A	218.192.12.12
+youth.gduf.edu.cn.	86400	IN	A	218.192.12.11
+yxt.gduf.edu.cn.	86400	IN	A	218.192.12.100
+zsjy.gduf.edu.cn.	86400	IN	A	218.192.12.34
+gduf.edu.cn.		86400	IN	SOA	dns.gduf.edu.cn. root.gduf.edu.cn. 2013092702 150 200 4000 86400
+;; Query time: 69 msec
+;; SERVER: 218.192.12.6#53(218.192.12.6)
+;; WHEN: Mon Apr 21 21:00:35 中国标准时间 2014
+;; XFR size: 63 records (messages 1, bytes 1356)
+

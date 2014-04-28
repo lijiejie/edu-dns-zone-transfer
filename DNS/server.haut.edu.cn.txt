@@ -1,0 +1,62 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @server.haut.edu.cn axfr haut.edu.cn
+; (1 server found)
+;; global options: +cmd
+haut.edu.cn.		3600	IN	SOA	dns.haut.edu.cn. root.haut.edu.cn. 2014040212 30 30 360 3600
+haut.edu.cn.		3600	IN	MX	10 mail.haut.edu.cn.
+haut.edu.cn.		3600	IN	NS	dns.haut.edu.cn.
+haut.edu.cn.		3600	IN	NS	server.haut.edu.cn.
+ca.haut.edu.cn.		3600	IN	A	172.18.254.150
+cj.haut.edu.cn.		3600	IN	A	123.15.36.142
+cjxy.haut.edu.cn.	3600	IN	A	202.196.23.153
+cw.haut.edu.cn.		3600	IN	A	172.25.4.253
+dag.haut.edu.cn.	3600	IN	A	123.15.36.144
+dns.haut.edu.cn.	3600	IN	A	202.196.16.1
+dx.haut.edu.cn.		3600	IN	A	202.196.16.13
+ecsrd.haut.edu.cn.	3600	IN	A	172.18.254.20
+ftp.haut.edu.cn.	3600	IN	A	202.196.30.167
+hrm.haut.edu.cn.	3600	IN	A	202.196.30.38
+info.haut.edu.cn.	3600	IN	A	172.25.5.23
+it.haut.edu.cn.		3600	IN	A	202.196.16.40
+itc.haut.edu.cn.	3600	IN	A	125.46.2.172
+job.haut.edu.cn.	3600	IN	A	123.15.50.20
+jpkc.haut.edu.cn.	3600	IN	A	123.15.36.139
+jw.haut.edu.cn.		3600	IN	A	172.18.51.238
+jxjy.haut.edu.cn.	3600	IN	A	202.196.16.19
+jy.haut.edu.cn.		3600	IN	A	172.18.156.2
+kjc.haut.edu.cn.	3600	IN	A	202.196.16.40
+ksbm.haut.edu.cn.	3600	IN	A	202.196.16.63
+lib.haut.edu.cn.	3600	IN	A	123.15.36.154
+library.haut.edu.cn.	3600	IN	A	202.196.16.20
+mail.haut.edu.cn.	3600	IN	A	123.15.36.158
+mba.haut.edu.cn.	3600	IN	A	202.196.16.40
+mse.haut.edu.cn.	3600	IN	A	123.15.50.18
+oa.haut.edu.cn.		3600	IN	A	172.18.254.12
+oatest.haut.edu.cn.	3600	IN	A	172.18.250.228
+psy.haut.edu.cn.	3600	IN	A	123.15.50.20
+server.haut.edu.cn.	3600	IN	A	202.196.16.3
+sizheng.haut.edu.cn.	3600	IN	A	59.188.21.132
+stu.haut.edu.cn.	3600	IN	A	202.196.16.13
+student.haut.edu.cn.	3600	IN	A	172.18.254.22
+tech.haut.edu.cn.	3600	IN	A	202.196.16.13
+ua.haut.edu.cn.		3600	IN	A	202.196.16.13
+wlzx.haut.edu.cn.	3600	IN	A	125.46.17.147
+www.haut.edu.cn.	3600	IN	A	123.15.36.150
+www2.haut.edu.cn.	3600	IN	A	202.196.16.40
+www3.haut.edu.cn.	3600	IN	A	123.15.36.133
+xiaobao.haut.edu.cn.	3600	IN	A	123.15.50.18
+xiaoyou.haut.edu.cn.	3600	IN	A	202.196.16.13
+xl.haut.edu.cn.		3600	IN	A	123.15.50.20
+xsc.haut.edu.cn.	3600	IN	A	123.15.50.20
+xwbm.haut.edu.cn.	3600	IN	A	125.46.17.148
+ydoa.haut.edu.cn.	3600	IN	A	221.176.115.238
+youth.haut.edu.cn.	3600	IN	A	202.196.16.13
+yzdxh.haut.edu.cn.	3600	IN	A	123.15.36.157
+zb.haut.edu.cn.		3600	IN	A	123.15.36.146
+zs.haut.edu.cn.		3600	IN	A	123.15.50.18
+haut.edu.cn.		3600	IN	SOA	dns.haut.edu.cn. root.haut.edu.cn. 2014040212 30 30 360 3600
+;; Query time: 29 msec
+;; SERVER: 202.196.16.3#53(202.196.16.3)
+;; WHEN: Mon Apr 21 20:58:14 中国标准时间 2014
+;; XFR size: 53 records (messages 1, bytes 1142)
+

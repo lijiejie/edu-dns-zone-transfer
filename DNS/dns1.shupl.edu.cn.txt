@@ -1,0 +1,64 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns1.shupl.edu.cn axfr shupl.edu.cn
+; (1 server found)
+;; global options: +cmd
+shupl.edu.cn.		86400	IN	SOA	dns1.shupl.edu.cn. webmaster.shupl.edu.cn. 490 10800 3600 864000 86400
+shupl.edu.cn.		86400	IN	NS	dns1.shupl.edu.cn.
+shupl.edu.cn.		86400	IN	NS	dns2.shupl.edu.cn.
+shupl.edu.cn.		86400	IN	MX	20 mail.shupl.edu.cn.
+shupl.edu.cn.		86400	IN	TXT	"v=spf1:ip4:222.204.192.161 ip4:222.204.192.165 ip4:116.228.2.211 ip4:116.228.2.217 ip4:61.152.207.134 ~all"
+china-language.shupl.edu.cn. 86400 IN	A	222.204.192.176
+cisco.shupl.edu.cn.	86400	IN	CNAME	www.shupl.edu.cn.
+dns1.shupl.edu.cn.	86400	IN	A	222.204.192.129
+dns2.shupl.edu.cn.	86400	IN	A	222.204.192.130
+download.shupl.edu.cn.	86400	IN	A	222.204.192.174
+fem.shupl.edu.cn.	86400	IN	A	116.228.2.210
+gonghui.shupl.edu.cn.	86400	IN	A	222.204.192.176
+guojifa.shupl.edu.cn.	86400	IN	A	222.204.192.176
+jiaowu.shupl.edu.cn.	86400	IN	A	116.228.2.213
+jingpin.shupl.edu.cn.	86400	IN	A	222.204.192.176
+job.shupl.edu.cn.	86400	IN	A	222.204.192.155
+jwnas.shupl.edu.cn.	86400	IN	A	222.204.197.30
+jygd.shupl.edu.cn.	86400	IN	A	222.204.192.176
+kczx.shupl.edu.cn.	86400	IN	A	116.228.2.207
+lastweb.shupl.edu.cn.	86400	IN	A	222.204.192.141
+law-lib.shupl.edu.cn.	86400	IN	A	222.204.192.170
+lawschool.shupl.edu.cn.	86400	IN	A	222.204.192.169
+mail.shupl.edu.cn.	86400	IN	A	116.228.2.211
+mailgate.shupl.edu.cn.	86400	IN	A	116.228.2.217
+media.shupl.edu.cn.	86400	IN	A	222.204.192.132
+newweb.shupl.edu.cn.	86400	IN	A	222.204.192.173
+ntp.shupl.edu.cn.	86400	IN	A	222.204.192.134
+oa.shupl.edu.cn.	86400	IN	A	222.204.192.193
+old.shupl.edu.cn.	86400	IN	A	222.204.192.172
+pan.shupl.edu.cn.	86400	IN	A	222.204.192.190
+peixun.shupl.edu.cn.	86400	IN	CNAME	unix-l200-g1.xincache.cn.
+pop3.shupl.edu.cn.	86400	IN	CNAME	mail.shupl.edu.cn.
+qzlx.shupl.edu.cn.	86400	IN	A	222.204.195.206
+renleixue.shupl.edu.cn.	86400	IN	A	222.204.192.176
+sgx.shupl.edu.cn.	86400	IN	A	222.204.192.194
+sjjx.shupl.edu.cn.	86400	IN	A	222.204.192.173
+smtp.shupl.edu.cn.	86400	IN	CNAME	mail.shupl.edu.cn.
+sso.shupl.edu.cn.	86400	IN	A	222.204.192.138
+szsj.shupl.edu.cn.	86400	IN	A	222.204.192.197
+vote.shupl.edu.cn.	86400	IN	A	222.204.192.136
+vpn.shupl.edu.cn.	86400	IN	A	116.228.2.216
+web.shupl.edu.cn.	86400	IN	A	222.204.192.177
+wenming.shupl.edu.cn.	86400	IN	CNAME	www.shupl.edu.cn.
+www.shupl.edu.cn.	86400	IN	A	116.228.2.212
+www1.shupl.edu.cn.	86400	IN	A	116.228.2.212
+www2.shupl.edu.cn.	86400	IN	A	222.204.192.142
+xingzhengfa.shupl.edu.cn. 86400	IN	A	222.204.192.176
+xjnas.shupl.edu.cn.	86400	IN	A	222.204.198.235
+xs.shupl.edu.cn.	86400	IN	A	222.204.192.176
+xsc.shupl.edu.cn.	86400	IN	A	222.204.195.206
+xuanke.shupl.edu.cn.	86400	IN	A	116.228.2.209
+xwzx.shupl.edu.cn.	86400	IN	CNAME	www.shupl.edu.cn.
+yjsb.shupl.edu.cn.	86400	IN	A	222.73.173.97
+zs.shupl.edu.cn.	86400	IN	A	222.204.192.154
+shupl.edu.cn.		86400	IN	SOA	dns1.shupl.edu.cn. webmaster.shupl.edu.cn. 490 10800 3600 864000 86400
+;; Query time: 47 msec
+;; SERVER: 222.204.192.129#53(222.204.192.129)
+;; WHEN: Mon Apr 21 20:55:14 中国标准时间 2014
+;; XFR size: 55 records (messages 1, bytes 1362)
+

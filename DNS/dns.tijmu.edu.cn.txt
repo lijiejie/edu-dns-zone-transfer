@@ -1,0 +1,79 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns.tijmu.edu.cn axfr tijmu.edu.cn
+; (1 server found)
+;; global options: +cmd
+tijmu.edu.cn.		3600	IN	SOA	dns.tijmu.edu.cn. root.tijmu.edu.cn. 2014042104 30 30 360 3600
+tijmu.edu.cn.		3600	IN	NS	dns.tijmu.edu.cn.
+tijmu.edu.cn.		3600	IN	NS	dns2.tijmu.edu.cn.
+tijmu.edu.cn.		3600	IN	MX	4 mailgw.tijmu.edu.cn.
+60.tijmu.edu.cn.	3600	IN	A	202.113.53.158
+asp.tijmu.edu.cn.	3600	IN	A	202.113.53.157
+basemed.tijmu.edu.cn.	3600	IN	A	202.113.53.140
+ca.tijmu.edu.cn.	3600	IN	A	202.113.48.160
+ccidd.tijmu.edu.cn.	3600	IN	A	202.113.53.159
+cmc.tijmu.edu.cn.	3600	IN	A	202.113.50.186
+copd.tijmu.edu.cn.	3600	IN	A	115.24.156.130
+dns.tijmu.edu.cn.	3600	IN	A	202.113.48.10
+dns2.tijmu.edu.cn.	3600	IN	A	202.113.48.11
+dpstar.tijmu.edu.cn.	3600	IN	A	202.113.48.155
+English.tijmu.edu.cn.	3600	IN	A	202.113.53.150
+esky.tijmu.edu.cn.	3600	IN	A	202.113.53.143
+ftp.tijmu.edu.cn.	3600	IN	A	202.113.48.143
+gs.tijmu.edu.cn.	3600	IN	A	202.113.53.148
+health.tijmu.edu.cn.	3600	IN	A	202.113.53.138
+hotmail.tijmu.edu.cn.	3600	IN	A	202.113.48.71
+hr.tijmu.edu.cn.	3600	IN	A	202.113.48.155
+ids.tijmu.edu.cn.	3600	IN	A	202.113.48.156
+ids1.tijmu.edu.cn.	3600	IN	A	202.113.48.156
+inf.tijmu.edu.cn.	3600	IN	A	202.113.48.188
+ipgw.tijmu.edu.cn.	3600	IN	A	202.113.48.15
+jjxh.tijmu.edu.cn.	3600	IN	A	202.113.48.13
+job.tijmu.edu.cn.	3600	IN	A	202.113.53.141
+jpk.tijmu.edu.cn.	3600	IN	A	202.113.53.133
+jw.tijmu.edu.cn.	3600	IN	A	202.113.53.134
+jwc.tijmu.edu.cn.	3600	IN	A	202.113.53.134
+jwxt.tijmu.edu.cn.	3600	IN	A	202.113.53.130
+jy.tijmu.edu.cn.	3600	IN	A	202.113.48.144
+jy6.tijmu.edu.cn.	3600	IN	A	202.113.48.143
+kouqiang.tijmu.edu.cn.	3600	IN	A	202.113.59.18
+lib.tijmu.edu.cn.	3600	IN	A	202.113.49.22
+lunwen.tijmu.edu.cn.	3600	IN	A	202.113.48.66
+mail.tijmu.edu.cn.	3600	IN	A	202.113.48.9
+mailgw.tijmu.edu.cn.	3600	IN	A	202.113.48.8
+my.tijmu.edu.cn.	3600	IN	A	202.113.48.155
+network.tijmu.edu.cn.	3600	IN	A	202.113.48.13
+npels.tijmu.edu.cn.	3600	IN	A	59.67.140.3
+npels1.tijmu.edu.cn.	3600	IN	A	59.67.140.4
+oa.tijmu.edu.cn.	3600	IN	A	202.113.48.153
+pj.tijmu.edu.cn.	3600	IN	A	202.113.48.155
+pop3.tijmu.edu.cn.	3600	IN	A	202.113.48.9
+ppk.tijmu.edu.cn.	3600	IN	A	202.113.48.162
+ppk2.tijmu.edu.cn.	3600	IN	A	202.113.57.57
+rs.tijmu.edu.cn.	3600	IN	A	202.113.48.155
+sg.tijmu.edu.cn.	3600	IN	A	202.113.48.155
+yz.student.tijmu.edu.cn. 3600	IN	A	202.113.53.152
+tccwc.tijmu.edu.cn.	3600	IN	A	202.113.57.58
+tijmu60.tijmu.edu.cn.	3600	IN	A	202.113.53.158
+tjykx.tijmu.edu.cn.	3600	IN	A	202.113.48.251
+tyxb.tijmu.edu.cn.	3600	IN	A	210.83.81.6
+video.tijmu.edu.cn.	3600	IN	A	202.113.48.134
+vpn.tijmu.edu.cn.	3600	IN	A	202.113.49.100
+wap.tijmu.edu.cn.	3600	IN	A	202.113.48.13
+web.tijmu.edu.cn.	3600	IN	A	202.113.48.12
+wsus.tijmu.edu.cn.	3600	IN	A	202.113.48.159
+www.tijmu.edu.cn.	3600	IN	A	202.113.48.13
+xfjs.tijmu.edu.cn.	3600	IN	A	202.113.48.13
+xggl.tijmu.edu.cn.	3600	IN	A	202.113.48.155
+yiqi.tijmu.edu.cn.	3600	IN	A	115.26.89.131
+yjsxw.tijmu.edu.cn.	3600	IN	A	202.113.48.155
+yjsxwrep.tijmu.edu.cn.	3600	IN	A	202.113.48.155
+ykt.tijmu.edu.cn.	3600	IN	A	202.113.57.92
+yx.tijmu.edu.cn.	3600	IN	A	202.113.48.151
+yz.tijmu.edu.cn.	3600	IN	A	202.113.53.152
+zzb.tijmu.edu.cn.	3600	IN	A	202.113.53.145
+tijmu.edu.cn.		3600	IN	SOA	dns.tijmu.edu.cn. root.tijmu.edu.cn. 2014042104 30 30 360 3600
+;; Query time: 41 msec
+;; SERVER: 202.113.48.10#53(202.113.48.10)
+;; WHEN: Mon Apr 21 20:47:39 中国标准时间 2014
+;; XFR size: 70 records (messages 1, bytes 1517)
+

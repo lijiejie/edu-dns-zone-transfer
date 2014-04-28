@@ -1,0 +1,80 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns.ncmc.edu.cn axfr ncmc.edu.cn
+; (1 server found)
+;; global options: +cmd
+ncmc.edu.cn.		86400	IN	SOA	dns.ncmc.edu.cn. root.ncmc.edu.cn. 42 10800 900 604800 86400
+ncmc.edu.cn.		86400	IN	NS	dns.ncmc.edu.cn.
+ncmc.edu.cn.		86400	IN	A	211.68.144.10
+ncmc.edu.cn.		86400	IN	MX	10 mail.ncmc.edu.cn.
+antivius.ncmc.edu.cn.	86400	IN	A	211.68.144.17
+bb.ncmc.edu.cn.		86400	IN	A	211.68.144.24
+bio.ncmc.edu.cn.	86400	IN	A	211.68.144.42
+erc.bio.ncmc.edu.cn.	86400	IN	A	211.68.144.78
+ptsw.bio.ncmc.edu.cn.	86400	IN	A	211.68.144.79
+computer_channel.ncmc.edu.cn. 86400 IN	A	211.68.144.50
+cwc.ncmc.edu.cn.	86400	IN	A	211.68.144.37
+dep-cm.ncmc.edu.cn.	86400	IN	A	211.68.144.34
+dns.ncmc.edu.cn.	86400	IN	A	211.68.144.10
+dns1.ncmc.edu.cn.	86400	IN	A	211.68.144.14
+dwzx.ncmc.edu.cn.	86400	IN	A	211.68.144.125
+english1.ncmc.edu.cn.	86400	IN	A	211.68.144.15
+english_channel.ncmc.edu.cn. 86400 IN	A	211.68.144.51
+erc.ncmc.edu.cn.	86400	IN	A	211.68.144.83
+evaluation.ncmc.edu.cn.	86400	IN	A	211.68.144.70
+falv.ncmc.edu.cn.	86400	IN	A	211.68.144.46
+ftp2.ncmc.edu.cn.	86400	IN	A	211.68.144.16
+gh.ncmc.edu.cn.		86400	IN	A	211.68.144.62
+gjjy.ncmc.edu.cn.	86400	IN	A	211.68.144.66
+graduate.ncmc.edu.cn.	86400	IN	A	211.68.144.31
+hq.ncmc.edu.cn.		86400	IN	A	211.68.144.74
+hqfw.ncmc.edu.cn.	86400	IN	A	211.68.144.81
+huli.ncmc.edu.cn.	86400	IN	A	211.68.144.44
+itat.ncmc.edu.cn.	86400	IN	A	211.68.144.23
+jcb.ncmc.edu.cn.	86400	IN	A	211.68.144.38
+jitang.ncmc.edu.cn.	86400	IN	A	61.55.49.4
+jy.jitang.ncmc.edu.cn.	86400	IN	A	211.68.144.80
+zsjy.jitang.ncmc.edu.cn. 86400	IN	A	61.55.49.5
+jjs.ncmc.edu.cn.	86400	IN	A	211.68.144.86
+jpkc.ncmc.edu.cn.	86400	IN	A	61.55.49.6
+jpkc1.ncmc.edu.cn.	86400	IN	A	61.55.49.13
+jwc.ncmc.edu.cn.	86400	IN	A	211.68.144.30
+jwgl.ncmc.edu.cn.	86400	IN	A	211.68.144.22
+jxcg.ncmc.edu.cn.	86400	IN	A	61.55.49.10
+jy.ncmc.edu.cn.		86400	IN	A	211.68.144.58
+kqx.ncmc.edu.cn.	86400	IN	A	211.68.144.73
+xingtai.lab.ncmc.edu.cn. 86400	IN	A	211.68.144.71
+lac.ncmc.edu.cn.	86400	IN	A	211.68.144.60
+library.ncmc.edu.cn.	86400	IN	A	211.68.145.9
+ltx.ncmc.edu.cn.	86400	IN	A	211.68.144.90
+mail.ncmc.edu.cn.	86400	IN	A	211.68.144.12
+nic.ncmc.edu.cn.	86400	IN	A	211.68.144.29
+oa.ncmc.edu.cn.		86400	IN	A	211.68.144.21
+pop3.ncmc.edu.cn.	86400	IN	CNAME	mail.ncmc.edu.cn.
+proxy.ncmc.edu.cn.	86400	IN	A	211.68.144.13
+qks.ncmc.edu.cn.	86400	IN	A	211.68.144.43
+rsc.ncmc.edu.cn.	86400	IN	A	211.68.144.65
+safeguard.ncmc.edu.cn.	86400	IN	A	211.68.144.36
+sce.ncmc.edu.cn.	86400	IN	A	211.68.144.32
+smtp.ncmc.edu.cn.	86400	IN	CNAME	mail.ncmc.edu.cn.
+tw.ncmc.edu.cn.		86400	IN	A	211.68.144.35
+webserver.ncmc.edu.cn.	86400	IN	A	211.68.144.20
+wgx.ncmc.edu.cn.	86400	IN	A	211.68.144.41
+www.ncmc.edu.cn.	86400	IN	A	210.31.198.72
+www1.ncmc.edu.cn.	86400	IN	A	211.68.144.19
+wyx.ncmc.edu.cn.	86400	IN	A	211.68.144.61
+xlx.ncmc.edu.cn.	86400	IN	A	211.68.144.76
+xsc.ncmc.edu.cn.	86400	IN	A	211.68.144.33
+xyghc.ncmc.edu.cn.	86400	IN	A	211.68.144.123
+yfyx.ncmc.edu.cn.	86400	IN	A	211.68.144.72
+yuanban.ncmc.edu.cn.	86400	IN	A	211.68.144.77
+yxx.ncmc.edu.cn.	86400	IN	A	211.68.144.40
+zlgc.ncmc.edu.cn.	86400	IN	A	211.68.144.26
+zs.ncmc.edu.cn.		86400	IN	A	211.68.144.57
+zyx.ncmc.edu.cn.	86400	IN	A	211.68.144.87
+zzb.ncmc.edu.cn.	86400	IN	A	211.68.144.39
+ncmc.edu.cn.		86400	IN	SOA	dns.ncmc.edu.cn. root.ncmc.edu.cn. 42 10800 900 604800 86400
+;; Query time: 42 msec
+;; SERVER: 211.68.144.10#53(211.68.144.10)
+;; WHEN: Mon Apr 21 20:48:33 中国标准时间 2014
+;; XFR size: 71 records (messages 1, bytes 1566)
+

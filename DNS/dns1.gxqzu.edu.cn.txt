@@ -1,0 +1,100 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns1.gxqzu.edu.cn axfr gxqzu.edu.cn
+; (1 server found)
+;; global options: +cmd
+gxqzu.edu.cn.		10800	IN	SOA	dns1.gxqzu.edu.cn. root.gxqzu.edu.cn. 20140307 10800 3600 604800 3600
+gxqzu.edu.cn.		10800	IN	NS	dns1.gxqzu.edu.cn.
+gxqzu.edu.cn.		10800	IN	NS	dns2.gxqzu.edu.cn.
+bbs.gxqzu.edu.cn.	10800	IN	A	116.13.206.62
+bbwu.gxqzu.edu.cn.	10800	IN	A	116.13.207.12
+bw.gxqzu.edu.cn.	10800	IN	A	116.13.207.12
+bwc.gxqzu.edu.cn.	10800	IN	A	116.13.206.10
+cclc.gxqzu.edu.cn.	10800	IN	A	116.13.206.43
+chinanet.gxqzu.edu.cn.	10800	IN	A	218.21.78.7
+cw.gxqzu.edu.cn.	10800	IN	A	116.13.207.12
+cwc.gxqzu.edu.cn.	10800	IN	A	116.13.207.9
+ddh.gxqzu.edu.cn.	10800	IN	A	116.13.206.10
+dns1.gxqzu.edu.cn.	10800	IN	A	116.13.192.2
+dns2.gxqzu.edu.cn.	10800	IN	A	116.13.192.3
+dw.gxqzu.edu.cn.	10800	IN	A	116.13.207.12
+en.gxqzu.edu.cn.	10800	IN	A	116.13.207.12
+enl.gxqzu.edu.cn.	10800	IN	A	116.13.206.2
+fl.gxqzu.edu.cn.	10800	IN	A	116.13.207.12
+fz.gxqzu.edu.cn.	10800	IN	A	116.13.207.12
+fzgh.gxqzu.edu.cn.	10800	IN	A	116.13.206.2
+gh.gxqzu.edu.cn.	10800	IN	A	116.13.206.10
+gj.gxqzu.edu.cn.	10800	IN	A	116.13.207.12
+gy.gxqzu.edu.cn.	10800	IN	A	116.13.207.12
+hc.gxqzu.edu.cn.	10800	IN	A	116.13.207.12
+hq.gxqzu.edu.cn.	10800	IN	A	116.13.206.10
+hx.gxqzu.edu.cn.	10800	IN	A	116.13.207.12
+hy.gxqzu.edu.cn.	10800	IN	A	116.13.207.12
+ied.gxqzu.edu.cn.	10800	IN	A	116.13.206.10
+j.gxqzu.edu.cn.		10800	IN	A	116.13.207.12
+jc.gxqzu.edu.cn.	10800	IN	A	116.13.207.12
+jg.gxqzu.edu.cn.	10800	IN	A	116.13.207.12
+jj.gxqzu.edu.cn.	10800	IN	A	116.13.207.12
+jjc.gxqzu.edu.cn.	10800	IN	A	116.13.206.10
+jw.gxqzu.edu.cn.	10800	IN	A	116.13.207.12
+jwc.gxqzu.edu.cn.	10800	IN	A	116.13.206.2
+jx.gxqzu.edu.cn.	10800	IN	A	116.13.207.12
+jxzx.gxqzu.edu.cn.	10800	IN	A	116.13.206.2
+jy.gxqzu.edu.cn.	10800	IN	A	116.13.207.12
+kj.gxqzu.edu.cn.	10800	IN	A	116.13.207.12
+lib.gxqzu.edu.cn.	10800	IN	A	116.13.199.15
+localhost.gxqzu.edu.cn.	10800	IN	A	127.0.0.1
+lqp.gxqzu.edu.cn.	10800	IN	A	116.13.192.8
+ms.gxqzu.edu.cn.	10800	IN	A	116.13.207.12
+nc.gxqzu.edu.cn.	10800	IN	A	116.13.207.12
+news.gxqzu.edu.cn.	10800	IN	A	116.13.207.12
+nic.gxqzu.edu.cn.	10800	IN	A	116.13.206.43
+nxtao.gxqzu.edu.cn.	10800	IN	A	116.13.206.2
+oa.gxqzu.edu.cn.	10800	IN	A	116.13.207.6
+pj.gxqzu.edu.cn.	10800	IN	A	116.13.206.7
+pqs.gxqzu.edu.cn.	10800	IN	A	116.13.206.3
+qzujwc.gxqzu.edu.cn.	10800	IN	A	116.13.206.43
+qzursc.gxqzu.edu.cn.	10800	IN	A	116.13.206.10
+rs.gxqzu.edu.cn.	10800	IN	A	116.13.207.12
+sh.gxqzu.edu.cn.	10800	IN	A	116.13.207.12
+shehai.gxqzu.edu.cn.	10800	IN	A	116.13.207.12
+sj.gxqzu.edu.cn.	10800	IN	A	116.13.207.12
+sjy.gxqzu.edu.cn.	10800	IN	A	116.13.206.45
+sk.gxqzu.edu.cn.	10800	IN	A	116.13.207.12
+sx.gxqzu.edu.cn.	10800	IN	A	116.13.207.12
+sxy.gxqzu.edu.cn.	10800	IN	A	116.13.206.10
+sz.gxqzu.edu.cn.	10800	IN	A	116.13.206.62
+te.gxqzu.edu.cn.	10800	IN	A	116.13.207.13
+test1.gxqzu.edu.cn.	10800	IN	A	116.13.206.12
+test2.gxqzu.edu.cn.	10800	IN	A	116.13.206.12
+th.gxqzu.edu.cn.	10800	IN	A	116.13.207.12
+tw.gxqzu.edu.cn.	10800	IN	A	116.13.206.2
+ty.gxqzu.edu.cn.	10800	IN	A	116.13.206.10
+tyy.gxqzu.edu.cn.	10800	IN	A	116.13.207.12
+tz.gxqzu.edu.cn.	10800	IN	A	116.13.207.12
+tzb.gxqzu.edu.cn.	10800	IN	A	116.13.206.10
+wcy.gxqzu.edu.cn.	10800	IN	A	116.13.206.10
+wg.gxqzu.edu.cn.	10800	IN	A	116.13.207.12
+wl.gxqzu.edu.cn.	10800	IN	A	116.13.207.12
+www.gxqzu.edu.cn.	10800	IN	A	116.13.207.2
+www1.gxqzu.edu.cn.	10800	IN	A	116.13.207.12
+wz.gxqzu.edu.cn.	10800	IN	A	116.13.207.12
+xb.gxqzu.edu.cn.	10800	IN	A	116.13.207.12
+xc.gxqzu.edu.cn.	10800	IN	A	116.13.207.12
+xg.gxqzu.edu.cn.	10800	IN	A	116.13.207.12
+xgc.gxqzu.edu.cn.	10800	IN	A	116.13.206.2
+xgh.gxqzu.edu.cn.	10800	IN	A	116.13.207.12
+xtw.gxqzu.edu.cn.	10800	IN	A	116.13.207.12
+xz.gxqzu.edu.cn.	10800	IN	A	116.13.207.12
+yy.gxqzu.edu.cn.	10800	IN	A	116.13.207.12
+zgb.gxqzu.edu.cn.	10800	IN	A	116.13.206.2
+zhy.gxqzu.edu.cn.	10800	IN	A	116.13.206.2
+zs.gxqzu.edu.cn.	10800	IN	A	116.13.207.12
+zw.gxqzu.edu.cn.	10800	IN	A	116.13.207.12
+zy.gxqzu.edu.cn.	10800	IN	A	116.13.207.12
+zz.gxqzu.edu.cn.	10800	IN	A	116.13.207.12
+gxqzu.edu.cn.		10800	IN	SOA	dns1.gxqzu.edu.cn. root.gxqzu.edu.cn. 20140307 10800 3600 604800 3600
+;; Query time: 84 msec
+;; SERVER: 116.13.192.2#53(116.13.192.2)
+;; WHEN: Mon Apr 21 21:01:16 中国标准时间 2014
+;; XFR size: 91 records (messages 1, bytes 1860)
+

@@ -1,0 +1,16 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns6.jsust.edu.cn axfr jsust.edu.cn
+; (1 server found)
+;; global options: +cmd
+jsust.edu.cn.		3600	IN	SOA	dns6.jsust.edu.cn. root.jsust.edu.cn. 200111211 28800 7200 604800 86400
+jsust.edu.cn.		3600	IN	NS	dns6.jsust.edu.cn.
+jsust.edu.cn.		3600	IN	A	202.195.160.6
+dns6.jsust.edu.cn.	3600	IN	A	202.195.160.6
+www.jsust.edu.cn.	3600	IN	CNAME	wwwujs.jsust.edu.cn.
+wwwujs.jsust.edu.cn.	3600	IN	A	218.3.94.83
+jsust.edu.cn.		3600	IN	SOA	dns6.jsust.edu.cn. root.jsust.edu.cn. 200111211 28800 7200 604800 86400
+;; Query time: 126 msec
+;; SERVER: 202.195.160.6#53(202.195.160.6)
+;; WHEN: Mon Apr 21 20:50:57 中国标准时间 2014
+;; XFR size: 7 records (messages 1, bytes 199)
+

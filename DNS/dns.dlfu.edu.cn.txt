@@ -1,0 +1,67 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns.dlfu.edu.cn axfr dlfu.edu.cn
+; (1 server found)
+;; global options: +cmd
+dlfu.edu.cn.		604800	IN	SOA	dns.dlfu.edu.cn. xxf.dlfu.edu.cn. 2014030301 3600 86400 2419200 604800
+dlfu.edu.cn.		604800	IN	NS	dns.dlfu.edu.cn.
+dlfu.edu.cn.		604800	IN	A	124.93.243.135
+dlfu.edu.cn.		604800	IN	MX	0 mail.dlfu.edu.cn.
+*.dlfu.edu.cn.		604800	IN	A	210.30.64.88
+auth.dlfu.edu.cn.	604800	IN	A	172.16.250.193
+bb.dlfu.edu.cn.		604800	IN	A	210.30.64.17
+cwc.dlfu.edu.cn.	604800	IN	A	210.30.64.58
+dns.dlfu.edu.cn.	604800	IN	A	210.30.64.6
+dnsb.dlfu.edu.cn.	604800	IN	A	210.30.64.8
+fee.dlfu.edu.cn.	604800	IN	CNAME	dnsb.dlfu.edu.cn.
+ftp.dlfu.edu.cn.	604800	IN	A	210.30.64.24
+gs.dlfu.edu.cn.		604800	IN	A	210.30.64.41
+gzy.dlfu.edu.cn.	604800	IN	A	59.44.112.37
+jgzs.dlfu.edu.cn.	604800	IN	CNAME	sxjm.dlfu.edu.cn.
+jifang.dlfu.edu.cn.	604800	IN	A	210.30.64.10
+jpk.dlfu.edu.cn.	604800	IN	A	210.30.64.81
+jsc.dlfu.edu.cn.	604800	IN	A	124.93.243.141
+jwc.dlfu.edu.cn.	604800	IN	A	210.30.64.35
+jwgl.dlfu.edu.cn.	604800	IN	A	210.30.64.39
+jwgl2.dlfu.edu.cn.	604800	IN	A	210.30.64.38
+jxtw.dlfu.edu.cn.	604800	IN	CNAME	sxjm.dlfu.edu.cn.
+jxx.dlfu.edu.cn.	604800	IN	CNAME	sxjm.dlfu.edu.cn.
+jxxx.dlfu.edu.cn.	604800	IN	CNAME	sxjm.dlfu.edu.cn.
+kejian.dlfu.edu.cn.	604800	IN	A	210.30.64.21
+klfu.dlfu.edu.cn.	604800	IN	CNAME	sxjm.dlfu.edu.cn.
+klhb.dlfu.edu.cn.	604800	IN	CNAME	sxjm.dlfu.edu.cn.
+kyc.dlfu.edu.cn.	604800	IN	A	210.30.64.40
+lqcx.dlfu.edu.cn.	604800	IN	CNAME	sxjm.dlfu.edu.cn.
+mail.dlfu.edu.cn.	604800	IN	A	124.93.243.140
+math.dlfu.edu.cn.	604800	IN	CNAME	sxjm.dlfu.edu.cn.
+mr.dlfu.edu.cn.		604800	IN	CNAME	kyc.dlfu.edu.cn.
+nhce.dlfu.edu.cn.	604800	IN	A	210.30.64.27
+oa.dlfu.edu.cn.		604800	IN	A	210.30.64.82
+pgkx.dlfu.edu.cn.	604800	IN	CNAME	sxjm.dlfu.edu.cn.
+pinggu.dlfu.edu.cn.	604800	IN	CNAME	web.dlfu.edu.cn.
+res.dlfu.edu.cn.	604800	IN	CNAME	tv.dlfu.edu.cn.
+scyy.dlfu.edu.cn.	604800	IN	A	210.30.64.36
+shx.dlfu.edu.cn.	604800	IN	CNAME	sxjm.dlfu.edu.cn.
+sports.dlfu.edu.cn.	604800	IN	CNAME	view.dlfu.edu.cn.
+sqzx.dlfu.edu.cn.	604800	IN	CNAME	sxjm.dlfu.edu.cn.
+sxjm.dlfu.edu.cn.	604800	IN	A	210.30.64.25
+tkj.dlfu.edu.cn.	604800	IN	A	210.30.64.20
+tlgbao.dlfu.edu.cn.	604800	IN	CNAME	sxjm.dlfu.edu.cn.
+tv.dlfu.edu.cn.		604800	IN	A	210.30.64.80
+view.dlfu.edu.cn.	604800	IN	A	210.30.64.28
+vod.dlfu.edu.cn.	604800	IN	A	210.30.64.162
+vpn.dlfu.edu.cn.	604800	IN	A	124.93.243.133
+web.dlfu.edu.cn.	604800	IN	A	210.30.64.14
+web-proxy.dlfu.edu.cn.	604800	IN	A	124.93.243.135
+webplus.dlfu.edu.cn.	604800	IN	A	210.30.64.86
+www.dlfu.edu.cn.	604800	IN	A	124.93.243.135
+www.dlfu.edu.cn.	604800	IN	AAAA	3ffe:3218:6::ca76:42d7
+xianjiao.dlfu.edu.cn.	604800	IN	CNAME	web.dlfu.edu.cn.
+yqgx.dlfu.edu.cn.	604800	IN	A	210.30.64.29
+ysw.dlfu.edu.cn.	604800	IN	A	210.30.64.163
+zhileng.dlfu.edu.cn.	604800	IN	CNAME	sxjm.dlfu.edu.cn.
+dlfu.edu.cn.		604800	IN	SOA	dns.dlfu.edu.cn. xxf.dlfu.edu.cn. 2014030301 3600 86400 2419200 604800
+;; Query time: 52 msec
+;; SERVER: 210.30.64.6#53(210.30.64.6)
+;; WHEN: Mon Apr 21 20:49:55 中国标准时间 2014
+;; XFR size: 58 records (messages 1, bytes 1228)
+

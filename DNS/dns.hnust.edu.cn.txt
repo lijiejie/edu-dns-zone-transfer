@@ -1,0 +1,93 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns.hnust.edu.cn axfr hnust.edu.cn
+; (1 server found)
+;; global options: +cmd
+hnust.edu.cn.		86400	IN	SOA	dns.hnust.edu.cn. root.dns.hnust.edu.cn. 45 28800 7200 604800 86400
+hnust.edu.cn.		86400	IN	NS	dns.hnust.edu.cn.
+hnust.edu.cn.		86400	IN	A	211.67.208.1
+hnust.edu.cn.		86400	IN	MX	1 eyouspam.hnust.edu.cn.
+360safe.hnust.edu.cn.	86400	IN	A	211.67.208.22
+3s.hnust.edu.cn.	86400	IN	A	222.243.162.77
+acm.hnust.edu.cn.	86400	IN	A	125.221.232.253
+app.hnust.edu.cn.	86400	IN	A	211.67.208.25
+bbs.hnust.edu.cn.	86400	IN	A	222.243.160.171
+chaoxin.hnust.edu.cn.	86400	IN	A	211.67.223.7
+cnki.hnust.edu.cn.	86400	IN	A	211.67.223.6
+conferences.hnust.edu.cn. 86400	IN	A	222.243.162.66
+cwc.hnust.edu.cn.	86400	IN	A	222.243.162.70
+data.hnust.edu.cn.	86400	IN	A	211.67.208.144
+ddjy.hnust.edu.cn.	86400	IN	A	211.67.208.88
+dep.hnust.edu.cn.	86400	IN	A	222.243.162.77
+dep2.hnust.edu.cn.	86400	IN	A	222.243.160.171
+dns.hnust.edu.cn.	86400	IN	A	211.67.208.1
+dzdq.hnust.edu.cn.	86400	IN	A	222.243.162.76
+edu-info.hnust.edu.cn.	86400	IN	A	222.243.160.171
+email.hnust.edu.cn.	86400	IN	A	218.75.247.253
+english.hnust.edu.cn.	86400	IN	A	222.243.162.69
+eyouspam.hnust.edu.cn.	86400	IN	A	218.75.247.253
+ftp.hnust.edu.cn.	86400	IN	A	211.67.208.24
+geomatics.hnust.edu.cn.	86400	IN	A	222.243.160.171
+graduate.hnust.edu.cn.	86400	IN	A	222.243.160.174
+gzc.hnust.edu.cn.	86400	IN	A	222.243.162.69
+im.hnust.edu.cn.	86400	IN	A	211.67.208.22
+jpkc.hnust.edu.cn.	86400	IN	A	222.243.160.171
+jwc.hnust.edu.cn.	86400	IN	A	211.67.208.29
+jypx.hnust.edu.cn.	86400	IN	A	222.243.162.77
+kdjw.hnust.edu.cn.	86400	IN	A	222.243.162.62
+kg.hnust.edu.cn.	86400	IN	A	125.221.225.2
+kjc.hnust.edu.cn.	86400	IN	A	211.67.208.124
+kpnm.hnust.edu.cn.	86400	IN	A	125.221.225.2
+ky.hnust.edu.cn.	86400	IN	A	222.243.162.69
+kygc.hnust.edu.cn.	86400	IN	A	211.67.208.88
+kygcyj.hnust.edu.cn.	86400	IN	A	222.243.162.66
+lib.hnust.edu.cn.	86400	IN	A	222.243.162.71
+m.hnust.edu.cn.		86400	IN	A	211.67.208.51
+mail.hnust.edu.cn.	86400	IN	MX	5 mail.hnust.edu.cn.
+mail.hnust.edu.cn.	86400	IN	A	211.67.208.12
+map.hnust.edu.cn.	86400	IN	A	211.67.208.95
+math.hnust.edu.cn.	86400	IN	A	222.243.162.77
+mine.hnust.edu.cn.	86400	IN	A	222.243.160.171
+ms.hnust.edu.cn.	86400	IN	A	211.67.208.17
+news.hnust.edu.cn.	86400	IN	A	222.243.162.69
+news1.hnust.edu.cn.	86400	IN	A	211.67.208.29
+nic.hnust.edu.cn.	86400	IN	A	222.243.162.76
+oa.hnust.edu.cn.	86400	IN	A	222.243.162.67
+opac.hnust.edu.cn.	86400	IN	A	211.67.223.8
+portal.hnust.edu.cn.	86400	IN	A	222.243.162.73
+power.hnust.edu.cn.	86400	IN	A	222.243.160.171
+remo.hnust.edu.cn.	86400	IN	A	211.67.208.93
+rs.hnust.edu.cn.	86400	IN	A	222.243.162.68
+rsc.hnust.edu.cn.	86400	IN	A	222.243.162.69
+rsc1.hnust.edu.cn.	86400	IN	A	222.243.162.77
+sjxcg.hnust.edu.cn.	86400	IN	A	222.243.162.66
+skc.hnust.edu.cn.	86400	IN	A	211.67.208.124
+skxb.hnust.edu.cn.	86400	IN	A	211.67.208.88
+stu.hnust.edu.cn.	86400	IN	A	211.67.208.147
+szlx.hnust.edu.cn.	86400	IN	A	211.67.208.121
+szpt.hnust.edu.cn.	86400	IN	A	222.243.160.170
+szyx.hnust.edu.cn.	86400	IN	A	222.243.162.72
+thesis.hnust.edu.cn.	86400	IN	A	211.67.223.3
+tmgc.hnust.edu.cn.	86400	IN	A	218.75.247.254
+tw.hnust.edu.cn.	86400	IN	A	222.243.160.171
+vip.hnust.edu.cn.	86400	IN	A	211.67.223.5
+vlab.hnust.edu.cn.	86400	IN	A	211.67.208.83
+vpn.hnust.edu.cn.	86400	IN	A	222.243.162.78
+wanfang.hnust.edu.cn.	86400	IN	A	211.67.223.4
+web.hnust.edu.cn.	86400	IN	A	222.243.162.66
+wlxy.hnust.edu.cn.	86400	IN	A	222.243.162.77
+www.hnust.edu.cn.	86400	IN	A	222.243.162.69
+www1.hnust.edu.cn.	86400	IN	A	211.67.208.29
+xg.hnust.edu.cn.	86400	IN	A	218.75.247.254
+xuebao.hnust.edu.cn.	86400	IN	A	222.243.162.77
+xxjw.hnust.edu.cn.	86400	IN	A	222.243.162.61
+yjsgl.hnust.edu.cn.	86400	IN	A	211.67.208.87
+yx.hnust.edu.cn.	86400	IN	A	211.67.208.108
+zkxb.hnust.edu.cn.	86400	IN	A	211.67.208.88
+zs.hnust.edu.cn.	86400	IN	A	59.36.100.104
+zypt.hnust.edu.cn.	86400	IN	A	222.243.162.62
+hnust.edu.cn.		86400	IN	SOA	dns.hnust.edu.cn. root.dns.hnust.edu.cn. 45 28800 7200 604800 86400
+;; Query time: 350 msec
+;; SERVER: 211.67.208.1#53(211.67.208.1)
+;; WHEN: Mon Apr 21 20:58:03 中国标准时间 2014
+;; XFR size: 84 records (messages 1, bytes 1811)
+

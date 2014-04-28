@@ -1,0 +1,100 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns.hubce.edu.cn axfr hue.edu.cn
+; (1 server found)
+;; global options: +cmd
+hue.edu.cn.		3600	IN	SOA	dns.hubce.edu.cn. root.dns.hubce.edu.cn. 20120530 3600 900 3600000 3600
+hue.edu.cn.		3600	IN	NS	dns.hubce.edu.cn.
+hue.edu.cn.		3600	IN	NS	dns2.hubce.edu.cn.
+hue.edu.cn.		3600	IN	MX	5 mail.hue.edu.cn.
+3s.hue.edu.cn.		3600	IN	A	202.197.144.218
+bbs.hue.edu.cn.		3600	IN	A	202.197.144.240
+bwc.hue.edu.cn.		3600	IN	A	202.197.144.232
+cms.hue.edu.cn.		3600	IN	A	202.197.144.232
+coop.hue.edu.cn.	3600	IN	A	202.197.144.232
+cwc.hue.edu.cn.		3600	IN	A	202.197.144.232
+dag.hue.edu.cn.		3600	IN	A	202.197.144.232
+dangb.hue.edu.cn.	3600	IN	A	202.197.144.232
+down.hue.edu.cn.	3600	IN	A	202.197.159.2
+down3.hue.edu.cn.	3600	IN	A	202.197.159.3
+ecard.hue.edu.cn.	3600	IN	A	202.197.144.229
+etc.hue.edu.cn.		3600	IN	A	202.197.144.232
+fl.hue.edu.cn.		3600	IN	A	202.197.144.234
+fx.hue.edu.cn.		3600	IN	A	202.197.144.232
+ganxun.hue.edu.cn.	3600	IN	A	202.197.144.232
+ghwh.hue.edu.cn.	3600	IN	A	202.197.144.232
+gongh.hue.edu.cn.	3600	IN	A	202.197.144.232
+hos.hue.edu.cn.		3600	IN	A	202.197.144.232
+hqcy.hue.edu.cn.	3600	IN	A	202.197.144.232
+hsy.hue.edu.cn.		3600	IN	A	202.197.144.232
+jcx.hue.edu.cn.		3600	IN	A	202.197.144.232
+jdx.hue.edu.cn.		3600	IN	A	202.197.144.232
+jgy.hue.edu.cn.		3600	IN	A	202.197.144.232
+jpk.hue.edu.cn.		3600	IN	A	202.197.144.237
+jsj.hue.edu.cn.		3600	IN	A	202.197.144.232
+chuwenhua.jsj.hue.edu.cn. 3600	IN	A	202.197.144.214
+goodcourse.jsj.hue.edu.cn. 3600	IN	A	202.197.144.214
+netclass.jsj.hue.edu.cn. 3600	IN	A	202.197.144.214
+netstudy.jsj.hue.edu.cn. 3600	IN	A	202.197.144.214
+jsjy.hue.edu.cn.	3600	IN	A	202.197.144.232
+jsxl.hue.edu.cn.	3600	IN	A	202.197.144.232
+jw.hue.edu.cn.		3600	IN	A	202.197.144.232
+jwc.hue.edu.cn.		3600	IN	A	202.197.144.234
+jwjc.hue.edu.cn.	3600	IN	A	202.197.144.232
+jxjy.hue.edu.cn.	3600	IN	A	202.197.144.232
+jxx.hue.edu.cn.		3600	IN	A	202.197.144.232
+jylm.hue.edu.cn.	3600	IN	A	202.197.144.232
+kjx.hue.edu.cn.		3600	IN	A	202.197.144.232
+kyc.hue.edu.cn.		3600	IN	A	202.197.144.232
+ldxx.hue.edu.cn.	3600	IN	A	202.197.144.231
+lib.hue.edu.cn.		3600	IN	A	202.197.144.232
+ltx.hue.edu.cn.		3600	IN	A	202.197.144.232
+mail.hue.edu.cn.	3600	IN	A	202.197.144.195
+news.hue.edu.cn.	3600	IN	A	202.197.144.218
+pjw.hue.edu.cn.		3600	IN	A	202.197.144.234
+pop3.hue.edu.cn.	3600	IN	A	202.197.144.195
+qzlx.hue.edu.cn.	3600	IN	A	202.197.144.232
+res.hue.edu.cn.		3600	IN	A	202.197.159.2
+rsc.hue.edu.cn.		3600	IN	A	202.197.144.232
+sjc.hue.edu.cn.		3600	IN	A	202.197.144.232
+sjy.hue.edu.cn.		3600	IN	A	202.197.144.232
+smtp.hue.edu.cn.	3600	IN	A	202.197.144.195
+sty.hue.edu.cn.		3600	IN	A	202.197.144.232
+sys.hue.edu.cn.		3600	IN	A	202.197.144.239
+syzx.hue.edu.cn.	3600	IN	A	202.197.144.232
+teddc.hue.edu.cn.	3600	IN	A	202.197.144.232
+test.hue.edu.cn.	3600	IN	A	202.197.144.232
+thinkmail.hue.edu.cn.	3600	IN	A	202.197.144.195
+tmail.hue.edu.cn.	3600	IN	A	202.197.144.195
+tw.hue.edu.cn.		3600	IN	A	202.197.144.232
+tyx.hue.edu.cn.		3600	IN	A	202.197.144.232
+tzb.hue.edu.cn.		3600	IN	A	202.197.144.232
+wdy.hue.edu.cn.		3600	IN	A	202.197.144.232
+wgy.hue.edu.cn.		3600	IN	A	202.197.144.232
+whcy.hue.edu.cn.	3600	IN	A	202.197.144.232
+whjl.hue.edu.cn.	3600	IN	A	202.197.144.232
+wjcx.hue.edu.cn.	3600	IN	A	202.197.144.231
+www.hue.edu.cn.		3600	IN	A	202.197.144.231
+www.hue.edu.cn.		3600	IN	AAAA	2001:da8:3014:0:202:197:144:231
+wxy.hue.edu.cn.		3600	IN	A	202.197.144.232
+xcc.hue.edu.cn.		3600	IN	A	202.197.144.232
+xgb.hue.edu.cn.		3600	IN	A	202.197.144.232
+xkjs.hue.edu.cn.	3600	IN	A	202.197.144.232
+xqjy.hue.edu.cn.	3600	IN	A	202.197.144.232
+xyh.hue.edu.cn.		3600	IN	A	202.197.144.232
+xywfw.hue.edu.cn.	3600	IN	A	202.197.144.232
+yjsb.hue.edu.cn.	3600	IN	A	202.197.144.232
+ysxy.hue.edu.cn.	3600	IN	A	202.197.144.232
+yuanb.hue.edu.cn.	3600	IN	A	202.197.144.232
+zfx.hue.edu.cn.		3600	IN	A	202.197.144.232
+zkzs.hue.edu.cn.	3600	IN	A	202.197.144.232
+zpc.hue.edu.cn.		3600	IN	A	202.197.144.232
+zsb.hue.edu.cn.		3600	IN	A	202.197.144.232
+zt.hue.edu.cn.		3600	IN	A	202.197.144.232
+*.zt.hue.edu.cn.	3600	IN	A	202.197.144.232
+zzb.hue.edu.cn.		3600	IN	A	202.197.144.232
+hue.edu.cn.		3600	IN	SOA	dns.hubce.edu.cn. root.dns.hubce.edu.cn. 20120530 3600 900 3600000 3600
+;; Query time: 40 msec
+;; SERVER: 202.197.144.242#53(202.197.144.242)
+;; WHEN: Mon Apr 21 20:57:48 中国标准时间 2014
+;; XFR size: 91 records (messages 1, bytes 1957)
+

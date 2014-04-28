@@ -1,0 +1,110 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns.ccit.edu.cn axfr ccit.edu.cn
+; (1 server found)
+;; global options: +cmd
+ccit.edu.cn.		3600	IN	SOA	dns.ccit.edu.cn. root.ccit.edu.cn. 2014041504 30 30 360 3600
+ccit.edu.cn.		3600	IN	NS	dns.ccit.edu.cn.
+ccit.edu.cn.		3600	IN	MX	0 mail.ccit.edu.cn.
+arc.ccit.edu.cn.	3600	IN	A	210.47.47.26
+bb.ccit.edu.cn.		3600	IN	A	210.47.32.102
+bbs.ccit.edu.cn.	3600	IN	A	210.47.32.107
+bwb.ccit.edu.cn.	3600	IN	A	210.47.47.33
+ccitetc.ccit.edu.cn.	3600	IN	A	202.198.110.208
+cms.ccit.edu.cn.	3600	IN	A	210.47.32.124
+cwc.ccit.edu.cn.	3600	IN	A	210.47.47.55
+cyber.ccit.edu.cn.	3600	IN	A	210.47.33.28
+dns.ccit.edu.cn.	3600	IN	A	210.47.32.18
+dxxy.ccit.edu.cn.	3600	IN	A	210.47.37.5
+eng.ccit.edu.cn.	3600	IN	A	210.47.32.26
+ens.ccit.edu.cn.	3600	IN	A	210.47.32.28
+enstudy.ccit.edu.cn.	3600	IN	A	210.47.32.28
+fanyi.ccit.edu.cn.	3600	IN	A	210.47.32.28
+fwh.ccit.edu.cn.	3600	IN	A	210.47.47.57
+gfs.ccit.edu.cn.	3600	IN	A	210.47.32.103
+gfxy.ccit.edu.cn.	3600	IN	A	210.47.47.11
+gh.ccit.edu.cn.		3600	IN	A	210.47.47.52
+gj.ccit.edu.cn.		3600	IN	A	210.47.32.42
+gjg.ccit.edu.cn.	3600	IN	A	210.47.32.66
+glxy.ccit.edu.cn.	3600	IN	A	210.47.47.35
+godisagirl.ccit.edu.cn.	3600	IN	A	210.47.33.27
+gonghui.ccit.edu.cn.	3600	IN	A	210.47.32.28
+iced.ccit.edu.cn.	3600	IN	A	210.47.32.103
+jdxy.ccit.edu.cn.	3600	IN	A	210.47.37.76
+jgdw.ccit.edu.cn.	3600	IN	A	210.47.47.29
+jianzhu.ccit.edu.cn.	3600	IN	A	210.47.32.103
+jjc.ccit.edu.cn.	3600	IN	A	210.47.32.42
+jjjc.ccit.edu.cn.	3600	IN	A	36.49.92.72
+jlcjf.ccit.edu.cn.	3600	IN	A	210.47.32.28
+jlsl.ccit.edu.cn.	3600	IN	A	210.47.32.28
+job.ccit.edu.cn.	3600	IN	A	210.47.47.53
+jsfz.ccit.edu.cn.	3600	IN	A	210.47.47.45
+jwc.ccit.edu.cn.	3600	IN	A	210.47.47.18
+jxjy.ccit.edu.cn.	3600	IN	A	210.47.47.56
+jyfwc.ccit.edu.cn.	3600	IN	A	210.47.35.137
+jzxy.ccit.edu.cn.	3600	IN	A	210.47.32.42
+kcfz.ccit.edu.cn.	3600	IN	A	210.47.32.28
+kcxy.ccit.edu.cn.	3600	IN	A	210.47.47.16
+kjc.ccit.edu.cn.	3600	IN	A	210.47.32.42
+klxy.ccit.edu.cn.	3600	IN	A	10.47.39.94
+lib.ccit.edu.cn.	3600	IN	A	210.47.36.6
+ltb.ccit.edu.cn.	3600	IN	A	210.47.35.240
+mail.ccit.edu.cn.	3600	IN	A	210.47.32.12
+ndxy.ccit.edu.cn.	3600	IN	A	210.47.47.25
+ns.ccit.edu.cn.		3600	IN	A	210.47.32.18
+ns.ccit.edu.cn.		3600	IN	A	210.47.32.28
+oa.ccit.edu.cn.		3600	IN	A	210.47.32.42
+old.ccit.edu.cn.	3600	IN	A	210.47.32.28
+pinggu.ccit.edu.cn.	3600	IN	A	210.47.32.42
+pingjia.ccit.edu.cn.	3600	IN	A	210.47.32.28
+pop3.ccit.edu.cn.	3600	IN	A	210.47.32.12
+pp.ccit.edu.cn.		3600	IN	A	210.47.33.27
+qzlx.ccit.edu.cn.	3600	IN	A	210.47.47.51
+rsc.ccit.edu.cn.	3600	IN	A	210.47.35.23
+sbd.ccit.edu.cn.	3600	IN	A	210.47.47.49
+sfzx.ccit.edu.cn.	3600	IN	A	210.47.32.61
+shxy.ccit.edu.cn.	3600	IN	A	210.47.47.24
+sjc.ccit.edu.cn.	3600	IN	A	210.47.35.87
+skb.ccit.edu.cn.	3600	IN	A	210.47.37.199
+slgc.ccit.edu.cn.	3600	IN	A	210.47.32.103
+smtp.ccit.edu.cn.	3600	IN	A	210.47.32.12
+som.ccit.edu.cn.	3600	IN	A	210.47.34.94
+source.ccit.edu.cn.	3600	IN	A	210.47.32.103
+student.ccit.edu.cn.	3600	IN	A	210.47.47.47
+sxzx.ccit.edu.cn.	3600	IN	A	210.47.33.28
+szb.ccit.edu.cn.	3600	IN	A	210.47.47.49
+szzx.ccit.edu.cn.	3600	IN	A	210.47.32.28
+tmxy.ccit.edu.cn.	3600	IN	A	210.47.39.178
+tw.ccit.edu.cn.		3600	IN	A	210.47.47.47
+tyb.ccit.edu.cn.	3600	IN	A	210.47.32.28
+uxk.ccit.edu.cn.	3600	IN	A	202.198.178.65
+vod.ccit.edu.cn.	3600	IN	A	210.47.32.131
+women.ccit.edu.cn.	3600	IN	A	210.47.32.28
+www.ccit.edu.cn.	3600	IN	A	210.47.32.16
+www1.ccit.edu.cn.	3600	IN	A	210.47.32.103
+www2.ccit.edu.cn.	3600	IN	A	210.47.32.16
+www3.ccit.edu.cn.	3600	IN	A	210.47.32.28
+wyfanyi.ccit.edu.cn.	3600	IN	A	210.47.32.26
+wyx.ccit.edu.cn.	3600	IN	A	210.47.32.26
+xb.ccit.edu.cn.		3600	IN	A	210.47.32.28
+xbbjb.ccit.edu.cn.	3600	IN	A	210.47.47.59
+xcb.ccit.edu.cn.	3600	IN	A	210.47.47.49
+xinli.ccit.edu.cn.	3600	IN	A	210.47.32.103
+xq.ccit.edu.cn.		3600	IN	A	210.47.32.28
+xsc.ccit.edu.cn.	3600	IN	A	210.47.47.34
+xuewei.ccit.edu.cn.	3600	IN	A	210.47.32.28
+xy.ccit.edu.cn.		3600	IN	A	210.47.47.14
+yjsb.ccit.edu.cn.	3600	IN	A	210.47.32.108
+ykt.ccit.edu.cn.	3600	IN	A	10.198.66.10
+youth.ccit.edu.cn.	3600	IN	A	210.47.47.47
+zcjy.ccit.edu.cn.	3600	IN	A	210.47.32.28
+zhuanlan.ccit.edu.cn.	3600	IN	A	210.47.32.28
+zichan.ccit.edu.cn.	3600	IN	A	210.47.32.28
+zsb.ccit.edu.cn.	3600	IN	A	210.47.47.58
+zzb.ccit.edu.cn.	3600	IN	A	210.47.47.19
+zzb1.ccit.edu.cn.	3600	IN	A	210.47.32.103
+ccit.edu.cn.		3600	IN	SOA	dns.ccit.edu.cn. root.ccit.edu.cn. 2014041504 30 30 360 3600
+;; Query time: 62 msec
+;; SERVER: 210.47.32.18#53(210.47.32.18)
+;; WHEN: Mon Apr 21 20:50:18 中国标准时间 2014
+;; XFR size: 101 records (messages 1, bytes 2161)
+

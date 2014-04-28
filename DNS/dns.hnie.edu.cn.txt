@@ -1,0 +1,120 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns.hnie.edu.cn axfr hnie.edu.cn
+; (1 server found)
+;; global options: +cmd
+hnie.edu.cn.		259200	IN	SOA	dns.hnie.edu.cn. root.hnie.edu.cn. 2014041400 86400 1800 604800 1200
+hnie.edu.cn.		259200	IN	MX	5 mail.hnie.edu.cn.
+hnie.edu.cn.		259200	IN	NS	dns.hnie.edu.cn.
+bbs.hnie.edu.cn.	259200	IN	CNAME	c-isa.hnie.edu.cn.
+bwc.hnie.edu.cn.	259200	IN	CNAME	others.hnie.edu.cn.
+c-isa.hnie.edu.cn.	259200	IN	A	210.43.97.66
+cjy.hnie.edu.cn.	259200	IN	CNAME	others.hnie.edu.cn.
+control.hnie.edu.cn.	259200	IN	CNAME	others.hnie.edu.cn.
+cwc.hnie.edu.cn.	259200	IN	CNAME	others.hnie.edu.cn.
+cwcx.hnie.edu.cn.	259200	IN	CNAME	gjy.hnie.edu.cn.
+ddh.hnie.edu.cn.	259200	IN	CNAME	gjy.hnie.edu.cn.
+djdq.hnie.edu.cn.	259200	IN	CNAME	others.hnie.edu.cn.
+dlgl.hnie.edu.cn.	259200	IN	CNAME	gjy.hnie.edu.cn.
+dns.hnie.edu.cn.	259200	IN	A	202.197.240.5
+dqx.hnie.edu.cn.	259200	IN	CNAME	others.hnie.edu.cn.
+dzb.hnie.edu.cn.	259200	IN	CNAME	gjy.hnie.edu.cn.
+dzsh.hnie.edu.cn.	259200	IN	A	202.197.247.241
+dzz.hnie.edu.cn.	259200	IN	CNAME	gjy.hnie.edu.cn.
+eiec.hnie.edu.cn.	259200	IN	CNAME	others.hnie.edu.cn.
+ftp.hnie.edu.cn.	259200	IN	A	58.45.191.88
+fzgcsj.hnie.edu.cn.	259200	IN	CNAME	gjy.hnie.edu.cn.
+fzgh.hnie.edu.cn.	259200	IN	CNAME	others.hnie.edu.cn.
+fzx.hnie.edu.cn.	259200	IN	CNAME	gjy.hnie.edu.cn.
+gcc.hnie.edu.cn.	259200	IN	CNAME	others.hnie.edu.cn.
+gjs.hnie.edu.cn.	259200	IN	CNAME	others.hnie.edu.cn.
+gjy.hnie.edu.cn.	259200	IN	A	58.45.191.78
+gzc.hnie.edu.cn.	259200	IN	CNAME	others.hnie.edu.cn.
+hgx.hnie.edu.cn.	259200	IN	CNAME	others.hnie.edu.cn.
+hqc.hnie.edu.cn.	259200	IN	CNAME	others.hnie.edu.cn.
+ibi2011.hnie.edu.cn.	259200	IN	CNAME	others.hnie.edu.cn.
+in.hnie.edu.cn.		259200	IN	CNAME	gjy.hnie.edu.cn.
+jboss.hnie.edu.cn.	259200	IN	CNAME	c-isa.hnie.edu.cn.
+jgx.hnie.edu.cn.	259200	IN	CNAME	others.hnie.edu.cn.
+jjc.hnie.edu.cn.	259200	IN	CNAME	others.hnie.edu.cn.
+jpkc.hnie.edu.cn.	259200	IN	A	58.45.191.78
+jsjx.hnie.edu.cn.	259200	IN	CNAME	others.hnie.edu.cn.
+jwc.hnie.edu.cn.	259200	IN	CNAME	gjy.hnie.edu.cn.
+jwjc.hnie.edu.cn.	259200	IN	CNAME	others.hnie.edu.cn.
+jwmis.hnie.edu.cn.	259200	IN	A	58.45.191.89
+jxcgj.hnie.edu.cn.	259200	IN	CNAME	gjy.hnie.edu.cn.
+jxh.hnie.edu.cn.	259200	IN	CNAME	gjy.hnie.edu.cn.
+jxx.hnie.edu.cn.	259200	IN	CNAME	others.hnie.edu.cn.
+jzx.hnie.edu.cn.	259200	IN	CNAME	others.hnie.edu.cn.
+kjc.hnie.edu.cn.	259200	IN	CNAME	gjy.hnie.edu.cn.
+kxfz.hnie.edu.cn.	259200	IN	CNAME	others.hnie.edu.cn.
+kyc.hnie.edu.cn.	259200	IN	CNAME	gjy.hnie.edu.cn.
+ltc.hnie.edu.cn.	259200	IN	CNAME	others.hnie.edu.cn.
+m-isa.hnie.edu.cn.	259200	IN	A	222.243.169.194
+mail.hnie.edu.cn.	259200	IN	A	202.197.240.28
+megm2010.hnie.edu.cn.	259200	IN	CNAME	others.hnie.edu.cn.
+monitor.hnie.edu.cn.	259200	IN	CNAME	c-isa.hnie.edu.cn.
+netfw.hnie.edu.cn.	259200	IN	A	58.45.191.73
+nic.hnie.edu.cn.	259200	IN	CNAME	gjy.hnie.edu.cn.
+ftp.nic.hnie.edu.cn.	259200	IN	CNAME	c-isa.hnie.edu.cn.
+ns2.hnie.edu.cn.	259200	IN	A	202.197.241.1
+oa.hnie.edu.cn.		259200	IN	CNAME	others.hnie.edu.cn.
+oema2011.hnie.edu.cn.	259200	IN	CNAME	others.hnie.edu.cn.
+old.hnie.edu.cn.	259200	IN	CNAME	gjy.hnie.edu.cn.
+otherall.hnie.edu.cn.	259200	IN	CNAME	gjy.hnie.edu.cn.
+others.hnie.edu.cn.	259200	IN	A	58.45.191.90
+ouyang.hnie.edu.cn.	259200	IN	CNAME	others.hnie.edu.cn.
+pgb.hnie.edu.cn.	259200	IN	CNAME	others.hnie.edu.cn.
+procurve.hnie.edu.cn.	259200	IN	CNAME	others.hnie.edu.cn.
+qzlxhd.hnie.edu.cn.	259200	IN	CNAME	gjy.hnie.edu.cn.
+rsc.hnie.edu.cn.	259200	IN	CNAME	others.hnie.edu.cn.
+rsccp.hnie.edu.cn.	259200	IN	CNAME	gjy.hnie.edu.cn.
+rwx.hnie.edu.cn.	259200	IN	CNAME	gjy.hnie.edu.cn.
+service.hnie.edu.cn.	259200	IN	CNAME	others.hnie.edu.cn.
+shanghai.hnie.edu.cn.	259200	IN	A	222.73.163.64
+sjc.hnie.edu.cn.	259200	IN	CNAME	others.hnie.edu.cn.
+sjy.hnie.edu.cn.	259200	IN	CNAME	others.hnie.edu.cn.
+sky.hnie.edu.cn.	259200	IN	CNAME	c-isa.hnie.edu.cn.
+slx.hnie.edu.cn.	259200	IN	CNAME	others.hnie.edu.cn.
+sts.hnie.edu.cn.	259200	IN	CNAME	others.hnie.edu.cn.
+stu.hnie.edu.cn.	259200	IN	MX	10 mail.hnie.edu.cn.
+mail.stu.hnie.edu.cn.	259200	IN	CNAME	mail.hnie.edu.cn.
+syq.hnie.edu.cn.	259200	IN	CNAME	others.hnie.edu.cn.
+szhxy.hnie.edu.cn.	259200	IN	CNAME	www.hnie.edu.cn.
+www.szhxy.hnie.edu.cn.	259200	IN	CNAME	www.hnie.edu.cn.
+szhyy.hnie.edu.cn.	259200	IN	A	58.45.191.84
+www.szhyy.hnie.edu.cn.	259200	IN	CNAME	szhyy.hnie.edu.cn.
+taling.hnie.edu.cn.	259200	IN	A	58.45.191.76
+tsg.hnie.edu.cn.	259200	IN	CNAME	gjy.hnie.edu.cn.
+tv.hnie.edu.cn.		259200	IN	CNAME	c-isa.hnie.edu.cn.
+tyb.hnie.edu.cn.	259200	IN	CNAME	others.hnie.edu.cn.
+tzb.hnie.edu.cn.	259200	IN	CNAME	others.hnie.edu.cn.
+upc.hnie.edu.cn.	259200	IN	A	58.45.191.81
+v_jpkc.hnie.edu.cn.	259200	IN	CNAME	viewjp.hnie.edu.cn.
+viewjp.hnie.edu.cn.	259200	IN	A	58.45.191.83
+vpn.hnie.edu.cn.	259200	IN	A	58.45.191.69
+wlpt.hnie.edu.cn.	259200	IN	CNAME	jpkc.hnie.edu.cn.
+www.hnie.edu.cn.	259200	IN	A	58.45.191.75
+wyx.hnie.edu.cn.	259200	IN	CNAME	others.hnie.edu.cn.
+wzb.hnie.edu.cn.	259200	IN	CNAME	others.hnie.edu.cn.
+xcb.hnie.edu.cn.	259200	IN	CNAME	gjy.hnie.edu.cn.
+xqb.hnie.edu.cn.	259200	IN	CNAME	others.hnie.edu.cn.
+xsc.hnie.edu.cn.	259200	IN	CNAME	gjy.hnie.edu.cn.
+xxy.hnie.edu.cn.	259200	IN	CNAME	others.hnie.edu.cn.
+ygh.hnie.edu.cn.	259200	IN	CNAME	gjy.hnie.edu.cn.
+yjs.hnie.edu.cn.	259200	IN	CNAME	gjy.hnie.edu.cn.
+yjsc.hnie.edu.cn.	259200	IN	CNAME	gjy.hnie.edu.cn.
+www.yjsc.hnie.edu.cn.	259200	IN	CNAME	gjy.hnie.edu.cn.
+ykt.hnie.edu.cn.	259200	IN	CNAME	others.hnie.edu.cn.
+ypw.hnie.edu.cn.	259200	IN	CNAME	others.hnie.edu.cn.
+ytw.hnie.edu.cn.	259200	IN	CNAME	others.hnie.edu.cn.
+yywl.hnie.edu.cn.	259200	IN	A	122.224.4.11
+zjc.hnie.edu.cn.	259200	IN	CNAME	gjy.hnie.edu.cn.
+zsjy.hnie.edu.cn.	259200	IN	CNAME	gjy.hnie.edu.cn.
+www.zsjy.hnie.edu.cn.	259200	IN	CNAME	gjy.hnie.edu.cn.
+zzb.hnie.edu.cn.	259200	IN	CNAME	gjy.hnie.edu.cn.
+hnie.edu.cn.		259200	IN	SOA	dns.hnie.edu.cn. root.hnie.edu.cn. 2014041400 86400 1800 604800 1200
+;; Query time: 546 msec
+;; SERVER: 202.197.240.5#53(202.197.240.5)
+;; WHEN: Mon Apr 21 20:58:01 中国标准时间 2014
+;; XFR size: 111 records (messages 1, bytes 2197)
+

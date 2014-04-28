@@ -1,0 +1,117 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @sns.shmu.edu.cn axfr shmu.edu.cn
+; (1 server found)
+;; global options: +cmd
+shmu.edu.cn.		86400	IN	SOA	sns.shmu.edu.cn. root\@sh-smu.shmu.edu.cn. 19991411 14400 7200 604800 86400
+shmu.edu.cn.		86400	IN	NS	dns.shmu.edu.cn.
+shmu.edu.cn.		86400	IN	NS	sns.shmu.edu.cn.
+shmu.edu.cn.		86400	IN	MX	10 owngate.shmu.edu.cn.
+shmu.edu.cn.		86400	IN	MX	20 relay.shmu.edu.cn.
+shmu.edu.cn.		86400	IN	A	202.120.224.10
+account.shmu.edu.cn.	86400	IN	A	192.168.252.222
+anti.shmu.edu.cn.	86400	IN	A	202.120.79.44
+bmail.shmu.edu.cn.	86400	IN	A	202.120.79.44
+cancer.shmu.edu.cn.	86400	IN	A	202.120.224.10
+cancer.shmu.edu.cn.	86400	IN	MX	10 owngate.shmu.edu.cn.
+cancer.shmu.edu.cn.	86400	IN	MX	15 relay.shmu.edu.cn.
+cdserver1.shmu.edu.cn.	86400	IN	A	202.120.64.43
+ch.shmu.edu.cn.		86400	IN	A	202.120.64.6
+dangjian.ch.shmu.edu.cn. 86400	IN	A	202.120.64.6
+www.ch.shmu.edu.cn.	86400	IN	A	202.120.64.6
+js.edu.cn.shmu.edu.cn.	86400	IN	A	202.120.79.221
+shmu.edu.cn.shmu.edu.cn. 86400	IN	NS	dns.shmu.edu.cn.
+dns.shmu.edu.cn.	86400	IN	A	202.120.79.34
+drforum.shmu.edu.cn.	86400	IN	A	61.129.42.208
+eent.shmu.edu.cn.	86400	IN	A	202.120.224.10
+eent.shmu.edu.cn.	86400	IN	MX	10 owngate.shmu.edu.cn.
+eent.shmu.edu.cn.	86400	IN	MX	15 relay.shmu.edu.cn.
+www.eent.shmu.edu.cn.	86400	IN	A	202.120.64.12
+erkyy.shmu.edu.cn.	86400	IN	A	202.120.224.10
+erkyy.shmu.edu.cn.	86400	IN	MX	10 owngate.shmu.edu.cn.
+erkyy.shmu.edu.cn.	86400	IN	MX	15 relay.shmu.edu.cn.
+esx246.shmu.edu.cn.	86400	IN	A	192.168.79.246
+esx247.shmu.edu.cn.	86400	IN	A	192.168.79.247
+esx248.shmu.edu.cn.	86400	IN	A	192.168.79.248
+esx6471.shmu.edu.cn.	86400	IN	A	202.120.64.71
+esx6472.shmu.edu.cn.	86400	IN	A	202.120.64.72
+esx7931.shmu.edu.cn.	86400	IN	A	192.168.79.31
+esx7932.shmu.edu.cn.	86400	IN	A	192.168.79.32
+esx7933.shmu.edu.cn.	86400	IN	A	192.168.79.33
+esx7934.shmu.edu.cn.	86400	IN	A	192.168.79.34
+f5.shmu.edu.cn.		86400	IN	NS	f5-1.shmu.edu.cn.
+f5-1.shmu.edu.cn.	86400	IN	A	61.129.42.201
+f5-1.shmu.edu.cn.	86400	IN	A	203.95.5.69
+f5-1.shmu.edu.cn.	86400	IN	A	219.228.15.253
+fd.shmu.edu.cn.		86400	IN	A	202.120.64.16
+ftp.shmu.edu.cn.	86400	IN	CNAME	shmu-server.shmu.edu.cn.
+fuchanke.shmu.edu.cn.	86400	IN	A	61.129.42.22
+fys.shmu.edu.cn.	86400	IN	A	202.120.224.10
+fys.shmu.edu.cn.	86400	IN	MX	10 owngate.shmu.edu.cn.
+fys.shmu.edu.cn.	86400	IN	MX	15 relay.shmu.edu.cn.
+www.fys.shmu.edu.cn.	86400	IN	A	202.120.224.114
+goh.shmu.edu.cn.	86400	IN	A	202.120.224.10
+goh.shmu.edu.cn.	86400	IN	MX	10 owngate.shmu.edu.cn.
+goh.shmu.edu.cn.	86400	IN	MX	15 relay.shmu.edu.cn.
+gw.shmu.edu.cn.		86400	IN	A	202.120.79.44
+hceo.shmu.edu.cn.	86400	IN	A	61.129.42.210
+hsh.shmu.edu.cn.	86400	IN	A	202.120.224.10
+hsh.shmu.edu.cn.	86400	IN	MX	10 owngate.shmu.edu.cn.
+hsh.shmu.edu.cn.	86400	IN	MX	15 relay.shmu.edu.cn.
+ipv6.shmu.edu.cn.	86400	IN	AAAA	2001:251:7805:1079::41
+isas.shmu.edu.cn.	86400	IN	NS	isas.isas.shmu.edu.cn.
+isas.isas.shmu.edu.cn.	86400	IN	A	202.120.79.220
+isas2.shmu.edu.cn.	86400	IN	NS	isas2.isas2.shmu.edu.cn.
+isas2.isas2.shmu.edu.cn. 86400	IN	A	202.120.79.222
+jcml.shmu.edu.cn.	86400	IN	A	202.120.64.11
+jiepou.shmu.edu.cn.	86400	IN	A	202.120.64.20
+js.shmu.edu.cn.		86400	IN	A	202.120.79.221
+jsyy.shmu.edu.cn.	86400	IN	A	202.120.224.10
+jsyy.shmu.edu.cn.	86400	IN	MX	10 owngate.shmu.edu.cn.
+jsyy.shmu.edu.cn.	86400	IN	MX	15 relay.shmu.edu.cn.
+www.jsyy.shmu.edu.cn.	86400	IN	CNAME	jsyy.shmu.edu.cn.
+keyan.shmu.edu.cn.	86400	IN	A	202.120.64.24
+kyb.shmu.edu.cn.	86400	IN	A	202.120.64.36
+www.library.shmu.edu.cn. 86400	IN	A	202.120.76.225
+mail.shmu.edu.cn.	86400	IN	A	202.120.224.10
+netrai.shmu.edu.cn.	86400	IN	CNAME	dns.shmu.edu.cn.
+owngate.shmu.edu.cn.	86400	IN	A	202.120.224.10
+proxy.shmu.edu.cn.	86400	IN	A	202.120.79.222
+proxy1.shmu.edu.cn.	86400	IN	A	202.120.79.221
+relay.shmu.edu.cn.	86400	IN	A	61.129.42.10
+sci.shmu.edu.cn.	86400	IN	A	202.120.224.10
+sci.shmu.edu.cn.	86400	IN	MX	10 owngate.shmu.edu.cn.
+sci.shmu.edu.cn.	86400	IN	MX	15 relay.shmu.edu.cn.
+sh-smu.shmu.edu.cn.	86400	IN	CNAME	shmu.edu.cn.
+shbljs.shmu.edu.cn.	86400	IN	A	202.120.64.16
+shec.shmu.edu.cn.	86400	IN	CNAME	squid.f5.shec.edu.cn.
+shmc.shmu.edu.cn.	86400	IN	A	202.120.224.114
+shmu-email.shmu.edu.cn.	86400	IN	A	202.120.79.35
+shmu-ser2.shmu.edu.cn.	86400	IN	A	202.120.79.41
+shtm1.shmu.edu.cn.	86400	IN	A	202.120.64.31
+shtm2.shmu.edu.cn.	86400	IN	A	61.129.42.216
+sns.shmu.edu.cn.	86400	IN	A	202.120.79.35
+swk.shmu.edu.cn.	86400	IN	A	202.120.224.10
+swk.shmu.edu.cn.	86400	IN	MX	10 owngate.shmu.edu.cn.
+swk.shmu.edu.cn.	86400	IN	MX	15 relay.shmu.edu.cn.
+www.swk.shmu.edu.cn.	86400	IN	CNAME	squid.f5.shec.edu.cn.
+www1.swk.shmu.edu.cn.	86400	IN	CNAME	squid.f5.shec.edu.cn.
+sydj.shmu.edu.cn.	86400	IN	A	202.120.224.114
+test.shmu.edu.cn.	86400	IN	MX	10 mail.test.shmu.edu.cn.
+mail.test.shmu.edu.cn.	86400	IN	A	202.120.79.48
+uis3.shmu.edu.cn.	86400	IN	A	192.168.79.120
+vc245.shmu.edu.cn.	86400	IN	A	192.168.79.245
+webmail.shmu.edu.cn.	86400	IN	MX	10 owngate.shmu.edu.cn.
+webmail.shmu.edu.cn.	86400	IN	MX	15 relay.shmu.edu.cn.
+webmail.shmu.edu.cn.	86400	IN	MX	20 relay.shmu.edu.cn.
+webmail.shmu.edu.cn.	86400	IN	A	202.120.224.10
+whotcm.shmu.edu.cn.	86400	IN	CNAME	shmc.shmu.edu.cn.
+www.shmu.edu.cn.	86400	IN	A	202.120.79.41
+zsyy.shmu.edu.cn.	86400	IN	A	202.120.224.10
+zsyy.shmu.edu.cn.	86400	IN	MX	10 owngate.shmu.edu.cn.
+zsyy.shmu.edu.cn.	86400	IN	MX	15 relay.shmu.edu.cn.
+shmu.edu.cn.		86400	IN	SOA	sns.shmu.edu.cn. root\@sh-smu.shmu.edu.cn. 19991411 14400 7200 604800 86400
+;; Query time: 80 msec
+;; SERVER: 202.120.79.35#53(202.120.79.35)
+;; WHEN: Mon Apr 21 20:55:01 中国标准时间 2014
+;; XFR size: 108 records (messages 1, bytes 2270)
+

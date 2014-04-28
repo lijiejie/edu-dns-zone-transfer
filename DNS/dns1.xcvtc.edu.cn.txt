@@ -1,0 +1,104 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns1.xcvtc.edu.cn axfr xcvtc.edu.cn
+; (1 server found)
+;; global options: +cmd
+xcvtc.edu.cn.		21600	IN	SOA	dns1.xcvtc.edu.cn. dns1.xcvtc.edu.cn. 20080506 10800 3600 604800 86400
+xcvtc.edu.cn.		21600	IN	NS	dns1.xcvtc.edu.cn.
+xcvtc.edu.cn.		21600	IN	A	218.22.204.139
+xcvtc.edu.cn.		21600	IN	MX	10 mx.mail.ym.163.com.
+www.ae.xcvtc.edu.cn.	21600	IN	A	218.22.204.135
+bgs.xcvtc.edu.cn.	21600	IN	A	218.22.204.134
+www.bgs.xcvtc.edu.cn.	21600	IN	A	218.22.204.134
+www.bm.xcvtc.edu.cn.	21600	IN	A	218.22.204.135
+www.bwc.xcvtc.edu.cn.	21600	IN	A	218.22.204.143
+course.xcvtc.edu.cn.	21600	IN	A	10.10.222.34
+www.course.xcvtc.edu.cn. 21600	IN	A	10.10.222.34
+cwc.xcvtc.edu.cn.	21600	IN	A	218.22.204.134
+www.cwc.xcvtc.edu.cn.	21600	IN	A	218.22.204.134
+cyzx.xcvtc.edu.cn.	21600	IN	A	218.22.204.132
+www.cyzx.xcvtc.edu.cn.	21600	IN	A	218.22.204.132
+ddkstzd.xcvtc.edu.cn.	21600	IN	A	218.22.204.134
+dns1.xcvtc.edu.cn.	21600	IN	A	219.231.24.2
+dns2.xcvtc.edu.cn.	21600	IN	A	218.22.204.131
+www.dw.xcvtc.edu.cn.	21600	IN	A	218.22.204.132
+www.dwgk.xcvtc.edu.cn.	21600	IN	A	218.22.204.134
+gh.xcvtc.edu.cn.	21600	IN	A	218.22.204.132
+www.gh.xcvtc.edu.cn.	21600	IN	A	218.22.204.132
+hlx.xcvtc.edu.cn.	21600	IN	A	218.22.204.132
+www.hlx.xcvtc.edu.cn.	21600	IN	A	218.22.204.132
+jcb.xcvtc.edu.cn.	21600	IN	A	218.22.204.134
+www.jcb.xcvtc.edu.cn.	21600	IN	A	218.22.204.134
+www.jgjy.xcvtc.edu.cn.	21600	IN	A	218.22.204.132
+jjb.xcvtc.edu.cn.	21600	IN	A	218.22.204.132
+www.jjb.xcvtc.edu.cn.	21600	IN	A	218.22.204.132
+www.job.xcvtc.edu.cn.	21600	IN	A	218.22.204.132
+jpk.xcvtc.edu.cn.	21600	IN	A	218.22.204.133
+www.jpk.xcvtc.edu.cn.	21600	IN	A	218.22.204.133
+www.jpkc.xcvtc.edu.cn.	21600	IN	A	218.22.204.143
+www.jw.xcvtc.edu.cn.	21600	IN	A	218.22.204.132
+www.jwc.xcvtc.edu.cn.	21600	IN	A	218.22.204.135
+wap.jwxt.xcvtc.edu.cn.	21600	IN	A	218.22.204.135
+www.jwxt.xcvtc.edu.cn.	21600	IN	A	218.22.204.135
+www.jwxtadmin.xcvtc.edu.cn. 21600 IN	A	10.10.253.41
+jxsoft.xcvtc.edu.cn.	21600	IN	A	10.10.222.9
+www.jzysx.xcvtc.edu.cn.	21600	IN	A	218.22.204.143
+libapp.xcvtc.edu.cn.	21600	IN	A	218.22.204.137
+www.lqcx.xcvtc.edu.cn.	21600	IN	A	218.22.204.135
+ls.xcvtc.edu.cn.	21600	IN	A	218.22.204.132
+lysmx.xcvtc.edu.cn.	21600	IN	A	218.22.204.134
+www.lysmx.xcvtc.edu.cn.	21600	IN	A	218.22.204.134
+www.lzjs.xcvtc.edu.cn.	21600	IN	A	218.22.204.132
+mail.xcvtc.edu.cn.	21600	IN	CNAME	ym.163.com.
+metc.xcvtc.edu.cn.	21600	IN	A	218.22.204.139
+www.metc.xcvtc.edu.cn.	21600	IN	A	218.22.204.139
+mycard.xcvtc.edu.cn.	21600	IN	A	218.22.204.139
+myecard.xcvtc.edu.cn.	21600	IN	A	218.22.204.139
+new.xcvtc.edu.cn.	21600	IN	A	218.22.204.132
+pjw.xcvtc.edu.cn.	21600	IN	A	218.22.204.132
+www.pjw.xcvtc.edu.cn.	21600	IN	A	218.22.204.132
+poscard.xcvtc.edu.cn.	21600	IN	A	218.22.204.134
+sms.public.xcvtc.edu.cn. 21600	IN	A	10.10.254.28
+www.sms.public.xcvtc.edu.cn. 21600 IN	A	10.10.254.28
+qcgcx.xcvtc.edu.cn.	21600	IN	A	218.22.204.134
+www.qcgcx.xcvtc.edu.cn.	21600	IN	A	218.22.204.134
+www.qzlx.xcvtc.edu.cn.	21600	IN	A	218.22.204.132
+rsc.xcvtc.edu.cn.	21600	IN	A	218.22.204.134
+www.rsc.xcvtc.edu.cn.	21600	IN	A	218.22.204.134
+www.server.xcvtc.edu.cn. 21600	IN	A	218.22.204.156
+shzfjs.xcvtc.edu.cn.	21600	IN	A	218.22.204.132
+www.sjx.xcvtc.edu.cn.	21600	IN	A	218.22.204.132
+sz.xcvtc.edu.cn.	21600	IN	A	218.22.204.132
+www.sz.xcvtc.edu.cn.	21600	IN	A	218.22.204.132
+www.ta.xcvtc.edu.cn.	21600	IN	A	218.22.204.156
+tsg.xcvtc.edu.cn.	21600	IN	A	218.22.204.133
+www.tsg.xcvtc.edu.cn.	21600	IN	A	218.22.204.133
+vpn.xcvtc.edu.cn.	21600	IN	A	218.22.204.144
+whdqwx.xcvtc.edu.cn.	21600	IN	A	218.22.204.130
+www.whdqwx.xcvtc.edu.cn. 21600	IN	A	218.22.204.130
+wlan.xcvtc.edu.cn.	21600	IN	A	10.10.200.70
+www.wmw.xcvtc.edu.cn.	21600	IN	A	218.22.204.132
+www.xcvtc.edu.cn.	21600	IN	A	218.22.204.139
+www.wx.xcvtc.edu.cn.	21600	IN	A	218.22.204.130
+www.xcdd.xcvtc.edu.cn.	21600	IN	A	218.22.204.130
+www.xlzx.xcvtc.edu.cn.	21600	IN	A	218.22.204.143
+xsc.xcvtc.edu.cn.	21600	IN	A	218.22.204.134
+www.xsc.xcvtc.edu.cn.	21600	IN	A	218.22.204.134
+xszz.xcvtc.edu.cn.	21600	IN	A	218.22.204.134
+www.xszz.xcvtc.edu.cn.	21600	IN	A	218.22.204.134
+xxgcx.xcvtc.edu.cn.	21600	IN	A	10.10.222.34
+www.xxgcx.xcvtc.edu.cn.	21600	IN	A	10.10.222.34
+de.xxgxc.xcvtc.edu.cn.	21600	IN	A	10.10.222.34
+www.de.xxgxc.xcvtc.edu.cn. 21600 IN	A	10.10.222.34
+*.zs.xcvtc.edu.cn.	21600	IN	A	218.22.204.135
+www.bmyx.zs.xcvtc.edu.cn. 21600	IN	A	218.22.204.156
+www.phone.zs.xcvtc.edu.cn. 21600 IN	A	10.10.253.41
+search.zs.xcvtc.edu.cn.	21600	IN	CNAME	search.discuz.qq.com.
+www.zs.xcvtc.edu.cn.	21600	IN	A	218.22.204.141
+www1.zs.xcvtc.edu.cn.	21600	IN	A	218.22.204.135
+www.zwc.xcvtc.edu.cn.	21600	IN	A	218.22.204.143
+xcvtc.edu.cn.		21600	IN	SOA	dns1.xcvtc.edu.cn. dns1.xcvtc.edu.cn. 20080506 10800 3600 604800 86400
+;; Query time: 49 msec
+;; SERVER: 219.231.24.2#53(219.231.24.2)
+;; WHEN: Mon Apr 21 20:53:26 中国标准时间 2014
+;; XFR size: 95 records (messages 1, bytes 2157)
+

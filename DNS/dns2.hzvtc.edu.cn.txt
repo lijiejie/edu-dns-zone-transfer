@@ -1,0 +1,49 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns2.hzvtc.edu.cn axfr hzvtc.edu.cn
+; (1 server found)
+;; global options: +cmd
+hzvtc.edu.cn.		3600	IN	SOA	dns.hzvtc.edu.cn. root.hzvtc.edu.cn. 2014041402 30 30 360 3600
+hzvtc.edu.cn.		3600	IN	NS	dns.hzvtc.edu.cn.
+hzvtc.edu.cn.		3600	IN	NS	dns2.hzvtc.edu.cn.
+hzvtc.edu.cn.		3600	IN	NS	dns3.hzvtc.edu.cn.
+hzvtc.edu.cn.		3600	IN	MX	10 mail.hzvtc.edu.cn.
+all.hzvtc.edu.cn.	3600	IN	A	60.191.116.163
+byhj.hzvtc.edu.cn.	3600	IN	A	60.191.116.170
+chqs.hzvtc.edu.cn.	3600	IN	A	60.191.116.174
+cms.hzvtc.edu.cn.	3600	IN	A	60.191.116.170
+cyy.hzvtc.edu.cn.	3600	IN	A	60.191.116.177
+dlw.hzvtc.edu.cn.	3600	IN	A	60.191.116.180
+dlzyzx.hzvtc.edu.cn.	3600	IN	A	10.191.116.176
+dns.hzvtc.edu.cn.	3600	IN	A	210.33.142.1
+dns2.hzvtc.edu.cn.	3600	IN	A	60.191.116.166
+dns3.hzvtc.edu.cn.	3600	IN	A	10.2.1.9
+exam.hzvtc.edu.cn.	3600	IN	A	60.191.116.177
+ggyx.hzvtc.edu.cn.	3600	IN	A	60.191.116.177
+jpkc.hzvtc.edu.cn.	3600	IN	A	60.191.116.174
+jxcg.hzvtc.edu.cn.	3600	IN	A	60.191.116.175
+jy.hzvtc.edu.cn.	3600	IN	A	60.191.116.177
+ljxy.hzvtc.edu.cn.	3600	IN	A	60.191.116.177
+ljxyw.hzvtc.edu.cn.	3600	IN	A	60.191.116.180
+mail.hzvtc.edu.cn.	3600	IN	MX	10 smtp.hzvtc.edu.cn.
+mail.hzvtc.edu.cn.	3600	IN	A	60.191.116.186
+ms.hzvtc.edu.cn.	3600	IN	A	60.191.116.172
+oa.hzvtc.edu.cn.	3600	IN	A	60.191.116.165
+pjpg.hzvtc.edu.cn.	3600	IN	A	60.191.116.178
+smtp.hzvtc.edu.cn.	3600	IN	A	60.191.116.186
+st.hzvtc.edu.cn.	3600	IN	A	124.160.89.237
+vsys.hzvtc.edu.cn.	3600	IN	A	60.191.116.171
+wg.hzvtc.edu.cn.	3600	IN	A	60.191.116.177
+www.hzvtc.edu.cn.	3600	IN	A	60.191.116.178
+wxgb.hzvtc.edu.cn.	3600	IN	A	60.191.116.177
+xsyzc.hzvtc.edu.cn.	3600	IN	A	60.191.116.174
+yszl.hzvtc.edu.cn.	3600	IN	A	60.191.116.174
+zs.hzvtc.edu.cn.	3600	IN	A	60.191.116.175
+zsjy.hzvtc.edu.cn.	3600	IN	A	60.191.116.177
+zysbsw.hzvtc.edu.cn.	3600	IN	A	60.191.116.180
+zzzs.hzvtc.edu.cn.	3600	IN	A	60.191.116.164
+hzvtc.edu.cn.		3600	IN	SOA	dns.hzvtc.edu.cn. root.hzvtc.edu.cn. 2014041402 30 30 360 3600
+;; Query time: 47 msec
+;; SERVER: 60.191.116.166#53(60.191.116.166)
+;; WHEN: Mon Apr 21 20:56:21 中国标准时间 2014
+;; XFR size: 40 records (messages 1, bytes 862)
+

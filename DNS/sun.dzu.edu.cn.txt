@@ -1,0 +1,113 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @sun.dzu.edu.cn axfr dzu.edu.cn
+; (1 server found)
+;; global options: +cmd
+dzu.edu.cn.		86400	IN	SOA	sun.dzu.edu.cn. root.dzu.edu.cn. 2003072201 10800 3600 604800 86400
+dzu.edu.cn.		86400	IN	NS	sun.dzu.edu.cn.
+dzu.edu.cn.		86400	IN	MX	5 mail.dzu.edu.cn.
+dzu.edu.cn.		86400	IN	MX	7 mail1.dzu.edu.cn.
+#.dzu.edu.cn.		86400	IN	MX	6 sun.dzu.edu.cn.
+#dzujy.dzu.edu.cn.	86400	IN	CNAME	www2.dzu.edu.cn.
+#jsjxyzx.dzu.edu.cn.	86400	IN	CNAME	www2.dzu.edu.cn.
+#mail.dzu.edu.cn.	86400	IN	CNAME	sun.dzu.edu.cn.
+#mail1.dzu.edu.cn.	86400	IN	A	211.64.32.3
+40xq.dzu.edu.cn.	86400	IN	CNAME	www2.dzu.edu.cn.
+bjb.dzu.edu.cn.		86400	IN	CNAME	www2.dzu.edu.cn.
+bwc.dzu.edu.cn.		86400	IN	CNAME	www2.dzu.edu.cn.
+bxn.dzu.edu.cn.		86400	IN	A	192.168.185.66
+crjy.dzu.edu.cn.	86400	IN	CNAME	www2.dzu.edu.cn.
+cwc.dzu.edu.cn.		86400	IN	CNAME	www2.dzu.edu.cn.
+cyb.dzu.edu.cn.		86400	IN	CNAME	www2.dzu.edu.cn.
+dlx.dzu.edu.cn.		86400	IN	CNAME	www2.dzu.edu.cn.
+dwb.dzu.edu.cn.		86400	IN	CNAME	www2.dzu.edu.cn.
+dzsjds.dzu.edu.cn.	86400	IN	CNAME	www2.dzu.edu.cn.
+dzudlx.dzu.edu.cn.	86400	IN	CNAME	www2.dzu.edu.cn.
+dzujy.dzu.edu.cn.	86400	IN	A	211.64.32.76
+dzujysj.dzu.edu.cn.	86400	IN	CNAME	www2.dzu.edu.cn.
+dzusjc.dzu.edu.cn.	86400	IN	CNAME	www2.dzu.edu.cn.
+dzustlhh.dzu.edu.cn.	86400	IN	CNAME	www2.dzu.edu.cn.
+dzuyyxy.dzu.edu.cn.	86400	IN	CNAME	www2.dzu.edu.cn.
+dzxyfwxsys.dzu.edu.cn.	86400	IN	CNAME	www2.dzu.edu.cn.
+dzxyxb.dzu.edu.cn.	86400	IN	CNAME	www2.dzu.edu.cn.
+dzz.dzu.edu.cn.		86400	IN	CNAME	www2.dzu.edu.cn.
+ecce.dzu.edu.cn.	86400	IN	CNAME	www2.dzu.edu.cn.
+fwdz.dzu.edu.cn.	86400	IN	CNAME	www2.dzu.edu.cn.
+fzfz.dzu.edu.cn.	86400	IN	CNAME	www2.dzu.edu.cn.
+fzgh.dzu.edu.cn.	86400	IN	CNAME	www2.dzu.edu.cn.
+gh.dzu.edu.cn.		86400	IN	CNAME	www2.dzu.edu.cn.
+hfpy.dzu.edu.cn.	86400	IN	CNAME	www2.dzu.edu.cn.
+hq.dzu.edu.cn.		86400	IN	CNAME	www2.dzu.edu.cn.
+hxx.dzu.edu.cn.		86400	IN	CNAME	www2.dzu.edu.cn.
+jdx.dzu.edu.cn.		86400	IN	CNAME	www2.dzu.edu.cn.
+jdxxnyzx.dzu.edu.cn.	86400	IN	CNAME	www2.dzu.edu.cn.
+jfwg.dzu.edu.cn.	86400	IN	A	211.64.32.6
+jgx.dzu.edu.cn.		86400	IN	CNAME	www2.dzu.edu.cn.
+jjc.dzu.edu.cn.		86400	IN	CNAME	www2.dzu.edu.cn.
+jpk.dzu.edu.cn.		86400	IN	A	211.64.32.18
+jsjsyzx.dzu.edu.cn.	86400	IN	CNAME	www2.dzu.edu.cn.
+jsjx.dzu.edu.cn.	86400	IN	CNAME	www2.dzu.edu.cn.
+jw.dzu.edu.cn.		86400	IN	CNAME	www2.dzu.edu.cn.
+jyx.dzu.edu.cn.		86400	IN	CNAME	www2.dzu.edu.cn.
+kczy.dzu.edu.cn.	86400	IN	A	211.64.32.72
+kyc.dzu.edu.cn.		86400	IN	CNAME	www2.dzu.edu.cn.
+lib.dzu.edu.cn.		86400	IN	A	211.64.33.1
+localhost.dzu.edu.cn.	86400	IN	A	127.0.0.1
+lsx.dzu.edu.cn.		86400	IN	CNAME	www2.dzu.edu.cn.
+ltx.dzu.edu.cn.		86400	IN	CNAME	www2.dzu.edu.cn.
+mail.dzu.edu.cn.	86400	IN	A	211.64.32.5
+main.dzu.edu.cn.	86400	IN	A	192.168.185.155
+med.dzu.edu.cn.		86400	IN	CNAME	www2.dzu.edu.cn.
+metc.dzu.edu.cn.	86400	IN	CNAME	www2.dzu.edu.cn.
+msxy.dzu.edu.cn.	86400	IN	CNAME	www2.dzu.edu.cn.
+nc.dzu.edu.cn.		86400	IN	A	211.64.32.2
+nxx.dzu.edu.cn.		86400	IN	CNAME	www2.dzu.edu.cn.
+oa.dzu.edu.cn.		86400	IN	A	211.64.32.2
+qcgc.dzu.edu.cn.	86400	IN	CNAME	www2.dzu.edu.cn.
+qcgcxlzx.dzu.edu.cn.	86400	IN	CNAME	www2.dzu.edu.cn.
+qcx.dzu.edu.cn.		86400	IN	CNAME	www2.dzu.edu.cn.
+rsc.dzu.edu.cn.		86400	IN	CNAME	www2.dzu.edu.cn.
+sdsswwlsys.dzu.edu.cn.	86400	IN	CNAME	www2.dzu.edu.cn.
+skb.dzu.edu.cn.		86400	IN	CNAME	www2.dzu.edu.cn.
+skc.dzu.edu.cn.		86400	IN	CNAME	www2.dzu.edu.cn.
+stu.dzu.edu.cn.		86400	IN	A	211.64.32.7
+stu.dzu.edu.cn.		86400	IN	MX	5 stu.dzu.edu.cn.
+sun.dzu.edu.cn.		86400	IN	A	211.64.32.1
+swx.dzu.edu.cn.		86400	IN	CNAME	www2.dzu.edu.cn.
+sxx.dzu.edu.cn.		86400	IN	CNAME	www2.dzu.edu.cn.
+tyxy.dzu.edu.cn.	86400	IN	CNAME	www2.dzu.edu.cn.
+wbs.dzu.edu.cn.		86400	IN	A	192.168.185.50
+wbsa.dzu.edu.cn.	86400	IN	A	211.64.33.165
+wbsb.dzu.edu.cn.	86400	IN	A	211.64.33.165
+wbsweb.dzu.edu.cn.	86400	IN	A	192.168.185.50
+web.dzu.edu.cn.		86400	IN	A	192.168.185.155
+wlsyzx.dzu.edu.cn.	86400	IN	CNAME	www2.dzu.edu.cn.
+wlx.dzu.edu.cn.		86400	IN	CNAME	www2.dzu.edu.cn.
+wlxxxsj.dzu.edu.cn.	86400	IN	CNAME	www2.dzu.edu.cn.
+wsc.dzu.edu.cn.		86400	IN	CNAME	www2.dzu.edu.cn.
+www.dzu.edu.cn.		86400	IN	CNAME	sun.dzu.edu.cn.
+www1.dzu.edu.cn.	86400	IN	A	211.64.32.2
+www2.dzu.edu.cn.	86400	IN	A	211.64.32.8
+wyx.dzu.edu.cn.		86400	IN	CNAME	www2.dzu.edu.cn.
+xbcy.dzu.edu.cn.	86400	IN	CNAME	www2.dzu.edu.cn.
+xcb.dzu.edu.cn.		86400	IN	CNAME	www2.dzu.edu.cn.
+xingfu.dzu.edu.cn.	86400	IN	A	211.64.47.161
+xsc.dzu.edu.cn.		86400	IN	CNAME	www2.dzu.edu.cn.
+xwzx.dzu.edu.cn.	86400	IN	A	211.64.32.4
+xyw.dzu.edu.cn.		86400	IN	A	192.168.200.200
+youth.dzu.edu.cn.	86400	IN	A	211.64.32.83
+youth1.dzu.edu.cn.	86400	IN	A	211.64.32.7
+yyx.dzu.edu.cn.		86400	IN	CNAME	www2.dzu.edu.cn.
+yyxh.dzu.edu.cn.	86400	IN	CNAME	www2.dzu.edu.cn.
+yzbgs.dzu.edu.cn.	86400	IN	CNAME	www2.dzu.edu.cn.
+zcc.dzu.edu.cn.		86400	IN	CNAME	www2.dzu.edu.cn.
+zfx.dzu.edu.cn.		86400	IN	CNAME	www2.dzu.edu.cn.
+zsw.dzu.edu.cn.		86400	IN	CNAME	www2.dzu.edu.cn.
+zwx.dzu.edu.cn.		86400	IN	CNAME	www2.dzu.edu.cn.
+zwxyxcb.dzu.edu.cn.	86400	IN	CNAME	www2.dzu.edu.cn.
+zzb.dzu.edu.cn.		86400	IN	CNAME	www2.dzu.edu.cn.
+dzu.edu.cn.		86400	IN	SOA	sun.dzu.edu.cn. root.dzu.edu.cn. 2003072201 10800 3600 604800 86400
+;; Query time: 54 msec
+;; SERVER: 211.64.32.1#53(211.64.32.1)
+;; WHEN: Mon Apr 21 20:54:18 中国标准时间 2014
+;; XFR size: 104 records (messages 1, bytes 2105)
+

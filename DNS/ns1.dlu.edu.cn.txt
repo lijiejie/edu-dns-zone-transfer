@@ -1,0 +1,105 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @ns1.dlu.edu.cn axfr dlu.edu.cn
+; (1 server found)
+;; global options: +cmd
+dlu.edu.cn.		7200	IN	SOA	ns1.dlu.edu.cn. zt.dlu.edu.cn. 2010062803 28800 14400 3600000 86400
+dlu.edu.cn.		7200	IN	NS	ns1.dlu.edu.cn.
+dlu.edu.cn.		7200	IN	MX	1 mail.dlu.edu.cn.
+abcabc.dlu.edu.cn.	7200	IN	A	202.199.159.225
+adic.dlu.edu.cn.	7200	IN	A	202.199.159.247
+alumni.dlu.edu.cn.	7200	IN	A	202.199.159.225
+anquan.dlu.edu.cn.	7200	IN	A	202.199.159.225
+aso.dlu.edu.cn.		7200	IN	A	202.199.159.252
+awh.dlu.edu.cn.		7200	IN	A	202.199.159.225
+bbs.dlu.edu.cn.		7200	IN	A	202.199.155.13
+bbsftp.dlu.edu.cn.	7200	IN	A	202.199.155.252
+bylw.dlu.edu.cn.	7200	IN	A	202.199.159.205
+cco.dlu.edu.cn.		7200	IN	A	202.199.159.252
+ce.dlu.edu.cn.		7200	IN	A	202.199.159.209
+cjxy.dlu.edu.cn.	7200	IN	A	218.24.169.32
+cnl.dlu.edu.cn.		7200	IN	A	202.199.159.225
+crc.dlu.edu.cn.		7200	IN	A	202.199.159.252
+dbs.dlu.edu.cn.		7200	IN	A	202.199.159.252
+dlcs.dlu.edu.cn.	7200	IN	A	202.199.155.107
+dldxcg.dlu.edu.cn.	7200	IN	A	202.199.159.195
+dlfwh.dlu.edu.cn.	7200	IN	A	202.199.159.252
+dluxhyy.dlu.edu.cn.	7200	IN	A	202.199.159.225
+dm.dlu.edu.cn.		7200	IN	A	202.199.159.252
+drive.dlu.edu.cn.	7200	IN	A	202.199.159.252
+dwgk.dlu.edu.cn.	7200	IN	A	202.199.159.225
+eac.dlu.edu.cn.		7200	IN	A	202.199.159.252
+eam.dlu.edu.cn.		7200	IN	A	202.199.155.111
+ei.dlu.edu.cn.		7200	IN	A	202.199.159.205
+fco.dlu.edu.cn.		7200	IN	A	202.199.159.252
+fwh.dlu.edu.cn.		7200	IN	A	202.199.159.252
+gjs.dlu.edu.cn.		7200	IN	A	202.199.159.252
+gsd.dlu.edu.cn.		7200	IN	A	202.199.155.6
+gysj.dlu.edu.cn.	7200	IN	A	202.199.159.252
+gzs.dlu.edu.cn.		7200	IN	A	202.199.159.252
+hondit.dlu.edu.cn.	7200	IN	A	202.199.159.225
+hotel.dlu.edu.cn.	7200	IN	A	202.199.159.252
+ic.dlu.edu.cn.		7200	IN	A	218.25.143.112
+infos.dlu.edu.cn.	7200	IN	A	202.199.155.111
+jap.dlu.edu.cn.		7200	IN	A	202.199.159.252
+jcc.dlu.edu.cn.		7200	IN	A	202.199.159.252
+journal.dlu.edu.cn.	7200	IN	A	202.199.155.16
+jpk.dlu.edu.cn.		7200	IN	A	202.199.159.194
+jxcg.dlu.edu.cn.	7200	IN	A	202.199.159.225
+jxtd.dlu.edu.cn.	7200	IN	A	202.199.159.225
+jyw.dlu.edu.cn.		7200	IN	A	202.199.159.205
+keji.dlu.edu.cn.	7200	IN	A	202.199.155.107
+kjc.dlu.edu.cn.		7200	IN	A	202.199.159.225
+klbc.dlu.edu.cn.	7200	IN	A	202.199.159.252
+lab.dlu.edu.cn.		7200	IN	A	202.199.159.225
+law.dlu.edu.cn.		7200	IN	A	202.199.155.107
+lawlaw.dlu.edu.cn.	7200	IN	A	202.199.155.107
+ldlu.dlu.edu.cn.	7200	IN	A	202.199.155.201
+lhm.dlu.edu.cn.		7200	IN	A	202.199.159.252
+lngs.dlu.edu.cn.	7200	IN	A	202.199.159.249
+mail.dlu.edu.cn.	7200	IN	A	202.199.158.11
+marx.dlu.edu.cn.	7200	IN	A	202.199.159.225
+mrc.dlu.edu.cn.		7200	IN	A	202.199.159.252
+nhce.dlu.edu.cn.	7200	IN	A	202.199.155.12
+ns1.dlu.edu.cn.		7200	IN	A	202.199.158.8
+phy.dlu.edu.cn.		7200	IN	A	202.199.159.225
+pic.dlu.edu.cn.		7200	IN	A	202.199.159.252
+pingyi.dlu.edu.cn.	7200	IN	A	202.199.158.20
+psy.dlu.edu.cn.		7200	IN	A	202.199.159.252
+qes.dlu.edu.cn.		7200	IN	A	202.199.159.252
+qzlx.dlu.edu.cn.	7200	IN	A	202.199.155.107
+rsc.dlu.edu.cn.		7200	IN	A	202.199.155.111
+rw.dlu.edu.cn.		7200	IN	A	202.199.159.205
+rwskc.dlu.edu.cn.	7200	IN	A	202.199.159.225
+rwxb.dlu.edu.cn.	7200	IN	A	202.199.155.107
+sa.dlu.edu.cn.		7200	IN	A	202.199.159.252
+sbc.dlu.edu.cn.		7200	IN	A	202.199.159.225
+sew.dlu.edu.cn.		7200	IN	A	202.199.159.252
+shsj.dlu.edu.cn.	7200	IN	A	202.199.155.107
+shxxh.dlu.edu.cn.	7200	IN	A	202.199.159.252
+site.dlu.edu.cn.	7200	IN	A	202.199.155.107
+sjbl.dlu.edu.cn.	7200	IN	A	202.199.159.252
+sxz.dlu.edu.cn.		7200	IN	A	202.199.155.201
+sysfk.dlu.edu.cn.	7200	IN	A	202.199.159.225
+test1.dlu.edu.cn.	7200	IN	A	202.199.155.66
+test2.dlu.edu.cn.	7200	IN	A	202.199.155.66
+tmxx.dlu.edu.cn.	7200	IN	A	202.199.159.252
+tomtest.dlu.edu.cn.	7200	IN	A	202.199.155.66
+ttsc.dlu.edu.cn.	7200	IN	A	202.199.159.252
+tw.dlu.edu.cn.		7200	IN	A	202.199.159.196
+wl.dlu.edu.cn.		7200	IN	A	202.199.159.252
+www.dlu.edu.cn.		7200	IN	A	202.199.158.1
+xbswx.dlu.edu.cn.	7200	IN	A	202.199.159.252
+xctz.dlu.edu.cn.	7200	IN	A	202.199.159.225
+xhjj.dlu.edu.cn.	7200	IN	A	202.199.159.252
+xkb.dlu.edu.cn.		7200	IN	A	202.199.155.111
+xsc.dlu.edu.cn.		7200	IN	A	202.199.155.107
+xxyd.dlu.edu.cn.	7200	IN	A	202.199.159.252
+zsjy.dlu.edu.cn.	7200	IN	A	202.199.159.198
+zsw.dlu.edu.cn.		7200	IN	A	202.199.155.111
+zyjn.dlu.edu.cn.	7200	IN	A	202.199.159.225
+dlu.edu.cn.		7200	IN	SOA	ns1.dlu.edu.cn. zt.dlu.edu.cn. 2010062803 28800 14400 3600000 86400
+;; Query time: 34 msec
+;; SERVER: 202.199.158.8#53(202.199.158.8)
+;; WHEN: Mon Apr 21 20:49:53 中国标准时间 2014
+;; XFR size: 96 records (messages 1, bytes 2048)
+

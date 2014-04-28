@@ -1,0 +1,53 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @DNS1.zjsru.edu.cn axfr zjsru.edu.cn
+; (1 server found)
+;; global options: +cmd
+zjsru.edu.cn.		86400	IN	SOA	zjsru.edu.cn. root.localhost.zjsru.edu.cn. 4 28800 7200 604800 86400
+zjsru.edu.cn.		86400	IN	NS	DNS1.zjsru.edu.cn.
+zjsru.edu.cn.		86400	IN	MX	7 mail.zjsru.edu.cn.
+aexp.zjsru.edu.cn.	86400	IN	A	60.191.53.231
+cj.zjsru.edu.cn.	86400	IN	A	218.108.94.33
+cjxy.zjsru.edu.cn.	86400	IN	A	218.108.94.16
+cwh.zjsru.edu.cn.	86400	IN	A	218.108.94.50
+cxzy.zjsru.edu.cn.	86400	IN	A	218.108.94.47
+DNS1.zjsru.edu.cn.	86400	IN	A	59.79.132.10
+dst.zjsru.edu.cn.	86400	IN	A	60.191.53.229
+FRP-7.zjsru.edu.cn.	86400	IN	A	218.108.94.48
+fwy.zjsru.edu.cn.	86400	IN	A	218.108.94.45
+glxy.zjsru.edu.cn.	86400	IN	A	218.108.94.32
+jcb.zjsru.edu.cn.	86400	IN	A	218.108.94.53
+jpkc.zjsru.edu.cn.	86400	IN	A	218.108.94.9
+jwc.zjsru.edu.cn.	86400	IN	A	218.108.94.8
+jy.zjsru.edu.cn.	86400	IN	A	218.108.94.29
+jyks.zjsru.edu.cn.	86400	IN	A	60.191.53.242
+kczx.zjsru.edu.cn.	86400	IN	A	218.108.94.7
+kyc.zjsru.edu.cn.	86400	IN	A	218.108.94.40
+lib.zjsru.edu.cn.	86400	IN	A	218.108.94.55
+mail.zjsru.edu.cn.	86400	IN	A	60.191.53.232
+metc.zjsru.edu.cn.	86400	IN	A	218.108.94.49
+px.zjsru.edu.cn.	86400	IN	A	218.108.94.54
+rwxy.zjsru.edu.cn.	86400	IN	A	218.108.94.34
+sdxb.zjsru.edu.cn.	86400	IN	A	218.108.94.58
+shxy.zjsru.edu.cn.	86400	IN	A	218.108.94.35
+srqn.zjsru.edu.cn.	86400	IN	A	218.108.94.23
+srsasc.zjsru.edu.cn.	86400	IN	A	218.108.94.43
+ty.zjsru.edu.cn.	86400	IN	A	60.191.53.228
+video.zjsru.edu.cn.	86400	IN	A	60.191.53.234
+wjmxy.zjsru.edu.cn.	86400	IN	A	218.108.94.36
+www.zjsru.edu.cn.	86400	IN	A	60.191.53.245
+xb.zjsru.edu.cn.	86400	IN	A	218.108.94.44
+xbtg.zjsru.edu.cn.	86400	IN	A	218.108.94.42
+xgc.zjsru.edu.cn.	86400	IN	A	218.108.94.39
+xxxy.zjsru.edu.cn.	86400	IN	A	218.108.94.31
+xyh.zjsru.edu.cn.	86400	IN	A	218.108.94.23
+ydsw.zjsru.edu.cn.	86400	IN	A	60.191.53.236
+ysxy.zjsru.edu.cn.	86400	IN	A	218.108.94.37
+yyxy.zjsru.edu.cn.	86400	IN	A	218.108.94.38
+zs.zjsru.edu.cn.	86400	IN	A	218.108.94.46
+zsbbs.zjsru.edu.cn.	86400	IN	A	218.108.94.12
+zjsru.edu.cn.		86400	IN	SOA	zjsru.edu.cn. root.localhost.zjsru.edu.cn. 4 28800 7200 604800 86400
+;; Query time: 118 msec
+;; SERVER: 59.79.132.10#53(59.79.132.10)
+;; WHEN: Mon Apr 21 20:56:05 中国标准时间 2014
+;; XFR size: 44 records (messages 1, bytes 971)
+

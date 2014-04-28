@@ -1,0 +1,117 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns.hainu.edu.cn axfr hainu.edu.cn
+; (1 server found)
+;; global options: +cmd
+hainu.edu.cn.		90000	IN	SOA	dns.hainu.edu.cn. wanghua. 2003105715 900 600 86400 3600
+hainu.edu.cn.		3600	IN	NS	dns.hainu.edu.cn.
+hainu.edu.cn.		3600	IN	MX	10 mail.hainu.edu.cn.
+*.hainu.edu.cn.		3600	IN	A	125.217.98.66
+24jds.hainu.edu.cn.	3600	IN	A	125.217.98.66
+3g.hainu.edu.cn.	3600	IN	A	125.217.98.62
+admin.hainu.edu.cn.	3600	IN	A	125.217.98.15
+amway.hainu.edu.cn.	3600	IN	A	125.217.98.66
+baidu.hainu.edu.cn.	3600	IN	CNAME	siteapp.baidu.com.
+bbs.hainu.edu.cn.	3600	IN	A	210.37.40.15
+bkzs.hainu.edu.cn.	3600	IN	A	125.217.98.66
+bszs.hainu.edu.cn.	3600	IN	A	210.37.41.205
+cache.hainu.edu.cn.	3600	IN	A	210.37.41.37
+cist.hainu.edu.cn.	3600	IN	A	210.37.41.140
+csfrwc2010.hainu.edu.cn. 3600	IN	A	125.217.98.66
+cwfz.hainu.edu.cn.	3600	IN	A	210.37.41.198
+cwxt.hainu.edu.cn.	3600	IN	A	210.37.41.198
+dns.hainu.edu.cn.	3600	IN	A	210.37.40.4
+dns.hainu.edu.cn.	3600	IN	AAAA	2001:0:5ef5:79fd:1098:3612:2dda:d7fb
+dns.hainu.edu.cn.	3600	IN	AAAA	2001:abc:309:3:7010:d616:417e:34a5
+dns2.hainu.edu.cn.	3600	IN	A	210.37.40.5
+dz.hainu.edu.cn.	3600	IN	A	210.37.41.168
+dzfx.hainu.edu.cn.	3600	IN	A	210.37.41.168
+e-lab.hainu.edu.cn.	3600	IN	A	210.37.40.9
+enstudy.hainu.edu.cn.	3600	IN	A	59.49.232.133
+gzxt.hainu.edu.cn.	3600	IN	A	210.37.41.175
+hd1.hainu.edu.cn.	3600	IN	A	125.217.98.12
+hd2.hainu.edu.cn.	3600	IN	A	125.217.98.33
+hd33005.hainu.edu.cn.	3600	IN	A	210.37.33.5
+hd40019.hainu.edu.cn.	3600	IN	A	125.217.98.61
+hd41246.hainu.edu.cn.	3600	IN	A	210.37.41.246
+hdoa.hainu.edu.cn.	3600	IN	A	210.37.41.246
+hicksky.hainu.edu.cn.	3600	IN	A	59.49.232.154
+hndl.hainu.edu.cn.	3600	IN	A	210.37.32.18
+hndx00.hainu.edu.cn.	3600	IN	A	125.217.98.10
+hndx01.hainu.edu.cn.	3600	IN	A	210.37.40.130
+itest.hainu.edu.cn.	3600	IN	A	210.37.41.193
+job.hainu.edu.cn.	3600	IN	A	210.37.40.19
+jpkc-jsjjc.hainu.edu.cn. 3600	IN	A	125.217.98.61
+jpkc-rjgc.hainu.edu.cn.	3600	IN	A	125.217.98.61
+jpkc2.hainu.edu.cn.	3600	IN	A	125.217.98.32
+jwgl.hainu.edu.cn.	3600	IN	A	210.37.41.242
+jxpt.hainu.edu.cn.	3600	IN	A	210.37.40.17
+jygl.hainu.edu.cn.	3600	IN	CNAME	www.hainu.edu.cn.
+kaimi.hainu.edu.cn.	3600	IN	A	210.37.41.223
+kyxt.hainu.edu.cn.	3600	IN	A	210.37.41.137
+law.hainu.edu.cn.	3600	IN	A	125.217.98.66
+library.hainu.edu.cn.	3600	IN	A	210.37.32.30
+lxxt.hainu.edu.cn.	3600	IN	A	210.37.41.201
+mail.hainu.edu.cn.	3600	IN	A	210.37.40.6
+manage.hainu.edu.cn.	3600	IN	A	210.37.40.9
+mba.hainu.edu.cn.	3600	IN	A	210.37.40.9
+mh.hainu.edu.cn.	3600	IN	A	125.217.98.33
+mpa.hainu.edu.cn.	3600	IN	A	210.37.40.19
+nctcs2011.hainu.edu.cn.	3600	IN	A	125.217.98.19
+nctcs2012.hainu.edu.cn.	3600	IN	A	125.217.98.19
+news.hainu.edu.cn.	3600	IN	A	125.217.98.66
+nw.hainu.edu.cn.	3600	IN	A	125.217.98.191
+oa.hainu.edu.cn.	3600	IN	A	125.217.98.36
+photo.hainu.edu.cn.	3600	IN	A	125.217.98.61
+photo6.hainu.edu.cn.	3600	IN	AAAA	2001:abc:309:2:1d15:3515:b704:6437
+phpwx.hainu.edu.cn.	3600	IN	A	125.217.98.13
+pop3.hainu.edu.cn.	3600	IN	CNAME	mail.hainu.edu.cn.
+pront.hainu.edu.cn.	3600	IN	A	210.37.40.5
+proxy.hainu.edu.cn.	3600	IN	CNAME	hndx02.hainu.edu.cn.
+router.hainu.edu.cn.	3600	IN	A	210.37.40.1
+rss.hainu.edu.cn.	3600	IN	A	210.37.40.9
+rsxt.hainu.edu.cn.	3600	IN	A	210.37.41.203
+s.hainu.edu.cn.		3600	IN	A	125.217.98.65
+sf.hainu.edu.cn.	3600	IN	A	210.37.41.191
+sfxt.hainu.edu.cn.	3600	IN	A	210.37.41.196
+smtp.hainu.edu.cn.	3600	IN	CNAME	mail.hainu.edu.cn.
+sp.hainu.edu.cn.	3600	IN	A	210.37.41.22
+teachhome.hainu.edu.cn.	3600	IN	A	210.37.41.170
+teajin.hainu.edu.cn.	3600	IN	A	210.37.40.12
+tsglx.hainu.edu.cn.	3600	IN	A	210.37.41.167
+tymhdlxt.hainu.edu.cn.	3600	IN	A	210.37.41.167
+v6.hainu.edu.cn.	3600	IN	AAAA	2001:abc:309::9402
+v6a.hainu.edu.cn.	3600	IN	AAAA	2001:abc:309:4:20c:29ff:feb2:5a89
+v7.hainu.edu.cn.	3600	IN	AAAA	2001:abc:309:4:222:64ff:fefc:f4f2
+vdns.hainu.edu.cn.	3600	IN	AAAA	2001:abc:309::9402
+video.hainu.edu.cn.	3600	IN	A	125.217.98.12
+vpn.hainu.edu.cn.	3600	IN	A	59.50.85.5
+w.hainu.edu.cn.		3600	IN	A	125.217.98.64
+wap.hainu.edu.cn.	3600	IN	A	210.37.40.9
+wb.hainu.edu.cn.	3600	IN	A	210.37.41.70
+web10.hainu.edu.cn.	3600	IN	A	125.217.98.61
+web2.hainu.edu.cn.	3600	IN	A	125.217.98.61
+web3.hainu.edu.cn.	3600	IN	A	125.217.98.66
+webserver1.hainu.edu.cn. 3600	IN	A	125.217.98.15
+webserver2.hainu.edu.cn. 3600	IN	A	125.217.98.16
+www.hainu.edu.cn.	3600	IN	A	125.217.98.68
+www1.hainu.edu.cn.	3600	IN	A	125.217.98.33
+www2.hainu.edu.cn.	3600	IN	A	125.217.98.31
+wx.hainu.edu.cn.	3600	IN	A	125.217.98.62
+xb.hainu.edu.cn.	3600	IN	A	210.37.41.231
+xgxt.hainu.edu.cn.	3600	IN	A	210.37.41.166
+xlglxt.hainu.edu.cn.	3600	IN	A	210.37.41.230
+xn.hainu.edu.cn.	3600	IN	A	125.217.98.15
+xwb.hainu.edu.cn.	3600	IN	A	210.37.41.205
+xyh.hainu.edu.cn.	3600	IN	A	125.217.98.35
+yjsjy.hainu.edu.cn.	3600	IN	A	210.37.41.68
+yjsxt.hainu.edu.cn.	3600	IN	A	210.37.41.202
+yxxt.hainu.edu.cn.	3600	IN	A	210.37.41.167
+zfca.hainu.edu.cn.	3600	IN	A	210.37.41.200
+zhaopin.hainu.edu.cn.	3600	IN	A	125.217.98.66
+zs.hainu.edu.cn.	3600	IN	A	125.217.98.66
+hainu.edu.cn.		90000	IN	SOA	dns.hainu.edu.cn. wanghua. 2003105715 900 600 86400 3600
+;; Query time: 1007 msec
+;; SERVER: 210.37.40.4#53(210.37.40.4)
+;; WHEN: Mon Apr 21 21:01:20 中国标准时间 2014
+;; XFR size: 108 records (messages 108, bytes 5727)
+

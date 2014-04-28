@@ -1,0 +1,103 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns.tjtc.edu.cn axfr tjtc.edu.cn
+; (1 server found)
+;; global options: +cmd
+tjtc.edu.cn.		86400	IN	SOA	tjtc.edu.cn. root.tjtc.edu.cn. 2013090104 1800 300 2419200 604800
+tjtc.edu.cn.		86400	IN	NS	dns.tjtc.edu.cn.
+tjtc.edu.cn.		86400	IN	A	127.0.0.1
+tjtc.edu.cn.		86400	IN	AAAA	::1
+art.tjtc.edu.cn.	86400	IN	A	60.28.137.172
+auto.tjtc.edu.cn.	86400	IN	A	60.28.137.170
+bb.tjtc.edu.cn.		86400	IN	A	60.28.137.186
+bg.tjtc.edu.cn.		86400	IN	A	60.28.137.169
+bgs.tjtc.edu.cn.	86400	IN	A	60.28.137.172
+bwc.tjtc.edu.cn.	86400	IN	A	60.28.137.187
+bz.tjtc.edu.cn.		86400	IN	A	60.28.137.170
+bzsj.tjtc.edu.cn.	86400	IN	A	60.28.137.172
+cwc.tjtc.edu.cn.	86400	IN	A	60.28.137.170
+da.tjtc.edu.cn.		86400	IN	A	60.28.137.170
+dns.tjtc.edu.cn.	86400	IN	A	211.68.224.6
+dxxy.tjtc.edu.cn.	86400	IN	A	60.28.137.170
+eng.tjtc.edu.cn.	86400	IN	A	60.28.137.168
+gh.tjtc.edu.cn.		86400	IN	A	60.28.137.170
+gjxy.tjtc.edu.cn.	86400	IN	A	60.28.137.170
+hqc.tjtc.edu.cn.	86400	IN	A	60.28.137.172
+hr.tjtc.edu.cn.		86400	IN	A	60.28.137.167
+hzb.tjtc.edu.cn.	86400	IN	A	60.28.137.172
+jcb.tjtc.edu.cn.	86400	IN	A	60.28.137.170
+jd.tjtc.edu.cn.		86400	IN	A	60.28.137.172
+jds.tjtc.edu.cn.	86400	IN	A	60.28.137.172
+jdxy.tjtc.edu.cn.	86400	IN	A	60.28.137.187
+jgdzz.tjtc.edu.cn.	86400	IN	A	60.28.137.172
+jgxy.tjtc.edu.cn.	86400	IN	A	60.28.137.180
+jj.tjtc.edu.cn.		86400	IN	A	60.28.137.170
+jjc.tjtc.edu.cn.	86400	IN	A	60.28.137.172
+jpk.tjtc.edu.cn.	86400	IN	A	60.28.137.170
+jpkc2.tjtc.edu.cn.	86400	IN	A	60.28.137.172
+js.tjtc.edu.cn.		86400	IN	MX	10 cd38990872706d439218919182961c.mail.outlook.com.
+jwc.tjtc.edu.cn.	86400	IN	A	60.28.137.173
+jwxt.tjtc.edu.cn.	86400	IN	A	60.28.137.167
+jxjy.tjtc.edu.cn.	86400	IN	A	60.28.137.170
+jy.tjtc.edu.cn.		86400	IN	A	60.28.137.179
+kl.tjtc.edu.cn.		86400	IN	A	60.28.137.171
+kvm.tjtc.edu.cn.	86400	IN	A	60.28.137.182
+ky.tjtc.edu.cn.		86400	IN	A	60.28.137.167
+kyc.tjtc.edu.cn.	86400	IN	A	60.28.137.170
+lib.tjtc.edu.cn.	86400	IN	A	60.28.137.170
+lx.tjtc.edu.cn.		86400	IN	A	60.28.137.167
+network.tjtc.edu.cn.	86400	IN	A	60.28.137.172
+new.tjtc.edu.cn.	86400	IN	A	60.28.137.187
+oa.tjtc.edu.cn.		86400	IN	A	60.28.137.166
+old.tjtc.edu.cn.	86400	IN	A	60.28.137.168
+portal.tjtc.edu.cn.	86400	IN	A	60.28.137.165
+qzlx.tjtc.edu.cn.	86400	IN	A	60.28.137.187
+rsc.tjtc.edu.cn.	86400	IN	A	60.28.137.170
+sbc.tjtc.edu.cn.	86400	IN	A	60.28.137.187
+sbdc.tjtc.edu.cn.	86400	IN	A	60.28.137.170
+sfx.tjtc.edu.cn.	86400	IN	A	60.28.137.172
+sgx.tjtc.edu.cn.	86400	IN	A	60.28.137.172
+sgxy.tjtc.edu.cn.	86400	IN	A	60.28.137.170
+shibada.tjtc.edu.cn.	86400	IN	A	60.28.137.170
+shxy.tjtc.edu.cn.	86400	IN	A	60.28.137.172
+sjc.tjtc.edu.cn.	86400	IN	A	60.28.137.172
+sjzx.tjtc.edu.cn.	86400	IN	A	60.28.137.167
+skb.tjtc.edu.cn.	86400	IN	A	60.28.137.170
+smp.tjtc.edu.cn.	86400	IN	A	60.28.137.165
+sns.tjtc.edu.cn.	86400	IN	A	60.28.137.165
+szda.tjtc.edu.cn.	86400	IN	A	60.28.137.165
+wap.tjtc.edu.cn.	86400	IN	A	60.28.137.168
+wl.tjtc.edu.cn.		86400	IN	A	60.28.137.187
+www.tjtc.edu.cn.	86400	IN	A	60.28.137.168
+www2.tjtc.edu.cn.	86400	IN	A	60.28.137.171
+www3.tjtc.edu.cn.	86400	IN	A	60.28.137.170
+www4.tjtc.edu.cn.	86400	IN	A	60.28.137.172
+xcb.tjtc.edu.cn.	86400	IN	A	60.28.137.170
+xg.tjtc.edu.cn.		86400	IN	A	60.28.137.167
+xs.tjtc.edu.cn.		86400	IN	MX	10 6a6e49d6fdbcf94ba9a30b50d53f13.mail.outlook.com.
+xsc.tjtc.edu.cn.	86400	IN	A	60.28.137.172
+xwgk.tjtc.edu.cn.	86400	IN	A	60.28.137.172
+xxgk.tjtc.edu.cn.	86400	IN	A	60.28.137.187
+xy.tjtc.edu.cn.		86400	IN	A	60.28.137.167
+xyh.tjtc.edu.cn.	86400	IN	A	60.28.137.170
+xzc.tjtc.edu.cn.	86400	IN	A	60.28.137.172
+ysx.tjtc.edu.cn.	86400	IN	A	60.28.137.170
+yx.tjtc.edu.cn.		86400	IN	A	60.28.137.167
+yxyj.tjtc.edu.cn.	86400	IN	A	60.28.137.172
+zc.tjtc.edu.cn.		86400	IN	A	60.28.137.167
+zfca.tjtc.edu.cn.	86400	IN	A	60.28.137.165
+zfim.tjtc.edu.cn.	86400	IN	A	60.28.137.165
+zft.tjtc.edu.cn.	86400	IN	A	211.68.224.22
+zhanqun.tjtc.edu.cn.	86400	IN	A	60.28.137.187
+zhgg.tjtc.edu.cn.	86400	IN	A	60.28.137.172
+zhxq.tjtc.edu.cn.	86400	IN	A	60.28.137.165
+zjs.tjtc.edu.cn.	86400	IN	A	60.28.137.170
+zs.tjtc.edu.cn.		86400	IN	A	60.28.137.179
+zsjy.tjtc.edu.cn.	86400	IN	A	60.28.137.179
+zyk.tjtc.edu.cn.	86400	IN	A	60.28.137.170
+zzb.tjtc.edu.cn.	86400	IN	A	60.28.137.170
+tjtc.edu.cn.		86400	IN	SOA	tjtc.edu.cn. root.tjtc.edu.cn. 2013090104 1800 300 2419200 604800
+;; Query time: 59 msec
+;; SERVER: 211.68.224.6#53(211.68.224.6)
+;; WHEN: Mon Apr 21 20:48:10 中国标准时间 2014
+;; XFR size: 94 records (messages 1, bytes 2045)
+

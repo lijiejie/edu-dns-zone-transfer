@@ -1,0 +1,51 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @ns3.chuhai.hk axfr chuhai.edu.hk
+; (1 server found)
+;; global options: +cmd
+chuhai.edu.hk.		86400	IN	SOA	chuhai.edu.hk. dnsadmin.chuhai.hk. 2013111401 28800 14400 3600000 86400
+chuhai.edu.hk.		86400	IN	NS	ns2.chuhai.hk.
+chuhai.edu.hk.		86400	IN	NS	ns3.chuhai.hk.
+chuhai.edu.hk.		86400	IN	NS	chuhai.edu.hk.
+chuhai.edu.hk.		86400	IN	A	202.76.36.88
+chuhai.edu.hk.		86400	IN	MX	1 pop.chuhai.edu.hk.
+alumni.chuhai.edu.hk.	86400	IN	MX	10 ASPMX.L.GOOGLE.COM.
+alumni.chuhai.edu.hk.	86400	IN	MX	20 ALT1.ASPMX.L.GOOGLE.COM.
+alumni.chuhai.edu.hk.	86400	IN	MX	20 ALT2.ASPMX.L.GOOGLE.COM.
+alumni.chuhai.edu.hk.	86400	IN	MX	30 ASPMX2.GOOGLEMAIL.COM.
+alumni.chuhai.edu.hk.	86400	IN	MX	30 ASPMX3.GOOGLEMAIL.COM.
+UZBNYJROTW4U.alumni.chuhai.edu.hk. 86400 IN CNAME gv-7H3EXITKW56ZYD.dv.googlehosted.com.
+cs.chuhai.edu.hk.	86400	IN	CNAME	www.chuhai.edu.hk.
+engexam.chuhai.edu.hk.	86400	IN	CNAME	video.chuhai.edu.hk.
+eval.chuhai.edu.hk.	86400	IN	CNAME	ntserver.chuhai.edu.hk.
+eval1.chuhai.edu.hk.	86400	IN	CNAME	ntserver.chuhai.edu.hk.
+exam.chuhai.edu.hk.	86400	IN	CNAME	ntserver.chuhai.edu.hk.
+HP4100N.chuhai.edu.hk.	86400	IN	A	202.76.36.21
+HP5000N.chuhai.edu.hk.	86400	IN	A	202.76.36.20
+library.chuhai.edu.hk.	86400	IN	MX	2 library.chuhai.edu.hk.
+library.chuhai.edu.hk.	86400	IN	A	202.76.36.188
+live.chuhai.edu.hk.	86400	IN	A	202.76.36.9
+mail.chuhai.edu.hk.	86400	IN	CNAME	pop.chuhai.edu.hk.
+mis.chuhai.edu.hk.	86400	IN	CNAME	www.chuhai.edu.hk.
+nis.chuhai.edu.hk.	86400	IN	CNAME	www.chuhai.edu.hk.
+ns2.chuhai.edu.hk.	86400	IN	CNAME	video.chuhai.edu.hk.
+ntserver.chuhai.edu.hk.	86400	IN	A	202.76.36.100
+pop.chuhai.edu.hk.	86400	IN	A	202.76.36.15
+pop3.chuhai.edu.hk.	86400	IN	CNAME	pop.chuhai.edu.hk.
+redhat.chuhai.edu.hk.	86400	IN	A	202.76.36.128
+rs.chuhai.edu.hk.	86400	IN	A	202.76.36.187
+smtp.chuhai.edu.hk.	86400	IN	CNAME	pop.chuhai.edu.hk.
+student.chuhai.edu.hk.	86400	IN	MX	10 ASPMX.L.GOOGLE.COM.
+student.chuhai.edu.hk.	86400	IN	MX	20 ALT1.ASPMX.L.GOOGLE.COM.
+student.chuhai.edu.hk.	86400	IN	MX	20 ALT2.ASPMX.L.GOOGLE.COM.
+student.chuhai.edu.hk.	86400	IN	MX	30 ASPMX2.GOOGLEMAIL.COM.
+student.chuhai.edu.hk.	86400	IN	MX	30 ASPMX3.GOOGLEMAIL.COM.
+H7PDUHL7V7ON.student.chuhai.edu.hk. 86400 IN CNAME gv-TTOOIPLPCCRDUB.dv.googlehosted.com.
+unix.chuhai.edu.hk.	86400	IN	A	202.76.36.121
+video.chuhai.edu.hk.	86400	IN	A	202.76.36.180
+www.chuhai.edu.hk.	86400	IN	A	202.76.36.88
+chuhai.edu.hk.		86400	IN	SOA	chuhai.edu.hk. dnsadmin.chuhai.hk. 2013111401 28800 14400 3600000 86400
+;; Query time: 56 msec
+;; SERVER: 202.76.36.188#53(202.76.36.188)
+;; WHEN: Mon Apr 21 21:05:18 中国标准时间 2014
+;; XFR size: 42 records (messages 1, bytes 1005)
+

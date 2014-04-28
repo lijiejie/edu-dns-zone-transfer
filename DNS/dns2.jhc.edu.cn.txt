@@ -1,0 +1,23 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns2.jhc.edu.cn axfr jhc.edu.cn
+; (1 server found)
+;; global options: +cmd
+jhc.edu.cn.		3600	IN	SOA	dns1.jhc.edu.cn. root.jhc.edu.cn. 2006111520 3600 900 68400 15
+jhc.edu.cn.		3600	IN	MX	10 mail.jhc.edu.cn.
+jhc.edu.cn.		3600	IN	NS	dns1.jhc.edu.cn.
+jhc.edu.cn.		3600	IN	NS	dns2.jhc.edu.cn.
+jhc.edu.cn.		3600	IN	NS	dns3.jhc.edu.cn.
+jhc.edu.cn.		3600	IN	A	211.140.143.16
+dns1.jhc.edu.cn.	3600	IN	A	210.32.68.3
+dns2.jhc.edu.cn.	3600	IN	A	122.227.41.195
+dns3.jhc.edu.cn.	3600	IN	A	211.140.143.3
+mail.jhc.edu.cn.	3600	IN	A	211.140.143.4
+news.jhc.edu.cn.	3600	IN	A	211.140.143.16
+oldwww.jhc.edu.cn.	3600	IN	A	211.140.143.16
+www.jhc.edu.cn.		3600	IN	A	211.140.143.16
+jhc.edu.cn.		3600	IN	SOA	dns1.jhc.edu.cn. root.jhc.edu.cn. 2006111520 3600 900 68400 15
+;; Query time: 144 msec
+;; SERVER: 122.227.41.195#53(122.227.41.195)
+;; WHEN: Mon Apr 21 20:57:02 中国标准时间 2014
+;; XFR size: 14 records (messages 1, bytes 327)
+

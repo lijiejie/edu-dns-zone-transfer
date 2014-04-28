@@ -1,0 +1,140 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns.xapi.edu.cn axfr xapi.edu.cn
+; (1 server found)
+;; global options: +cmd
+xapi.edu.cn.		86400	IN	SOA	dns.xsyu.edu.cn. zhenghongtao.xsyu.edu.cn. 2014031001 86400 86400 86400 86400
+xapi.edu.cn.		86400	IN	NS	dns.xapi.edu.cn.
+xapi.edu.cn.		86400	IN	NS	dns1.xapi.edu.cn.
+xapi.edu.cn.		86400	IN	NS	dns2.xapi.edu.cn.
+xapi.edu.cn.		86400	IN	MX	10 smgmail.xapi.edu.cn.
+alex.xapi.edu.cn.	86400	IN	A	202.200.82.19
+bb.xapi.edu.cn.		86400	IN	A	202.200.82.56
+bbs.xapi.edu.cn.	86400	IN	A	202.200.82.44
+bbvod.xapi.edu.cn.	86400	IN	A	202.200.82.40
+bkbysj.xapi.edu.cn.	86400	IN	A	202.200.84.72
+blog.xapi.edu.cn.	86400	IN	A	202.200.82.40
+cie.xapi.edu.cn.	86400	IN	A	202.200.82.40
+cjff.xapi.edu.cn.	86400	IN	A	202.200.82.50
+cjxt.xapi.edu.cn.	86400	IN	A	202.200.82.77
+cms.xapi.edu.cn.	86400	IN	A	222.90.74.92
+counter.xapi.edu.cn.	86400	IN	A	202.200.82.40
+cwch.xapi.edu.cn.	86400	IN	A	202.200.82.40
+cwcx.xapi.edu.cn.	86400	IN	A	202.200.94.147
+dcx.xapi.edu.cn.	86400	IN	A	202.200.82.50
+ddlx.xapi.edu.cn.	86400	IN	A	202.200.82.50
+dept.xapi.edu.cn.	86400	IN	A	202.200.82.49
+dept1.xapi.edu.cn.	86400	IN	A	202.200.82.96
+dept2.xapi.edu.cn.	86400	IN	A	202.200.82.47
+dept3.xapi.edu.cn.	86400	IN	A	202.200.82.99
+deptcs.xapi.edu.cn.	86400	IN	A	202.200.82.96
+dgdz.xapi.edu.cn.	86400	IN	A	202.200.82.99
+djzx.xapi.edu.cn.	86400	IN	A	202.200.82.49
+dns.xapi.edu.cn.	86400	IN	A	202.200.80.13
+dns.xapi.edu.cn.	86400	IN	MX	10 smgmail.xapi.edu.cn.
+dns1.xapi.edu.cn.	86400	IN	A	202.200.80.11
+dns1.xapi.edu.cn.	86400	IN	MX	10 smgmail.xapi.edu.cn.
+dns2.xapi.edu.cn.	86400	IN	A	202.200.82.12
+dns2.xapi.edu.cn.	86400	IN	MX	10 smgmail.xapi.edu.cn.
+dns2.xapi.edu.cn.	86400	IN	MX	20 mail.xapi.edu.cn.
+dsf.xapi.edu.cn.	86400	IN	A	222.90.74.91
+dzb.xapi.edu.cn.	86400	IN	A	202.200.82.49
+english.xapi.edu.cn.	86400	IN	A	202.200.82.99
+erya.xapi.edu.cn.	86400	IN	A	202.200.82.80
+french.xapi.edu.cn.	86400	IN	A	202.200.82.40
+ftp.xapi.edu.cn.	86400	IN	A	202.200.82.41
+fxhx.xapi.edu.cn.	86400	IN	A	202.200.82.99
+fy.xapi.edu.cn.		86400	IN	A	202.200.82.50
+gandong.xapi.edu.cn.	86400	IN	A	202.200.82.40
+gedui.xapi.edu.cn.	86400	IN	A	202.200.82.40
+gh.xapi.edu.cn.		86400	IN	A	202.200.82.40
+gj.xapi.edu.cn.		86400	IN	A	202.200.82.40
+gjcgjsb.xapi.edu.cn.	86400	IN	A	202.200.82.40
+gjjl.xapi.edu.cn.	86400	IN	A	202.200.82.96
+gjjy.xapi.edu.cn.	86400	IN	A	202.200.82.96
+gzch.xapi.edu.cn.	86400	IN	A	202.200.82.55
+hpserver1.xapi.edu.cn.	86400	IN	A	202.200.94.10
+hxhg.xapi.edu.cn.	86400	IN	A	202.200.82.40
+idof.xapi.edu.cn.	86400	IN	A	202.200.82.27
+jg.xapi.edu.cn.		86400	IN	A	202.200.82.99
+jiwei.xapi.edu.cn.	86400	IN	A	202.200.82.40
+jjgl.xapi.edu.cn.	86400	IN	A	202.200.82.40
+jpkc.xapi.edu.cn.	86400	IN	A	202.200.82.46
+jpkc1.xapi.edu.cn.	86400	IN	A	202.200.82.46
+jsj.xapi.edu.cn.	86400	IN	A	202.200.82.96
+jwchu.xapi.edu.cn.	86400	IN	A	202.200.86.137
+jwgl.xapi.edu.cn.	86400	IN	A	202.200.86.137
+jxgc.xapi.edu.cn.	86400	IN	A	202.200.82.40
+jxjy.xapi.edu.cn.	86400	IN	A	202.200.82.99
+jxzyk.xapi.edu.cn.	86400	IN	A	202.200.82.40
+jy.xapi.edu.cn.		86400	IN	A	202.200.82.96
+kjc.xapi.edu.cn.	86400	IN	A	202.200.82.49
+kjch.xapi.edu.cn.	86400	IN	A	202.200.94.19
+library.xapi.edu.cn.	86400	IN	A	202.200.87.32
+localmail.xapi.edu.cn.	86400	IN	A	202.200.82.88
+loghost.xapi.edu.cn.	86400	IN	CNAME	dns.xapi.edu.cn.
+lxy.xapi.edu.cn.	86400	IN	A	202.200.82.40
+lxy1.xapi.edu.cn.	86400	IN	A	202.200.82.49
+mail.xapi.edu.cn.	86400	IN	A	202.200.82.9
+mail.xapi.edu.cn.	86400	IN	MX	10 smgmail.xapi.edu.cn.
+mba.xapi.edu.cn.	86400	IN	A	202.200.82.40
+mpacc.xapi.edu.cn.	86400	IN	A	202.200.82.40
+mslt.xapi.edu.cn.	86400	IN	A	202.200.82.50
+mszx.xapi.edu.cn.	86400	IN	A	202.200.82.50
+netra1.xapi.edu.cn.	86400	IN	A	202.200.82.13
+netra1.xapi.edu.cn.	86400	IN	MX	10 smgmail.xapi.edu.cn.
+newcampus.xapi.edu.cn.	86400	IN	A	202.200.82.40
+news.xapi.edu.cn.	86400	IN	A	222.90.74.89
+newscs.xapi.edu.cn.	86400	IN	A	202.200.82.48
+nstl.xapi.edu.cn.	86400	IN	A	202.200.87.10
+pt.xapi.edu.cn.		86400	IN	A	202.200.82.61
+radio.xapi.edu.cn.	86400	IN	A	202.200.82.40
+rav.xapi.edu.cn.	86400	IN	A	202.200.82.12
+rqspjpkc.xapi.edu.cn.	86400	IN	A	202.200.82.49
+rsch.xapi.edu.cn.	86400	IN	A	202.200.82.40
+rwxy.xapi.edu.cn.	86400	IN	A	202.200.82.40
+sdxx.xapi.edu.cn.	86400	IN	A	202.200.82.40
+sjc.xapi.edu.cn.	86400	IN	A	202.200.82.49
+smgmail.xapi.edu.cn.	86400	IN	A	202.200.82.10
+smgmail.xapi.edu.cn.	86400	IN	MX	10 smgmail.xapi.edu.cn.
+sport.xapi.edu.cn.	86400	IN	A	202.200.82.50
+sports.xapi.edu.cn.	86400	IN	A	202.200.82.50
+stu.xapi.edu.cn.	86400	IN	MX	10 151cd11b726e52ae0bc5997ceb5a5e.mail.outlook.com.
+sygc.xapi.edu.cn.	86400	IN	A	202.200.82.40
+syjx.xapi.edu.cn.	86400	IN	A	202.200.82.46
+szb.xapi.edu.cn.	86400	IN	A	202.200.82.40
+tasi.xapi.edu.cn.	86400	IN	A	202.200.87.13
+trqdz.xapi.edu.cn.	86400	IN	A	202.200.82.50
+tw.xapi.edu.cn.		86400	IN	A	202.200.82.49
+txb.xapi.edu.cn.	86400	IN	A	202.200.82.49
+tyx.xapi.edu.cn.	86400	IN	A	202.200.82.40
+video.xapi.edu.cn.	86400	IN	A	202.200.82.5
+vote.xapi.edu.cn.	86400	IN	A	202.200.82.40
+wfcx.xapi.edu.cn.	86400	IN	A	202.200.82.124
+www.xapi.edu.cn.	86400	IN	A	202.200.82.58
+wyx.xapi.edu.cn.	86400	IN	A	202.200.82.40
+xapi8.xapi.edu.cn.	86400	IN	A	202.200.82.8
+xiaobao.xapi.edu.cn.	86400	IN	A	202.200.82.37
+xqhz.xapi.edu.cn.	86400	IN	A	202.200.82.49
+xsc.xapi.edu.cn.	86400	IN	A	202.200.82.40
+xszz.xapi.edu.cn.	86400	IN	A	202.200.82.122
+xszz.xapi.edu.cn.	86400	IN	A	202.200.87.251
+xyl.xapi.edu.cn.	86400	IN	A	202.200.82.49
+yey.xapi.edu.cn.	86400	IN	A	202.200.82.40
+yjs.xapi.edu.cn.	86400	IN	A	202.200.82.15
+yjsh.xapi.edu.cn.	86400	IN	A	202.200.82.14
+yqcc.xapi.edu.cn.	86400	IN	A	202.200.82.50
+yqyjzx.xapi.edu.cn.	86400	IN	A	202.200.82.99
+yxwz.xapi.edu.cn.	86400	IN	A	202.200.82.99
+yyfy.xapi.edu.cn.	86400	IN	A	202.200.82.99
+yyx.xapi.edu.cn.	86400	IN	A	202.200.82.40
+zbc.xapi.edu.cn.	86400	IN	A	202.200.82.40
+zy.xapi.edu.cn.		86400	IN	A	222.90.74.89
+zycs.xapi.edu.cn.	86400	IN	A	202.200.82.48
+zygc.xapi.edu.cn.	86400	IN	A	202.200.82.40
+zyjy.xapi.edu.cn.	86400	IN	A	202.200.82.99
+xapi.edu.cn.		86400	IN	SOA	dns.xsyu.edu.cn. zhenghongtao.xsyu.edu.cn. 2014031001 86400 86400 86400 86400
+;; Query time: 63 msec
+;; SERVER: 202.200.80.13#53(202.200.80.13)
+;; WHEN: Mon Apr 21 21:03:59 中国标准时间 2014
+;; XFR size: 131 records (messages 1, bytes 2839)
+

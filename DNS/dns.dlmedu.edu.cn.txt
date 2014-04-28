@@ -1,0 +1,45 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns.dlmedu.edu.cn axfr dlmedu.edu.cn
+; (1 server found)
+;; global options: +cmd
+dlmedu.edu.cn.		86400	IN	SOA	dns.dlmedu.edu.cn. root.dlmedu.edu.cn. 2007110801 7200 3600 43200 86400
+dlmedu.edu.cn.		86400	IN	NS	dns.dlmedu.edu.cn.
+dlmedu.edu.cn.		86400	IN	NS	dnsb.dlmedu.edu.cn.
+dlmedu.edu.cn.		86400	IN	MX	10 mailgw.dlmedu.edu.cn.
+1947.dlmedu.edu.cn.	86400	IN	A	210.47.245.80
+backup.dlmedu.edu.cn.	86400	IN	A	210.47.255.11
+biotech.dlmedu.edu.cn.	86400	IN	A	210.47.244.71
+dns.dlmedu.edu.cn.	86400	IN	A	210.47.244.10
+dnsb.dlmedu.edu.cn.	86400	IN	A	210.47.244.14
+ecard.dlmedu.edu.cn.	86400	IN	A	192.168.11.198
+flying.dlmedu.edu.cn.	86400	IN	A	210.47.244.70
+ftp.dlmedu.edu.cn.	86400	IN	A	210.47.244.66
+home.dlmedu.edu.cn.	86400	IN	A	210.47.244.18
+home2.dlmedu.edu.cn.	86400	IN	A	210.47.244.87
+housecall.dlmedu.edu.cn. 86400	IN	A	210.47.244.80
+inner.dlmedu.edu.cn.	86400	IN	A	210.47.244.83
+jsj.dlmedu.edu.cn.	86400	IN	A	210.47.246.130
+idp.lib.dlmedu.edu.cn.	86400	IN	A	210.47.255.48
+www.lib.dlmedu.edu.cn.	86400	IN	A	210.47.255.2
+mail.dlmedu.edu.cn.	86400	IN	A	210.47.244.16
+mailgw.dlmedu.edu.cn.	86400	IN	A	210.47.244.16
+network.dlmedu.edu.cn.	86400	IN	A	210.47.244.77
+news.dlmedu.edu.cn.	86400	IN	A	210.47.244.93
+officescan.dlmedu.edu.cn. 86400	IN	A	210.47.244.79
+pop3.dlmedu.edu.cn.	86400	IN	A	210.47.244.16
+prtg.dlmedu.edu.cn.	86400	IN	A	210.47.244.75
+samsrv.dlmedu.edu.cn.	86400	IN	A	210.47.244.103
+smtp.dlmedu.edu.cn.	86400	IN	A	210.47.244.16
+stuftp.dlmedu.edu.cn.	86400	IN	A	210.47.244.69
+vod.dlmedu.edu.cn.	86400	IN	A	210.47.244.67
+vod2.dlmedu.edu.cn.	86400	IN	A	210.47.244.81
+vod3.dlmedu.edu.cn.	86400	IN	A	210.47.244.73
+vpn.dlmedu.edu.cn.	86400	IN	A	210.47.244.76
+wsus.dlmedu.edu.cn.	86400	IN	A	210.47.244.78
+www.dlmedu.edu.cn.	86400	IN	A	210.47.244.15
+dlmedu.edu.cn.		86400	IN	SOA	dns.dlmedu.edu.cn. root.dlmedu.edu.cn. 2007110801 7200 3600 43200 86400
+;; Query time: 31 msec
+;; SERVER: 210.47.244.10#53(210.47.244.10)
+;; WHEN: Mon Apr 21 20:49:55 中国标准时间 2014
+;; XFR size: 36 records (messages 1, bytes 829)
+

@@ -1,0 +1,17 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @server.qust.edu.cn axfr qdict.edu.cn
+; (1 server found)
+;; global options: +cmd
+qdict.edu.cn.		28800	IN	SOA	server.qust.edu.cn. master\@qust.edu.cn. 2012030901 10800 3600 604800 86400
+qdict.edu.cn.		28800	IN	NS	server.qust.edu.cn.
+qdict.edu.cn.		28800	IN	NS	dba.qust.edu.cn.
+dba.qdict.edu.cn.	28800	IN	A	211.87.159.2
+localhost.qdict.edu.cn.	28800	IN	A	127.0.0.1
+server.qdict.edu.cn.	28800	IN	A	211.64.208.1
+www.qdict.edu.cn.	28800	IN	A	211.87.159.19
+qdict.edu.cn.		28800	IN	SOA	server.qust.edu.cn. master\@qust.edu.cn. 2012030901 10800 3600 604800 86400
+;; Query time: 367 msec
+;; SERVER: 211.64.208.1#53(211.64.208.1)
+;; WHEN: Mon Apr 21 20:54:05 中国标准时间 2014
+;; XFR size: 8 records (messages 1, bytes 247)
+

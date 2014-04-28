@@ -1,0 +1,43 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @star.glite.edu.cn axfr glite.edu.cn
+; (1 server found)
+;; global options: +cmd
+glite.edu.cn.		86400	IN	SOA	center.glite.edu.cn. admin.glite.edu.cn. 2013120901 1800 900 864000 86400
+glite.edu.cn.		86400	IN	NS	star.glite.edu.cn.
+glite.edu.cn.		86400	IN	NS	center.glite.edu.cn.
+glite.edu.cn.		86400	IN	A	202.193.80.32
+glite.edu.cn.		86400	IN	MX	10 smtp.glite.edu.cn.
+glite.edu.cn.		86400	IN	TXT	"v=spf1 mx ipv4:202.193.80.16 ~all"
+assp.glite.edu.cn.	86400	IN	CNAME	nginx.glite.edu.cn.
+bbs.glite.edu.cn.	86400	IN	A	202.193.84.251
+bwgl.glite.edu.cn.	86400	IN	CNAME	bwgl.glut.edu.cn.
+bwjw.glite.edu.cn.	86400	IN	CNAME	bwjw.glut.edu.cn.
+bwoa.glite.edu.cn.	86400	IN	CNAME	bwoa.glut.edu.cn.
+caiwu.glite.edu.cn.	86400	IN	CNAME	nginx.glite.edu.cn.
+center.glite.edu.cn.	86400	IN	A	202.193.80.33
+cjy.glite.edu.cn.	86400	IN	CNAME	nginx.glite.edu.cn.
+departs.glite.edu.cn.	86400	IN	CNAME	nginx.glite.edu.cn.
+djzhx.glite.edu.cn.	86400	IN	CNAME	djzhx.glut.edu.cn.
+dns3.glite.edu.cn.	86400	IN	A	202.193.80.72
+gis.glite.edu.cn.	86400	IN	CNAME	nginx.glite.edu.cn.
+glxy.glite.edu.cn.	86400	IN	CNAME	nginx.glite.edu.cn.
+jw.glite.edu.cn.	86400	IN	A	202.193.80.58
+lib.glite.edu.cn.	86400	IN	CNAME	nginx.glite.edu.cn.
+ljcy.glite.edu.cn.	86400	IN	A	202.193.84.250
+mail.glite.edu.cn.	86400	IN	A	202.193.80.17
+mail2.glite.edu.cn.	86400	IN	A	202.193.80.16
+nginx.glite.edu.cn.	86400	IN	A	116.1.11.247
+nic.glite.edu.cn.	86400	IN	A	202.193.80.12
+pgso.glite.edu.cn.	86400	IN	A	202.193.80.55
+pop3.glite.edu.cn.	86400	IN	CNAME	mail.glite.edu.cn.
+smtp.glite.edu.cn.	86400	IN	CNAME	mail.glite.edu.cn.
+star.glite.edu.cn.	86400	IN	A	202.193.80.34
+www.glite.edu.cn.	86400	IN	A	116.1.11.246
+zhgl.glite.edu.cn.	86400	IN	CNAME	nginx.glite.edu.cn.
+zj.glite.edu.cn.	86400	IN	CNAME	nginx.glite.edu.cn.
+glite.edu.cn.		86400	IN	SOA	center.glite.edu.cn. admin.glite.edu.cn. 2013120901 1800 900 864000 86400
+;; Query time: 87 msec
+;; SERVER: 202.193.80.34#53(202.193.80.34)
+;; WHEN: Mon Apr 21 21:01:07 中国标准时间 2014
+;; XFR size: 34 records (messages 1, bytes 776)
+

@@ -1,0 +1,98 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @DNS1.xxu.edu.cn axfr xxu.edu.cn
+; (1 server found)
+;; global options: +cmd
+xxu.edu.cn.		7200	IN	SOA	DNS1.xxu.edu.cn. master.xxu.edu.cn. 2013052817 604800 604800 3600000 7200
+xxu.edu.cn.		7200	IN	MX	10 mail.xxu.edu.cn.
+xxu.edu.cn.		7200	IN	NS	DNS1.xxu.edu.cn.
+xxu.edu.cn.		7200	IN	NS	DNS2.xxu.edu.cn.
+bw.xxu.edu.cn.		7200	IN	A	61.54.105.11
+chem.xxu.edu.cn.	7200	IN	A	61.54.105.16
+cscy.xxu.edu.cn.	7200	IN	A	61.54.105.31
+csxf.xxu.edu.cn.	7200	IN	A	61.54.105.31
+cwc.xxu.edu.cn.		7200	IN	A	61.54.105.11
+das.xxu.edu.cn.		7200	IN	A	61.54.105.11
+db.xxu.edu.cn.		7200	IN	A	61.54.105.16
+dns1.xxu.edu.cn.	7200	IN	A	211.84.160.8
+dns2.xxu.edu.cn.	7200	IN	A	211.84.160.18
+gh.xxu.edu.cn.		7200	IN	A	61.54.105.11
+gjjl.xxu.edu.cn.	7200	IN	A	61.54.105.11
+gjs.xxu.edu.cn.		7200	IN	A	61.54.105.11
+gl.xxu.edu.cn.		7200	IN	A	61.54.105.16
+gwb.xxu.edu.cn.		7200	IN	A	61.54.105.16
+hg.xxu.edu.cn.		7200	IN	A	61.54.105.14
+hgfz.xxu.edu.cn.	7200	IN	A	61.54.105.16
+hqc.xxu.edu.cn.		7200	IN	A	61.54.105.11
+hqgs.xxu.edu.cn.	7200	IN	A	61.54.105.11
+info.xxu.edu.cn.	7200	IN	A	61.54.105.11
+jcjy.xxu.edu.cn.	7200	IN	A	61.54.105.11
+jd.xxu.edu.cn.		7200	IN	A	61.54.105.16
+jg.xxu.edu.cn.		7200	IN	A	61.54.105.16
+jiuye.xxu.edu.cn.	7200	IN	A	61.54.105.11
+jjc.xxu.edu.cn.		7200	IN	A	61.54.105.11
+jjw.xxu.edu.cn.		7200	IN	A	61.54.105.11
+jk.xxu.edu.cn.		7200	IN	A	61.54.105.16
+job.xxu.edu.cn.		7200	IN	A	218.29.140.102
+jpkc.xxu.edu.cn.	7200	IN	A	61.54.105.12
+jsfzzx.xxu.edu.cn.	7200	IN	A	61.54.105.11
+jsj.xxu.edu.cn.		7200	IN	A	61.54.105.16
+jwc.xxu.edu.cn.		7200	IN	A	61.54.105.16
+jwxt.xxu.edu.cn.	7200	IN	A	61.54.105.4
+jxjy.xxu.edu.cn.	7200	IN	A	61.54.105.11
+kyc.xxu.edu.cn.		7200	IN	A	61.54.105.11
+lib.xxu.edu.cn.		7200	IN	A	61.54.105.11
+ls.xxu.edu.cn.		7200	IN	A	61.54.105.16
+ltc.xxu.edu.cn.		7200	IN	A	61.54.105.11
+mail.xxu.edu.cn.	7200	IN	A	211.84.160.12
+news.xxu.edu.cn.	7200	IN	A	61.54.105.13
+nmc.xxu.edu.cn.		7200	IN	A	61.54.105.11
+note.xxu.edu.cn.	7200	IN	A	61.54.105.13
+opac.xxu.edu.cn.	7200	IN	A	211.84.163.246
+pjw.xxu.edu.cn.		7200	IN	A	61.54.105.11
+pop3.xxu.edu.cn.	7200	IN	A	211.84.160.12
+qzlx.xxu.edu.cn.	7200	IN	A	61.54.105.16
+rsc.xxu.edu.cn.		7200	IN	A	61.54.105.11
+sfxh.xxu.edu.cn.	7200	IN	A	61.54.105.16
+shebei.xxu.edu.cn.	7200	IN	A	61.54.105.11
+sjc.xxu.edu.cn.		7200	IN	A	61.54.105.11
+sk.xxu.edu.cn.		7200	IN	A	61.54.105.16
+skb.xxu.edu.cn.		7200	IN	A	61.54.105.16
+smtp.xxu.edu.cn.	7200	IN	A	211.84.160.12
+so.xxu.edu.cn.		7200	IN	A	124.42.15.53
+swjs.xxu.edu.cn.	7200	IN	A	61.54.105.14
+sx.xxu.edu.cn.		7200	IN	A	61.54.105.16
+sxjy.xxu.edu.cn.	7200	IN	A	61.54.105.11
+sxy.xxu.edu.cn.		7200	IN	A	61.54.105.16
+syxh.xxu.edu.cn.	7200	IN	A	61.54.105.11
+szjy.xxu.edu.cn.	7200	IN	A	61.54.105.11
+tw.xxu.edu.cn.		7200	IN	A	61.54.105.16
+ty.xxu.edu.cn.		7200	IN	A	61.54.105.16
+tzb.xxu.edu.cn.		7200	IN	A	61.54.105.11
+vs.xxu.edu.cn.		7200	IN	A	211.84.163.254
+wl.xxu.edu.cn.		7200	IN	A	61.54.105.16
+www.xxu.edu.cn.		7200	IN	A	61.54.105.11
+wxy.xxu.edu.cn.		7200	IN	A	61.54.105.16
+wy.xxu.edu.cn.		7200	IN	A	61.54.105.16
+wzgl.xxu.edu.cn.	7200	IN	A	61.54.105.17
+xb.xxu.edu.cn.		7200	IN	A	61.54.105.11
+xbzk.xxu.edu.cn.	7200	IN	A	61.54.105.11
+xc.xxu.edu.cn.		7200	IN	A	61.54.105.16
+xcb.xxu.edu.cn.		7200	IN	A	61.54.105.16
+xjzx.xxu.edu.cn.	7200	IN	A	61.54.105.11
+xsc.xxu.edu.cn.		7200	IN	A	61.54.105.11
+xsg.xxu.edu.cn.		7200	IN	A	61.54.105.16
+yb.xxu.edu.cn.		7200	IN	A	61.54.105.11
+ys.xxu.edu.cn.		7200	IN	A	61.54.105.16
+yy.xxu.edu.cn.		7200	IN	A	61.54.105.16
+zbbgs.xxu.edu.cn.	7200	IN	A	61.54.105.11
+zf.xxu.edu.cn.		7200	IN	A	61.54.105.16
+zqpb.xxu.edu.cn.	7200	IN	A	61.54.105.16
+zs.xxu.edu.cn.		7200	IN	A	61.54.105.16
+zxzx.xxu.edu.cn.	7200	IN	A	61.54.105.16
+zzb.xxu.edu.cn.		7200	IN	A	61.54.105.11
+xxu.edu.cn.		7200	IN	SOA	DNS1.xxu.edu.cn. master.xxu.edu.cn. 2013052817 604800 604800 3600000 7200
+;; Query time: 27 msec
+;; SERVER: 211.84.160.8#53(211.84.160.8)
+;; WHEN: Mon Apr 21 20:59:05 中国标准时间 2014
+;; XFR size: 89 records (messages 1, bytes 1857)
+

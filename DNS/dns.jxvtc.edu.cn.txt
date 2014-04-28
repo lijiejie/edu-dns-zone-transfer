@@ -1,0 +1,33 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns.jxvtc.edu.cn axfr jxvtc.edu.cn
+; (1 server found)
+;; global options: +cmd
+jxvtc.edu.cn.		38400	IN	SOA	dns.jxvtc.edu.cn. mail.jxvtc.edu.cn. 1293595155 10800 3600 604800 38400
+jxvtc.edu.cn.		38400	IN	MX	10 mail.jxvtc.edu.cn.
+jxvtc.edu.cn.		38400	IN	NS	dns.jxvtc.edu.cn.
+bysj.jxvtc.edu.cn.	38400	IN	A	122.225.71.60
+dns.jxvtc.edu.cn.	38400	IN	A	210.32.77.7
+fzzyys.jxvtc.edu.cn.	38400	IN	A	202.107.233.250
+home.jxvtc.edu.cn.	38400	IN	A	122.225.71.44
+jpk.jxvtc.edu.cn.	38400	IN	A	122.225.71.40
+jpkc.jxvtc.edu.cn.	38400	IN	A	122.225.71.41
+kc.jxvtc.edu.cn.	38400	IN	A	122.70.150.79
+lib.jxvtc.edu.cn.	38400	IN	A	122.225.71.45
+mail.jxvtc.edu.cn.	38400	IN	A	122.225.71.38
+rczp.jxvtc.edu.cn.	38400	IN	A	122.225.71.59
+sfys.jxvtc.edu.cn.	38400	IN	A	122.225.71.60
+szxx.jxvtc.edu.cn.	38400	IN	A	122.225.71.58
+vdt.jxvtc.edu.cn.	38400	IN	A	122.225.71.55
+vdtp.jxvtc.edu.cn.	38400	IN	A	122.225.71.55
+vpn.jxvtc.edu.cn.	38400	IN	A	122.225.71.62
+www.jxvtc.edu.cn.	38400	IN	A	122.225.71.35
+www2.jxvtc.edu.cn.	38400	IN	A	122.225.71.50
+yxzz.jxvtc.edu.cn.	38400	IN	A	122.225.71.57
+zjw.jxvtc.edu.cn.	38400	IN	A	122.225.26.14
+zspt.jxvtc.edu.cn.	38400	IN	A	122.225.71.59
+jxvtc.edu.cn.		38400	IN	SOA	dns.jxvtc.edu.cn. mail.jxvtc.edu.cn. 1293595155 10800 3600 604800 38400
+;; Query time: 117 msec
+;; SERVER: 210.32.77.7#53(210.32.77.7)
+;; WHEN: Mon Apr 21 20:55:50 中国标准时间 2014
+;; XFR size: 24 records (messages 1, bytes 545)
+

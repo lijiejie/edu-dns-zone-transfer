@@ -1,0 +1,108 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns.ccec.edu.cn axfr ccec.edu.cn
+; (1 server found)
+;; global options: +cmd
+ccec.edu.cn.		86400	IN	SOA	dns.ccec.edu.cn. webmaster.ccec.edu.cn. 20130913 28800 14400 3600000 86400
+ccec.edu.cn.		86400	IN	NS	dns.ccec.edu.cn.
+ccec.edu.cn.		86400	IN	MX	10 mail.ccec.edu.cn.
+ccec.edu.cn.		86400	IN	A	202.194.104.11
+bdyj.ccec.edu.cn.	86400	IN	CNAME	web.ccec.edu.cn.
+bwc.ccec.edu.cn.	86400	IN	CNAME	www2.ccec.edu.cn.
+caiwu.ccec.edu.cn.	86400	IN	A	219.231.223.10
+career.ccec.edu.cn.	86400	IN	A	219.231.222.2
+cjxy.ccec.edu.cn.	86400	IN	CNAME	web.ccec.edu.cn.
+csse.ccec.edu.cn.	86400	IN	A	202.194.106.17
+dns.ccec.edu.cn.	86400	IN	A	202.194.104.1
+dwb.ccec.edu.cn.	86400	IN	CNAME	web.ccec.edu.cn.
+dysh.ccec.edu.cn.	86400	IN	CNAME	web.ccec.edu.cn.
+ecard.ccec.edu.cn.	86400	IN	A	10.60.60.37
+el.ccec.edu.cn.		86400	IN	A	219.231.222.76
+es.ccec.edu.cn.		86400	IN	A	219.231.222.77
+ftp.ccec.edu.cn.	86400	IN	A	202.194.104.36
+gc.ccec.edu.cn.		86400	IN	CNAME	web.ccec.edu.cn.
+gggl.ccec.edu.cn.	86400	IN	CNAME	web.ccec.edu.cn.
+gh.ccec.edu.cn.		86400	IN	A	202.194.106.19
+gj.ccec.edu.cn.		86400	IN	CNAME	web.ccec.edu.cn.
+gjjl.ccec.edu.cn.	86400	IN	A	74.82.179.37
+gnjl.ccec.edu.cn.	86400	IN	CNAME	www3.ccec.edu.cn.
+go.ccec.edu.cn.		86400	IN	A	202.194.106.107
+gs.ccec.edu.cn.		86400	IN	A	202.194.106.17
+gsgl.ccec.edu.cn.	86400	IN	CNAME	www2.ccec.edu.cn.
+hq.ccec.edu.cn.		86400	IN	CNAME	www3.ccec.edu.cn.
+ieelab.ccec.edu.cn.	86400	IN	A	219.231.223.13
+jj.ccec.edu.cn.		86400	IN	CNAME	web.ccec.edu.cn.
+jjc.ccec.edu.cn.	86400	IN	CNAME	www2.ccec.edu.cn.
+jpkc.ccec.edu.cn.	86400	IN	A	219.231.223.29
+jsj.ccec.edu.cn.	86400	IN	A	219.231.223.34
+jsjjc.ccec.edu.cn.	86400	IN	A	219.231.223.65
+jszx.ccec.edu.cn.	86400	IN	CNAME	web.ccec.edu.cn.
+jw.ccec.edu.cn.		86400	IN	A	219.231.222.17
+jwc.ccec.edu.cn.	86400	IN	CNAME	web.ccec.edu.cn.
+jwjc.ccec.edu.cn.	86400	IN	CNAME	web.ccec.edu.cn.
+kj.ccec.edu.cn.		86400	IN	CNAME	web.ccec.edu.cn.
+kyc.ccec.edu.cn.	86400	IN	CNAME	www2.ccec.edu.cn.
+lib.ccec.edu.cn.	86400	IN	A	202.194.107.3
+login.ccec.edu.cn.	86400	IN	A	202.194.104.60
+ltx.ccec.edu.cn.	86400	IN	CNAME	www2.ccec.edu.cn.
+mail.ccec.edu.cn.	86400	IN	A	202.194.104.10
+mc.ccec.edu.cn.		86400	IN	A	219.231.223.57
+metc.ccec.edu.cn.	86400	IN	A	219.231.223.18
+mov.ccec.edu.cn.	86400	IN	A	202.194.106.105
+mov2.ccec.edu.cn.	86400	IN	A	202.194.108.2
+msse.ccec.edu.cn.	86400	IN	CNAME	web.ccec.edu.cn.
+mtjj.ccec.edu.cn.	86400	IN	CNAME	web.ccec.edu.cn.
+naa.ccec.edu.cn.	86400	IN	A	202.194.106.104
+news.ccec.edu.cn.	86400	IN	A	202.194.105.200
+nic.ccec.edu.cn.	86400	IN	A	202.194.106.103
+ntp.ccec.edu.cn.	86400	IN	A	202.194.104.34
+nv.ccec.edu.cn.		86400	IN	A	202.194.104.47
+oa.ccec.edu.cn.		86400	IN	A	202.194.104.38
+rjxy.ccec.edu.cn.	86400	IN	CNAME	web.ccec.edu.cn.
+rsc.ccec.edu.cn.	86400	IN	CNAME	web.ccec.edu.cn.
+shaohua.ccec.edu.cn.	86400	IN	A	219.231.223.42
+sj.ccec.edu.cn.		86400	IN	CNAME	web.ccec.edu.cn.
+skb.ccec.edu.cn.	86400	IN	CNAME	web.ccec.edu.cn.
+sus.ccec.edu.cn.	86400	IN	A	202.194.104.34
+sx.ccec.edu.cn.		86400	IN	A	219.231.223.35
+sxsy.ccec.edu.cn.	86400	IN	A	219.231.223.17
+tj.ccec.edu.cn.		86400	IN	A	202.194.104.37
+tsg.ccec.edu.cn.	86400	IN	CNAME	lib.ccec.edu.cn.
+tuanwei.ccec.edu.cn.	86400	IN	CNAME	shaohua.ccec.edu.cn.
+tyb.ccec.edu.cn.	86400	IN	CNAME	web.ccec.edu.cn.
+tzb.ccec.edu.cn.	86400	IN	CNAME	web1.ccec.edu.cn.
+tzz.ccec.edu.cn.	86400	IN	CNAME	www3.ccec.edu.cn.
+vod.ccec.edu.cn.	86400	IN	A	202.194.108.3
+vpn.ccec.edu.cn.	86400	IN	A	221.0.95.230
+vpn1.ccec.edu.cn.	86400	IN	A	58.57.27.230
+web.ccec.edu.cn.	86400	IN	A	202.194.104.12
+web1.ccec.edu.cn.	86400	IN	A	202.194.106.102
+wgy.ccec.edu.cn.	86400	IN	CNAME	www2.ccec.edu.cn.
+wljxa.ccec.edu.cn.	86400	IN	A	219.231.223.27
+wljxd.ccec.edu.cn.	86400	IN	A	219.231.223.28
+www.ccec.edu.cn.	86400	IN	CNAME	ccec.edu.cn.
+www2.ccec.edu.cn.	86400	IN	A	202.194.106.10
+www3.ccec.edu.cn.	86400	IN	A	202.194.106.13
+www4.ccec.edu.cn.	86400	IN	A	202.194.106.16
+www5.ccec.edu.cn.	86400	IN	A	202.194.106.15
+wyypw.ccec.edu.cn.	86400	IN	A	202.194.105.139
+xb.ccec.edu.cn.		86400	IN	CNAME	www5.ccec.edu.cn.
+xcb.ccec.edu.cn.	86400	IN	CNAME	www2.ccec.edu.cn.
+xd.ccec.edu.cn.		86400	IN	A	219.231.223.50
+xkb.ccec.edu.cn.	86400	IN	A	219.231.223.6
+xnxy.ccec.edu.cn.	86400	IN	CNAME	web.ccec.edu.cn.
+xsc.ccec.edu.cn.	86400	IN	A	219.231.223.41
+xsg.ccec.edu.cn.	86400	IN	CNAME	www4.ccec.edu.cn.
+xy.ccec.edu.cn.		86400	IN	CNAME	www3.ccec.edu.cn.
+yjs.ccec.edu.cn.	86400	IN	CNAME	web.ccec.edu.cn.
+yywzw.ccec.edu.cn.	86400	IN	CNAME	www3.ccec.edu.cn.
+yzb.ccec.edu.cn.	86400	IN	CNAME	www2.ccec.edu.cn.
+zc.ccec.edu.cn.		86400	IN	CNAME	web.ccec.edu.cn.
+zfxy.ccec.edu.cn.	86400	IN	CNAME	web.ccec.edu.cn.
+zj.ccec.edu.cn.		86400	IN	CNAME	web.ccec.edu.cn.
+zzb.ccec.edu.cn.	86400	IN	CNAME	web1.ccec.edu.cn.
+ccec.edu.cn.		86400	IN	SOA	dns.ccec.edu.cn. webmaster.ccec.edu.cn. 20130913 28800 14400 3600000 86400
+;; Query time: 64 msec
+;; SERVER: 202.194.104.1#53(202.194.104.1)
+;; WHEN: Mon Apr 21 20:53:54 中国标准时间 2014
+;; XFR size: 99 records (messages 1, bytes 1984)
+

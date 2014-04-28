@@ -1,0 +1,107 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @uzzdns.uzz.edu.cn axfr uzz.edu.cn
+; (1 server found)
+;; global options: +cmd
+uzz.edu.cn.		86400	IN	SOA	uzzdns.uzz.edu.cn. root.uzz.edu.cn. 2014032708 150 200 4000 86400
+uzz.edu.cn.		86400	IN	A	210.44.232.18
+uzz.edu.cn.		86400	IN	MX	10 mail.uzz.edu.cn.
+uzz.edu.cn.		86400	IN	NS	uzzdns.uzz.edu.cn.
+uzz.edu.cn.		86400	IN	NS	uzzdns2.uzz.edu.cn.
+able.uzz.edu.cn.	86400	IN	A	210.44.232.25
+bbs.uzz.edu.cn.		86400	IN	A	210.44.232.25
+bgs.uzz.edu.cn.		86400	IN	A	210.44.232.25
+bwc.uzz.edu.cn.		86400	IN	A	210.44.232.25
+cai.uzz.edu.cn.		86400	IN	A	210.44.232.25
+cdjy.uzz.edu.cn.	86400	IN	A	210.44.232.25
+cjxy.uzz.edu.cn.	86400	IN	A	210.44.232.25
+cmxy.uzz.edu.cn.	86400	IN	A	210.44.232.25
+cn.uzz.edu.cn.		86400	IN	A	210.44.232.73
+dag.uzz.edu.cn.		86400	IN	A	210.44.232.25
+dds.uzz.edu.cn.		86400	IN	A	210.44.234.180
+dyb.uzz.edu.cn.		86400	IN	A	210.44.232.25
+finance.uzz.edu.cn.	86400	IN	A	210.44.232.24
+foreign.uzz.edu.cn.	86400	IN	A	210.44.232.24
+ftp.uzz.edu.cn.		86400	IN	A	210.44.232.188
+fwdf.uzz.edu.cn.	86400	IN	A	98.159.105.3
+fzgh.uzz.edu.cn.	86400	IN	A	210.44.232.25
+gdgc.uzz.edu.cn.	86400	IN	A	210.44.232.25
+gh.uzz.edu.cn.		86400	IN	A	210.44.232.25
+gonghui.uzz.edu.cn.	86400	IN	A	210.44.232.25
+gzc.uzz.edu.cn.		86400	IN	A	210.44.232.25
+hqc.uzz.edu.cn.		86400	IN	A	210.44.232.25
+hxhg.uzz.edu.cn.	86400	IN	A	210.44.232.25
+ice.uzz.edu.cn.		86400	IN	A	210.44.232.25
+jcc.uzz.edu.cn.		86400	IN	A	210.44.232.25
+jdgc.uzz.edu.cn.	86400	IN	A	210.44.232.25
+jiaoxue.uzz.edu.cn.	86400	IN	A	210.44.232.25
+jjc.uzz.edu.cn.		86400	IN	A	210.44.232.25
+jjzx.uzz.edu.cn.	86400	IN	A	210.44.232.25
+jpkc.uzz.edu.cn.	86400	IN	A	210.44.232.72
+jsjwhjc.uzz.edu.cn.	86400	IN	A	210.44.232.54
+jwc.uzz.edu.cn.		86400	IN	A	210.44.232.25
+jwgl.uzz.edu.cn.	86400	IN	A	210.44.232.70
+jxjy.uzz.edu.cn.	86400	IN	A	210.44.232.25
+jxpg.uzz.edu.cn.	86400	IN	A	210.44.232.25
+jyb.uzz.edu.cn.		86400	IN	A	210.44.232.24
+jyjsx.uzz.edu.cn.	86400	IN	A	210.44.232.25
+kyc.uzz.edu.cn.		86400	IN	A	210.44.232.25
+lab.uzz.edu.cn.		86400	IN	A	210.44.232.25
+league.uzz.edu.cn.	86400	IN	A	210.44.232.24
+lib.uzz.edu.cn.		86400	IN	A	210.44.232.41
+ltx.uzz.edu.cn.		86400	IN	A	210.44.232.25
+lyzy.uzz.edu.cn.	86400	IN	A	210.44.232.25
+mail.uzz.edu.cn.	86400	IN	A	210.44.232.86
+math.uzz.edu.cn.	86400	IN	A	210.44.232.25
+mcn.uzz.edu.cn.		86400	IN	A	210.44.232.25
+mssj.uzz.edu.cn.	86400	IN	A	210.44.232.24
+nec.uzz.edu.cn.		86400	IN	A	210.44.232.25
+open.uzz.edu.cn.	86400	IN	A	210.44.232.30
+psyc.uzz.edu.cn.	86400	IN	A	210.44.232.98
+rsc.uzz.edu.cn.		86400	IN	A	210.44.232.25
+school.uzz.edu.cn.	86400	IN	A	210.44.232.66
+sjc.uzz.edu.cn.		86400	IN	A	210.44.232.25
+sky.uzz.edu.cn.		86400	IN	A	210.44.232.25
+stu.uzz.edu.cn.		86400	IN	A	210.44.232.25
+swx.uzz.edu.cn.		86400	IN	A	210.44.232.25
+syjx.uzz.edu.cn.	86400	IN	A	210.44.232.25
+sym.uzz.edu.cn.		86400	IN	A	210.44.232.25
+syzx.uzz.edu.cn.	86400	IN	A	210.44.232.25
+szb.uzz.edu.cn.		86400	IN	A	210.44.232.25
+szx.uzz.edu.cn.		86400	IN	A	210.44.232.25
+tmgc.uzz.edu.cn.	86400	IN	A	210.44.232.25
+tyxy.uzz.edu.cn.	86400	IN	A	210.44.232.24
+union.uzz.edu.cn.	86400	IN	A	210.44.232.25
+uzzdns.uzz.edu.cn.	86400	IN	A	210.44.232.124
+uzzdns2.uzz.edu.cn.	86400	IN	A	210.44.232.125
+vlab.uzz.edu.cn.	86400	IN	A	210.44.232.80
+vod.uzz.edu.cn.		86400	IN	A	210.44.232.82
+whjc.uzz.edu.cn.	86400	IN	A	210.44.232.25
+wjhx.uzz.edu.cn.	86400	IN	A	210.44.232.71
+wjzx.uzz.edu.cn.	86400	IN	A	210.44.232.25
+wlzx.uzz.edu.cn.	86400	IN	A	210.44.232.25
+www.uzz.edu.cn.		86400	IN	A	210.44.232.18
+www2.uzz.edu.cn.	86400	IN	A	210.44.232.24
+wxy.uzz.edu.cn.		86400	IN	A	210.44.232.25
+xb.uzz.edu.cn.		86400	IN	A	210.44.232.25
+xcb.uzz.edu.cn.		86400	IN	A	210.44.232.25
+xgzx.uzz.edu.cn.	86400	IN	A	210.44.232.24
+xlcz.uzz.edu.cn.	86400	IN	A	210.44.232.25
+xljk.uzz.edu.cn.	86400	IN	A	210.44.232.98
+xljy.uzz.edu.cn.	86400	IN	A	210.44.232.25
+xlx.uzz.edu.cn.		86400	IN	A	210.44.232.25
+xxkx.uzz.edu.cn.	86400	IN	A	210.44.232.25
+xxw.uzz.edu.cn.		86400	IN	A	210.44.232.77
+yywd.uzz.edu.cn.	86400	IN	A	210.44.232.24
+yywz.uzz.edu.cn.	86400	IN	A	210.44.232.25
+zbb.uzz.edu.cn.		86400	IN	A	210.44.232.25
+zjc.uzz.edu.cn.		86400	IN	A	210.44.232.25
+zsb.uzz.edu.cn.		86400	IN	A	210.22.14.81
+zzb.uzz.edu.cn.		86400	IN	A	210.44.232.25
+zzd.uzz.edu.cn.		86400	IN	A	210.44.232.25
+zzxy.uzz.edu.cn.	86400	IN	A	210.44.232.25
+uzz.edu.cn.		86400	IN	SOA	uzzdns.uzz.edu.cn. root.uzz.edu.cn. 2014032708 150 200 4000 86400
+;; Query time: 44 msec
+;; SERVER: 210.44.232.124#53(210.44.232.124)
+;; WHEN: Mon Apr 21 20:54:36 中国标准时间 2014
+;; XFR size: 98 records (messages 1, bytes 2077)
+

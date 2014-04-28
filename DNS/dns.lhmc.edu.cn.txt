@@ -1,0 +1,79 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns.lhmc.edu.cn axfr lhmc.edu.cn
+; (1 server found)
+;; global options: +cmd
+lhmc.edu.cn.		21600	IN	SOA	dns.lhmc.edu.cn. edu.lhmc.edu.cn.com. 2006051201 10800 3600 604800 86400
+lhmc.edu.cn.		21600	IN	NS	dns.lhmc.edu.cn.
+lhmc.edu.cn.		21600	IN	MX	5 mx.hosting.edu.cn.
+lhmc.edu.cn.		21600	IN	TXT	"v=spf1 ip4:117.79.83.128/27 222.28.155.0/24 -all"
+bk.lhmc.edu.cn.		21600	IN	A	125.219.128.6
+bw.lhmc.edu.cn.		21600	IN	A	125.219.128.6
+cjb.lhmc.edu.cn.	21600	IN	A	125.219.128.6
+cw.lhmc.edu.cn.		21600	IN	A	125.219.128.6
+cxzy.lhmc.edu.cn.	21600	IN	A	125.219.128.6
+db.lhmc.edu.cn.		21600	IN	A	125.219.128.6
+dd.lhmc.edu.cn.		21600	IN	A	125.219.128.6
+djpg.lhmc.edu.cn.	21600	IN	A	125.219.128.6
+dns.lhmc.edu.cn.	21600	IN	A	125.219.128.8
+ed.lhmc.edu.cn.		21600	IN	A	125.219.128.6
+el.lhmc.edu.cn.		21600	IN	A	125.219.128.6
+ftp.lhmc.edu.cn.	21600	IN	A	125.219.128.10
+gh.lhmc.edu.cn.		21600	IN	A	125.219.128.6
+gkcn.lhmc.edu.cn.	21600	IN	A	125.219.128.6
+gz.lhmc.edu.cn.		21600	IN	A	125.219.128.6
+h1n1.lhmc.edu.cn.	21600	IN	A	125.219.128.6
+hfpy.lhmc.edu.cn.	21600	IN	A	125.219.128.6
+hl.lhmc.edu.cn.		21600	IN	A	125.219.128.6
+hlx.lhmc.edu.cn.	21600	IN	A	125.219.128.24
+hlzy.lhmc.edu.cn.	21600	IN	A	125.219.128.24
+ic.lhmc.edu.cn.		21600	IN	A	125.219.128.6
+jcb.lhmc.edu.cn.	21600	IN	A	125.219.128.6
+jcyxb.lhmc.edu.cn.	21600	IN	A	125.219.128.24
+jfsx.lhmc.edu.cn.	21600	IN	A	125.219.128.6
+jj.lhmc.edu.cn.		21600	IN	A	125.219.128.6
+job.lhmc.edu.cn.	21600	IN	A	218.29.140.102
+jp.lhmc.edu.cn.		21600	IN	A	221.15.37.3
+jpk.lhmc.edu.cn.	21600	IN	A	125.219.128.24
+jw.lhmc.edu.cn.		21600	IN	A	125.219.128.21
+jwc.lhmc.edu.cn.	21600	IN	A	125.219.128.24
+jwcs.lhmc.edu.cn.	21600	IN	A	125.219.128.22
+jy.lhmc.edu.cn.		21600	IN	A	125.219.128.6
+kqx.lhmc.edu.cn.	21600	IN	A	125.219.128.24
+kqyxx.lhmc.edu.cn.	21600	IN	A	125.219.128.6
+kxfz.lhmc.edu.cn.	21600	IN	A	125.219.128.6
+lczy.lhmc.edu.cn.	21600	IN	A	125.219.128.24
+mail.lhmc.edu.cn.	21600	IN	CNAME	mail.hosting.edu.cn.
+moodle.lhmc.edu.cn.	21600	IN	A	125.219.128.24
+pic.lhmc.edu.cn.	21600	IN	A	125.219.128.6
+qzlx.lhmc.edu.cn.	21600	IN	A	125.219.128.6
+reg.lhmc.edu.cn.	21600	IN	A	125.219.128.6
+rsc.lhmc.edu.cn.	21600	IN	A	125.219.128.6
+sfy.lhmc.edu.cn.	21600	IN	A	125.219.128.6
+sp.lhmc.edu.cn.		21600	IN	A	125.219.128.6
+spx.lhmc.edu.cn.	21600	IN	A	125.219.128.24
+sso.lhmc.edu.cn.	21600	IN	A	125.219.128.24
+sz.lhmc.edu.cn.		21600	IN	A	125.219.128.6
+test.lhmc.edu.cn.	21600	IN	A	125.219.128.6
+tv.lhmc.edu.cn.		21600	IN	A	125.219.128.6
+tw.lhmc.edu.cn.		21600	IN	A	125.219.128.6
+www.lhmc.edu.cn.	21600	IN	A	221.15.37.5
+wx.lhmc.edu.cn.		21600	IN	A	125.219.128.6
+wyb.lhmc.edu.cn.	21600	IN	A	125.219.128.24
+xgb.lhmc.edu.cn.	21600	IN	A	125.219.128.6
+xzb.lhmc.edu.cn.	21600	IN	A	125.219.128.6
+yjky.lhmc.edu.cn.	21600	IN	A	125.219.128.6
+yl.lhmc.edu.cn.		21600	IN	A	125.219.128.6
+ylx.lhmc.edu.cn.	21600	IN	A	125.219.128.24
+yx.lhmc.edu.cn.		21600	IN	A	125.219.128.6
+yxx.lhmc.edu.cn.	21600	IN	A	125.219.128.24
+yxzy.lhmc.edu.cn.	21600	IN	A	125.219.128.24
+zlgc.lhmc.edu.cn.	21600	IN	A	125.219.128.24
+zs.lhmc.edu.cn.		21600	IN	A	125.219.128.6
+zw.lhmc.edu.cn.		21600	IN	A	125.219.128.6
+zyk.lhmc.edu.cn.	21600	IN	A	221.15.37.2
+lhmc.edu.cn.		21600	IN	SOA	dns.lhmc.edu.cn. edu.lhmc.edu.cn.com. 2006051201 10800 3600 604800 86400
+;; Query time: 145 msec
+;; SERVER: 125.219.128.8#53(125.219.128.8)
+;; WHEN: Mon Apr 21 20:59:14 中国标准时间 2014
+;; XFR size: 70 records (messages 1, bytes 1524)
+

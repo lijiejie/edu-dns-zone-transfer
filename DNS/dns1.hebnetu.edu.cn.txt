@@ -1,0 +1,46 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns1.hebnetu.edu.cn axfr hebnetu.edu.cn
+; (1 server found)
+;; global options: +cmd
+hebnetu.edu.cn.		86400	IN	SOA	dns1.hebnetu.edu.cn. root.ximotech.com.cn. 2014030502 150 200 4000 86400
+hebnetu.edu.cn.		86400	IN	MX	15 proxy-server.hebnetu.edu.cn.
+hebnetu.edu.cn.		86400	IN	NS	dns1.hebnetu.edu.cn.
+hebnetu.edu.cn.		86400	IN	NS	dns2.hebnetu.edu.cn.
+bmzy.hebnetu.edu.cn.	86400	IN	A	121.28.25.164
+cwc.hebnetu.edu.cn.	86400	IN	A	121.28.25.173
+dns1.hebnetu.edu.cn.	86400	IN	A	202.206.236.6
+dns2.hebnetu.edu.cn.	86400	IN	A	202.206.236.8
+dqlx.hebnetu.edu.cn.	86400	IN	A	121.28.25.173
+gqt.hebnetu.edu.cn.	86400	IN	A	121.28.25.173
+gzxy.hebnetu.edu.cn.	86400	IN	A	121.28.25.166
+hbdz.hebnetu.edu.cn.	86400	IN	A	121.28.25.173
+jj.hebnetu.edu.cn.	86400	IN	A	121.28.25.173
+jjxy.hebnetu.edu.cn.	86400	IN	A	121.28.25.176
+jwc.hebnetu.edu.cn.	86400	IN	A	121.28.25.173
+jwgl.hebnetu.edu.cn.	86400	IN	A	121.28.150.76
+kfxy.hebnetu.edu.cn.	86400	IN	A	121.28.25.173
+kfzs.hebnetu.edu.cn.	86400	IN	A	121.28.25.173
+kyc.hebnetu.edu.cn.	86400	IN	A	121.28.25.173
+mail.hebnetu.edu.cn.	86400	IN	A	121.28.25.180
+nerc.hebnetu.edu.cn.	86400	IN	A	121.28.25.187
+new.hebnetu.edu.cn.	86400	IN	A	121.28.25.173
+oa.hebnetu.edu.cn.	86400	IN	A	121.28.25.189
+pjzl.hebnetu.edu.cn.	86400	IN	A	121.28.25.173
+proxy-server.hebnetu.edu.cn. 86400 IN	A	121.28.25.180
+pxzx.hebnetu.edu.cn.	86400	IN	A	121.28.25.177
+rsc.hebnetu.edu.cn.	86400	IN	A	121.28.25.173
+vod.hebnetu.edu.cn.	86400	IN	A	121.28.150.77
+www.hebnetu.edu.cn.	86400	IN	A	121.28.25.173
+www1.hebnetu.edu.cn.	86400	IN	A	121.28.25.173
+xjzx.hebnetu.edu.cn.	86400	IN	A	121.28.25.173
+xq.hebnetu.edu.cn.	86400	IN	A	121.28.25.173
+xsc.hebnetu.edu.cn.	86400	IN	A	121.28.25.173
+xsc1.hebnetu.edu.cn.	86400	IN	A	121.28.25.163
+xtb.hebnetu.edu.cn.	86400	IN	A	121.28.25.173
+zsjy.hebnetu.edu.cn.	86400	IN	A	121.28.25.167
+hebnetu.edu.cn.		86400	IN	SOA	dns1.hebnetu.edu.cn. root.ximotech.com.cn. 2014030502 150 200 4000 86400
+;; Query time: 54 msec
+;; SERVER: 202.206.236.6#53(202.206.236.6)
+;; WHEN: Mon Apr 21 20:48:42 中国标准时间 2014
+;; XFR size: 37 records (messages 1, bytes 830)
+

@@ -1,0 +1,20 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns.hifa.edu.cn axfr hifa.edu.cn
+; (1 server found)
+;; global options: +cmd
+hifa.edu.cn.		3600	IN	SOA	dns2.hifa.edu.cn. huangb668.sina.com.hifa.edu.cn. 1037 1800 300 86400 86400
+hifa.edu.cn.		3600	IN	NS	dns.hifa.edu.cn.
+hifa.edu.cn.		3600	IN	NS	dns2.hifa.edu.cn.
+hifa.edu.cn.		3600	IN	MX	10 mail.hifa.edu.cn.
+*.hifa.edu.cn.		3600	IN	CNAME	www.hifa.edu.cn.
+dns.hifa.edu.cn.	3600	IN	A	115.156.33.130
+dns2.hifa.edu.cn.	3600	IN	A	59.175.200.86
+jwxt.hifa.edu.cn.	3600	IN	A	115.156.33.135
+oldwww.hifa.edu.cn.	3600	IN	A	115.156.33.139
+www.hifa.edu.cn.	3600	IN	A	59.175.200.85
+hifa.edu.cn.		3600	IN	SOA	dns2.hifa.edu.cn. huangb668.sina.com.hifa.edu.cn. 1037 1800 300 86400 86400
+;; Query time: 346 msec
+;; SERVER: 115.156.33.130#53(115.156.33.130)
+;; WHEN: Mon Apr 21 20:57:46 中国标准时间 2014
+;; XFR size: 11 records (messages 1, bytes 290)
+

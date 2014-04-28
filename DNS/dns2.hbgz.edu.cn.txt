@@ -1,0 +1,48 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns2.hbgz.edu.cn axfr hbgz.edu.cn
+; (1 server found)
+;; global options: +cmd
+hbgz.edu.cn.		10800	IN	SOA	dns1.hbgz.edu.cn. root.dns1.hbgz.edu.cn. 929442922 10800 3600 604800 86400
+hbgz.edu.cn.		10800	IN	MX	10 oa.hbgz.edu.cn.
+hbgz.edu.cn.		10800	IN	MX	20 mail.hbgz.edu.cn.
+hbgz.edu.cn.		10800	IN	NS	dns1.hbgz.edu.cn.
+hbgz.edu.cn.		10800	IN	NS	dns2.hbgz.edu.cn.
+aqwdc.hbgz.edu.cn.	10800	IN	A	211.81.96.7
+cjc.hbgz.edu.cn.	10800	IN	A	211.81.96.7
+cwc.hbgz.edu.cn.	10800	IN	A	211.81.96.7
+dlx.hbgz.edu.cn.	10800	IN	A	211.81.96.7
+dns1.hbgz.edu.cn.	10800	IN	A	211.81.96.5
+dns2.hbgz.edu.cn.	10800	IN	A	211.81.96.6
+dqx.hbgz.edu.cn.	10800	IN	A	211.81.96.7
+dw.hbgz.edu.cn.		10800	IN	A	211.81.96.7
+dz.hbgz.edu.cn.		10800	IN	A	211.81.96.99
+ftp.hbgz.edu.cn.	10800	IN	CNAME	mail.hbgz.edu.cn.
+hqglc.hbgz.edu.cn.	10800	IN	A	211.81.96.7
+jcb.hbgz.edu.cn.	10800	IN	A	211.81.96.7
+jiwei.hbgz.edu.cn.	10800	IN	A	211.81.96.7
+jjx.hbgz.edu.cn.	10800	IN	A	211.81.96.7
+jmx.hbgz.edu.cn.	10800	IN	A	211.81.96.7
+jsjx.hbgz.edu.cn.	10800	IN	A	211.81.96.7
+jtx.hbgz.edu.cn.	10800	IN	A	211.81.96.7
+jwc.hbgz.edu.cn.	10800	IN	A	211.81.96.7
+kyk.hbgz.edu.cn.	10800	IN	A	211.81.96.7
+lib.hbgz.edu.cn.	10800	IN	A	211.81.99.221
+malie.hbgz.edu.cn.	10800	IN	A	211.81.96.7
+new.hbgz.edu.cn.	10800	IN	A	211.81.96.7
+sbk.hbgz.edu.cn.	10800	IN	A	211.81.96.7
+slx.hbgz.edu.cn.	10800	IN	A	211.81.96.7
+stu.hbgz.edu.cn.	10800	IN	A	211.81.96.99
+tmx.hbgz.edu.cn.	10800	IN	A	211.81.96.7
+tsg.hbgz.edu.cn.	10800	IN	A	211.81.96.7
+tw.hbgz.edu.cn.		10800	IN	A	211.81.96.7
+web.hbgz.edu.cn.	10800	IN	A	211.81.96.7
+www.hbgz.edu.cn.	10800	IN	CNAME	new.hbgz.edu.cn.
+xb.hbgz.edu.cn.		10800	IN	A	211.81.96.7
+xsh.hbgz.edu.cn.	10800	IN	A	211.81.96.7
+xyh.hbgz.edu.cn.	10800	IN	A	211.81.98.74
+hbgz.edu.cn.		10800	IN	SOA	dns1.hbgz.edu.cn. root.dns1.hbgz.edu.cn. 929442922 10800 3600 604800 86400
+;; Query time: 126 msec
+;; SERVER: 211.81.96.6#53(211.81.96.6)
+;; WHEN: Mon Apr 21 20:48:42 中国标准时间 2014
+;; XFR size: 39 records (messages 1, bytes 837)
+

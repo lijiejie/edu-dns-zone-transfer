@@ -1,0 +1,327 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @nknu.nknu.edu.tw axfr nknu.edu.tw
+; (1 server found)
+;; global options: +cmd
+nknu.edu.tw.		10800	IN	SOA	nknu.nknu.edu.tw. root.nknu.nknu.edu.tw. 2014041501 3600 900 604800 86400
+nknu.edu.tw.		10800	IN	NS	nknu.nknu.edu.tw.
+nknu.edu.tw.		10800	IN	MX	10 nopam1.nknu.edu.tw.
+12edu.nknu.edu.tw.	10800	IN	A	140.127.56.87
+www.2014itcom.nknu.edu.tw. 10800 IN	A	140.127.77.128
+88.nknu.edu.tw.		10800	IN	A	140.127.56.88
+_vlmcs._TCP.nknu.edu.tw. 10800	IN	SRV	0 0 1688 kms.nknu.edu.tw.
+a.nknu.edu.tw.		10800	IN	A	140.127.40.68
+a3.nknu.edu.tw.		10800	IN	A	140.127.40.10
+acc01.nknu.edu.tw.	10800	IN	A	140.127.36.31
+acc02.nknu.edu.tw.	10800	IN	A	140.127.36.32
+acc03.nknu.edu.tw.	10800	IN	A	140.127.36.33
+acc04.nknu.edu.tw.	10800	IN	A	140.127.36.34
+acc05.nknu.edu.tw.	10800	IN	A	140.127.36.35
+acc06.nknu.edu.tw.	10800	IN	A	140.127.36.36
+ace.nknu.edu.tw.	10800	IN	A	140.127.36.57
+acp.nknu.edu.tw.	10800	IN	A	140.127.56.38
+acs.nknu.edu.tw.	10800	IN	A	140.127.56.42
+adm01.nknu.edu.tw.	10800	IN	A	140.127.40.110
+adm02.nknu.edu.tw.	10800	IN	A	140.127.41.40
+adm03.nknu.edu.tw.	10800	IN	A	140.127.41.46
+adm04.nknu.edu.tw.	10800	IN	A	140.127.41.42
+adte.nknu.edu.tw.	10800	IN	A	140.127.44.15
+class.adte.nknu.edu.tw.	10800	IN	CNAME	adult.nknu.edu.tw.
+mb.adte.nknu.edu.tw.	10800	IN	CNAME	adte.nknu.edu.tw.
+adult.nknu.edu.tw.	10800	IN	A	140.127.44.16
+i.adult.nknu.edu.tw.	10800	IN	CNAME	adte.nknu.edu.tw.
+mb.adult.nknu.edu.tw.	10800	IN	CNAME	adult.nknu.edu.tw.
+ai.nknu.edu.tw.		10800	IN	CNAME	tni.nknu.edu.tw.
+amc.nknu.edu.tw.	10800	IN	A	140.127.36.20
+app.nknu.edu.tw.	10800	IN	A	140.127.56.24
+ast.nknu.edu.tw.	10800	IN	A	140.127.51.69
+b.nknu.edu.tw.		10800	IN	A	140.127.40.69
+bbs.nknu.edu.tw.	10800	IN	A	140.127.41.2
+bio.nknu.edu.tw.	10800	IN	A	140.127.66.95
+biohd.nknu.edu.tw.	10800	IN	A	140.127.36.244
+biostream.nknu.edu.tw.	10800	IN	A	140.127.36.239
+blog.nknu.edu.tw.	10800	IN	A	140.127.40.91
+breeze.nknu.edu.tw.	10800	IN	A	140.127.56.33
+broadcast.nknu.edu.tw.	10800	IN	A	140.127.56.31
+c.nknu.edu.tw.		10800	IN	A	140.127.41.73
+cacd.nknu.edu.tw.	10800	IN	A	140.127.51.16
+case2008.nknu.edu.tw.	10800	IN	A	140.127.36.242
+ccmail.nknu.edu.tw.	10800	IN	A	140.127.40.2
+ccmail2.nknu.edu.tw.	10800	IN	A	140.127.40.22
+cdtl.nknu.edu.tw.	10800	IN	A	140.127.40.82
+saver.center.nknu.edu.tw. 10800	IN	A	140.127.41.31
+chang.nknu.edu.tw.	10800	IN	A	140.127.52.12
+www.chang.nknu.edu.tw.	10800	IN	A	140.127.41.55
+chem.nknu.edu.tw.	10800	IN	A	140.127.51.21
+bbs.chem.nknu.edu.tw.	10800	IN	A	140.127.80.23
+www.chem.nknu.edu.tw.	10800	IN	A	140.127.80.22
+cindy.nknu.edu.tw.	10800	IN	A	140.127.40.46
+CIONCD.nknu.edu.tw.	10800	IN	A	140.127.53.3
+cip.nknu.edu.tw.	10800	IN	A	140.127.40.207
+cm.nknu.edu.tw.		10800	IN	CNAME	ep.nknu.edu.tw.
+colu.nknu.edu.tw.	10800	IN	A	140.127.43.111
+connect.nknu.edu.tw.	10800	IN	A	140.127.44.81
+controller.nknu.edu.tw.	10800	IN	A	140.127.45.2
+cprc.nknu.edu.tw.	10800	IN	A	140.127.51.13
+crms.nknu.edu.tw.	10800	IN	A	140.127.43.11
+crypto.nknu.edu.tw.	10800	IN	A	140.127.40.45
+csi.nknu.edu.tw.	10800	IN	A	140.127.36.243
+db.nknu.edu.tw.		10800	IN	A	140.127.43.45
+dbm.nknu.edu.tw.	10800	IN	CNAME	kkp.nknu.edu.tw.
+digschool.nknu.edu.tw.	10800	IN	A	140.127.47.100
+dns2.nknu.edu.tw.	10800	IN	A	140.127.40.33
+docfs.nknu.edu.tw.	10800	IN	A	140.127.40.65
+docserver.nknu.edu.tw.	10800	IN	A	140.127.40.60
+docwww.nknu.edu.tw.	10800	IN	A	140.127.43.6
+e.nknu.edu.tw.		10800	IN	A	140.127.56.30
+e-teach.nknu.edu.tw.	10800	IN	A	140.127.52.13
+ecad.nknu.edu.tw.	10800	IN	A	140.127.41.71
+edoc.nknu.edu.tw.	10800	IN	A	140.127.40.63
+edocproxy.nknu.edu.tw.	10800	IN	A	140.127.40.62
+tc521pc1.ee.nknu.edu.tw. 10800	IN	A	140.127.78.170
+tc521pc2.ee.nknu.edu.tw. 10800	IN	A	140.127.78.171
+tc521pc3.ee.nknu.edu.tw. 10800	IN	A	140.127.78.172
+tc521pc4.ee.nknu.edu.tw. 10800	IN	A	140.127.78.151
+tc521pc5.ee.nknu.edu.tw. 10800	IN	A	140.127.78.152
+tc521pc6.ee.nknu.edu.tw. 10800	IN	A	140.127.78.153
+tc542pc1.ee.nknu.edu.tw. 10800	IN	A	140.127.78.173
+tc542pc2.ee.nknu.edu.tw. 10800	IN	A	140.127.78.174
+tc553pc1.ee.nknu.edu.tw. 10800	IN	A	140.127.78.161
+tc553pc2.ee.nknu.edu.tw. 10800	IN	A	140.127.78.162
+tc553pc3.ee.nknu.edu.tw. 10800	IN	A	140.127.78.163
+tc553pc4.ee.nknu.edu.tw. 10800	IN	A	140.127.78.145
+tc553pc5.ee.nknu.edu.tw. 10800	IN	A	140.127.78.146
+tc553pc6.ee.nknu.edu.tw. 10800	IN	A	140.127.78.147
+tc553pc7.ee.nknu.edu.tw. 10800	IN	A	140.127.78.168
+tc553pc8.ee.nknu.edu.tw. 10800	IN	A	140.127.78.143
+tc553pc9.ee.nknu.edu.tw. 10800	IN	A	140.127.78.144
+tc560pc1.ee.nknu.edu.tw. 10800	IN	A	140.127.78.175
+tc560pc2.ee.nknu.edu.tw. 10800	IN	A	140.127.78.176
+tc560pc3.ee.nknu.edu.tw. 10800	IN	A	140.127.78.177
+tc560pc4.ee.nknu.edu.tw. 10800	IN	A	140.127.78.178
+tc560pc5.ee.nknu.edu.tw. 10800	IN	A	140.127.78.179
+tc560pc6.ee.nknu.edu.tw. 10800	IN	A	140.127.78.141
+tc560pc7.ee.nknu.edu.tw. 10800	IN	A	140.127.78.141
+eevlsi.nknu.edu.tw.	10800	IN	A	140.127.78.186
+eevlsi1.nknu.edu.tw.	10800	IN	A	140.127.78.187
+eevlsi2.nknu.edu.tw.	10800	IN	A	140.127.78.188
+eevlsi3.nknu.edu.tw.	10800	IN	A	140.127.78.182
+elife.nknu.edu.tw.	10800	IN	A	140.127.56.162
+energy.nknu.edu.tw.	10800	IN	A	140.127.53.7
+english.nknu.edu.tw.	10800	IN	A	140.127.56.15
+ep.nknu.edu.tw.		10800	IN	A	140.127.40.85
+esd.nknu.edu.tw.	10800	IN	A	140.127.80.242
+esub.nknu.edu.tw.	10800	IN	MX	1 1629324187.mail.outlook.com.
+mail.esub.nknu.edu.tw.	10800	IN	CNAME	go.domains.live.com.
+space.esub.nknu.edu.tw.	10800	IN	CNAME	go.domains.live.com.
+eu.nknu.edu.tw.		10800	IN	A	140.127.56.99
+eu1.nknu.edu.tw.	10800	IN	A	140.127.56.98
+exam.nknu.edu.tw.	10800	IN	CNAME	teacher.nknu.edu.tw.
+explore.nknu.edu.tw.	10800	IN	A	140.127.40.21
+extend1.nknu.edu.tw.	10800	IN	A	140.127.44.5
+extend2.nknu.edu.tw.	10800	IN	A	140.127.44.6
+extend3.nknu.edu.tw.	10800	IN	A	140.127.44.7
+extend4.nknu.edu.tw.	10800	IN	A	140.127.49.145
+fangcy.nknu.edu.tw.	10800	IN	A	140.127.43.19
+www.fault.nknu.edu.tw.	10800	IN	A	140.127.36.245
+gender.nknu.edu.tw.	10800	IN	A	140.127.44.14
+geog.nknu.edu.tw.	10800	IN	A	140.127.43.14
+giast.nknu.edu.tw.	10800	IN	A	140.127.51.69
+gifted.nknu.edu.tw.	10800	IN	A	140.127.68.88
+girc.nknu.edu.tw.	10800	IN	A	140.127.51.69
+gis.nknu.edu.tw.	10800	IN	A	140.127.80.246
+greenlife.nknu.edu.tw.	10800	IN	A	140.127.53.21
+gtels.nknu.edu.tw.	10800	IN	A	140.127.68.67
+guef2007.nknu.edu.tw.	10800	IN	A	140.127.56.25
+hrkm.nknu.edu.tw.	10800	IN	CNAME	kkp.nknu.edu.tw.
+hrkmen.nknu.edu.tw.	10800	IN	CNAME	kkp.nknu.edu.tw.
+ia.nknu.edu.tw.		10800	IN	A	140.127.43.12
+ICCITE.nknu.edu.tw.	10800	IN	A	140.127.45.25
+ICCITE.nknu.edu.tw.	10800	IN	A	140.127.45.26
+ice.nknu.edu.tw.	10800	IN	A	140.127.47.160
+ice.nknu.edu.tw.	10800	IN	MX	10 icemail.nknu.edu.tw.
+www.ice.nknu.edu.tw.	10800	IN	CNAME	ice.nknu.edu.tw.
+ice93.nknu.edu.tw.	10800	IN	CNAME	icemail.nknu.edu.tw.
+icebbs.nknu.edu.tw.	10800	IN	CNAME	icemail.nknu.edu.tw.
+icemail.nknu.edu.tw.	10800	IN	A	140.127.47.7
+icems.nknu.edu.tw.	10800	IN	CNAME	icemail.nknu.edu.tw.
+iceweb.nknu.edu.tw.	10800	IN	CNAME	icemail.nknu.edu.tw.
+ict.nknu.edu.tw.	10800	IN	A	140.127.36.240
+ict.nknu.edu.tw.	10800	IN	MX	1 ASPMX.L.GOOGLE.COM.
+ict.nknu.edu.tw.	10800	IN	MX	5 ALT1.ASPMX.L.GOOGLE.COM.
+ict.nknu.edu.tw.	10800	IN	MX	5 ALT2.ASPMX.L.GOOGLE.COM.
+ict.nknu.edu.tw.	10800	IN	MX	10 ASPMX2.GOOGLEMAIL.COM.
+ict.nknu.edu.tw.	10800	IN	MX	10 ASPMX3.GOOGLEMAIL.COM.
+ict.nknu.edu.tw.	10800	IN	MX	10 ASPMX4.GOOGLEMAIL.COM.
+ict.nknu.edu.tw.	10800	IN	MX	10 ASPMX5.GOOGLEMAIL.COM.
+www.id.nknu.edu.tw.	10800	IN	A	140.127.77.107
+info.nknu.edu.tw.	10800	IN	A	140.127.40.169
+inservice.nknu.edu.tw.	10800	IN	A	140.127.49.132
+inservice1.nknu.edu.tw.	10800	IN	A	140.127.44.3
+inservice2.nknu.edu.tw.	10800	IN	A	140.127.44.4
+interart.nknu.edu.tw.	10800	IN	A	140.127.41.74
+irc.nknu.edu.tw.	10800	IN	A	140.127.47.3
+iris.nknu.edu.tw.	10800	IN	A	140.127.36.250
+istudent.nknu.edu.tw.	10800	IN	A	140.127.40.84
+it.nknu.edu.tw.		10800	IN	A	140.127.40.81
+weblab.it.nknu.edu.tw.	10800	IN	A	140.127.45.8
+ite.nknu.edu.tw.	10800	IN	A	140.127.45.6
+bbs.ite.nknu.edu.tw.	10800	IN	A	140.127.45.100
+item.nknu.edu.tw.	10800	IN	A	140.127.45.18
+itwit.nknu.edu.tw.	10800	IN	A	140.127.44.11
+kkp.nknu.edu.tw.	10800	IN	A	140.127.56.161
+career.kkp.nknu.edu.tw.	10800	IN	A	140.127.56.51
+kkp2.nknu.edu.tw.	10800	IN	A	140.127.56.50
+kkp3.nknu.edu.tw.	10800	IN	A	140.127.40.85
+kkpill.nknu.edu.tw.	10800	IN	A	140.127.150.81
+kms.nknu.edu.tw.	10800	IN	A	140.127.40.20
+ksped.nknu.edu.tw.	10800	IN	A	140.127.68.100
+labs.nknu.edu.tw.	10800	IN	A	140.127.47.26
+lctsai.nknu.edu.tw.	10800	IN	A	140.127.51.161
+ldap.nknu.edu.tw.	10800	IN	A	140.127.40.90
+learn.nknu.edu.tw.	10800	IN	A	140.127.49.133
+letter.nknu.edu.tw.	10800	IN	A	140.127.41.23
+lib.nknu.edu.tw.	10800	IN	A	140.127.53.222
+ir.lib.nknu.edu.tw.	10800	IN	A	140.127.53.16
+rpa.lib.nknu.edu.tw.	10800	IN	A	140.127.53.13
+*.rpa.lib.nknu.edu.tw.	10800	IN	CNAME	rpa.lib.nknu.edu.tw.
+www.lib.nknu.edu.tw.	10800	IN	A	140.127.53.45
+list.nknu.edu.tw.	10800	IN	A	140.127.62.253
+live.nknu.edu.tw.	10800	IN	MX	1 1841282348.mail.outlook.com.
+mail.live.nknu.edu.tw.	10800	IN	CNAME	go.domains.live.com.
+space.live.nknu.edu.tw.	10800	IN	CNAME	go.domains.live.com.
+localhost.nknu.edu.tw.	10800	IN	A	127.0.0.1
+log.nknu.edu.tw.	10800	IN	A	140.127.40.245
+m.nknu.edu.tw.		10800	IN	A	140.127.56.34
+mail.nknu.edu.tw.	10800	IN	A	140.127.40.91
+mail.nknu.edu.tw.	10800	IN	MX	1 ASPMX.L.GOOGLE.COM.
+mail.nknu.edu.tw.	10800	IN	MX	5 ALT1.ASPMX.L.GOOGLE.COM.
+mail.nknu.edu.tw.	10800	IN	MX	5 ALT2.ASPMX.L.GOOGLE.COM.
+mail.nknu.edu.tw.	10800	IN	MX	10 ASPMX2.GOOGLEMAIL.COM.
+mail.nknu.edu.tw.	10800	IN	MX	10 ASPMX3.GOOGLEMAIL.COM.
+mail.nknu.edu.tw.	10800	IN	MX	10 ASPMX4.GOOGLEMAIL.COM.
+mail.nknu.edu.tw.	10800	IN	MX	10 ASPMX5.GOOGLEMAIL.COM.
+www.mail.nknu.edu.tw.	10800	IN	CNAME	ghs.google.com.
+www.math.nknu.edu.tw.	10800	IN	A	140.127.41.43
+matlab.nknu.edu.tw.	10800	IN	A	140.127.37.14
+mbo.nknu.edu.tw.	10800	IN	A	140.127.40.73
+mbo2.nknu.edu.tw.	10800	IN	A	140.127.41.68
+media.nknu.edu.tw.	10800	IN	A	140.127.51.22
+mg.nknu.edu.tw.		10800	IN	A	140.127.40.32
+microlab.nknu.edu.tw.	10800	IN	A	140.127.80.131
+mlist.nknu.edu.tw.	10800	IN	A	140.127.40.24
+mysql.nknu.edu.tw.	10800	IN	A	140.127.40.92
+n2.nknu.edu.tw.		10800	IN	A	140.127.36.3
+nc.nknu.edu.tw.		10800	IN	A	140.127.47.29
+ndys2009-iearntaiwan.nknu.edu.tw. 10800	IN A	140.127.53.39
+net.nknu.edu.tw.	10800	IN	A	140.127.40.108
+netflow.nknu.edu.tw.	10800	IN	A	140.127.41.5
+nknu.nknu.edu.tw.	10800	IN	A	140.127.40.3
+nknucad.nknu.edu.tw.	10800	IN	A	140.127.45.1
+nknucc.nknu.edu.tw.	10800	IN	A	140.127.40.1
+nknucc.nknu.edu.tw.	10800	IN	MX	10 nopam1.nknu.edu.tw.
+nknucc2.nknu.edu.tw.	10800	IN	A	140.127.40.11
+nknucdtl.nknu.edu.tw.	10800	IN	A	140.127.56.60
+nknulib.nknu.edu.tw.	10800	IN	A	140.127.53.11
+*.nknulib.nknu.edu.tw.	10800	IN	CNAME	nknulib.nknu.edu.tw.
+nopam.nknu.edu.tw.	10800	IN	A	140.127.56.23
+nopam1.nknu.edu.tw.	10800	IN	A	140.127.56.22
+nu.nknu.edu.tw.		10800	IN	A	140.127.56.99
+nudb.nknu.edu.tw.	10800	IN	A	140.127.47.1
+numedia.nknu.edu.tw.	10800	IN	A	140.127.47.4
+o365.nknu.edu.tw.	3600	IN	TXT	"v=spf1 include:spf.protection.outlook.com -all"
+o365.nknu.edu.tw.	10800	IN	MX	10 o365-nknu-edu-tw.mail.protection.outlook.com.
+_sipfederationtls._tcp.o365.nknu.edu.tw. 3600 IN SRV 100 1 5061 sipfed.online.lync.com.
+_sip._tls.o365.nknu.edu.tw. 3600 IN	SRV	100 1 443 sipdir.online.lync.com.
+autodiscover.o365.nknu.edu.tw. 10800 IN	CNAME	autodiscover.outlook.com.
+msoid.o365.nknu.edu.tw.	10800	IN	CNAME	clientconfig.microsoftonline-p.net.
+oclc.nknu.edu.tw.	10800	IN	A	140.127.40.4
+ofc.nknu.edu.tw.	10800	IN	A	140.127.77.129
+paed1.nknu.edu.tw.	10800	IN	A	140.127.49.181
+paed2.nknu.edu.tw.	10800	IN	A	140.127.49.182
+pair.nknu.edu.tw.	10800	IN	A	140.127.56.86
+phy2.nknu.edu.tw.	10800	IN	A	140.127.37.2
+pki.nknu.edu.tw.	10800	IN	A	140.127.40.50
+proxy.nknu.edu.tw.	10800	IN	A	140.127.56.13
+proxy2.nknu.edu.tw.	10800	IN	A	140.127.56.13
+qoi.nknu.edu.tw.	10800	IN	A	140.127.40.14
+rosa.nknu.edu.tw.	10800	IN	A	140.127.40.247
+roscoe.nknu.edu.tw.	10800	IN	A	140.127.51.31
+sc.nknu.edu.tw.		10800	IN	A	140.127.40.160
+se.nknu.edu.tw.		10800	IN	MX	1 2136290071.mail.outlook.com.
+mail.se.nknu.edu.tw.	10800	IN	CNAME	go.domains.live.com.
+space.se.nknu.edu.tw.	10800	IN	CNAME	go.domains.live.com.
+www.se.nknu.edu.tw.	10800	IN	A	140.127.40.200
+security.nknu.edu.tw.	10800	IN	A	140.127.40.47
+seminar2011.nknu.edu.tw. 10800	IN	A	163.26.147.131
+service.nknu.edu.tw.	10800	IN	CNAME	kkp.nknu.edu.tw.
+smtp.nknu.edu.tw.	10800	IN	A	140.127.40.15
+smtp2.nknu.edu.tw.	10800	IN	A	140.127.40.16
+smtp3.nknu.edu.tw.	10800	IN	A	140.127.40.18
+smtp5.nknu.edu.tw.	10800	IN	A	140.127.40.25
+smtp6.nknu.edu.tw.	10800	IN	A	140.127.40.93
+smtp7.nknu.edu.tw.	10800	IN	A	140.127.40.6
+st-dhcp-38.nknu.edu.tw.	10800	IN	A	140.127.38.1
+st-dhcp-39.nknu.edu.tw.	10800	IN	A	140.127.39.1
+st-dhcp-71.nknu.edu.tw.	10800	IN	A	140.127.71.254
+staffairs.nknu.edu.tw.	10800	IN	A	140.127.41.21
+steacher.nknu.edu.tw.	10800	IN	A	140.127.47.6
+stem.nknu.edu.tw.	10800	IN	A	140.127.44.70
+stream.nknu.edu.tw.	10800	IN	A	140.127.47.25
+stu.nknu.edu.tw.	10800	IN	A	140.127.40.100
+stu-dorm.nknu.edu.tw.	10800	IN	A	140.127.54.129
+stu-na.nknu.edu.tw.	10800	IN	A	140.127.54.65
+stu01.nknu.edu.tw.	10800	IN	A	140.127.40.101
+stu02.nknu.edu.tw.	10800	IN	A	140.127.40.102
+stu93.nknu.edu.tw.	10800	IN	A	140.127.40.93
+stu94.nknu.edu.tw.	10800	IN	A	140.127.40.94
+stu95.nknu.edu.tw.	10800	IN	A	140.127.40.95
+stu96.nknu.edu.tw.	10800	IN	A	140.127.40.96
+stu97.nknu.edu.tw.	10800	IN	A	140.127.40.97
+stu98.nknu.edu.tw.	10800	IN	A	140.127.40.98
+stu99.nknu.edu.tw.	10800	IN	A	140.127.40.99
+student.nknu.edu.tw.	10800	IN	A	140.127.40.6
+student2.nknu.edu.tw.	10800	IN	A	140.127.40.6
+sunshine.nknu.edu.tw.	10800	IN	A	140.127.47.250
+tase.nknu.edu.tw.	10800	IN	A	140.127.44.12
+tbb.nknu.edu.tw.	10800	IN	A	140.127.43.18
+tcse.nknu.edu.tw.	10800	IN	A	140.127.74.233
+tcse.nknu.edu.tw.	10800	IN	MX	10 tcse.nknu.edu.tw.
+tcse2013.nknu.edu.tw.	10800	IN	CNAME	tcse.nknu.edu.tw.
+tcsfl.nknu.edu.tw.	10800	IN	A	140.127.52.42
+teach.nknu.edu.tw.	10800	IN	A	140.127.56.36
+teacher.nknu.edu.tw.	10800	IN	A	140.127.49.134
+TELL.nknu.edu.tw.	10800	IN	A	140.127.60.124
+testmail.nknu.edu.tw.	10800	IN	A	140.127.56.19
+thesis.nknu.edu.tw.	10800	IN	A	140.127.53.10
+tiadmin.nknu.edu.tw.	10800	IN	CNAME	tni.nknu.edu.tw.
+tm.nknu.edu.tw.		10800	IN	CNAME	kkp.nknu.edu.tw.
+tni.nknu.edu.tw.	10800	IN	A	140.127.56.164
+tracer.nknu.edu.tw.	10800	IN	A	61.221.141.67
+ts.nknu.edu.tw.		10800	IN	A	140.127.47.77
+ts1.nknu.edu.tw.	10800	IN	A	140.127.60.188
+ts2.nknu.edu.tw.	10800	IN	CNAME	TELL.nknu.edu.tw.
+tsa.nknu.edu.tw.	10800	IN	A	140.127.40.48
+twise.nknu.edu.tw.	10800	IN	A	140.127.36.21
+www.vercenter.nknu.edu.tw. 10800 IN	A	140.127.54.30
+video.nknu.edu.tw.	10800	IN	A	140.127.51.222
+www.vrrc.nknu.edu.tw.	10800	IN	A	140.127.54.30
+w2.nknu.edu.tw.		10800	IN	CNAME	88.nknu.edu.tw.
+w3.nknu.edu.tw.		10800	IN	A	140.127.40.67
+w4.nknu.edu.tw.		10800	IN	CNAME	english.nknu.edu.tw.
+wnet.nknu.edu.tw.	10800	IN	A	140.127.62.248
+www.nknu.edu.tw.	10800	IN	A	140.127.40.7
+www2.nknu.edu.tw.	10800	IN	A	140.127.40.26
+www3.nknu.edu.tw.	10800	IN	A	140.127.40.80
+www4.nknu.edu.tw.	10800	IN	A	140.127.41.61
+www5.nknu.edu.tw.	10800	IN	A	140.127.41.70
+www6.nknu.edu.tw.	10800	IN	A	140.127.41.77
+www7.nknu.edu.tw.	10800	IN	A	140.127.41.62
+www8.nknu.edu.tw.	10800	IN	A	140.127.40.71
+www9.nknu.edu.tw.	10800	IN	A	140.127.40.72
+yenyang.nknu.edu.tw.	10800	IN	CNAME	kkp.nknu.edu.tw.
+nknu.edu.tw.		10800	IN	SOA	nknu.nknu.edu.tw. root.nknu.nknu.edu.tw. 2014041501 3600 900 604800 86400
+;; Query time: 3262 msec
+;; SERVER: 140.127.40.3#53(140.127.40.3)
+;; WHEN: Mon Apr 21 21:05:57 中国标准时间 2014
+;; XFR size: 318 records (messages 1, bytes 7300)
+

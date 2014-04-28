@@ -1,0 +1,54 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns.lumei.edu.cn axfr lumei.edu.cn
+; (1 server found)
+;; global options: +cmd
+lumei.edu.cn.		3600	IN	SOA	dns.lumei.edu.cn. admin. 84 900 600 86400 3600
+lumei.edu.cn.		3600	IN	NS	dns.lumei.edu.cn.
+lumei.edu.cn.		3600	IN	MX	10 mail.lumei.edu.cn.
+ach.lumei.edu.cn.	3600	IN	A	210.30.238.15
+chaxun.lumei.edu.cn.	3600	IN	A	218.61.143.99
+cj.lumei.edu.cn.	3600	IN	A	210.30.238.16
+cjcx.lumei.edu.cn.	3600	IN	A	210.30.238.16
+cx1.lumei.edu.cn.	3600	IN	A	218.61.143.100
+cx2.lumei.edu.cn.	3600	IN	A	210.30.238.28
+cx3.lumei.edu.cn.	3600	IN	A	210.30.238.21
+dalian.lumei.edu.cn.	3600	IN	A	210.30.238.16
+djsz.lumei.edu.cn.	3600	IN	A	210.30.238.16
+dlweb.lumei.edu.cn.	3600	IN	A	210.30.238.16
+dlxq.lumei.edu.cn.	3600	IN	A	210.30.238.16
+dns.lumei.edu.cn.	3600	IN	A	210.30.238.10
+dns1.lumei.edu.cn.	3600	IN	A	210.30.238.11
+dorm.lumei.edu.cn.	3600	IN	A	210.30.238.16
+dzb.lumei.edu.cn.	3600	IN	A	210.30.238.16
+ecard.lumei.edu.cn.	3600	IN	A	210.30.235.200
+exam.lumei.edu.cn.	3600	IN	A	210.30.238.21
+file.lumei.edu.cn.	3600	IN	A	210.30.238.16
+gonghui.lumei.edu.cn.	3600	IN	A	210.30.238.16
+guohuaxi.lumei.edu.cn.	3600	IN	A	210.30.238.16
+huanyi.lumei.edu.cn.	3600	IN	A	210.30.238.16
+images.lumei.edu.cn.	3600	IN	A	210.30.238.13
+jiwei.lumei.edu.cn.	3600	IN	A	210.30.238.16
+job.lumei.edu.cn.	3600	IN	A	210.30.238.16
+lib.lumei.edu.cn.	3600	IN	A	210.30.238.31
+lmdl.lumei.edu.cn.	3600	IN	A	210.30.238.16
+meishuguan.lumei.edu.cn. 3600	IN	A	210.30.238.16
+meiyuan.lumei.edu.cn.	3600	IN	A	210.30.238.16
+net.lumei.edu.cn.	3600	IN	A	210.30.238.16
+oa.lumei.edu.cn.	3600	IN	A	210.30.232.30
+ping.lumei.edu.cn.	3600	IN	A	210.30.238.16
+pub.lumei.edu.cn.	3600	IN	A	210.30.238.16
+pub1.lumei.edu.cn.	3600	IN	A	210.30.238.16
+qqq.lumei.edu.cn.	3600	IN	A	210.30.238.15
+student.lumei.edu.cn.	3600	IN	A	210.30.238.16
+tunion.lumei.edu.cn.	3600	IN	A	210.30.238.16
+vod.lumei.edu.cn.	3600	IN	A	210.30.232.11
+www.lumei.edu.cn.	3600	IN	A	210.30.238.15
+yjs.lumei.edu.cn.	3600	IN	A	210.30.232.137
+yjsh.lumei.edu.cn.	3600	IN	A	210.30.238.17
+yjszkz.lumei.edu.cn.	3600	IN	A	210.30.238.16
+lumei.edu.cn.		3600	IN	SOA	dns.lumei.edu.cn. admin. 84 900 600 86400 3600
+;; Query time: 955 msec
+;; SERVER: 210.30.238.10#53(210.30.238.10)
+;; WHEN: Mon Apr 21 20:50:06 中国标准时间 2014
+;; XFR size: 45 records (messages 45, bytes 2356)
+

@@ -1,0 +1,18 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns1.neiep.edu.cn axfr neiep.edu.cn
+; (1 server found)
+;; global options: +cmd
+neiep.edu.cn.		86400	IN	SOA	dns1.neiep.edu.cn. webmaster.mail.neiep.edu.cn. 2010092607 10800 3600 259200 3600
+neiep.edu.cn.		86400	IN	NS	dns1.neiep.edu.cn.
+neiep.edu.cn.		86400	IN	NS	dns2.neiep.edu.cn.
+dns1.neiep.edu.cn.	86400	IN	A	202.198.8.10
+dns2.neiep.edu.cn.	86400	IN	A	202.198.8.5
+gw.neiep.edu.cn.	86400	IN	A	202.198.8.1
+mail.neiep.edu.cn.	86400	IN	MX	10 mail.neiep.edu.cn.
+mail.neiep.edu.cn.	86400	IN	A	202.198.8.20
+neiep.edu.cn.		86400	IN	SOA	dns1.neiep.edu.cn. webmaster.mail.neiep.edu.cn. 2010092607 10800 3600 259200 3600
+;; Query time: 385 msec
+;; SERVER: 202.198.8.10#53(202.198.8.10)
+;; WHEN: Mon Apr 21 20:50:19 中国标准时间 2014
+;; XFR size: 9 records (messages 1, bytes 238)
+

@@ -1,0 +1,101 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns.huat.edu.cn axfr huat.edu.cn
+; (1 server found)
+;; global options: +cmd
+huat.edu.cn.		86400	IN	SOA	dns.huat.edu.cn. hostmaster.net.edu.cn. 20101010 600 600 600 600
+huat.edu.cn.		300	IN	MX	5 mail.huat.edu.cn.
+huat.edu.cn.		172800	IN	NS	dns.huat.edu.cn.
+huat.edu.cn.		172800	IN	NS	dns2.huat.edu.cn.
+3geas.huat.edu.cn.	300	IN	A	61.183.20.26
+arc.huat.edu.cn.	300	IN	A	61.183.20.41
+bbs.huat.edu.cn.	300	IN	A	61.183.20.33
+bwc.huat.edu.cn.	300	IN	A	61.183.20.41
+bysj.huat.edu.cn.	300	IN	A	61.183.20.43
+cc.huat.edu.cn.		300	IN	A	61.183.20.80
+cgx.huat.edu.cn.	300	IN	A	61.183.20.51
+clcx.huat.edu.cn.	300	IN	A	61.183.20.51
+clp.huat.edu.cn.	300	IN	A	61.183.20.53
+clsyzx.huat.edu.cn.	300	IN	A	61.183.20.51
+cwc.huat.edu.cn.	300	IN	A	61.183.20.41
+cxzy.huat.edu.cn.	300	IN	A	61.183.20.58
+dgdzjpk.huat.edu.cn.	300	IN	A	61.183.20.53
+dgdzzx.huat.edu.cn.	300	IN	A	61.183.20.53
+dia.huat.edu.cn.	300	IN	A	61.183.20.41
+dns.huat.edu.cn.	300	IN	A	59.68.192.8
+dns2.huat.edu.cn.	300	IN	A	61.183.20.18
+dxsys.huat.edu.cn.	300	IN	A	61.183.20.53
+dxxy.huat.edu.cn.	300	IN	A	61.183.20.53
+dxxynew.huat.edu.cn.	300	IN	A	61.183.20.53
+dzcx.huat.edu.cn.	300	IN	A	61.183.20.47
+eas.huat.edu.cn.	300	IN	A	61.183.20.26
+ecard.huat.edu.cn.	300	IN	A	10.100.8.133
+en.huat.edu.cn.		300	IN	A	61.183.20.45
+epay.huat.edu.cn.	300	IN	A	61.183.20.79
+fgc.huat.edu.cn.	300	IN	A	61.183.20.41
+ftp1.huat.edu.cn.	300	IN	A	59.68.192.130
+gh.huat.edu.cn.		300	IN	A	61.183.20.41
+gj.huat.edu.cn.		300	IN	A	61.183.20.30
+gqt.huat.edu.cn.	300	IN	A	61.183.20.50
+hqfw.huat.edu.cn.	300	IN	A	61.183.20.78
+jgxy.huat.edu.cn.	300	IN	A	61.183.20.56
+job.huat.edu.cn.	300	IN	A	61.183.20.23
+jpkc.huat.edu.cn.	300	IN	A	61.183.20.30
+jsjsfzx.huat.edu.cn.	300	IN	A	61.183.20.53
+jw.huat.edu.cn.		300	IN	A	61.183.20.41
+jwc.huat.edu.cn.	300	IN	A	61.183.20.30
+jxx.huat.edu.cn.	300	IN	A	61.183.20.49
+jy.huat.edu.cn.		300	IN	A	61.183.20.23
+kjc.huat.edu.cn.	300	IN	A	61.183.20.75
+kjxy.huat.edu.cn.	300	IN	A	61.183.20.44
+kyeas.huat.edu.cn.	300	IN	A	61.183.20.62
+kyeasv2.huat.edu.cn.	300	IN	A	61.183.20.62
+kyoa.huat.edu.cn.	300	IN	A	61.183.20.225
+kytiff.huat.edu.cn.	300	IN	A	61.183.20.250
+lab.huat.edu.cn.	300	IN	A	61.183.20.27
+labweb.huat.edu.cn.	300	IN	A	61.183.20.54
+lib.huat.edu.cn.	300	IN	A	61.183.20.7
+liuk.huat.edu.cn.	300	IN	A	59.68.192.136
+mail.huat.edu.cn.	300	IN	A	61.183.20.101
+math.huat.edu.cn.	300	IN	A	61.183.20.57
+max.huat.edu.cn.	300	IN	A	61.183.20.23
+media.huat.edu.cn.	300	IN	A	61.183.20.33
+ms.huat.edu.cn.		300	IN	A	61.183.20.30
+oa.huat.edu.cn.		300	IN	A	61.183.20.50
+phylab.huat.edu.cn.	300	IN	A	61.183.20.242
+qcgz.huat.edu.cn.	300	IN	A	61.183.20.54
+qcx.huat.edu.cn.	300	IN	A	61.183.20.54
+qzlx.huat.edu.cn.	300	IN	A	61.183.20.58
+res.huat.edu.cn.	300	IN	A	61.183.20.30
+rsc.huat.edu.cn.	300	IN	A	61.183.20.41
+rwx.huat.edu.cn.	300	IN	A	61.183.20.45
+sam.huat.edu.cn.	300	IN	A	59.68.192.188
+serv.huat.edu.cn.	300	IN	A	59.68.192.134
+sjkjs.huat.edu.cn.	300	IN	A	61.183.20.56
+tv.huat.edu.cn.		300	IN	A	61.183.20.26
+tw.huat.edu.cn.		300	IN	A	61.183.20.50
+tykb.huat.edu.cn.	300	IN	A	61.183.20.41
+vpn.huat.edu.cn.	300	IN	A	61.183.20.69
+wlzx.huat.edu.cn.	300	IN	A	61.183.20.50
+www.huat.edu.cn.	300	IN	A	61.183.20.48
+wyx.huat.edu.cn.	300	IN	A	61.183.20.52
+xcb.huat.edu.cn.	300	IN	A	61.183.20.58
+xcbnews.huat.edu.cn.	300	IN	A	61.183.20.58
+xgb.huat.edu.cn.	300	IN	A	61.183.20.50
+xiaoban.huat.edu.cn.	300	IN	A	61.183.20.45
+xiaoqing.huat.edu.cn.	300	IN	A	61.183.20.58
+xlzx.huat.edu.cn.	300	IN	A	61.183.20.77
+xuebao.huat.edu.cn.	300	IN	A	61.183.20.50
+xwcj.huat.edu.cn.	300	IN	A	61.183.20.59
+xyh.huat.edu.cn.	300	IN	A	61.183.20.50
+yjsc.huat.edu.cn.	300	IN	A	61.183.20.59
+zcc.huat.edu.cn.	300	IN	A	61.183.20.41
+zlgc.huat.edu.cn.	300	IN	A	61.183.20.30
+zs.huat.edu.cn.		300	IN	A	61.183.20.23
+zsjy.huat.edu.cn.	300	IN	A	61.183.20.23
+zzb.huat.edu.cn.	300	IN	A	61.183.20.41
+huat.edu.cn.		86400	IN	SOA	dns.huat.edu.cn. hostmaster.net.edu.cn. 20101010 600 600 600 600
+;; Query time: 69 msec
+;; SERVER: 59.68.192.8#53(59.68.192.8)
+;; WHEN: Mon Apr 21 20:57:44 中国标准时间 2014
+;; XFR size: 92 records (messages 1, bytes 1974)
+

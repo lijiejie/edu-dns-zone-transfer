@@ -1,0 +1,71 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @hhstu.hhstu.edu.cn axfr hhstu.edu.cn
+; (1 server found)
+;; global options: +cmd
+hhstu.edu.cn.		3600	IN	SOA	hhstu.hhstu.edu.cn. root.ximo.com.cn. 2014032704 30 100 108400 3600
+hhstu.edu.cn.		3600	IN	MX	5 mail.hhstu.edu.cn.
+hhstu.edu.cn.		3600	IN	MX	10 gwmail.hhstu.edu.cn.
+hhstu.edu.cn.		3600	IN	NS	hhstu.hhstu.edu.cn.
+hhstu.edu.cn.		3600	IN	NS	hhstu2.hhstu.edu.cn.
+2014hnmedicine.hhstu.edu.cn. 3600 IN	A	1.192.146.107
+alumni.hhstu.edu.cn.	3600	IN	A	1.192.146.98
+book.hhstu.edu.cn.	3600	IN	A	1.192.146.97
+wsapp.hhstu.edu.cn.hhstu.edu.cn. 3600 IN A	1.192.146.110
+wsim.hhstu.edu.cn.hhstu.edu.cn.	3600 IN	A	1.192.146.109
+wsms.hhstu.edu.cn.hhstu.edu.cn.	3600 IN	A	1.192.146.108
+daxt.hhstu.edu.cn.	3600	IN	A	202.197.208.49
+down.hhstu.edu.cn.	3600	IN	A	202.197.208.9
+dpstar.hhstu.edu.cn.	3600	IN	A	202.197.208.41
+english.hhstu.edu.cn.	3600	IN	A	202.197.208.16
+ewpa.hhstu.edu.cn.	3600	IN	A	202.197.208.81
+ftp.hhstu.edu.cn.	3600	IN	A	202.197.208.15
+haccount.hhstu.edu.cn.	3600	IN	A	202.197.208.17
+hhkd.hhstu.edu.cn.	3600	IN	A	202.197.208.2
+hhstu.hhstu.edu.cn.	3600	IN	A	202.197.208.1
+hhstu2.hhstu.edu.cn.	3600	IN	A	202.197.208.2
+hngx.hhstu.edu.cn.	3600	IN	A	202.197.208.28
+hr.hhstu.edu.cn.	3600	IN	A	202.197.208.41
+ids1.hhstu.edu.cn.	3600	IN	A	202.197.208.43
+ids2.hhstu.edu.cn.	3600	IN	A	202.197.208.44
+imp.hhstu.edu.cn.	3600	IN	A	202.197.208.41
+job.hhstu.edu.cn.	3600	IN	A	125.46.34.243
+jpkc.hhstu.edu.cn.	3600	IN	A	125.46.34.245
+jw.hhstu.edu.cn.	3600	IN	A	202.197.208.23
+jw.hhstu.edu.cn.	3600	IN	A	202.197.208.25
+kcjx.hhstu.edu.cn.	3600	IN	A	1.192.146.95
+lib.hhstu.edu.cn.	3600	IN	A	115.158.156.48
+lzxt.hhstu.edu.cn.	3600	IN	A	202.197.208.46
+mail.hhstu.edu.cn.	3600	IN	A	125.46.34.240
+metc.hhstu.edu.cn.	3600	IN	A	125.46.34.243
+mov.hhstu.edu.cn.	3600	IN	A	202.197.208.27
+ncre.hhstu.edu.cn.	3600	IN	A	202.197.208.16
+office.hhstu.edu.cn.	3600	IN	A	125.46.34.249
+pic.hhstu.edu.cn.	3600	IN	A	202.197.208.28
+szcp.hhstu.edu.cn.	3600	IN	A	202.197.208.102
+today.hhstu.edu.cn.	3600	IN	A	202.197.208.65
+tsjs.hhstu.edu.cn.	3600	IN	A	115.158.156.48
+vod.hhstu.edu.cn.	3600	IN	A	202.197.208.4
+vpn.hhstu.edu.cn.	3600	IN	A	1.192.146.103
+wap.hhstu.edu.cn.	3600	IN	A	125.46.34.241
+wlkt.hhstu.edu.cn.	3600	IN	A	125.46.34.245
+wsapp.hhstu.edu.cn.	3600	IN	A	1.192.146.110
+wsim.hhstu.edu.cn.	3600	IN	A	1.192.146.109
+wsms.hhstu.edu.cn.	3600	IN	A	1.192.146.108
+www.hhstu.edu.cn.	3600	IN	A	1.192.146.93
+www1.hhstu.edu.cn.	3600	IN	A	202.197.208.41
+www2.hhstu.edu.cn.	3600	IN	A	125.46.34.243
+www3.hhstu.edu.cn.	3600	IN	A	1.192.146.99
+xg.hhstu.edu.cn.	3600	IN	A	202.197.208.41
+xiaobao.hhstu.edu.cn.	3600	IN	CNAME	xiaobao.haedu.cn.
+xyxt.hhstu.edu.cn.	3600	IN	A	202.197.208.46
+yc.hhstu.edu.cn.	3600	IN	A	1.192.146.106
+yxxt.hhstu.edu.cn.	3600	IN	A	202.197.208.45
+zcxt.hhstu.edu.cn.	3600	IN	A	202.197.212.159
+zs.hhstu.edu.cn.	3600	IN	A	125.46.34.243
+zsxt.hhstu.edu.cn.	3600	IN	A	125.46.34.239
+hhstu.edu.cn.		3600	IN	SOA	hhstu.hhstu.edu.cn. root.ximo.com.cn. 2014032704 30 100 108400 3600
+;; Query time: 74 msec
+;; SERVER: 202.197.208.1#53(202.197.208.1)
+;; WHEN: Mon Apr 21 20:58:20 中国标准时间 2014
+;; XFR size: 62 records (messages 1, bytes 1391)
+

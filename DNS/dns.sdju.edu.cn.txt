@@ -1,0 +1,106 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns.sdju.edu.cn axfr sdju.edu.cn
+; (2 servers found)
+;; global options: +cmd
+sdju.edu.cn.		86400	IN	SOA	sdju.edu.cn. root.sdju.edu.cn. 2011111130 3600 900 604800 86400
+sdju.edu.cn.		86400	IN	NS	dns.sdju.edu.cn.
+sdju.edu.cn.		86400	IN	MX	10 mail.sdju.edu.cn.
+angdian.sdju.edu.cn.	86400	IN	CNAME	site.sdju.edu.cn.
+app1.sdju.edu.cn.	86400	IN	A	210.35.68.77
+app2.sdju.edu.cn.	86400	IN	A	210.35.68.1
+appointment.sdju.edu.cn. 86400	IN	CNAME	app2.sdju.edu.cn.
+audit.sdju.edu.cn.	86400	IN	CNAME	site.sdju.edu.cn.
+basic.sdju.edu.cn.	86400	IN	CNAME	app.sdju.edu.cn.
+bcyy.sdju.edu.cn.	86400	IN	CNAME	oh.sdju.edu.cn.
+blog.sdju.edu.cn.	86400	IN	CNAME	site.sdju.edu.cn.
+bwc.sdju.edu.cn.	86400	IN	CNAME	site.sdju.edu.cn.
+campus.sdju.edu.cn.	86400	IN	CNAME	site.sdju.edu.cn.
+career.sdju.edu.cn.	86400	IN	A	210.35.68.48
+chengjiao.sdju.edu.cn.	86400	IN	CNAME	site.sdju.edu.cn.
+dns.sdju.edu.cn.sdju.edu.cn. 86400 IN	A	210.35.68.5
+mail.sdju.edu.cn.sdju.edu.cn. 86400 IN	A	210.35.68.86
+st.sdju.edu.cn.sdju.edu.cn. 86400 IN	A	210.35.68.86
+consultation.sdju.edu.cn. 86400	IN	CNAME	app2.sdju.edu.cn.
+cprogram.sdju.edu.cn.	86400	IN	TXT	"A String"
+cri.sdju.edu.cn.	86400	IN	CNAME	site.sdju.edu.cn.
+cwc.sdju.edu.cn.	86400	IN	CNAME	site.sdju.edu.cn.
+dangban.sdju.edu.cn.	86400	IN	CNAME	site.sdju.edu.cn.
+dbw.sdju.edu.cn.	86400	IN	CNAME	oh.sdju.edu.cn.
+dns.sdju.edu.cn.	86400	IN	A	210.35.68.5
+dqx.sdju.edu.cn.	86400	IN	CNAME	site.sdju.edu.cn.
+dwgk.sdju.edu.cn.	86400	IN	CNAME	site.sdju.edu.cn.
+fltc.sdju.edu.cn.	86400	IN	CNAME	site.sdju.edu.cn.
+ftp.sdju.edu.cn.	86400	IN	A	210.35.68.73
+fzghc.sdju.edu.cn.	86400	IN	CNAME	site.sdju.edu.cn.
+gaojs.sdju.edu.cn.	86400	IN	CNAME	oh.sdju.edu.cn.
+gonghui.sdju.edu.cn.	86400	IN	CNAME	site.sdju.edu.cn.
+guojijl.sdju.edu.cn.	86400	IN	CNAME	site.sdju.edu.cn.
+gzxy.sdju.edu.cn.	86400	IN	CNAME	site.sdju.edu.cn.
+hqbz.sdju.edu.cn.	86400	IN	CNAME	site.sdju.edu.cn.
+hqfw.sdju.edu.cn.	86400	IN	CNAME	site.sdju.edu.cn.
+hr.sdju.edu.cn.		86400	IN	CNAME	site.sdju.edu.cn.
+ids.sdju.edu.cn.	86400	IN	A	210.35.68.203
+iec.sdju.edu.cn.	86400	IN	CNAME	site.sdju.edu.cn.
+info.sdju.edu.cn.	86400	IN	CNAME	oh.sdju.edu.cn.
+jiaowu.sdju.edu.cn.	86400	IN	CNAME	site.sdju.edu.cn.
+jingjx.sdju.edu.cn.	86400	IN	CNAME	site.sdju.edu.cn.
+jiweiban.sdju.edu.cn.	86400	IN	CNAME	site.sdju.edu.cn.
+jixie.sdju.edu.cn.	86400	IN	CNAME	site.sdju.edu.cn.
+jpk.sdju.edu.cn.	86400	IN	CNAME	site.sdju.edu.cn.
+jszx.sdju.edu.cn.	86400	IN	CNAME	site.sdju.edu.cn.
+jwgl.sdju.edu.cn.	86400	IN	TXT	"A String"
+keyan.sdju.edu.cn.	86400	IN	CNAME	web.sdju.edu.cn.
+kygl.sdju.edu.cn.	86400	IN	A	210.35.68.30
+lib.sdju.edu.cn.	86400	IN	A	210.35.68.88
+libin.sdju.edu.cn.	86400	IN	CNAME	site.sdju.edu.cn.
+mail.sdju.edu.cn.	86400	IN	A	210.35.68.86
+model.sdju.edu.cn.	86400	IN	CNAME	oh.sdju.edu.cn.
+my.sdju.edu.cn.		86400	IN	A	210.35.68.201
+new1.sdju.edu.cn.	86400	IN	CNAME	app.sdju.edu.cn.
+news.sdju.edu.cn.	86400	IN	CNAME	web.sdju.edu.cn.
+news1.sdju.edu.cn.	86400	IN	CNAME	web.sdju.edu.cn.
+nscer.sdju.edu.cn.	86400	IN	A	202.120.201.134
+nstel.sdju.edu.cn.	86400	IN	A	61.129.79.34
+oa.sdju.edu.cn.		86400	IN	A	210.35.68.65
+oh.sdju.edu.cn.		86400	IN	A	210.35.68.79
+pop.sdju.edu.cn.	86400	IN	CNAME	mail.sdju.edu.cn.
+pop3.sdju.edu.cn.	86400	IN	CNAME	mail.sdju.edu.cn.
+pxc.sdju.edu.cn.	86400	IN	CNAME	site.sdju.edu.cn.
+qiche.sdju.edu.cn.	86400	IN	CNAME	site.sdju.edu.cn.
+research.sdju.edu.cn.	86400	IN	CNAME	site.sdju.edu.cn.
+resource.sdju.edu.cn.	86400	IN	CNAME	site.sdju.edu.cn.
+salon.sdju.edu.cn.	86400	IN	CNAME	site.sdju.edu.cn.
+scienceshop.sdju.edu.cn. 86400	IN	CNAME	site.sdju.edu.cn.
+se.sdju.edu.cn.		86400	IN	CNAME	site.sdju.edu.cn.
+semlab.sdju.edu.cn.	86400	IN	CNAME	site.sdju.edu.cn.
+shuli.sdju.edu.cn.	86400	IN	CNAME	site.sdju.edu.cn.
+smtp.sdju.edu.cn.	86400	IN	CNAME	mail.sdju.edu.cn.
+sports.sdju.edu.cn.	86400	IN	CNAME	site.sdju.edu.cn.
+st.sdju.edu.cn.		86400	IN	MX	10 st.sdju.edu.cn.
+test.sdju.edu.cn.	86400	IN	CNAME	web.sdju.edu.cn.
+tongzhan.sdju.edu.cn.	86400	IN	CNAME	site.sdju.edu.cn.
+tuanwei.sdju.edu.cn.	86400	IN	CNAME	app.sdju.edu.cn.
+web.sdju.edu.cn.	86400	IN	A	210.35.68.92
+www.sdju.edu.cn.	86400	IN	TXT	"A String"
+xiaoban.sdju.edu.cn.	86400	IN	CNAME	site.sdju.edu.cn.
+xiaobao.sdju.edu.cn.	86400	IN	CNAME	site.sdju.edu.cn.
+xiaoqing.sdju.edu.cn.	86400	IN	CNAME	site.sdju.edu.cn.
+xinsheng.sdju.edu.cn.	86400	IN	CNAME	site.sdju.edu.cn.
+xsc.sdju.edu.cn.	86400	IN	CNAME	site.sdju.edu.cn.
+xsgl.sdju.edu.cn.	86400	IN	CNAME	app.sdju.edu.cn.
+xsh.sdju.edu.cn.	86400	IN	CNAME	site.sdju.edu.cn.
+xssw.sdju.edu.cn.	86400	IN	A	210.35.68.32
+xuebao.sdju.edu.cn.	86400	IN	CNAME	site.sdju.edu.cn.
+xxgcx.sdju.edu.cn.	86400	IN	CNAME	app.sdju.edu.cn.
+xyh.sdju.edu.cn.	86400	IN	CNAME	site.sdju.edu.cn.
+yjs.sdju.edu.cn.	86400	IN	CNAME	web.sdju.edu.cn.
+zcgl.sdju.edu.cn.	86400	IN	CNAME	site.sdju.edu.cn.
+zhaosheng.sdju.edu.cn.	86400	IN	CNAME	web.sdju.edu.cn.
+zhdas.sdju.edu.cn.	86400	IN	CNAME	site.sdju.edu.cn.
+zuzhi.sdju.edu.cn.	86400	IN	CNAME	site.sdju.edu.cn.
+sdju.edu.cn.		86400	IN	SOA	sdju.edu.cn. root.sdju.edu.cn. 2011111130 3600 900 604800 86400
+;; Query time: 35 msec
+;; SERVER: 210.35.68.5#53(210.35.68.5)
+;; WHEN: Mon Apr 21 20:55:15 中国标准时间 2014
+;; XFR size: 97 records (messages 1, bytes 2063)
+

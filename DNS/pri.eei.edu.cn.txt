@@ -1,0 +1,39 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @pri.eei.edu.cn axfr eei.edu.cn
+; (1 server found)
+;; global options: +cmd
+eei.edu.cn.		604800	IN	SOA	pri.eei.edu.cn. root.eei.edu.cn. 932481739 10800 3600 604800 86400
+eei.edu.cn.		604800	IN	NS	pri.eei.edu.cn.
+eei.edu.cn.		604800	IN	A	210.45.80.2
+eei.edu.cn.		604800	IN	MX	10 mail.eei.edu.cn.
+ahedc.eei.edu.cn.	604800	IN	A	210.45.80.3
+bbs.eei.edu.cn.		604800	IN	CNAME	eei2.eei.edu.cn.
+www.baidu.com.eei.edu.cn. 604800 IN	CNAME	www.google.ca.eei.edu.cn.
+dns.eei.edu.cn.		604800	IN	A	210.45.80.2
+dns2.eei.edu.cn.	604800	IN	A	210.45.80.3
+eei1.eei.edu.cn.	604800	IN	A	210.45.80.3
+eei2.eei.edu.cn.	604800	IN	A	210.45.80.2
+english.eei.edu.cn.	604800	IN	A	172.16.6.252
+eproxy.eei.edu.cn.	604800	IN	A	210.45.80.1
+ftp.eei.edu.cn.		604800	IN	CNAME	eei2.eei.edu.cn.
+IN.eei.edu.cn.		604800	IN	MX	10 mail.eei.edu.cn.
+mail.eei.edu.cn.	604800	IN	A	127.0.0.1
+master.eei.edu.cn.	604800	IN	NS	dns.master.eei.edu.cn.
+dns.master.eei.edu.cn.	604800	IN	A	210.45.80.1
+nic.eei.edu.cn.		604800	IN	NS	dns.nic.eei.edu.cn.
+dns.nic.eei.edu.cn.	604800	IN	A	210.45.80.163
+pri.eei.edu.cn.		604800	IN	A	210.45.80.2
+proxy.eei.edu.cn.	604800	IN	A	218.106.80.52
+sec.eei.edu.cn.		604800	IN	A	210.45.80.3
+sixiproxy.eei.edu.cn.	604800	IN	A	61.190.61.98
+sproxy.eei.edu.cn.	604800	IN	A	61.190.61.97
+stu.eei.edu.cn.		604800	IN	A	218.106.80.56
+tproxy.eei.edu.cn.	604800	IN	A	210.45.80.4
+www.eei.edu.cn.		604800	IN	CNAME	eei1.eei.edu.cn.
+zproxy.eei.edu.cn.	604800	IN	A	218.106.80.50
+eei.edu.cn.		604800	IN	SOA	pri.eei.edu.cn. root.eei.edu.cn. 932481739 10800 3600 604800 86400
+;; Query time: 283 msec
+;; SERVER: 210.45.80.2#53(210.45.80.2)
+;; WHEN: Mon Apr 21 20:53:03 中国标准时间 2014
+;; XFR size: 30 records (messages 1, bytes 695)
+

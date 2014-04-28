@@ -1,0 +1,51 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @netra150.sdutcm.edu.cn axfr sdutcm.edu.cn
+; (1 server found)
+;; global options: +cmd
+sdutcm.edu.cn.		86400	IN	SOA	netra150.sdutcm.edu.cn. root.netra150.sdutcm.edu.cn. 42 10800 900 604800 86400
+sdutcm.edu.cn.		86400	IN	NS	netra150.sdutcm.edu.cn.
+sdutcm.edu.cn.		86400	IN	MX	1 mail.sdutcm.edu.cn.
+bb.sdutcm.edu.cn.	86400	IN	A	124.128.217.118
+bbs.sdutcm.edu.cn.	86400	IN	A	210.44.160.85
+blog.sdutcm.edu.cn.	86400	IN	A	124.128.217.117
+bsbm.sdutcm.edu.cn.	86400	IN	A	124.128.217.120
+file.sdutcm.edu.cn.	86400	IN	A	124.128.217.120
+www.gh.sdutcm.edu.cn.	86400	IN	A	124.128.217.132
+*.host.sdutcm.edu.cn.	86400	IN	A	210.44.160.82
+jiuye.sdutcm.edu.cn.	86400	IN	A	124.133.1.132
+*.jwc.sdutcm.edu.cn.	86400	IN	A	124.128.217.120
+www.jwc.sdutcm.edu.cn.	86400	IN	A	124.128.217.120
+jwgl.sdutcm.edu.cn.	86400	IN	A	124.128.217.117
+jwgl.sdutcm.edu.cn.	86400	IN	A	124.128.217.125
+kygl.sdutcm.edu.cn.	86400	IN	A	124.133.1.132
+lib.sdutcm.edu.cn.	86400	IN	A	124.128.217.124
+mail.sdutcm.edu.cn.	86400	IN	A	124.133.1.136
+*.mlzy.sdutcm.edu.cn.	86400	IN	A	124.133.1.135
+zcj.mlzy.sdutcm.edu.cn.	86400	IN	A	124.133.1.132
+netra150.sdutcm.edu.cn.	86400	IN	A	124.128.217.114
+news.sdutcm.edu.cn.	86400	IN	A	124.128.217.122
+oa.sdutcm.edu.cn.	86400	IN	A	210.44.169.80
+renshichu.sdutcm.edu.cn. 86400	IN	A	124.133.1.132
+sfzx.sdutcm.edu.cn.	86400	IN	A	210.44.160.120
+vod.sdutcm.edu.cn.	86400	IN	A	124.128.217.123
+vpn.sdutcm.edu.cn.	86400	IN	A	124.128.217.126
+*.web.sdutcm.edu.cn.	86400	IN	A	124.128.217.132
+tp.web.sdutcm.edu.cn.	86400	IN	A	210.44.160.83
+waishi.web.sdutcm.edu.cn. 86400	IN	CNAME	www.sdutcm-io.com.
+wangj.web.sdutcm.edu.cn. 86400	IN	A	124.133.1.132
+www.wenxian.sdutcm.edu.cn. 86400 IN	A	124.128.217.132
+www.sdutcm.edu.cn.	86400	IN	A	124.128.217.137
+wx.sdutcm.edu.cn.	86400	IN	A	210.44.163.22
+xgoffice.sdutcm.edu.cn.	86400	IN	A	210.44.160.87
+xinguan.sdutcm.edu.cn.	86400	IN	A	210.44.163.21
+xinli.sdutcm.edu.cn.	86400	IN	A	124.133.1.132
+yjs.sdutcm.edu.cn.	86400	IN	A	124.133.1.132
+zhuanti.sdutcm.edu.cn.	86400	IN	A	124.133.1.132
+zs.sdutcm.edu.cn.	86400	IN	A	124.128.217.119
+zsb.sdutcm.edu.cn.	86400	IN	A	124.128.217.119
+sdutcm.edu.cn.		86400	IN	SOA	netra150.sdutcm.edu.cn. root.netra150.sdutcm.edu.cn. 42 10800 900 604800 86400
+;; Query time: 27 msec
+;; SERVER: 124.128.217.114#53(124.128.217.114)
+;; WHEN: Mon Apr 21 20:53:46 中国标准时间 2014
+;; XFR size: 42 records (messages 1, bytes 966)
+

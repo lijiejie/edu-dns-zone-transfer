@@ -1,0 +1,81 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns.tjufe.edu.cn axfr tjufe.edu.cn
+; (1 server found)
+;; global options: +cmd
+tjufe.edu.cn.		3600	IN	SOA	dns.tjufe.edu.cn. root.tjufe.edu.cn. 2014031902 30 30 360 3600
+tjufe.edu.cn.		3600	IN	MX	5 gateway.tjufe.edu.cn.
+tjufe.edu.cn.		3600	IN	MX	10 mail.tjufe.edu.cn.
+tjufe.edu.cn.		3600	IN	NS	dns.tjufe.edu.cn.
+tjufe.edu.cn.		3600	IN	NS	dns1.tjufe.edu.cn.
+acca.tjufe.edu.cn.	3600	IN	A	202.113.128.53
+bh.tjufe.edu.cn.	3600	IN	A	121.193.151.205
+business.tjufe.edu.cn.	3600	IN	A	121.193.151.195
+cco.tjufe.edu.cn.	3600	IN	A	202.113.128.104
+cima.tjufe.edu.cn.	3600	IN	A	202.113.128.53
+cpm.tjufe.edu.cn.	3600	IN	A	202.113.128.110
+cxcy.tjufe.edu.cn.	3600	IN	A	121.193.151.204
+dagong.tjufe.edu.cn.	3600	IN	A	202.113.128.107
+f210-1.deim.tjufe.edu.cn. 3600	IN	A	202.113.142.200
+dns.tjufe.edu.cn.	3600	IN	A	202.113.128.10
+dns1.tjufe.edu.cn.	3600	IN	A	202.113.128.11
+dpstar.tjufe.edu.cn.	3600	IN	A	121.193.151.15
+e.tjufe.edu.cn.		3600	IN	A	202.113.128.108
+ecard.tjufe.edu.cn.	3600	IN	A	121.193.151.63
+emba.tjufe.edu.cn.	3600	IN	A	202.113.128.107
+gateway.tjufe.edu.cn.	3600	IN	A	202.113.128.27
+globalgian.tjufe.edu.cn. 3600	IN	A	202.113.128.110
+gzk.tjufe.edu.cn.	3600	IN	A	202.113.128.110
+icfse.tjufe.edu.cn.	3600	IN	A	202.113.128.110
+ids1.tjufe.edu.cn.	3600	IN	A	121.193.151.13
+ids2.tjufe.edu.cn.	3600	IN	A	121.193.151.14
+imba.tjufe.edu.cn.	3600	IN	A	202.113.128.107
+imp.tjufe.edu.cn.	3600	IN	A	121.193.151.15
+inter.tjufe.edu.cn.	3600	IN	A	202.113.128.64
+jiaowu.tjufe.edu.cn.	3600	IN	A	202.113.128.23
+jiuye.tjufe.edu.cn.	3600	IN	A	202.113.128.107
+jjx.tjufe.edu.cn.	3600	IN	A	202.113.128.110
+jm.tjufe.edu.cn.	3600	IN	A	202.113.128.110
+jpkc.tjufe.edu.cn.	3600	IN	A	202.113.128.105
+jpkch.tjufe.edu.cn.	3600	IN	A	202.113.128.105
+jwch.tjufe.edu.cn.	3600	IN	A	202.113.128.107
+jxcg.tjufe.edu.cn.	3600	IN	A	202.113.128.109
+jyx.tjufe.edu.cn.	3600	IN	A	202.113.142.32
+lib.tjufe.edu.cn.	3600	IN	A	202.113.140.33
+libproxy.tjufe.edu.cn.	3600	IN	A	202.113.140.21
+mail.tjufe.edu.cn.	3600	IN	A	202.113.128.28
+mba.tjufe.edu.cn.	3600	IN	A	202.113.128.107
+mbacdc.tjufe.edu.cn.	3600	IN	A	202.113.128.107
+mbaeducation.tjufe.edu.cn. 3600	IN	A	202.113.128.110
+mpa.tjufe.edu.cn.	3600	IN	A	202.113.128.110
+mpacc.tjufe.edu.cn.	3600	IN	A	202.113.128.110
+my.tjufe.edu.cn.	3600	IN	A	121.193.151.15
+open.tjufe.edu.cn.	3600	IN	A	202.113.128.111
+out1.tjufe.edu.cn.	3600	IN	A	202.113.132.30
+pt.tjufe.edu.cn.	3600	IN	A	202.113.128.23
+pub.tjufe.edu.cn.	3600	IN	A	202.113.128.14
+public.tjufe.edu.cn.	3600	IN	A	202.113.128.109
+rcfi.tjufe.edu.cn.	3600	IN	A	202.113.128.107
+sdv.tjufe.edu.cn.	3600	IN	A	202.113.128.106
+service.tjufe.edu.cn.	3600	IN	A	202.113.128.103
+sfpt.tjufe.edu.cn.	3600	IN	A	202.113.129.9
+tcjxcg.tjufe.edu.cn.	3600	IN	A	121.193.151.206
+tcsxy.tjufe.edu.cn.	3600	IN	A	121.193.151.195
+tcxinxi.tjufe.edu.cn.	3600	IN	A	202.113.142.42
+vos.tjufe.edu.cn.	3600	IN	A	202.113.128.24
+www.tjufe.edu.cn.	3600	IN	A	202.113.128.123
+wyx.tjufe.edu.cn.	3600	IN	A	121.193.151.196
+xdcj.tjufe.edu.cn.	3600	IN	A	121.193.151.198
+xg.tjufe.edu.cn.	3600	IN	A	121.193.151.15
+xgb.tjufe.edu.cn.	3600	IN	A	121.193.151.199
+xiandai.tjufe.edu.cn.	3600	IN	A	202.113.128.110
+xinxi.tjufe.edu.cn.	3600	IN	A	202.113.142.45
+ysf.tjufe.edu.cn.	3600	IN	A	202.113.129.5
+zhaosheng.tjufe.edu.cn.	3600	IN	A	202.113.128.107
+zhujiang.tjufe.edu.cn.	3600	IN	A	121.193.151.189
+zkb.tjufe.edu.cn.	3600	IN	A	202.113.128.7
+tjufe.edu.cn.		3600	IN	SOA	dns.tjufe.edu.cn. root.tjufe.edu.cn. 2014031902 30 30 360 3600
+;; Query time: 42 msec
+;; SERVER: 202.113.128.10#53(202.113.128.10)
+;; WHEN: Mon Apr 21 20:48:00 中国标准时间 2014
+;; XFR size: 72 records (messages 1, bytes 1592)
+

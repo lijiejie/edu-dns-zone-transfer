@@ -1,0 +1,18 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns1.bua.edu.cn axfr bac.edu.cn
+; (1 server found)
+;; global options: +cmd
+bac.edu.cn.		3600	IN	SOA	dns1.bua.edu.cn. root.bua.edu.cn. 2014032101 30 30 360 3600
+bac.edu.cn.		3600	IN	MX	1 mail.bac.edu.cn.
+bac.edu.cn.		3600	IN	NS	dns1.bua.edu.cn.
+bac.edu.cn.		3600	IN	NS	dns2.bua.edu.cn.
+dns1.bac.edu.cn.	3600	IN	A	219.242.32.3
+dns2.bac.edu.cn.	3600	IN	A	114.251.79.125
+mail.bac.edu.cn.	3600	IN	A	111.207.2.18
+www.bac.edu.cn.		3600	IN	A	111.207.2.1
+bac.edu.cn.		3600	IN	SOA	dns1.bua.edu.cn. root.bua.edu.cn. 2014032101 30 30 360 3600
+;; Query time: 365 msec
+;; SERVER: 219.242.32.3#53(219.242.32.3)
+;; WHEN: Mon Apr 21 20:47:34 中国标准时间 2014
+;; XFR size: 9 records (messages 1, bytes 246)
+

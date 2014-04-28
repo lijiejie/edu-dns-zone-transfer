@@ -1,0 +1,70 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dnst.hebust.edu.cn axfr hebust.edu.cn
+; (1 server found)
+;; global options: +cmd
+hebust.edu.cn.		120	IN	SOA	hebust.edu.cn. root.hebust.edu.cn. 42 10800 900 604800 86400
+hebust.edu.cn.		120	IN	NS	dns.hebust.edu.cn.
+hebust.edu.cn.		120	IN	NS	dnst.hebust.edu.cn.
+hebust.edu.cn.		120	IN	MX	10 mail.hebust.edu.cn.
+hebust.edu.cn.		120	IN	MX	5 lp-cnc.hebust.edu.cn.
+hebust.edu.cn.		120	IN	A	202.206.64.189
+hebust.edu.cn.		120	IN	TXT	"v=spf1 MX ip4:121.28.97.213/32 ip4:222.223.188.190/32 ip4:202.206.64.35/32 -all"
+acs.hebust.edu.cn.	120	IN	A	202.206.64.11
+app.hebust.edu.cn.	120	IN	A	202.206.64.190
+bb.hebust.edu.cn.	120	IN	A	202.206.64.214
+www.bdcw.hebust.edu.cn.	120	IN	A	202.206.64.198
+cjxy.hebust.edu.cn.	120	IN	A	202.206.64.217
+*.college.hebust.edu.cn. 120	IN	A	202.206.64.184
+depart.hebust.edu.cn.	120	IN	A	202.206.64.179
+*.depart.hebust.edu.cn.	120	IN	A	202.206.64.179
+depart2.hebust.edu.cn.	120	IN	A	202.206.64.180
+*.depart2.hebust.edu.cn. 120	IN	A	202.206.64.180
+dns.hebust.edu.cn.	120	IN	A	202.206.64.33
+dnst.hebust.edu.cn.	120	IN	A	202.206.64.34
+english.hebust.edu.cn.	120	IN	A	202.206.64.189
+finance.hebust.edu.cn.	120	IN	A	202.206.64.249
+fwsm.hebust.edu.cn.	120	IN	A	172.17.23.8
+gbpt.hebust.edu.cn.	120	IN	A	202.206.64.243
+gpowercms.hebust.edu.cn. 120	IN	A	202.206.64.184
+gxhjy.hebust.edu.cn.	120	IN	A	202.206.64.175
+hbklg.hebust.edu.cn.	120	IN	A	202.206.64.220
+hebust-lms.hebust.edu.cn. 120	IN	A	202.206.64.29
+hebust-lms26.hebust.edu.cn. 120	IN	A	202.206.64.150
+iip.hebust.edu.cn.	120	IN	A	202.206.64.219
+job.hebust.edu.cn.	120	IN	A	202.206.64.242
+jw.hebust.edu.cn.	120	IN	A	202.206.64.205
+kdfzzx.hebust.edu.cn.	120	IN	A	202.206.64.218
+keji.hebust.edu.cn.	120	IN	A	202.206.64.126
+lgjwxt.hebust.edu.cn.	120	IN	A	202.206.64.208
+lib.hebust.edu.cn.	120	IN	A	202.206.64.237
+lp-cernet.hebust.edu.cn. 120	IN	A	202.206.233.226
+lp-cnc.hebust.edu.cn.	120	IN	A	121.28.97.194
+mail.hebust.edu.cn.	120	IN	A	202.206.64.35
+mailbak.hebust.edu.cn.	120	IN	A	202.206.64.36
+ncre.hebust.edu.cn.	120	IN	A	202.206.64.252
+news.hebust.edu.cn.	120	IN	A	202.206.64.189
+office.hebust.edu.cn.	120	IN	A	202.206.64.188
+radware.hebust.edu.cn.	120	IN	A	202.206.64.2
+shoufei.hebust.edu.cn.	120	IN	A	202.206.64.236
+sjxt.hebust.edu.cn.	120	IN	A	202.206.64.207
+ssl.hebust.edu.cn.	120	IN	A	172.16.0.1
+stream.hebust.edu.cn.	120	IN	A	202.206.64.186
+*.test1.hebust.edu.cn.	120	IN	A	202.206.64.178
+*.test2.hebust.edu.cn.	120	IN	A	202.206.64.177
+vcenter.hebust.edu.cn.	120	IN	A	172.17.22.111
+vdp.hebust.edu.cn.	120	IN	A	172.17.22.112
+vod.hebust.edu.cn.	120	IN	A	202.206.64.185
+wap.hebust.edu.cn.	120	IN	A	202.206.64.189
+web.hebust.edu.cn.	120	IN	A	202.206.64.189
+*.web.hebust.edu.cn.	120	IN	A	202.206.64.189
+web2.hebust.edu.cn.	120	IN	A	202.206.64.180
+www.hebust.edu.cn.	120	IN	A	202.206.64.189
+xuebao.hebust.edu.cn.	120	IN	A	202.206.64.126
+xyh.hebust.edu.cn.	120	IN	A	202.206.64.189
+zdhpt.hebust.edu.cn.	120	IN	A	202.206.64.235
+hebust.edu.cn.		120	IN	SOA	hebust.edu.cn. root.hebust.edu.cn. 42 10800 900 604800 86400
+;; Query time: 41 msec
+;; SERVER: 202.206.64.34#53(202.206.64.34)
+;; WHEN: Mon Apr 21 20:48:11 中国标准时间 2014
+;; XFR size: 61 records (messages 1, bytes 1440)
+

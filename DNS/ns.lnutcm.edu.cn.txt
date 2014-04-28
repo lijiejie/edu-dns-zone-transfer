@@ -1,0 +1,91 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @ns.lnutcm.edu.cn axfr lnutcm.edu.cn
+; (1 server found)
+;; global options: +cmd
+lnutcm.edu.cn.		86400	IN	SOA	ns.lnutcm.edu.cn. root.lnutcm.edu.cn. 42 10800 900 604800 86400
+lnutcm.edu.cn.		86400	IN	NS	ns.lnutcm.edu.cn.
+lnutcm.edu.cn.		86400	IN	MX	10 mail.lnutcm.edu.cn.
+973.lnutcm.edu.cn.	86400	IN	A	59.46.68.209
+appdb.lnutcm.edu.cn.	86400	IN	A	219.216.20.138
+base.lnutcm.edu.cn.	86400	IN	A	59.46.68.209
+consult.lnutcm.edu.cn.	86400	IN	CNAME	wwww.lnutcm.edu.cn.
+cxzy.lnutcm.edu.cn.	86400	IN	CNAME	wwww.lnutcm.edu.cn.
+da.lnutcm.edu.cn.	86400	IN	A	219.216.20.157
+ddh.lnutcm.edu.cn.	86400	IN	CNAME	wwww.lnutcm.edu.cn.
+dlfg.lnutcm.edu.cn.	86400	IN	A	219.216.30.251
+dx.lnutcm.edu.cn.	86400	IN	A	219.216.20.177
+ea.lnutcm.edu.cn.	86400	IN	A	219.216.20.129
+ecard.lnutcm.edu.cn.	86400	IN	A	59.46.68.221
+een.lnutcm.edu.cn.	86400	IN	CNAME	wwww.lnutcm.edu.cn.
+en.lnutcm.edu.cn.	86400	IN	A	59.46.68.209
+epi.lnutcm.edu.cn.	86400	IN	A	59.46.68.218
+erc.lnutcm.edu.cn.	86400	IN	CNAME	wwww.lnutcm.edu.cn.
+et.lnutcm.edu.cn.	86400	IN	A	59.46.68.217
+ftp.lnutcm.edu.cn.	86400	IN	A	219.216.20.154
+gh.lnutcm.edu.cn.	86400	IN	A	59.46.68.209
+hc.lnutcm.edu.cn.	86400	IN	CNAME	wwww.lnutcm.edu.cn.
+herac.lnutcm.edu.cn.	86400	IN	A	59.46.68.209
+home.lnutcm.edu.cn.	86400	IN	CNAME	wwww.lnutcm.edu.cn.
+hr.lnutcm.edu.cn.	86400	IN	A	59.46.68.200
+hs.lnutcm.edu.cn.	86400	IN	CNAME	wwww.lnutcm.edu.cn.
+ic.lnutcm.edu.cn.	86400	IN	A	59.46.68.209
+iec.lnutcm.edu.cn.	86400	IN	A	59.46.68.209
+im.lnutcm.edu.cn.	86400	IN	A	59.46.68.209
+info.lnutcm.edu.cn.	86400	IN	A	59.46.68.209
+istudy.lnutcm.edu.cn.	86400	IN	A	59.46.68.202
+jdzn.lnutcm.edu.cn.	86400	IN	CNAME	wwww.lnutcm.edu.cn.
+jg.lnutcm.edu.cn.	86400	IN	A	59.46.68.209
+jgqh.lnutcm.edu.cn.	86400	IN	CNAME	wwww.lnutcm.edu.cn.
+jwc.lnutcm.edu.cn.	86400	IN	A	59.46.68.209
+jxcg.lnutcm.edu.cn.	86400	IN	A	59.46.68.209
+jxjy.lnutcm.edu.cn.	86400	IN	A	59.46.68.209
+jy.lnutcm.edu.cn.	86400	IN	A	59.46.68.209
+jygz.lnutcm.edu.cn.	86400	IN	CNAME	wwww.lnutcm.edu.cn.
+kyc.lnutcm.edu.cn.	86400	IN	CNAME	wwww.lnutcm.edu.cn.
+ldap.lnutcm.edu.cn.	86400	IN	A	219.216.20.175
+lib.lnutcm.edu.cn.	86400	IN	A	59.46.68.210
+mail.lnutcm.edu.cn.	86400	IN	A	219.216.20.153
+mlc.lnutcm.edu.cn.	86400	IN	A	59.46.68.209
+mov.lnutcm.edu.cn.	86400	IN	CNAME	wwww.lnutcm.edu.cn.
+museum.lnutcm.edu.cn.	86400	IN	CNAME	wwww.lnutcm.edu.cn.
+np.lnutcm.edu.cn.	86400	IN	CNAME	wwww.lnutcm.edu.cn.
+ns.lnutcm.edu.cn.	86400	IN	A	219.216.20.130
+oa.lnutcm.edu.cn.	86400	IN	A	59.46.68.198
+pop3.lnutcm.edu.cn.	86400	IN	A	219.216.20.153
+publish.lnutcm.edu.cn.	86400	IN	A	59.46.68.209
+sbd.lnutcm.edu.cn.	86400	IN	CNAME	wwww.lnutcm.edu.cn.
+shiyan.lnutcm.edu.cn.	86400	IN	A	59.46.68.209
+skb.lnutcm.edu.cn.	86400	IN	CNAME	wwww.lnutcm.edu.cn.
+smtp.lnutcm.edu.cn.	86400	IN	A	219.216.20.153
+sport.lnutcm.edu.cn.	86400	IN	CNAME	wwww.lnutcm.edu.cn.
+stu.lnutcm.edu.cn.	86400	IN	CNAME	wwww.lnutcm.edu.cn.
+survey.lnutcm.edu.cn.	86400	IN	CNAME	wwww.lnutcm.edu.cn.
+syzx.lnutcm.edu.cn.	86400	IN	A	59.46.68.209
+tcmet.lnutcm.edu.cn.	86400	IN	A	59.46.68.211
+ten.lnutcm.edu.cn.	86400	IN	CNAME	wwww.lnutcm.edu.cn.
+video.lnutcm.edu.cn.	86400	IN	A	219.216.22.45
+vpn.lnutcm.edu.cn.	86400	IN	A	59.46.60.150
+wgy.lnutcm.edu.cn.	86400	IN	A	59.46.68.209
+www.lnutcm.edu.cn.	86400	IN	A	59.46.68.209
+wwww.lnutcm.edu.cn.	86400	IN	A	59.46.68.195
+xkb.lnutcm.edu.cn.	86400	IN	CNAME	wwww.lnutcm.edu.cn.
+xwb.lnutcm.edu.cn.	86400	IN	CNAME	wwww.lnutcm.edu.cn.
+xxgc.lnutcm.edu.cn.	86400	IN	A	59.46.68.209
+xxgk.lnutcm.edu.cn.	86400	IN	A	59.46.68.209
+yi81.lnutcm.edu.cn.	86400	IN	CNAME	wwww.lnutcm.edu.cn.
+yjs.lnutcm.edu.cn.	86400	IN	A	59.46.68.209
+youth.lnutcm.edu.cn.	86400	IN	CNAME	wwww.lnutcm.edu.cn.
+yxy.lnutcm.edu.cn.	86400	IN	A	59.46.68.209
+yxyzygc.lnutcm.edu.cn.	86400	IN	A	59.46.68.209
+zc.lnutcm.edu.cn.	86400	IN	A	219.216.20.135
+zj.lnutcm.edu.cn.	86400	IN	A	59.46.68.211
+zjtn.lnutcm.edu.cn.	86400	IN	A	59.46.68.209
+zyjc.lnutcm.edu.cn.	86400	IN	CNAME	wwww.lnutcm.edu.cn.
+zynljs.lnutcm.edu.cn.	86400	IN	A	59.46.68.209
+zyynh20.lnutcm.edu.cn.	86400	IN	A	59.46.68.209
+lnutcm.edu.cn.		86400	IN	SOA	ns.lnutcm.edu.cn. root.lnutcm.edu.cn. 42 10800 900 604800 86400
+;; Query time: 60 msec
+;; SERVER: 219.216.20.130#53(219.216.20.130)
+;; WHEN: Mon Apr 21 20:50:13 中国标准时间 2014
+;; XFR size: 82 records (messages 1, bytes 1694)
+

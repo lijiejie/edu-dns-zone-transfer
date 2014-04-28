@@ -1,0 +1,67 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns.shfc.edu.cn axfr shfc.edu.cn
+; (1 server found)
+;; global options: +cmd
+shfc.edu.cn.		3600	IN	SOA	dnsserver. admin. 110 900 600 86400 3600
+shfc.edu.cn.		3600	IN	A	218.242.212.3
+shfc.edu.cn.		3600	IN	NS	dns1.shfc.edu.cn.
+shfc.edu.cn.		3600	IN	NS	dns.shfc.edu.cn.
+shfc.edu.cn.		3600	IN	MX	0 email.shfc.edu.cn.
+shfc.edu.cn.		3600	IN	TXT	"v=spf1 ip4:218.242.212.3/26 ~all"
+app1.shfc.edu.cn.	3600	IN	A	218.242.212.196
+app2.shfc.edu.cn.	3600	IN	A	219.233.215.10
+app3.shfc.edu.cn.	3600	IN	A	219.233.215.8
+cec.shfc.edu.cn.	3600	IN	A	218.242.212.198
+cportal.shfc.edu.cn.	3600	IN	A	218.242.212.205
+dasai.shfc.edu.cn.	3600	IN	A	202.121.252.28
+dep.shfc.edu.cn.	3600	IN	A	218.242.212.8
+dns.shfc.edu.cn.	3600	IN	A	202.121.252.6
+dns1.shfc.edu.cn.	3600	IN	A	202.121.255.6
+dwgk.shfc.edu.cn.	3600	IN	A	219.233.215.5
+email.shfc.edu.cn.	3600	IN	A	218.242.212.3
+eyou.shfc.edu.cn.	3600	IN	A	210.22.146.53
+fd.shfc.edu.cn.		3600	IN	A	202.121.252.30
+fdcyj.shfc.edu.cn.	3600	IN	A	218.242.212.193
+gfcc.shfc.edu.cn.	3600	IN	A	219.233.215.3
+ifri.shfc.edu.cn.	3600	IN	A	218.242.212.199
+www.ifri.shfc.edu.cn.	3600	IN	A	218.242.212.199
+jjy.shfc.edu.cn.	3600	IN	A	202.121.252.44
+jrlc.shfc.edu.cn.	3600	IN	A	218.242.212.203
+jrlw.shfc.edu.cn.	3600	IN	A	218.242.212.14
+jwc.shfc.edu.cn.	3600	IN	A	218.242.212.7
+jx.shfc.edu.cn.		3600	IN	A	202.121.252.21
+kjces.shfc.edu.cn.	3600	IN	A	219.233.215.6
+kjsme.shfc.edu.cn.	3600	IN	A	219.233.215.6
+lib.shfc.edu.cn.	3600	IN	A	218.242.212.12
+mail.shfc.edu.cn.	3600	IN	A	202.121.252.5
+mail.shfc.edu.cn.	3600	IN	MX	0 mail.shfc.edu.cn.
+mail1.shfc.edu.cn.	3600	IN	A	210.22.146.53
+mail1.shfc.edu.cn.	3600	IN	MX	10 mail1.shfc.edu.cn.
+mail2.shfc.edu.cn.	3600	IN	A	218.242.212.201
+mail2.shfc.edu.cn.	3600	IN	MX	10 mail2.shfc.edu.cn.
+office.shfc.edu.cn.	3600	IN	A	218.242.212.204
+officescan.shfc.edu.cn.	3600	IN	A	218.242.212.10
+oldmail.shfc.edu.cn.	3600	IN	A	218.242.212.4
+pj.shfc.edu.cn.		3600	IN	A	202.121.252.22
+portal.shfc.edu.cn.	3600	IN	A	218.242.212.205
+portal1.shfc.edu.cn.	3600	IN	A	218.242.212.11
+portal2.shfc.edu.cn.	3600	IN	A	202.121.252.31
+smg.shfc.edu.cn.	3600	IN	A	218.242.212.4
+stfis.shfc.edu.cn.	3600	IN	A	218.242.212.13
+tmm.shfc.edu.cn.	3600	IN	A	218.242.212.14
+video.shfc.edu.cn.	3600	IN	A	218.242.212.6
+www.shfc.edu.cn.	3600	IN	A	218.242.212.13
+www1.shfc.edu.cn.	3600	IN	A	218.242.212.5
+www2.shfc.edu.cn.	3600	IN	A	218.242.212.2
+xg.shfc.edu.cn.		3600	IN	A	219.233.215.9
+xg.shfc.edu.cn.		3600	IN	A	202.121.252.24
+xq.shfc.edu.cn.		3600	IN	A	218.242.212.5
+yingxin.shfc.edu.cn.	3600	IN	A	218.242.212.9
+yinxin.shfc.edu.cn.	3600	IN	A	218.242.212.9
+yktcx.shfc.edu.cn.	3600	IN	A	218.242.212.194
+shfc.edu.cn.		3600	IN	SOA	dnsserver. admin. 110 900 600 86400 3600
+;; Query time: 257 msec
+;; SERVER: 202.121.252.6#53(202.121.252.6)
+;; WHEN: Mon Apr 21 20:55:14 中国标准时间 2014
+;; XFR size: 58 records (messages 58, bytes 3012)
+

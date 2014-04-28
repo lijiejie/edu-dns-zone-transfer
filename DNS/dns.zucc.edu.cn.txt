@@ -1,0 +1,110 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns.zucc.edu.cn axfr zucc.edu.cn
+; (1 server found)
+;; global options: +cmd
+zucc.edu.cn.		60	IN	SOA	zucc.edu.cn. root.localhost.zucc.edu.cn. 3 3600 7200 604800 86400
+zucc.edu.cn.		60	IN	MX	10 smtp1.zucc.edu.cn.
+zucc.edu.cn.		60	IN	MX	20 smtp.zucc.edu.cn.
+zucc.edu.cn.		60	IN	NS	dns.zucc.edu.cn.
+zucc.edu.cn.		60	IN	NS	dns2.zucc.edu.cn.
+adc.zucc.edu.cn.	60	IN	A	124.160.104.236
+android.zucc.edu.cn.	60	IN	A	115.236.94.222
+arc.zucc.edu.cn.	60	IN	A	124.160.104.177
+bb.zucc.edu.cn.		60	IN	A	202.107.195.252
+bbcollab.zucc.edu.cn.	60	IN	A	202.107.195.253
+book.zucc.edu.cn.	60	IN	CNAME	book1.3g.chaoxing.com.
+bysj.zucc.edu.cn.	60	IN	A	124.160.104.201
+ca.zucc.edu.cn.		60	IN	A	202.107.195.221
+career.zucc.edu.cn.	60	IN	A	124.160.104.168
+ctdns.zucc.edu.cn.	60	IN	A	202.107.195.195
+ctl.zucc.edu.cn.	60	IN	A	124.160.104.244
+cudns.zucc.edu.cn.	60	IN	A	124.160.104.132
+cxcy.zucc.edu.cn.	60	IN	A	110.75.189.119
+dces.zucc.edu.cn.	60	IN	A	115.236.94.205
+dces.zucc.edu.cn.	60	IN	A	115.236.94.206
+dces.zucc.edu.cn.	60	IN	A	115.236.94.207
+dces.zucc.edu.cn.	60	IN	A	115.236.94.208
+dianzifuwu.zucc.edu.cn.	60	IN	A	115.236.94.197
+dianzifuwu.zucc.edu.cn.	60	IN	A	115.236.94.198
+dianzifuwu.zucc.edu.cn.	60	IN	A	115.236.94.199
+dianzifuwu.zucc.edu.cn.	60	IN	A	115.236.94.200
+djgzw.zucc.edu.cn.	60	IN	A	202.107.195.244
+dns.zucc.edu.cn.	60	IN	A	210.32.64.8
+dns2.zucc.edu.cn.	60	IN	A	210.32.64.9
+dzfw.zucc.edu.cn.	60	IN	A	202.107.195.242
+eco.zucc.edu.cn.	60	IN	A	124.160.104.226
+ecp.zucc.edu.cn.	60	IN	A	202.107.195.241
+eng.zucc.edu.cn.	60	IN	CNAME	fqk.3g.chaoxing.com.
+englib.zucc.edu.cn.	60	IN	A	202.107.195.220
+english.zucc.edu.cn.	60	IN	A	202.107.195.220
+fxybysj.zucc.edu.cn.	60	IN	A	124.160.104.240
+gc.zucc.edu.cn.		60	IN	A	202.107.195.220
+ggzx.zucc.edu.cn.	60	IN	A	124.160.104.239
+iee.zucc.edu.cn.	60	IN	A	202.107.195.220
+ipo.zucc.edu.cn.	60	IN	A	124.160.104.204
+it.zucc.edu.cn.		60	IN	A	202.107.195.243
+jfgk.zucc.edu.cn.	60	IN	A	124.160.104.247
+jour.zucc.edu.cn.	60	IN	CNAME	qk.3g.chaoxing.com.
+jpkc.zucc.edu.cn.	60	IN	A	124.160.104.176
+jsxy.zucc.edu.cn.	60	IN	A	202.107.195.220
+jwxt.zucc.edu.cn.	60	IN	A	124.160.104.166
+jxgg.zucc.edu.cn.	60	IN	A	124.160.104.173
+jzjs.zucc.edu.cn.	60	IN	A	124.160.104.238
+law.zucc.edu.cn.	60	IN	A	202.107.195.220
+libwap.zucc.edu.cn.	60	IN	A	124.160.104.183
+libweb.zucc.edu.cn.	60	IN	A	202.107.195.232
+libwx.zucc.edu.cn.	60	IN	A	124.160.104.184
+mail.zucc.edu.cn.	60	IN	MX	10 1221447385.mail.outlook.com.
+map.zucc.edu.cn.	60	IN	A	124.160.104.167
+mathmodeling.zucc.edu.cn. 60	IN	A	124.160.104.231
+mc.zucc.edu.cn.		60	IN	CNAME	mc.3g.chaoxing.com.
+mlib.zucc.edu.cn.	60	IN	CNAME	www.3g.chaoxing.com.
+ms.zucc.edu.cn.		60	IN	A	210.32.64.200
+nco.zucc.edu.cn.	60	IN	A	124.160.104.230
+netcomputing.zucc.edu.cn. 60	IN	A	115.236.94.201
+netcomputing.zucc.edu.cn. 60	IN	A	115.236.94.202
+netcomputing.zucc.edu.cn. 60	IN	A	115.236.94.203
+netcomputing.zucc.edu.cn. 60	IN	A	115.236.94.204
+netlab.zucc.edu.cn.	60	IN	A	124.160.104.239
+netlab.zucc.edu.cn.	60	IN	A	124.160.104.248
+news.zucc.edu.cn.	60	IN	CNAME	news.wip.zucc.edu.cn.
+newspaper.zucc.edu.cn.	60	IN	CNAME	newspaper1.3g.chaoxing.com.
+online.zucc.edu.cn.	60	IN	A	202.107.195.251
+opac.zucc.edu.cn.	60	IN	A	124.160.104.180
+openvpn.zucc.edu.cn.	60	IN	A	124.160.104.250
+pec.zucc.edu.cn.	60	IN	A	124.160.104.249
+pop3.zucc.edu.cn.	60	IN	A	202.107.195.246
+qw.zucc.edu.cn.		60	IN	CNAME	qw.3g.chaoxing.com.
+sfcx.zucc.edu.cn.	60	IN	A	124.160.104.205
+sfl.zucc.edu.cn.	60	IN	A	202.107.195.220
+sig.zucc.edu.cn.	60	IN	A	124.160.104.233
+sms.zucc.edu.cn.	60	IN	A	218.108.29.119
+smtp.zucc.edu.cn.	60	IN	A	202.107.195.246
+smtp1.zucc.edu.cn.	60	IN	A	202.107.195.245
+sunbase.zucc.edu.cn.	60	IN	A	115.236.94.212
+swyt.zucc.edu.cn.	60	IN	A	202.107.195.227
+sxy.zucc.edu.cn.	60	IN	A	202.107.195.220
+unlpdp.zucc.edu.cn.	60	IN	A	123.1.152.245
+vpn.zucc.edu.cn.	60	IN	A	202.107.195.201
+webmail.zucc.edu.cn.	60	IN	A	202.107.195.246
+wip.zucc.edu.cn.	60	IN	NS	ctdns.zucc.edu.cn.
+wip.zucc.edu.cn.	60	IN	NS	cudns.zucc.edu.cn.
+www.zucc.edu.cn.	60	IN	CNAME	www.wip.zucc.edu.cn.
+xgw.zucc.edu.cn.	60	IN	A	202.107.195.234
+xj.zucc.edu.cn.		60	IN	A	124.160.104.174
+xk.zucc.edu.cn.		60	IN	A	124.160.104.166
+yunhua.zucc.edu.cn.	60	IN	A	124.160.104.164
+yxy.zucc.edu.cn.	60	IN	A	202.107.195.220
+zadl.zucc.edu.cn.	60	IN	A	124.160.104.182
+zhaopin.zucc.edu.cn.	60	IN	A	124.160.104.207
+zjucoj.zucc.edu.cn.	60	IN	A	124.160.104.243
+zs.zucc.edu.cn.		60	IN	CNAME	zs.wip.zucc.edu.cn.
+zuccer.zucc.edu.cn.	60	IN	A	202.107.195.229
+zuccigb.zucc.edu.cn.	60	IN	A	124.160.104.185
+zuccmail.zucc.edu.cn.	60	IN	A	202.107.195.247
+zucc.edu.cn.		60	IN	SOA	zucc.edu.cn. root.localhost.zucc.edu.cn. 3 3600 7200 604800 86400
+;; Query time: 77 msec
+;; SERVER: 210.32.64.8#53(210.32.64.8)
+;; WHEN: Mon Apr 21 20:56:31 中国标准时间 2014
+;; XFR size: 101 records (messages 1, bytes 2219)
+

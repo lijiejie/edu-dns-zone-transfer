@@ -1,0 +1,14 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @ns.hbgy.edu.cn axfr hbgy.edu.cn
+; (1 server found)
+;; global options: +cmd
+hbgy.edu.cn.		86400	IN	SOA	ns.hbgy.edu.cn. niuyl.cernet.com. 121219 604800 86400 2419200 86400
+hbgy.edu.cn.		86400	IN	NS	ns.hbgy.edu.cn.
+ns.hbgy.edu.cn.		86400	IN	A	202.206.232.21
+www.hbgy.edu.cn.	86400	IN	A	121.28.91.92
+hbgy.edu.cn.		86400	IN	SOA	ns.hbgy.edu.cn. niuyl.cernet.com. 121219 604800 86400 2419200 86400
+;; Query time: 911 msec
+;; SERVER: 202.206.232.21#53(202.206.232.21)
+;; WHEN: Mon Apr 21 20:48:44 中国标准时间 2014
+;; XFR size: 5 records (messages 1, bytes 170)
+

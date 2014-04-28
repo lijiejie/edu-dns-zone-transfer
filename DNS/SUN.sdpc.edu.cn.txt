@@ -1,0 +1,20 @@
+;; Connection to 127.0.0.1#53(127.0.0.1) for sdpc.edu.cn failed: connection refused.
+
+; <<>> DiG 9.9.5-W1 <<>> @SUN.sdpc.edu.cn axfr sdpc.edu.cn
+; (2 servers found)
+;; global options: +cmd
+sdpc.edu.cn.		86400	IN	SOA	SUN.sdpc.edu.cn. root.sdpc.edu.cn. 1997022700 28800 14400 3600000 86400
+sdpc.edu.cn.		86400	IN	NS	SUN.sdpc.edu.cn.
+sdpc.edu.cn.		86400	IN	MX	10 mail.sdpc.edu.cn.
+email.sdpc.edu.cn.	86400	IN	A	210.44.40.62
+mail.sdpc.edu.cn.	86400	IN	A	124.133.2.72
+SUN.sdpc.edu.cn.	86400	IN	A	127.0.0.1
+SUN.sdpc.edu.cn.	86400	IN	A	210.44.40.66
+vod.sdpc.edu.cn.	86400	IN	A	210.44.40.61
+www.sdpc.edu.cn.	86400	IN	A	124.133.2.73
+sdpc.edu.cn.		86400	IN	SOA	SUN.sdpc.edu.cn. root.sdpc.edu.cn. 1997022700 28800 14400 3600000 86400
+;; Query time: 46 msec
+;; SERVER: 210.44.40.66#53(210.44.40.66)
+;; WHEN: Mon Apr 21 20:54:36 中国标准时间 2014
+;; XFR size: 10 records (messages 1, bytes 255)
+

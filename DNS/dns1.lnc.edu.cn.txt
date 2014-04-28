@@ -1,0 +1,110 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns1.lnc.edu.cn axfr lnc.edu.cn
+; (1 server found)
+;; global options: +cmd
+lnc.edu.cn.		3600	IN	SOA	dns1.lnc.edu.cn. root.lnc.edu.cn. 2010103251 10800 3600 604800 86400
+lnc.edu.cn.		3600	IN	A	59.41.61.221
+lnc.edu.cn.		3600	IN	NS	dns1.lnc.edu.cn.
+lnc.edu.cn.		3600	IN	NS	dns2.lnc.edu.cn.
+lnc.edu.cn.		3600	IN	MX	10 mail.lnc.edu.cn.
+3g.lnc.edu.cn.		3600	IN	CNAME	www.lnc.edu.cn.
+aas.lnc.edu.cn.		3600	IN	CNAME	www.lnc.edu.cn.
+ags.lnc.edu.cn.		3600	IN	CNAME	www.lnc.edu.cn.
+app.lnc.edu.cn.		3600	IN	CNAME	www.lnc.edu.cn.
+bbs.lnc.edu.cn.		3600	IN	A	218.107.50.17
+cbms.lnc.edu.cn.	3600	IN	A	210.21.127.228
+cie.lnc.edu.cn.		3600	IN	CNAME	www.lnc.edu.cn.
+cj.lnc.edu.cn.		3600	IN	A	192.168.43.24
+class.lnc.edu.cn.	3600	IN	CNAME	www.lnc.edu.cn.
+cms.lnc.edu.cn.		3600	IN	CNAME	www.lnc.edu.cn.
+cr.lnc.edu.cn.		3600	IN	CNAME	www.lnc.edu.cn.
+de.lnc.edu.cn.		3600	IN	CNAME	www.lnc.edu.cn.
+dns1.lnc.edu.cn.	3600	IN	A	125.216.105.3
+dns2.lnc.edu.cn.	3600	IN	A	125.216.105.253
+eclass.lnc.edu.cn.	3600	IN	A	125.216.105.7
+english.lnc.edu.cn.	3600	IN	A	192.168.42.30
+exp.lnc.edu.cn.		3600	IN	CNAME	www.lnc.edu.cn.
+exp1.lnc.edu.cn.	3600	IN	A	125.216.105.40
+f.lnc.edu.cn.		3600	IN	A	59.41.61.219
+group.lnc.edu.cn.	3600	IN	A	125.216.105.7
+h.lnc.edu.cn.		3600	IN	A	59.41.61.221
+hd.lnc.edu.cn.		3600	IN	CNAME	www.lnc.edu.cn.
+hq.lnc.edu.cn.		3600	IN	CNAME	www.lnc.edu.cn.
+hqcs.lnc.edu.cn.	3600	IN	A	192.168.43.143
+hqgl.lnc.edu.cn.	3600	IN	CNAME	www.lnc.edu.cn.
+hr.lnc.edu.cn.		3600	IN	A	192.168.40.16
+jdks.lnc.edu.cn.	3600	IN	CNAME	www.lnc.edu.cn.
+job.lnc.edu.cn.		3600	IN	CNAME	www.lnc.edu.cn.
+jp.lnc.edu.cn.		3600	IN	CNAME	www.lnc.edu.cn.
+jpkc.lnc.edu.cn.	3600	IN	CNAME	www.lnc.edu.cn.
+jw.lnc.edu.cn.		3600	IN	A	192.168.43.23
+jw1.lnc.edu.cn.		3600	IN	A	192.168.43.41
+jw2.lnc.edu.cn.		3600	IN	A	192.168.43.42
+jw3.lnc.edu.cn.		3600	IN	A	192.168.43.43
+jw4.lnc.edu.cn.		3600	IN	A	192.168.43.44
+jw5.lnc.edu.cn.		3600	IN	A	192.168.43.45
+jw6.lnc.edu.cn.		3600	IN	A	192.168.43.46
+jw7.lnc.edu.cn.		3600	IN	A	192.168.43.47
+jw8.lnc.edu.cn.		3600	IN	A	192.168.43.48
+jwgl.lnc.edu.cn.	3600	IN	CNAME	www.lnc.edu.cn.
+jxjw.lnc.edu.cn.	3600	IN	CNAME	www.lnc.edu.cn.
+jxkq.lnc.edu.cn.	3600	IN	CNAME	www.lnc.edu.cn.
+jy.lnc.edu.cn.		3600	IN	A	125.216.105.7
+ks.lnc.edu.cn.		3600	IN	CNAME	www.lnc.edu.cn.
+lhj.lnc.edu.cn.		3600	IN	A	125.216.105.7
+lib.lnc.edu.cn.		3600	IN	CNAME	www.lnc.edu.cn.
+lm.lnc.edu.cn.		3600	IN	A	218.107.18.213
+lms.lnc.edu.cn.		3600	IN	CNAME	www.lnc.edu.cn.
+ln-dc1.lnc.edu.cn.	3600	IN	A	192.168.43.10
+ln-dc2.lnc.edu.cn.	3600	IN	A	192.168.43.10
+lncf.lnc.edu.cn.	3600	IN	CNAME	www.lnc.edu.cn.
+lnctv.lnc.edu.cn.	3600	IN	CNAME	www.lnc.edu.cn.
+lnxsgl.lnc.edu.cn.	3600	IN	CNAME	www.lnc.edu.cn.
+localhost.lnc.edu.cn.	3600	IN	A	127.0.0.1
+mail.lnc.edu.cn.	3600	IN	A	59.41.61.219
+mettb.lnc.edu.cn.	3600	IN	CNAME	www.lnc.edu.cn.
+mj.lnc.edu.cn.		3600	IN	A	192.168.43.17
+mtsl.lnc.edu.cn.	3600	IN	CNAME	www.lnc.edu.cn.
+n.lnc.edu.cn.		3600	IN	CNAME	www.lnc.edu.cn.
+net.lnc.edu.cn.		3600	IN	A	218.107.50.34
+newhd.lnc.edu.cn.	3600	IN	CNAME	www.lnc.edu.cn.
+oa.lnc.edu.cn.		3600	IN	A	125.216.105.7
+pg.lnc.edu.cn.		3600	IN	CNAME	www.lnc.edu.cn.
+proxy.lnc.edu.cn.	3600	IN	A	59.41.61.219
+s.lnc.edu.cn.		3600	IN	A	192.168.43.142
+sce.lnc.edu.cn.		3600	IN	A	125.216.105.7
+shixi.lnc.edu.cn.	3600	IN	CNAME	www.lnc.edu.cn.
+shop.lnc.edu.cn.	3600	IN	CNAME	www.lnc.edu.cn.
+site.lnc.edu.cn.	3600	IN	CNAME	www.lnc.edu.cn.
+sms.lnc.edu.cn.		3600	IN	A	125.216.105.120
+sus.lnc.edu.cn.		3600	IN	A	192.168.43.10
+sxzx.lnc.edu.cn.	3600	IN	A	192.168.42.42
+sy.lnc.edu.cn.		3600	IN	CNAME	www.lnc.edu.cn.
+sz.lnc.edu.cn.		3600	IN	CNAME	www.lnc.edu.cn.
+szy.lnc.edu.cn.		3600	IN	A	192.168.44.15
+tel.lnc.edu.cn.		3600	IN	A	59.41.61.219
+test.lnc.edu.cn.	3600	IN	A	192.168.44.47
+tz.lnc.edu.cn.		3600	IN	A	192.168.43.7
+update.lnc.edu.cn.	3600	IN	A	192.168.43.10
+v.lnc.edu.cn.		3600	IN	A	121.8.166.179
+vod.lnc.edu.cn.		3600	IN	CNAME	www.lnc.edu.cn.
+vod1.lnc.edu.cn.	3600	IN	CNAME	www.lnc.edu.cn.
+vpn.lnc.edu.cn.		3600	IN	A	218.107.50.34
+w1.lnc.edu.cn.		3600	IN	CNAME	www.lnc.edu.cn.
+wb.lnc.edu.cn.		3600	IN	CNAME	www.lnc.edu.cn.
+webserver.lnc.edu.cn.	3600	IN	A	192.168.43.7
+www.lnc.edu.cn.		3600	IN	A	59.41.61.222
+www1.lnc.edu.cn.	3600	IN	CNAME	lnc.edu.cn.
+x.lnc.edu.cn.		3600	IN	A	192.168.43.72
+xl.lnc.edu.cn.		3600	IN	CNAME	www.lnc.edu.cn.
+xs.lnc.edu.cn.		3600	IN	A	192.168.43.23
+xsc.lnc.edu.cn.		3600	IN	A	192.168.43.7
+zc.lnc.edu.cn.		3600	IN	CNAME	www.lnc.edu.cn.
+zhcp.lnc.edu.cn.	3600	IN	CNAME	www.lnc.edu.cn.
+zl.lnc.edu.cn.		3600	IN	CNAME	www.lnc.edu.cn.
+lnc.edu.cn.		3600	IN	SOA	dns1.lnc.edu.cn. root.lnc.edu.cn. 2010103251 10800 3600 604800 86400
+;; Query time: 215 msec
+;; SERVER: 125.216.105.3#53(125.216.105.3)
+;; WHEN: Mon Apr 21 21:00:47 中国标准时间 2014
+;; XFR size: 101 records (messages 1, bytes 2005)
+

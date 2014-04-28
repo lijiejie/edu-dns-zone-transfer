@@ -1,0 +1,39 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns.immc.edu.cn axfr immc.edu.cn
+; (1 server found)
+;; global options: +cmd
+immc.edu.cn.		86400	IN	SOA	dns.immc.edu.cn. root.dns.immc.edu.cn. 42 10800 900 604800 86400
+immc.edu.cn.		86400	IN	NS	dns.immc.edu.cn.
+immc.edu.cn.		86400	IN	MX	10 mailgw.immc.edu.cn.
+cwcx.immc.edu.cn.	86400	IN	A	211.82.159.161
+dns.immc.edu.cn.	86400	IN	A	211.82.144.6
+dns2.immc.edu.cn.	86400	IN	A	211.82.144.7
+fck.immc.edu.cn.	86400	IN	A	211.82.159.57
+ftp.immc.edu.cn.	86400	IN	A	211.82.159.70
+gjjy.immc.edu.cn.	86400	IN	A	211.82.159.15
+hlxy.immc.edu.cn.	86400	IN	A	211.82.159.15
+hqglc.immc.edu.cn.	86400	IN	A	211.82.159.15
+jcyxy.immc.edu.cn.	86400	IN	A	211.82.159.15
+job.immc.edu.cn.	86400	IN	A	211.82.144.61
+jwc.immc.edu.cn.	86400	IN	A	211.82.159.15
+login.immc.edu.cn.	86400	IN	A	172.16.4.2
+mail.immc.edu.cn.	86400	IN	A	211.82.159.40
+mailb.immc.edu.cn.	86400	IN	A	211.82.159.41
+mailgw.immc.edu.cn.	86400	IN	A	211.82.159.30
+news.immc.edu.cn.	86400	IN	A	211.82.144.152
+nhce.immc.edu.cn.	86400	IN	A	211.82.159.211
+nic.immc.edu.cn.	86400	IN	A	211.82.159.80
+pay.immc.edu.cn.	86400	IN	A	211.82.159.161
+pay2.immc.edu.cn.	86400	IN	A	211.82.159.161
+psbh.immc.edu.cn.	86400	IN	A	211.82.159.15
+rsc.immc.edu.cn.	86400	IN	A	211.82.159.15
+uss.immc.edu.cn.	86400	IN	A	211.82.159.2
+www.immc.edu.cn.	86400	IN	A	211.82.159.50
+xyw.immc.edu.cn.	86400	IN	A	211.82.159.15
+yx.immc.edu.cn.		86400	IN	A	211.82.159.23
+immc.edu.cn.		86400	IN	SOA	dns.immc.edu.cn. root.dns.immc.edu.cn. 42 10800 900 604800 86400
+;; Query time: 46 msec
+;; SERVER: 211.82.144.6#53(211.82.144.6)
+;; WHEN: Mon Apr 21 20:49:16 中国标准时间 2014
+;; XFR size: 30 records (messages 1, bytes 675)
+

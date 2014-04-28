@@ -1,0 +1,81 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @public.gdpa.edu.cn axfr gdpa.edu.cn
+; (1 server found)
+;; global options: +cmd
+gdpa.edu.cn.		14400	IN	SOA	public.gdpa.edu.cn. xf.public.gdpa.edu.cn. 2004011301 1800 900 604800 86400
+gdpa.edu.cn.		14400	IN	NS	public.gdpa.edu.cn.
+gdpa.edu.cn.		14400	IN	MX	1 search.gdpa.edu.cn.
+gdpa.edu.cn.		14400	IN	A	121.10.176.38
+csd.gdpa.edu.cn.	14400	IN	A	210.38.248.1
+csd.gdpa.edu.cn.	14400	IN	NS	www.csd.gdpa.edu.cn.
+www.csd.gdpa.edu.cn.	14400	IN	A	210.38.248.1
+d01.gdpa.edu.cn.	14400	IN	A	210.38.240.1
+d02.gdpa.edu.cn.	14400	IN	A	210.38.240.2
+d03.gdpa.edu.cn.	14400	IN	A	210.38.240.3
+d04.gdpa.edu.cn.	14400	IN	A	210.38.240.4
+d05.gdpa.edu.cn.	14400	IN	A	210.38.240.5
+d06.gdpa.edu.cn.	14400	IN	A	210.38.240.6
+d07.gdpa.edu.cn.	14400	IN	A	210.38.240.7
+d08.gdpa.edu.cn.	14400	IN	A	210.38.240.8
+d09.gdpa.edu.cn.	14400	IN	A	210.38.240.9
+d10.gdpa.edu.cn.	14400	IN	A	210.38.240.10
+d11.gdpa.edu.cn.	14400	IN	A	210.38.240.11
+d12.gdpa.edu.cn.	14400	IN	A	210.38.240.12
+d13.gdpa.edu.cn.	14400	IN	A	210.38.240.13
+d14.gdpa.edu.cn.	14400	IN	A	210.38.240.14
+d15.gdpa.edu.cn.	14400	IN	A	210.38.240.15
+d16.gdpa.edu.cn.	14400	IN	A	210.38.240.16
+d17.gdpa.edu.cn.	14400	IN	A	210.38.240.17
+d18.gdpa.edu.cn.	14400	IN	A	210.38.240.18
+d19.gdpa.edu.cn.	14400	IN	A	210.38.240.19
+d20.gdpa.edu.cn.	14400	IN	A	210.38.240.20
+d21.gdpa.edu.cn.	14400	IN	A	210.38.240.21
+d22.gdpa.edu.cn.	14400	IN	A	210.38.240.22
+d23.gdpa.edu.cn.	14400	IN	A	210.38.240.23
+d24.gdpa.edu.cn.	14400	IN	A	210.38.240.24
+d25.gdpa.edu.cn.	14400	IN	A	210.38.240.25
+d26.gdpa.edu.cn.	14400	IN	A	210.38.240.26
+d27.gdpa.edu.cn.	14400	IN	A	210.38.240.27
+d28.gdpa.edu.cn.	14400	IN	A	210.38.240.28
+d29.gdpa.edu.cn.	14400	IN	A	210.38.240.29
+d30.gdpa.edu.cn.	14400	IN	A	210.38.240.30
+d31.gdpa.edu.cn.	14400	IN	A	210.38.240.31
+d32.gdpa.edu.cn.	14400	IN	A	210.38.240.32
+email.gdpa.edu.cn.	14400	IN	A	210.38.240.41
+ftp.gdpa.edu.cn.	14400	IN	CNAME	home.gdpa.edu.cn.
+gw.gdpa.edu.cn.		14400	IN	A	210.38.240.61
+gw241.gdpa.edu.cn.	14400	IN	A	210.38.241.254
+gw242.gdpa.edu.cn.	14400	IN	A	210.38.242.254
+gw243.gdpa.edu.cn.	14400	IN	A	210.38.243.254
+gw244.gdpa.edu.cn.	14400	IN	A	210.38.244.254
+gw245.gdpa.edu.cn.	14400	IN	A	210.38.245.254
+gw246.gdpa.edu.cn.	14400	IN	A	210.38.246.254
+gw247.gdpa.edu.cn.	14400	IN	A	210.38.247.254
+gw248.gdpa.edu.cn.	14400	IN	A	210.38.248.254
+gw249.gdpa.edu.cn.	14400	IN	A	210.38.249.254
+gw250.gdpa.edu.cn.	14400	IN	A	210.38.250.254
+gw251.gdpa.edu.cn.	14400	IN	A	210.38.251.254
+gw252.gdpa.edu.cn.	14400	IN	A	210.38.252.254
+gw253.gdpa.edu.cn.	14400	IN	A	210.38.253.254
+gw254.gdpa.edu.cn.	14400	IN	A	210.38.254.254
+gw255.gdpa.edu.cn.	14400	IN	A	210.38.255.254
+gwcenter.gdpa.edu.cn.	14400	IN	A	210.38.240.65
+home.gdpa.edu.cn.	14400	IN	A	210.38.240.36
+hp02.gdpa.edu.cn.	14400	IN	A	121.10.176.38
+laserjet1.gdpa.edu.cn.	14400	IN	A	210.38.240.67
+mail.gdpa.edu.cn.	14400	IN	A	210.38.240.68
+media.gdpa.edu.cn.	14400	IN	A	210.38.240.37
+orange.gdpa.edu.cn.	14400	IN	A	210.38.240.39
+www.pjc.gdpa.edu.cn.	14400	IN	A	210.38.255.38
+public.gdpa.edu.cn.	14400	IN	A	210.38.240.33
+qinyong.gdpa.edu.cn.	14400	IN	A	210.38.240.88
+router.gdpa.edu.cn.	14400	IN	A	210.38.240.62
+search.gdpa.edu.cn.	14400	IN	A	210.38.240.58
+www.gdpa.edu.cn.	14400	IN	CNAME	hp02.gdpa.edu.cn.
+www1.gdpa.edu.cn.	14400	IN	CNAME	public.gdpa.edu.cn.
+gdpa.edu.cn.		14400	IN	SOA	public.gdpa.edu.cn. xf.public.gdpa.edu.cn. 2004011301 1800 900 604800 86400
+;; Query time: 79 msec
+;; SERVER: 210.38.240.33#53(210.38.240.33)
+;; WHEN: Mon Apr 21 21:00:12 中国标准时间 2014
+;; XFR size: 72 records (messages 1, bytes 1546)
+

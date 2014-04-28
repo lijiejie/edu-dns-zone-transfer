@@ -1,0 +1,77 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @aemisrv4.ahsa.edu.cn axfr ahsa.edu.cn
+; (1 server found)
+;; global options: +cmd
+ahsa.edu.cn.		86400	IN	SOA	aemisrv4.ahsa.edu.cn. root.aemisrv4.ahsa.edu.cn. 20090314 28800 7200 604800 86400
+ahsa.edu.cn.		86400	IN	NS	aemisrv4.ahsa.edu.cn.
+ahsa.edu.cn.		86400	IN	MX	10 mail.ahsa.edu.cn.
+aemicluster.ahsa.edu.cn. 86400	IN	A	211.86.160.5
+aemisr2.ahsa.edu.cn.	86400	IN	A	211.86.160.2
+aemisrv1.ahsa.edu.cn.	86400	IN	A	211.86.160.1
+aemisrv3.ahsa.edu.cn.	86400	IN	A	211.86.160.3
+aemisrv4.ahsa.edu.cn.	86400	IN	A	211.86.160.4
+baoweichu.ahsa.edu.cn.	86400	IN	A	211.86.160.80
+cwc.ahsa.edu.cn.	86400	IN	A	211.86.160.5
+cwkjx.ahsa.edu.cn.	86400	IN	A	211.86.160.80
+dns.ahsa.edu.cn.	86400	IN	A	211.86.160.4
+dqglc.ahsa.edu.cn.	86400	IN	A	211.86.160.5
+fttp.ahsa.edu.cn.	86400	IN	CNAME	aemisrv3.ahsa.edu.cn.
+ggglx.ahsa.edu.cn.	86400	IN	A	211.86.160.80
+gjjy.ahsa.edu.cn.	86400	IN	A	211.86.160.5
+glxjyb.ahsa.edu.cn.	86400	IN	A	211.86.160.80
+glzx.ahsa.edu.cn.	86400	IN	A	211.86.160.80
+gsglpx.ahsa.edu.cn.	86400	IN	A	211.86.160.80
+gsx.ahsa.edu.cn.	86400	IN	A	211.86.160.80
+gwy.ahsa.edu.cn.	86400	IN	A	211.86.160.80
+gwyzt.ahsa.edu.cn.	86400	IN	A	211.86.160.5
+hqjt.ahsa.edu.cn.	86400	IN	A	211.86.160.80
+itc.ahsa.edu.cn.	86400	IN	A	211.86.160.5
+jcb.ahsa.edu.cn.	86400	IN	A	211.86.160.5
+jgxc.ahsa.edu.cn.	86400	IN	A	211.86.160.5
+jgxybgs.ahsa.edu.cn.	86400	IN	A	211.86.160.80
+jjb.ahsa.edu.cn.	86400	IN	A	211.86.160.5
+jjjcsj.ahsa.edu.cn.	86400	IN	A	211.86.160.5
+jjxjyb.ahsa.edu.cn.	86400	IN	A	211.86.160.80
+job.ahsa.edu.cn.	86400	IN	A	211.86.160.80
+jpkcni.ahsa.edu.cn.	86400	IN	A	211.86.160.80
+jrx.ahsa.edu.cn.	86400	IN	A	211.86.160.80
+jsjgcx.ahsa.edu.cn.	86400	IN	A	211.86.160.80
+jwc.ahsa.edu.cn.	86400	IN	A	211.86.160.80
+kyc.ahsa.edu.cn.	86400	IN	A	211.86.160.80
+laoganchu.ahsa.edu.cn.	86400	IN	A	211.86.160.80
+lvyouxi.ahsa.edu.cn.	86400	IN	A	211.86.160.80
+mail.ahsa.edu.cn.	86400	IN	A	211.86.160.8
+myjj.ahsa.edu.cn.	86400	IN	A	211.86.160.5
+newjcb.ahsa.edu.cn.	86400	IN	A	211.86.160.5
+nyglpx.ahsa.edu.cn.	86400	IN	A	211.86.160.5
+old.ahsa.edu.cn.	86400	IN	A	211.86.160.5
+pxglc.ahsa.edu.cn.	86400	IN	A	211.86.160.5
+shehuixuexi.ahsa.edu.cn. 86400	IN	A	211.86.160.80
+shierwu.ahsa.edu.cn.	86400	IN	A	211.86.160.80
+sxzx.ahsa.edu.cn.	86400	IN	A	211.86.160.5
+test.ahsa.edu.cn.	86400	IN	A	211.86.160.101
+tp.ahsa.edu.cn.		86400	IN	A	211.86.160.5
+tuanwei.ahsa.edu.cn.	86400	IN	A	211.86.160.80
+tushuguan.ahsa.edu.cn.	86400	IN	A	211.86.160.80
+vod.ahsa.edu.cn.	86400	IN	CNAME	aemisrv3.ahsa.edu.cn.
+waiguanchu.ahsa.edu.cn.	86400	IN	A	211.86.160.80
+waiyuxi.ahsa.edu.cn.	86400	IN	A	211.86.160.80
+www.ahsa.edu.cn.	86400	IN	A	211.86.160.5
+xb.ahsa.edu.cn.		86400	IN	A	211.86.163.4
+xdjy.ahsa.edu.cn.	86400	IN	A	211.86.160.5
+xec.ahsa.edu.cn.	86400	IN	A	211.86.163.237
+xiqu.ahsa.edu.cn.	86400	IN	A	211.86.160.80
+xkx.ahsa.edu.cn.	86400	IN	A	211.86.160.80
+xsc.ahsa.edu.cn.	86400	IN	A	211.86.160.80
+xwzx.ahsa.edu.cn.	86400	IN	A	211.86.160.5
+yjzx.ahsa.edu.cn.	86400	IN	A	211.86.160.80
+yjzxb.ahsa.edu.cn.	86400	IN	A	211.86.160.80
+zfsw.ahsa.edu.cn.	86400	IN	A	211.86.160.80
+zwc.ahsa.edu.cn.	86400	IN	A	211.86.160.80
+zzrsc.ahsa.edu.cn.	86400	IN	A	211.86.160.5
+ahsa.edu.cn.		86400	IN	SOA	aemisrv4.ahsa.edu.cn. root.aemisrv4.ahsa.edu.cn. 20090314 28800 7200 604800 86400
+;; Query time: 40 msec
+;; SERVER: 211.86.160.4#53(211.86.160.4)
+;; WHEN: Mon Apr 21 20:53:21 中国标准时间 2014
+;; XFR size: 68 records (messages 1, bytes 1542)
+

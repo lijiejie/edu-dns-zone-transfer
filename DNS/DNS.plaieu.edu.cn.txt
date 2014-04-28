@@ -1,0 +1,18 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @DNS.plaieu.edu.cn axfr plaieu.edu.cn
+; (1 server found)
+;; global options: +cmd
+plaieu.edu.cn.		86400	IN	SOA	localhost. root.plaieu.edu.cn. 52 10800 900 604800 86400
+plaieu.edu.cn.		86400	IN	NS	dns.plaieu.edu.cn.
+dhcp.plaieu.edu.cn.	86400	IN	A	10.100.200.4
+dns.plaieu.edu.cn.	86400	IN	A	202.196.48.10
+library.plaieu.edu.cn.	86400	IN	A	202.196.119.252
+ntp.plaieu.edu.cn.	86400	IN	A	10.100.200.2
+tsg.plaieu.edu.cn.	86400	IN	CNAME	library.plaieu.edu.cn.
+zhaosheng.plaieu.edu.cn. 86400	IN	A	116.255.245.11
+plaieu.edu.cn.		86400	IN	SOA	localhost. root.plaieu.edu.cn. 52 10800 900 604800 86400
+;; Query time: 65 msec
+;; SERVER: 202.196.48.10#53(202.196.48.10)
+;; WHEN: Mon Apr 21 20:58:10 中国标准时间 2014
+;; XFR size: 9 records (messages 1, bytes 260)
+

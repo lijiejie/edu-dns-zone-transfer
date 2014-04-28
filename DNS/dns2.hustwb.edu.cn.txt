@@ -1,0 +1,78 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns2.hustwb.edu.cn axfr hustwb.edu.cn
+; (1 server found)
+;; global options: +cmd
+hustwb.edu.cn.		86400	IN	SOA	dns.hustwb.edu.cn. root.hustwb.edu.cn. 2013091601 10800 10800 604800 86400
+hustwb.edu.cn.		86400	IN	NS	dns.hustwb.edu.cn.
+hustwb.edu.cn.		86400	IN	NS	dns2.hustwb.edu.cn.
+hustwb.edu.cn.		86400	IN	MX	0 mail.hustwb.edu.cn.
+auto.hustwb.edu.cn.	86400	IN	CNAME	www1.hustwb.edu.cn.
+bwc.hustwb.edu.cn.	86400	IN	CNAME	www1.hustwb.edu.cn.
+cacti.hustwb.edu.cn.	86400	IN	A	218.199.144.17
+city.hustwb.edu.cn.	86400	IN	CNAME	www.hustwb.edu.cn.
+cwc.hustwb.edu.cn.	86400	IN	A	218.199.147.26
+da.hustwb.edu.cn.	86400	IN	CNAME	oa.hustwb.edu.cn.
+djzx.hustwb.edu.cn.	86400	IN	CNAME	www1.hustwb.edu.cn.
+dns.hustwb.edu.cn.	86400	IN	A	218.199.144.8
+dns2.hustwb.edu.cn.	86400	IN	A	219.140.64.132
+dsh.hustwb.edu.cn.	86400	IN	CNAME	www.hustwb.edu.cn.
+e.hustwb.edu.cn.	86400	IN	CNAME	www1.hustwb.edu.cn.
+english.hustwb.edu.cn.	86400	IN	CNAME	www.hustwb.edu.cn.
+etb.hustwb.edu.cn.	86400	IN	CNAME	www1.hustwb.edu.cn.
+ftp.hustwb.edu.cn.	86400	IN	A	218.199.144.22
+gh.hustwb.edu.cn.	86400	IN	CNAME	www.hustwb.edu.cn.
+gjjy.hustwb.edu.cn.	86400	IN	CNAME	www1.hustwb.edu.cn.
+google.hustwb.edu.cn.	86400	IN	A	218.199.144.2
+hqjt.hustwb.edu.cn.	86400	IN	CNAME	www1.hustwb.edu.cn.
+info.hustwb.edu.cn.	86400	IN	CNAME	www.hustwb.edu.cn.
+jckx.hustwb.edu.cn.	86400	IN	CNAME	www1.hustwb.edu.cn.
+jgfw.hustwb.edu.cn.	86400	IN	CNAME	www1.hustwb.edu.cn.
+jgxy.hustwb.edu.cn.	86400	IN	CNAME	www.hustwb.edu.cn.
+jjc.hustwb.edu.cn.	86400	IN	CNAME	www.hustwb.edu.cn.
+jjgl.hustwb.edu.cn.	86400	IN	CNAME	www1.hustwb.edu.cn.
+job.hustwb.edu.cn.	86400	IN	A	119.97.222.27
+jpkc.hustwb.edu.cn.	86400	IN	A	119.97.222.66
+jsj.hustwb.edu.cn.	86400	IN	CNAME	www1.hustwb.edu.cn.
+jw.hustwb.edu.cn.	86400	IN	A	219.140.64.131
+jwbac.hustwb.edu.cn.	86400	IN	CNAME	jwc.hustwb.edu.cn.
+jwc.hustwb.edu.cn.	86400	IN	A	219.140.64.141
+kjc.hustwb.edu.cn.	86400	IN	CNAME	www.hustwb.edu.cn.
+kq.hustwb.edu.cn.	86400	IN	A	119.97.222.25
+localhost.hustwb.edu.cn. 86400	IN	A	127.0.0.1
+mail.hustwb.edu.cn.	86400	IN	A	218.199.144.9
+mail.hustwb.edu.cn.	86400	IN	MX	0 mail.hustwb.edu.cn.
+mis.hustwb.edu.cn.	86400	IN	A	218.199.144.3
+nic.hustwb.edu.cn.	86400	IN	CNAME	www1.hustwb.edu.cn.
+oa.hustwb.edu.cn.	86400	IN	A	218.199.144.21
+office.hustwb.edu.cn.	86400	IN	CNAME	www1.hustwb.edu.cn.
+pjb.hustwb.edu.cn.	86400	IN	CNAME	www1.hustwb.edu.cn.
+rsc.hustwb.edu.cn.	86400	IN	CNAME	www1.hustwb.edu.cn.
+sbc.hustwb.edu.cn.	86400	IN	CNAME	www1.hustwb.edu.cn.
+shop.hustwb.edu.cn.	86400	IN	A	218.199.145.246
+student.hustwb.edu.cn.	86400	IN	CNAME	www1.hustwb.edu.cn.
+szkb.hustwb.edu.cn.	86400	IN	CNAME	www.hustwb.edu.cn.
+tw.hustwb.edu.cn.	86400	IN	CNAME	www1.hustwb.edu.cn.
+video.hustwb.edu.cn.	86400	IN	A	119.97.222.26
+virussrv.hustwb.edu.cn.	86400	IN	A	218.199.144.20
+wap.hustwb.edu.cn.	86400	IN	A	119.97.222.20
+www.hustwb.edu.cn.	86400	IN	A	219.140.64.138
+www1.hustwb.edu.cn.	86400	IN	A	219.140.64.136
+xcb.hustwb.edu.cn.	86400	IN	CNAME	www.hustwb.edu.cn.
+xkb.hustwb.edu.cn.	86400	IN	CNAME	www.hustwb.edu.cn.
+xlzx.hustwb.edu.cn.	86400	IN	CNAME	oa.hustwb.edu.cn.
+xwfx.hustwb.edu.cn.	86400	IN	CNAME	www.hustwb.edu.cn.
+xwzx.hustwb.edu.cn.	86400	IN	CNAME	www1.hustwb.edu.cn.
+xxkx.hustwb.edu.cn.	86400	IN	CNAME	www1.hustwb.edu.cn.
+xxzx.hustwb.edu.cn.	86400	IN	CNAME	www.hustwb.edu.cn.
+yc.hustwb.edu.cn.	86400	IN	A	219.140.64.133
+ykt.hustwb.edu.cn.	86400	IN	A	119.97.222.23
+yssj.hustwb.edu.cn.	86400	IN	CNAME	www1.hustwb.edu.cn.
+yxxt.hustwb.edu.cn.	86400	IN	A	119.97.222.90
+zsb.hustwb.edu.cn.	86400	IN	A	219.140.64.137
+zw.hustwb.edu.cn.	86400	IN	A	119.97.222.22
+hustwb.edu.cn.		86400	IN	SOA	dns.hustwb.edu.cn. root.hustwb.edu.cn. 2013091601 10800 10800 604800 86400
+;; Query time: 32 msec
+;; SERVER: 219.140.64.132#53(219.140.64.132)
+;; WHEN: Mon Apr 21 20:57:42 中国标准时间 2014
+;; XFR size: 69 records (messages 1, bytes 1398)
+

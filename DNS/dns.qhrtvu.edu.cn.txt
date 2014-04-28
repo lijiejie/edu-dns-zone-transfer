@@ -1,0 +1,30 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns.qhrtvu.edu.cn axfr qhrtvu.edu.cn
+; (1 server found)
+;; global options: +cmd
+qhrtvu.edu.cn.		3600	IN	SOA	dns.qhrtvu.edu.cn. root.qhrtvu.edu.cn. 2014041021 30 30 360 3600
+qhrtvu.edu.cn.		3600	IN	MX	0 mail.qhrtvu.edu.cn.
+qhrtvu.edu.cn.		3600	IN	NS	dns.qhrtvu.edu.cn.
+qhrtvu.edu.cn.		3600	IN	NS	dns2.qhrtvu.edu.cn.
+dns.qhrtvu.edu.cn.	3600	IN	A	210.27.143.2
+dns2.qhrtvu.edu.cn.	3600	IN	A	210.27.143.4
+ftp.qhrtvu.edu.cn.	3600	IN	A	210.27.143.24
+gjzy.qhrtvu.edu.cn.	3600	IN	A	110.167.234.52
+hjjk.qhrtvu.edu.cn.	3600	IN	A	110.167.234.39
+jw.qhrtvu.edu.cn.	3600	IN	A	110.167.234.37
+lib.qhrtvu.edu.cn.	3600	IN	A	210.27.143.6
+mail.qhrtvu.edu.cn.	3600	IN	A	210.27.143.5
+oa.qhrtvu.edu.cn.	3600	IN	A	210.27.143.14
+open.qhrtvu.edu.cn.	3600	IN	A	110.167.234.36
+rav.qhrtvu.edu.cn.	3600	IN	A	210.27.143.9
+sqjy.qhrtvu.edu.cn.	3600	IN	A	110.167.234.51
+vod.qhrtvu.edu.cn.	3600	IN	A	210.27.143.8
+www.qhrtvu.edu.cn.	3600	IN	A	110.167.234.35
+yzzy.qhrtvu.edu.cn.	3600	IN	A	110.167.234.48
+zbkt.qhrtvu.edu.cn.	3600	IN	A	110.167.234.49
+qhrtvu.edu.cn.		3600	IN	SOA	dns.qhrtvu.edu.cn. root.qhrtvu.edu.cn. 2014041021 30 30 360 3600
+;; Query time: 390 msec
+;; SERVER: 210.27.143.2#53(210.27.143.2)
+;; WHEN: Mon Apr 21 21:04:47 中国标准时间 2014
+;; XFR size: 21 records (messages 1, bytes 478)
+

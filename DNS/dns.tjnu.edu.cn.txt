@@ -1,0 +1,42 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns.tjnu.edu.cn axfr tjnu.edu.cn
+; (1 server found)
+;; global options: +cmd
+tjnu.edu.cn.		3600	IN	SOA	dns.tjnu.edu.cn. root.tjnu.edu.cn. 2014030508 1800 600 604800 3600
+tjnu.edu.cn.		3600	IN	A	202.113.96.11
+tjnu.edu.cn.		3600	IN	NS	dns.tjnu.edu.cn.
+tjnu.edu.cn.		3600	IN	NS	center.tjnu.edu.cn.
+*.tjnu.edu.cn.		3600	IN	A	202.113.96.11
+55.tjnu.edu.cn.		3600	IN	A	202.113.96.14
+cas.tjnu.edu.cn.	3600	IN	A	202.113.96.68
+center.tjnu.edu.cn.	3600	IN	A	202.113.96.11
+cwc.tjnu.edu.cn.	3600	IN	A	59.67.78.155
+cwcsf.tjnu.edu.cn.	3600	IN	A	59.67.78.146
+dns.tjnu.edu.cn.	3600	IN	A	202.113.96.10
+ftp.tjnu.edu.cn.	3600	IN	A	202.113.96.11
+fxy.tjnu.edu.cn.	3600	IN	A	59.67.75.58
+gpjh.tjnu.edu.cn.	3600	IN	A	202.113.96.21
+idp.tjnu.edu.cn.	3600	IN	A	59.67.75.208
+it.tjnu.edu.cn.		3600	IN	A	59.67.77.239
+jiaowu.tjnu.edu.cn.	3600	IN	A	59.67.78.86
+jw.tjnu.edu.cn.		3600	IN	A	59.67.71.231
+jwmail.tjnu.edu.cn.	3600	IN	A	59.67.71.245
+keyan.tjnu.edu.cn.	3600	IN	A	59.67.75.145
+lab.tjnu.edu.cn.	3600	IN	A	59.67.77.240
+mail.tjnu.edu.cn.	3600	IN	A	202.113.96.1
+mail.tjnu.edu.cn.	3600	IN	MX	5 mf.tjnu.edu.cn.
+mf.tjnu.edu.cn.		3600	IN	A	202.113.96.7
+portal.tjnu.edu.cn.	3600	IN	A	202.113.96.66
+renlizy.tjnu.edu.cn.	3600	IN	A	202.113.96.79
+software.tjnu.edu.cn.	3600	IN	A	59.67.77.238
+wap.tjnu.edu.cn.	3600	IN	A	211.103.91.79
+www.tjnu.edu.cn.	3600	IN	A	202.113.96.11
+xnfz.tjnu.edu.cn.	3600	IN	A	59.67.67.81
+youth.tjnu.edu.cn.	3600	IN	A	202.113.96.23
+zdsx.tjnu.edu.cn.	3600	IN	A	202.113.96.55
+tjnu.edu.cn.		3600	IN	SOA	dns.tjnu.edu.cn. root.tjnu.edu.cn. 2014030508 1800 600 604800 3600
+;; Query time: 52 msec
+;; SERVER: 202.113.96.10#53(202.113.96.10)
+;; WHEN: Mon Apr 21 20:47:38 中国标准时间 2014
+;; XFR size: 33 records (messages 1, bytes 731)
+

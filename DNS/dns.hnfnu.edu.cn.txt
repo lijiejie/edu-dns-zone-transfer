@@ -1,0 +1,80 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns.hnfnu.edu.cn axfr hnfnu.edu.cn
+; (1 server found)
+;; global options: +cmd
+hnfnu.edu.cn.		0	IN	SOA	dns.hnfnu.edu.cn. root.dns.hnfnu.edu.cn. 1997022700 28800 14400 3600000 86400
+hnfnu.edu.cn.		0	IN	NS	dns.hnfnu.edu.cn.
+hnfnu.edu.cn.		0	IN	MX	10 mail.hnfnu.edu.cn.
+#LinkProof.hnfnu.edu.cn. 0	IN	A	222.240.253.82
+aiguo.hnfnu.edu.cn.	0	IN	A	211.69.72.58
+alu.hnfnu.edu.cn.	0	IN	A	211.69.72.5
+alumni.hnfnu.edu.cn.	0	IN	A	211.69.72.5
+apply.hnfnu.edu.cn.	0	IN	A	172.31.0.22
+bbs.hnfnu.edu.cn.	0	IN	A	172.31.0.29
+bwc.hnfnu.edu.cn.	0	IN	A	222.240.253.197
+departs.hnfnu.edu.cn.	0	IN	A	222.240.253.197
+dept.hnfnu.edu.cn.	0	IN	A	222.240.253.197
+dns.hnfnu.edu.cn.	0	IN	A	211.69.72.8
+englishstudy.hnfnu.edu.cn. 0	IN	A	211.69.72.58
+finance.hnfnu.edu.cn.	0	IN	A	125.221.194.170
+ggsy.hnfnu.edu.cn.	0	IN	A	222.240.250.131
+ggw.hnfnu.edu.cn.	0	IN	A	222.240.253.200
+ggwy.hnfnu.edu.cn.	0	IN	A	222.240.250.131
+gonghui.hnfnu.edu.cn.	0	IN	A	222.240.250.131
+houqin.hnfnu.edu.cn.	0	IN	A	222.240.250.131
+hqgs.hnfnu.edu.cn.	0	IN	A	222.240.253.200
+itd.hnfnu.edu.cn.	0	IN	A	222.240.250.131
+jgx.hnfnu.edu.cn.	0	IN	A	222.240.250.131
+jijian.hnfnu.edu.cn.	0	IN	A	222.240.253.200
+jkx.hnfnu.edu.cn.	0	IN	A	222.240.250.131
+jpkc.hnfnu.edu.cn.	0	IN	A	222.240.250.135
+jwc.hnfnu.edu.cn.	0	IN	A	222.240.250.131
+jwcweb.hnfnu.edu.cn.	0	IN	A	211.69.72.18
+jwgl.hnfnu.edu.cn.	0	IN	A	222.240.253.199
+jwgltmp.hnfnu.edu.cn.	0	IN	A	211.69.72.34
+jxjy.hnfnu.edu.cn.	0	IN	A	222.240.253.197
+keyan.hnfnu.edu.cn.	0	IN	A	222.240.250.131
+kyc.hnfnu.edu.cn.	0	IN	A	222.240.250.131
+kyctmp.hnfnu.edu.cn.	0	IN	A	211.69.72.34
+language.hnfnu.edu.cn.	0	IN	A	222.240.253.200
+lib.hnfnu.edu.cn.	0	IN	A	222.240.250.131
+LinkProof.hnfnu.edu.cn.	0	IN	A	210.43.47.34
+LinkProof.hnfnu.edu.cn.	0	IN	A	222.240.250.130
+LinkProof.hnfnu.edu.cn.	0	IN	A	222.240.253.194
+liuyan.hnfnu.edu.cn.	0	IN	A	222.240.250.131
+mail.hnfnu.edu.cn.	0	IN	A	211.69.72.2
+mfsf.hnfnu.edu.cn.	0	IN	A	211.69.72.5
+ml.hnfnu.edu.cn.	0	IN	A	222.240.250.139
+msx.hnfnu.edu.cn.	0	IN	A	211.69.72.5
+music.hnfnu.edu.cn.	0	IN	A	222.240.250.131
+news.hnfnu.edu.cn.	0	IN	A	222.240.253.197
+nic.hnfnu.edu.cn.	0	IN	NS	LinkProof.hnfnu.edu.cn.
+offic.hnfnu.edu.cn.	0	IN	A	222.240.253.197
+ping.hnfnu.edu.cn.	0	IN	A	211.69.72.4
+pinggu.hnfnu.edu.cn.	0	IN	A	222.240.250.135
+qnmzd.hnfnu.edu.cn.	0	IN	NS	LinkProof.hnfnu.edu.cn.
+rsc.hnfnu.edu.cn.	0	IN	A	222.240.250.131
+shixi.hnfnu.edu.cn.	0	IN	A	222.240.253.197
+sjjx.hnfnu.edu.cn.	0	IN	A	222.240.253.197
+slx.hnfnu.edu.cn.	0	IN	A	222.240.250.131
+test.hnfnu.edu.cn.	0	IN	A	222.240.250.135
+tuanwei.hnfnu.edu.cn.	0	IN	A	222.240.250.131
+vpn.hnfnu.edu.cn.	0	IN	NS	LinkProof.hnfnu.edu.cn.
+web.hnfnu.edu.cn.	0	IN	NS	LinkProof.hnfnu.edu.cn.
+wsx.hnfnu.edu.cn.	0	IN	A	222.240.250.131
+www.hnfnu.edu.cn.	0	IN	A	222.240.253.197
+xb.hnfnu.edu.cn.	0	IN	A	202.117.3.46
+xjdzb.hnfnu.edu.cn.	0	IN	A	222.240.253.197
+xsc.hnfnu.edu.cn.	0	IN	A	222.240.250.131
+xxjs.hnfnu.edu.cn.	0	IN	A	222.240.253.197
+yyy.hnfnu.edu.cn.	0	IN	A	211.69.72.1
+zcc.hnfnu.edu.cn.	0	IN	A	222.240.250.131
+zcgl.hnfnu.edu.cn.	0	IN	A	172.31.0.22
+zhaosheng.hnfnu.edu.cn.	0	IN	A	222.240.250.131
+zzb.hnfnu.edu.cn.	0	IN	A	222.240.250.131
+hnfnu.edu.cn.		0	IN	SOA	dns.hnfnu.edu.cn. root.dns.hnfnu.edu.cn. 1997022700 28800 14400 3600000 86400
+;; Query time: 83 msec
+;; SERVER: 211.69.72.8#53(211.69.72.8)
+;; WHEN: Mon Apr 21 20:58:06 中国标准时间 2014
+;; XFR size: 71 records (messages 1, bytes 1564)
+

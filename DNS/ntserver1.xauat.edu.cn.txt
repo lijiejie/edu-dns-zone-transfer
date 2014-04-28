@@ -1,0 +1,107 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @ntserver1.xauat.edu.cn axfr xauat.edu.cn
+; (1 server found)
+;; global options: +cmd
+xauat.edu.cn.		3600	IN	SOA	ntserver1. wyw.xauat.edu.cn. 1126084174 10800 3600 604800 38400
+xauat.edu.cn.		3600	IN	NS	fyimail.xauat.edu.cn.
+xauat.edu.cn.		3600	IN	NS	ntserver1.xauat.edu.cn.
+xauat.edu.cn.		3600	IN	MX	2 mail.xauat.edu.cn.
+18da.xauat.edu.cn.	3600	IN	CNAME	jdtv.xauat.edu.cn.
+ask.xauat.edu.cn.	3600	IN	CNAME	tb.xauat.edu.cn.
+bbs.xauat.edu.cn.	3600	IN	A	202.200.144.20
+cajr.xauat.edu.cn.	3600	IN	A	202.200.151.2
+chinawestwater.xauat.edu.cn. 3600 IN	CNAME	westwater.xauat.edu.cn.
+chy.xauat.edu.cn.	3600	IN	CNAME	xy.xauat.edu.cn.
+civil.xauat.edu.cn.	3600	IN	CNAME	xy.xauat.edu.cn.
+class.xauat.edu.cn.	3600	IN	A	202.200.144.85
+clxy.xauat.edu.cn.	3600	IN	A	202.200.154.240
+cxxgcx.xauat.edu.cn.	3600	IN	CNAME	jpcg.xauat.edu.cn.
+dawning.xauat.edu.cn.	3600	IN	A	202.200.144.24
+dell.xauat.edu.cn.	3600	IN	A	202.200.144.23
+dstm.xauat.edu.cn.	3600	IN	CNAME	minju.xauat.edu.cn.
+e250.xauat.edu.cn.	3600	IN	A	202.200.144.11
+e_learning.xauat.edu.cn. 3600	IN	CNAME	e250.xauat.edu.cn.
+www.emes.xauat.edu.cn.	3600	IN	A	202.200.144.55
+fyimail.xauat.edu.cn.	3600	IN	A	202.200.144.2
+gach.xauat.edu.cn.	3600	IN	CNAME	www.xauat.edu.cn.
+gh.xauat.edu.cn.	3600	IN	A	202.200.144.71
+gs.xauat.edu.cn.	3600	IN	A	202.200.144.51
+gzch.xauat.edu.cn.	3600	IN	A	202.200.144.53
+hospital.xauat.edu.cn.	3600	IN	CNAME	gs.xauat.edu.cn.
+hqjt.xauat.edu.cn.	3600	IN	CNAME	xy.xauat.edu.cn.
+hqsp.xauat.edu.cn.	3600	IN	A	202.200.149.76
+htdl.xauat.edu.cn.	3600	IN	CNAME	minju.xauat.edu.cn.
+ictas2011.xauat.edu.cn.	3600	IN	CNAME	office.xauat.edu.cn.
+isatap.xauat.edu.cn.	3600	IN	A	222.24.128.238
+jdtv.xauat.edu.cn.	3600	IN	A	202.200.153.207
+jdzx.xauat.edu.cn.	3600	IN	A	202.200.144.60
+jg.xauat.edu.cn.	3600	IN	CNAME	www1.xauat.edu.cn.
+jigou.xauat.edu.cn.	3600	IN	CNAME	xauatwww.xauat.edu.cn.
+job.xauat.edu.cn.	3600	IN	CNAME	zhaosheng.xauat.edu.cn.
+jpcg.xauat.edu.cn.	3600	IN	A	202.200.144.26
+jpkc2007.xauat.edu.cn.	3600	IN	A	202.200.144.82
+jwc.xauat.edu.cn.	3600	IN	A	202.200.144.64
+jwjcc.xauat.edu.cn.	3600	IN	CNAME	www.xauat.edu.cn.
+jxjy.xauat.edu.cn.	3600	IN	A	222.90.111.86
+lib.xauat.edu.cn.	3600	IN	CNAME	cajr.xauat.edu.cn.
+live.xauat.edu.cn.	3600	IN	MX	20 e852fed36c87dd4696c494d7a4657f.mail.outlook.com.
+1738392592.live.xauat.edu.cn. 3600 IN	CNAME	domains.live.com.
+localhost.xauat.edu.cn.	3600	IN	A	127.0.0.1
+lxy.xauat.edu.cn.	3600	IN	A	202.200.152.34
+mail.xauat.edu.cn.	3600	IN	A	202.200.144.4
+mba.xauat.edu.cn.	3600	IN	A	202.200.153.52
+mex.xauat.edu.cn.	3600	IN	A	202.200.144.139
+minju.xauat.edu.cn.	3600	IN	A	202.200.144.102
+museum.xauat.edu.cn.	3600	IN	A	202.200.144.15
+ncefgs2006.xauat.edu.cn. 3600	IN	CNAME	xy.xauat.edu.cn.
+net.xauat.edu.cn.	3600	IN	CNAME	xauatwww.xauat.edu.cn.
+netclass.xauat.edu.cn.	3600	IN	CNAME	netedu.xauat.edu.cn.
+netedu.xauat.edu.cn.	3600	IN	A	202.200.144.17
+news.xauat.edu.cn.	3600	IN	A	202.200.144.90
+nic.xauat.edu.cn.	3600	IN	A	202.200.144.42
+ntserver1.xauat.edu.cn.	3600	IN	A	202.200.144.3
+oa.xauat.edu.cn.	3600	IN	A	202.200.144.68
+office.xauat.edu.cn.	3600	IN	A	202.200.144.54
+param.xauat.edu.cn.	3600	IN	A	202.200.144.57
+pt.xauat.edu.cn.	3600	IN	CNAME	tb.xauat.edu.cn.
+riwwtt.xauat.edu.cn.	3600	IN	A	202.200.144.48
+sam.xauat.edu.cn.	3600	IN	A	222.24.128.246
+sjc.xauat.edu.cn.	3600	IN	CNAME	www.xauat.edu.cn.
+som.xauat.edu.cn.	3600	IN	A	202.200.153.111
+ssgl.xauat.edu.cn.	3600	IN	A	202.200.144.248
+st.xauat.edu.cn.	3600	IN	A	202.200.144.52
+stmis.xauat.edu.cn.	3600	IN	A	202.200.144.62
+structure.xauat.edu.cn.	3600	IN	CNAME	xy.xauat.edu.cn.
+stu.xauat.edu.cn.	3600	IN	MX	10 mail.xauat.edu.cn.
+tb.xauat.edu.cn.	3600	IN	A	202.200.145.169
+teachers.xauat.edu.cn.	3600	IN	CNAME	xy.xauat.edu.cn.
+tmbshy2009.xauat.edu.cn. 3600	IN	CNAME	xy.xauat.edu.cn.
+tmcg.xauat.edu.cn.	3600	IN	CNAME	jpcg.xauat.edu.cn.
+vod.xauat.edu.cn.	3600	IN	A	202.200.144.43
+webmail.xauat.edu.cn.	3600	IN	CNAME	mail.xauat.edu.cn.
+www.xauat.edu.cn.	3600	IN	A	202.200.144.89
+www1.xauat.edu.cn.	3600	IN	A	202.200.144.100
+xauatwww.xauat.edu.cn.	3600	IN	A	202.200.144.88
+xbjzh.xauat.edu.cn.	3600	IN	CNAME	st.xauat.edu.cn.
+xicat2006.xauat.edu.cn.	3600	IN	CNAME	xy.xauat.edu.cn.
+xjdgcgl.xauat.edu.cn.	3600	IN	CNAME	jpcg.xauat.edu.cn.
+xkb.xauat.edu.cn.	3600	IN	CNAME	jdtv.xauat.edu.cn.
+xlzx.xauat.edu.cn.	3600	IN	CNAME	zhaosheng.xauat.edu.cn.
+xq.xauat.edu.cn.	3600	IN	CNAME	office.xauat.edu.cn.
+xsc.xauat.edu.cn.	3600	IN	CNAME	xy.xauat.edu.cn.
+xsg.xauat.edu.cn.	3600	IN	A	202.200.144.61
+xy.xauat.edu.cn.	3600	IN	A	202.200.144.84
+yjxy.xauat.edu.cn.	3600	IN	A	202.200.155.179
+ys.xauat.edu.cn.	3600	IN	CNAME	jdtv.xauat.edu.cn.
+yx.xauat.edu.cn.	3600	IN	A	202.200.144.111
+zfw.xauat.edu.cn.	3600	IN	A	192.168.165.2
+zhaosheng.xauat.edu.cn.	3600	IN	A	202.200.155.3
+zlgl.xauat.edu.cn.	3600	IN	CNAME	jpcg.xauat.edu.cn.
+zs.xauat.edu.cn.	3600	IN	CNAME	zhaosheng.xauat.edu.cn.
+zwc.xauat.edu.cn.	3600	IN	CNAME	gs.xauat.edu.cn.
+xauat.edu.cn.		3600	IN	SOA	ntserver1. wyw.xauat.edu.cn. 1126084174 10800 3600 604800 38400
+;; Query time: 63 msec
+;; SERVER: 202.200.144.3#53(202.200.144.3)
+;; WHEN: Mon Apr 21 21:03:37 中国标准时间 2014
+;; XFR size: 98 records (messages 1, bytes 2176)
+

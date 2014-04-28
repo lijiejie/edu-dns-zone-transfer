@@ -1,0 +1,131 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @sun150.hzic.edu.cn axfr hzic.edu.cn
+; (1 server found)
+;; global options: +cmd
+hzic.edu.cn.		86400	IN	SOA	sun150.hzic.edu.cn. root.hzic.edu.cn. 15 28800 14400 3600000 86400
+hzic.edu.cn.		86400	IN	MX	1 mail.hzic.edu.cn.
+hzic.edu.cn.		86400	IN	NS	sun150.hzic.edu.cn.
+hzic.edu.cn.		86400	IN	A	202.96.99.58
+acm.hzic.edu.cn.	86400	IN	A	124.160.64.229
+acqe2006.hzic.edu.cn.	86400	IN	A	124.160.64.212
+art.hzic.edu.cn.	86400	IN	A	210.33.88.52
+bb.hzic.edu.cn.		86400	IN	A	124.160.64.200
+bwc.hzic.edu.cn.	86400	IN	A	124.160.64.252
+bysj.hzic.edu.cn.	86400	IN	A	124.160.64.110
+ca.hzic.edu.cn.		86400	IN	A	124.160.64.116
+chinese.hzic.edu.cn.	86400	IN	A	124.160.64.252
+cie.hzic.edu.cn.	86400	IN	A	124.160.64.224
+ciee.hzic.edu.cn.	86400	IN	A	210.33.92.167
+cj.hzic.edu.cn.		86400	IN	A	202.96.99.61
+ckxy.hzic.edu.cn.	86400	IN	A	124.160.64.220
+cncvpn.hzic.edu.cn.	86400	IN	A	124.160.64.253
+crmb.hzic.edu.cn.	86400	IN	A	124.160.64.241
+csc.hzic.edu.cn.	86400	IN	A	210.33.95.20
+cwc.hzic.edu.cn.	86400	IN	A	10.11.112.24
+dsr.hzic.edu.cn.	86400	IN	A	210.33.93.179
+e-commerce.hzic.edu.cn.	86400	IN	A	124.160.64.109
+e-learning.hzic.edu.cn.	86400	IN	A	124.160.64.238
+ec.hzic.edu.cn.		86400	IN	A	124.160.64.222
+ec.hzic.edu.cn.		86400	IN	A	124.160.64.238
+ecgl.hzic.edu.cn.	86400	IN	A	10.21.238.111
+econet.hzic.edu.cn.	86400	IN	A	124.160.64.209
+econometric.hzic.edu.cn. 86400	IN	A	124.160.64.108
+emc.hzic.edu.cn.	86400	IN	A	124.160.64.203
+englishcorner.hzic.edu.cn. 86400 IN	A	210.33.88.51
+eol.hzic.edu.cn.	86400	IN	A	124.160.64.112
+finance.hzic.edu.cn.	86400	IN	A	124.160.64.216
+flc.hzic.edu.cn.	86400	IN	A	124.160.64.198
+former-mail.hzic.edu.cn. 86400	IN	A	202.96.99.57
+fpm.hzic.edu.cn.	86400	IN	A	210.33.88.52
+ftp.hzic.edu.cn.	86400	IN	A	210.33.88.2
+gj.hzic.edu.cn.		86400	IN	A	124.160.64.252
+gsgbpx.hzic.edu.cn.	86400	IN	A	124.160.64.101
+gsgl.hzic.edu.cn.	86400	IN	A	124.160.64.211
+hjxy.hzic.edu.cn.	86400	IN	A	124.160.64.252
+hp.hzic.edu.cn.		86400	IN	CNAME	ftp.hzic.edu.cn.
+hq.hzic.edu.cn.		86400	IN	A	124.160.64.195
+hsy.hzic.edu.cn.	86400	IN	A	124.160.64.194
+iec.hzic.edu.cn.	86400	IN	A	124.160.64.252
+iee.hzic.edu.cn.	86400	IN	A	124.160.64.252
+intec.hzic.edu.cn.	86400	IN	A	218.75.111.71
+ioteam.hzic.edu.cn.	86400	IN	A	124.160.64.106
+itl.hzic.edu.cn.	86400	IN	A	210.33.92.132
+jgzj.hzic.edu.cn.	86400	IN	A	124.160.64.206
+jjc.hzic.edu.cn.	86400	IN	A	124.160.64.226
+jm.hzic.edu.cn.		86400	IN	A	124.160.64.252
+jmxy.hzic.edu.cn.	86400	IN	A	124.160.64.194
+jrxy.hzic.edu.cn.	86400	IN	A	124.160.64.213
+jw.hzic.edu.cn.		86400	IN	A	124.160.64.252
+jwc.hzic.edu.cn.	86400	IN	A	124.160.64.252
+jww.hzic.edu.cn.	86400	IN	A	124.160.64.207
+jxpg.hzic.edu.cn.	86400	IN	A	202.96.99.61
+jxxy.hzic.edu.cn.	86400	IN	A	210.33.95.36
+jyb.hzic.edu.cn.	86400	IN	A	124.160.64.218
+kjc.hzic.edu.cn.	86400	IN	A	124.160.64.244
+kxfz.hzic.edu.cn.	86400	IN	A	10.11.103.88
+kxfz.hzic.edu.cn.	86400	IN	A	124.160.64.102
+kyc.hzic.edu.cn.	86400	IN	A	124.160.64.202
+law.hzic.edu.cn.	86400	IN	A	124.160.64.247
+lib.hzic.edu.cn.	86400	IN	A	210.33.91.65
+ltxc.hzic.edu.cn.	86400	IN	A	124.160.64.252
+lvyou.hzic.edu.cn.	86400	IN	A	124.160.64.223
+lyxy.hzic.edu.cn.	86400	IN	A	124.160.64.219
+mail.hzic.edu.cn.	86400	IN	MX	1 mail.hzic.edu.cn.
+mail.hzic.edu.cn.	86400	IN	A	202.96.99.59
+mailgate.hzic.edu.cn.	86400	IN	A	202.96.99.56
+marx.hzic.edu.cn.	86400	IN	A	124.160.64.252
+mba.hzic.edu.cn.	86400	IN	A	202.96.99.61
+mbaxy.hzic.edu.cn.	86400	IN	A	124.160.64.115
+mpa.hzic.edu.cn.	86400	IN	A	202.101.165.5
+nce.hzic.edu.cn.	86400	IN	A	202.96.99.61
+ndc.hzic.edu.cn.	86400	IN	A	124.160.64.111
+netcom.hzic.edu.cn.	86400	IN	A	124.160.64.204
+nic.hzic.edu.cn.	86400	IN	A	210.33.88.192
+office.hzic.edu.cn.	86400	IN	A	210.33.93.218
+os-course.hzic.edu.cn.	86400	IN	A	210.33.88.81
+osl.hzic.edu.cn.	86400	IN	A	124.160.64.238
+pop.hzic.edu.cn.	86400	IN	MX	1 mail.hzic.edu.cn.
+press.hzic.edu.cn.	86400	IN	A	124.160.64.252
+rsc.hzic.edu.cn.	86400	IN	A	124.160.64.252
+ryxy.hzic.edu.cn.	86400	IN	A	124.160.64.252
+saad.hzic.edu.cn.	86400	IN	A	10.12.11.5
+sbc.hzic.edu.cn.	86400	IN	A	202.96.99.61
+sg.hzic.edu.cn.		86400	IN	A	210.33.88.51
+shetuan.hzic.edu.cn.	86400	IN	A	10.11.106.21
+softlab.hzic.edu.cn.	86400	IN	A	210.33.95.136
+spxy.hzic.edu.cn.	86400	IN	A	124.160.64.252
+sslvpn.hzic.edu.cn.	86400	IN	A	202.96.99.52
+stock.hzic.edu.cn.	86400	IN	A	210.33.93.252
+sun150.hzic.edu.cn.	86400	IN	A	210.33.88.1
+tab.hzic.edu.cn.	86400	IN	A	10.11.119.239
+tgb.hzic.edu.cn.	86400	IN	A	124.160.64.252
+tjjy.hzic.edu.cn.	86400	IN	A	124.160.64.196
+www.hzic.edu.cn.	86400	IN	A	202.96.99.58
+www2.hzic.edu.cn.	86400	IN	A	210.33.88.3
+xb.hzic.edu.cn.		86400	IN	A	210.33.93.218
+xdiec.hzic.edu.cn.	86400	IN	A	10.20.0.45
+xiaobao.hzic.edu.cn.	86400	IN	A	124.160.64.252
+xjcx.hzic.edu.cn.	86400	IN	A	124.160.64.242
+xsc.hzic.edu.cn.	86400	IN	A	124.160.64.217
+xyh.hzic.edu.cn.	86400	IN	A	124.160.64.215
+xyk.hzic.edu.cn.	86400	IN	A	210.33.88.191
+yjs.hzic.edu.cn.	86400	IN	A	124.160.64.230
+yjszs.hzic.edu.cn.	86400	IN	A	124.160.64.252
+youth.hzic.edu.cn.	86400	IN	A	10.11.106.21
+youth1.hzic.edu.cn.	86400	IN	A	124.160.64.227
+yst.hzic.edu.cn.	86400	IN	A	124.160.64.252
+zcqc.hzic.edu.cn.	86400	IN	A	10.11.112.24
+zhaoban.hzic.edu.cn.	86400	IN	A	202.96.99.61
+zhdas.hzic.edu.cn.	86400	IN	A	10.11.99.32
+zheshangrc.hzic.edu.cn.	86400	IN	A	124.160.64.232
+zjec.hzic.edu.cn.	86400	IN	A	124.160.64.222
+znq.hzic.edu.cn.	86400	IN	A	124.160.64.252
+zuzbu.hzic.edu.cn.	86400	IN	A	124.160.64.252
+zxcy.hzic.edu.cn.	86400	IN	A	124.160.64.113
+zzs.hzic.edu.cn.	86400	IN	A	124.160.64.201
+hzic.edu.cn.		86400	IN	SOA	sun150.hzic.edu.cn. root.hzic.edu.cn. 15 28800 14400 3600000 86400
+;; Query time: 47 msec
+;; SERVER: 210.33.88.1#53(210.33.88.1)
+;; WHEN: Mon Apr 21 20:55:23 中国标准时间 2014
+;; XFR size: 122 records (messages 1, bytes 2627)
+

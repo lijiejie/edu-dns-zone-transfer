@@ -1,0 +1,32 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @DNS.shic.edu.cn axfr shic.edu.cn
+; (1 server found)
+;; global options: +cmd
+shic.edu.cn.		86400	IN	SOA	dns.shic.edu.cn. root.shic.edu.cn. 2014031206 150 200 4000 86400
+shic.edu.cn.		86400	IN	NS	dns.shic.edu.cn.
+dns.shic.edu.cn.	86400	IN	A	210.41.64.33
+etcim.shic.edu.cn.	86400	IN	A	222.209.200.211
+it.shic.edu.cn.		86400	IN	A	222.209.200.213
+jw.shic.edu.cn.		86400	IN	A	222.209.200.214
+kczy.shic.edu.cn.	86400	IN	A	222.209.200.210
+kzzh.shic.edu.cn.	86400	IN	A	222.209.200.212
+lib.shic.edu.cn.	86400	IN	A	222.209.200.210
+mlib.shic.edu.cn.	86400	IN	A	222.209.200.210
+oa.shic.edu.cn.		86400	IN	A	222.209.200.211
+rs.shic.edu.cn.		86400	IN	A	222.209.200.210
+tysf.shic.edu.cn.	86400	IN	A	222.209.200.212
+vpn.shic.edu.cn.	86400	IN	A	222.209.200.212
+www.shic.edu.cn.	86400	IN	A	222.209.200.214
+xlcp.shic.edu.cn.	86400	IN	A	222.209.200.210
+xszz.shic.edu.cn.	86400	IN	A	222.209.200.210
+xt.shic.edu.cn.		86400	IN	A	222.209.200.210
+xxmh.shic.edu.cn.	86400	IN	A	222.209.200.212
+ykt.shic.edu.cn.	86400	IN	A	222.209.200.210
+yxx.shic.edu.cn.	86400	IN	A	222.209.200.210
+zs.shic.edu.cn.		86400	IN	A	222.209.200.213
+shic.edu.cn.		86400	IN	SOA	dns.shic.edu.cn. root.shic.edu.cn. 2014031206 150 200 4000 86400
+;; Query time: 558 msec
+;; SERVER: 210.41.64.33#53(210.41.64.33)
+;; WHEN: Mon Apr 21 21:02:16 中国标准时间 2014
+;; XFR size: 23 records (messages 1, bytes 523)
+

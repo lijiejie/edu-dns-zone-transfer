@@ -1,0 +1,117 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @ipmsun2.ipm.edu.mo axfr ipm.edu.mo
+; (1 server found)
+;; global options: +cmd
+ipm.edu.mo.		3600	IN	SOA	ipmsun1.ipm.edu.mo. notify.ipm.edu.mo. 2014040801 3600 1800 604800 7200
+ipm.edu.mo.		3600	IN	TXT	"v=spf1 a mx ip4:202.175.9.242/26 ~all"
+ipm.edu.mo.		3600	IN	MX	10 mpiemgw1.ipm.edu.mo.
+ipm.edu.mo.		3600	IN	MX	20 mpiemgw2.ipm.edu.mo.
+ipm.edu.mo.		3600	IN	A	202.175.9.219
+ipm.edu.mo.		3600	IN	NS	ipmsun1.ipm.edu.mo.
+ipm.edu.mo.		3600	IN	NS	ipmsun2.ipm.edu.mo.
+poly._domainkey.ipm.edu.mo. 3600 IN	TXT	"p=MHwwDQYJKoZIhvcNAQEBBQADawAwaAJhAMLhdylhSRYOaXmqxxcHwHK9yMaIDgixoASBoEzZZLXNUj6LdUGQvqrI3DXxH7DwPBAc7NYdz9ocTejNoygCb4/vy/TkAGZY6UBHjjJiij6LGqnfSvcHUaI4zwhMX4BZyQIDAQAB\;"
+a319-101.ipm.edu.mo.	3600	IN	A	202.175.25.107
+acs.ipm.edu.mo.		3600	IN	A	202.175.25.15
+admission.ipm.edu.mo.	3600	IN	CNAME	wapps.ipm.edu.mo.
+aeipm.ipm.edu.mo.	3600	IN	CNAME	venus.ipm.edu.mo.
+aimsweb.ipm.edu.mo.	3600	IN	A	202.175.9.215
+aimswebrpt.ipm.edu.mo.	3600	IN	A	202.175.9.216
+alumni.ipm.edu.mo.	3600	IN	A	202.175.6.41
+atipm.ipm.edu.mo.	3600	IN	A	202.175.24.133
+bellcentre.ipm.edu.mo.	3600	IN	CNAME	m3.ipm.edu.mo.
+bookmarks.ipm.edu.mo.	3600	IN	CNAME	csc.ipm.edu.mo.
+btc.ipm.edu.mo.		3600	IN	CNAME	m3.ipm.edu.mo.
+canvas.ipm.edu.mo.	3600	IN	CNAME	canvas2.ipm.edu.mo.
+canvas2.ipm.edu.mo.	3600	IN	A	202.175.9.208
+canvastest.ipm.edu.mo.	3600	IN	A	202.175.24.254
+connect.ipm.edu.mo.	3600	IN	A	202.175.9.198
+csc.ipm.edu.mo.		3600	IN	A	202.175.6.140
+csc2.ipm.edu.mo.	3600	IN	CNAME	m3.ipm.edu.mo.
+csp.ipm.edu.mo.		3600	IN	CNAME	venus.ipm.edu.mo.
+csproject.ipm.edu.mo.	3600	IN	A	202.175.9.225
+cvms.ipm.edu.mo.	3600	IN	CNAME	csc.ipm.edu.mo.
+dcenter.ipm.edu.mo.	3600	IN	A	202.175.6.131
+debate.ipm.edu.mo.	3600	IN	CNAME	earth.ipm.edu.mo.
+devsun1.ipm.edu.mo.	3600	IN	A	202.175.6.197
+dijkstra.ipm.edu.mo.	3600	IN	A	202.175.9.207
+discurso.ipm.edu.mo.	3600	IN	A	202.175.6.54
+earth.ipm.edu.mo.	3600	IN	A	202.175.9.212
+ecard.ipm.edu.mo.	3600	IN	CNAME	earth.ipm.edu.mo.
+ecomlx.ipm.edu.mo.	3600	IN	A	202.175.9.49
+edms.ipm.edu.mo.	3600	IN	CNAME	wapps.ipm.edu.mo.
+elearning.ipm.edu.mo.	3600	IN	A	202.175.9.206
+esceecom1.ipm.edu.mo.	3600	IN	A	202.175.6.46
+fkm.ipm.edu.mo.		3600	IN	A	202.175.8.27
+gac.ipm.edu.mo.		3600	IN	CNAME	gtrc.ipm.edu.mo.
+gerdc.ipm.edu.mo.	3600	IN	A	202.175.25.74
+go.ipm.edu.mo.		3600	IN	CNAME	m3.ipm.edu.mo.
+grlconference.ipm.edu.mo. 3600	IN	CNAME	m3.ipm.edu.mo.
+gtrc.ipm.edu.mo.	3600	IN	MX	10 mpiemgw2.ipm.edu.mo.
+gtrc.ipm.edu.mo.	3600	IN	MX	20 mpiemgw1.ipm.edu.mo.
+gtrc.ipm.edu.mo.	3600	IN	A	202.175.50.120
+intranet.ipm.edu.mo.	3600	IN	CNAME	m3.ipm.edu.mo.
+ipmsun1.ipm.edu.mo.	3600	IN	MX	10 mpiemgw1.ipm.edu.mo.
+ipmsun1.ipm.edu.mo.	3600	IN	MX	20 mpiemgw2.ipm.edu.mo.
+ipmsun1.ipm.edu.mo.	3600	IN	A	202.175.9.221
+ipmsun2.ipm.edu.mo.	3600	IN	CNAME	stud.ipm.edu.mo.
+journal.ipm.edu.mo.	3600	IN	CNAME	m3.ipm.edu.mo.
+jsrv1.ipm.edu.mo.	3600	IN	A	202.175.6.60
+ldap1.ipm.edu.mo.	3600	IN	A	172.25.61.3
+ldap2.ipm.edu.mo.	3600	IN	A	172.25.61.5
+ldap3.ipm.edu.mo.	3600	IN	A	202.175.6.204
+ldap4.ipm.edu.mo.	3600	IN	A	202.175.9.2
+library.ipm.edu.mo.	3600	IN	A	202.175.9.10
+library2.ipm.edu.mo.	3600	IN	A	202.175.9.9
+m3.ipm.edu.mo.		3600	IN	A	202.175.9.219
+mail.ipm.edu.mo.	3600	IN	A	202.175.9.222
+mailgw1.ipm.edu.mo.	3600	IN	A	202.175.9.238
+mailgw2.ipm.edu.mo.	3600	IN	A	202.175.9.242
+mailhost1.ipm.edu.mo.	3600	IN	CNAME	mail.ipm.edu.mo.
+mars.ipm.edu.mo.	3600	IN	A	202.175.9.210
+mercury.ipm.edu.mo.	3600	IN	A	202.175.9.195
+mpiemgw1.ipm.edu.mo.	3600	IN	A	202.175.9.237
+mpiemgw2.ipm.edu.mo.	3600	IN	A	202.175.9.241
+musesvr.ipm.edu.mo.	3600	IN	A	202.175.9.20
+my.ipm.edu.mo.		3600	IN	A	202.175.9.200
+neam.ipm.edu.mo.	3600	IN	CNAME	earth.ipm.edu.mo.
+newsletter.ipm.edu.mo.	3600	IN	CNAME	earth.ipm.edu.mo.
+odblxd.ipm.edu.mo.	3600	IN	A	202.175.9.26
+openday.ipm.edu.mo.	3600	IN	A	202.175.6.39
+openday14.ipm.edu.mo.	3600	IN	A	202.175.6.39
+rg.ipm.edu.mo.		3600	IN	A	202.175.9.226
+roms.ipm.edu.mo.	3600	IN	CNAME	wapps.ipm.edu.mo.
+shannon.ipm.edu.mo.	3600	IN	CNAME	a319-101.ipm.edu.mo.
+sigfcdb.ipm.edu.mo.	3600	IN	A	202.175.9.37
+siweb.ipm.edu.mo.	3600	IN	CNAME	wapps.ipm.edu.mo.
+speechcontest.ipm.edu.mo. 3600	IN	CNAME	m3.ipm.edu.mo.
+srms.ipm.edu.mo.	3600	IN	CNAME	csc.ipm.edu.mo.
+sslvpn.ipm.edu.mo.	3600	IN	A	202.175.9.229
+staff.ipm.edu.mo.	3600	IN	CNAME	ipmsun1.ipm.edu.mo.
+stud.ipm.edu.mo.	3600	IN	TXT	"v=spf1 a mx ip4:202.175.9.242/26 ~all"
+stud.ipm.edu.mo.	3600	IN	MX	10 mpiemgw1.ipm.edu.mo.
+stud.ipm.edu.mo.	3600	IN	MX	20 mpiemgw2.ipm.edu.mo.
+stud.ipm.edu.mo.	3600	IN	A	202.175.9.220
+student.ipm.edu.mo.	3600	IN	CNAME	stud.ipm.edu.mo.
+testpay.ipm.edu.mo.	3600	IN	A	202.175.9.199
+ubilab.ipm.edu.mo.	3600	IN	A	202.175.9.236
+venus.ipm.edu.mo.	3600	IN	A	202.175.9.205
+video.ipm.edu.mo.	3600	IN	A	202.175.9.214
+vss.ipm.edu.mo.		3600	IN	A	202.175.9.194
+wapps.ipm.edu.mo.	3600	IN	A	202.175.9.213
+webappl.ipm.edu.mo.	3600	IN	CNAME	wapps.ipm.edu.mo.
+webapplconfirm.ipm.edu.mo. 3600	IN	CNAME	wapps.ipm.edu.mo.
+webapps.ipm.edu.mo.	3600	IN	CNAME	csc.ipm.edu.mo.
+webmail.ipm.edu.mo.	3600	IN	CNAME	mail.ipm.edu.mo.
+webvpn.ipm.edu.mo.	3600	IN	CNAME	sslvpn.ipm.edu.mo.
+welfare.ipm.edu.mo.	3600	IN	CNAME	m3.ipm.edu.mo.
+wire.ipm.edu.mo.	3600	IN	CNAME	my.ipm.edu.mo.
+www.ipm.edu.mo.		3600	IN	A	202.175.24.253
+www-ci.ipm.edu.mo.	3600	IN	CNAME	csc.ipm.edu.mo.
+www3.ipm.edu.mo.	3600	IN	CNAME	m3.ipm.edu.mo.
+xjttp.ipm.edu.mo.	3600	IN	CNAME	mars.ipm.edu.mo.
+ipm.edu.mo.		3600	IN	SOA	ipmsun1.ipm.edu.mo. notify.ipm.edu.mo. 2014040801 3600 1800 604800 7200
+;; Query time: 77 msec
+;; SERVER: 202.175.9.220#53(202.175.9.220)
+;; WHEN: Mon Apr 21 21:05:20 中国标准时间 2014
+;; XFR size: 108 records (messages 1, bytes 2634)
+

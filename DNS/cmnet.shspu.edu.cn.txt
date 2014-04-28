@@ -1,0 +1,33 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @cmnet.shspu.edu.cn axfr shspu.edu.cn
+; (1 server found)
+;; global options: +cmd
+shspu.edu.cn.		3600	IN	SOA	cmnet.shspu.edu.cn. root.shspu.edu.cn. 2014032504 30 30 360 3600
+shspu.edu.cn.		3600	IN	A	202.121.240.67
+shspu.edu.cn.		3600	IN	MX	5 testmail.shspu.edu.cn.
+shspu.edu.cn.		3600	IN	NS	cmnet.shspu.edu.cn.
+*.shspu.edu.cn.		3600	IN	A	202.121.241.8
+2005scheduling.shspu.edu.cn. 3600 IN	A	202.121.241.25
+alumni.shspu.edu.cn.	3600	IN	A	202.121.241.109
+cmnet.shspu.edu.cn.	3600	IN	A	202.121.241.8
+dfjt.shspu.edu.cn.	3600	IN	A	202.121.241.24
+jwc.shspu.edu.cn.	3600	IN	A	27.115.65.137
+kill.shspu.edu.cn.	3600	IN	A	202.121.240.21
+ly.shspu.edu.cn.	3600	IN	A	202.121.240.59
+mail.shspu.edu.cn.	3600	IN	A	202.121.240.12
+oa.shspu.edu.cn.	3600	IN	A	219.220.226.39
+qlc.shspu.edu.cn.	3600	IN	A	202.121.241.21
+sysx.shspu.edu.cn.	3600	IN	A	27.115.65.236
+test.shspu.edu.cn.	3600	IN	A	202.121.241.9
+testmail.shspu.edu.cn.	3600	IN	A	202.121.240.67
+testmail.shspu.edu.cn.	3600	IN	MX	5 testmail.shspu.edu.cn.
+tuanwei.shspu.edu.cn.	3600	IN	A	202.121.241.111
+wap.shspu.edu.cn.	3600	IN	A	202.121.241.53
+www.shspu.edu.cn.	3600	IN	A	27.115.65.137
+xsc.shspu.edu.cn.	3600	IN	A	202.121.241.110
+shspu.edu.cn.		3600	IN	SOA	cmnet.shspu.edu.cn. root.shspu.edu.cn. 2014032504 30 30 360 3600
+;; Query time: 42 msec
+;; SERVER: 202.121.241.8#53(202.121.241.8)
+;; WHEN: Mon Apr 21 20:54:57 中国标准时间 2014
+;; XFR size: 24 records (messages 1, bytes 555)
+

@@ -1,0 +1,69 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns1.hhuwtian.edu.cn axfr hhuwtian.edu.cn
+; (2 servers found)
+;; global options: +cmd
+hhuwtian.edu.cn.	3600	IN	SOA	dns1.hhuwtian.edu.cn. hostmaster. 323 900 600 86400 3600
+hhuwtian.edu.cn.	3600	IN	A	121.251.88.10
+hhuwtian.edu.cn.	3600	IN	A	10.10.1.1
+hhuwtian.edu.cn.	3600	IN	A	60.171.119.195
+hhuwtian.edu.cn.	3600	IN	NS	hhuwt-dns.
+hhuwtian.edu.cn.	3600	IN	NS	dns1.hhuwtian.edu.cn.
+hhuwtian.edu.cn.	3600	IN	MX	10 mail.hhuwtian.edu.cn.
+bbs.hhuwtian.edu.cn.	3600	IN	A	121.251.88.123
+bgt.hhuwtian.edu.cn.	3600	IN	A	121.251.88.100
+bysj.hhuwtian.edu.cn.	3600	IN	A	60.171.119.227
+cnc.hhuwtian.edu.cn.	3600	IN	A	58.242.130.130
+da.hhuwtian.edu.cn.	3600	IN	A	121.251.88.101
+dns1.hhuwtian.edu.cn.	3600	IN	A	60.171.119.195
+dns1.hhuwtian.edu.cn.	3600	IN	A	121.251.88.1
+dns2.hhuwtian.edu.cn.	3600	IN	A	121.251.88.2
+dns2.hhuwtian.edu.cn.	3600	IN	A	60.171.119.196
+dr.hhuwtian.edu.cn.	3600	IN	A	10.10.1.8
+hqc.hhuwtian.edu.cn.	3600	IN	A	121.251.88.80
+ic.hhuwtian.edu.cn.	3600	IN	A	121.251.88.66
+iec.hhuwtian.edu.cn.	3600	IN	A	121.251.88.16
+jgx.hhuwtian.edu.cn.	3600	IN	A	10.10.1.118
+job.hhuwtian.edu.cn.	3600	IN	A	121.251.88.111
+job.hhuwtian.edu.cn.	3600	IN	A	10.10.1.111
+jw.hhuwtian.edu.cn.	3600	IN	A	60.171.119.211
+jw1.hhuwtian.edu.cn.	3600	IN	A	121.251.88.210
+jwc.hhuwtian.edu.cn.	3600	IN	A	121.251.88.15
+kc.hhuwtian.edu.cn.	3600	IN	A	60.171.119.205
+lib.hhuwtian.edu.cn.	3600	IN	A	121.251.88.60
+libsys.hhuwtian.edu.cn.	3600	IN	A	10.10.1.20
+lqcx.hhuwtian.edu.cn.	3600	IN	A	10.10.1.111
+lqcx.hhuwtian.edu.cn.	3600	IN	A	121.251.88.111
+lxsyzx.hhuwtian.edu.cn.	3600	IN	A	121.251.88.211
+mail.hhuwtian.edu.cn.	3600	IN	A	59.151.19.135
+mail1.hhuwtian.edu.cn.	3600	IN	A	59.151.118.139
+oas.hhuwtian.edu.cn.	3600	IN	A	10.10.1.18
+opac.hhuwtian.edu.cn.	3600	IN	A	10.10.1.233
+psy.hhuwtian.edu.cn.	3600	IN	A	10.10.1.118
+qzx.hhuwtian.edu.cn.	3600	IN	A	10.10.1.238
+scu.hhuwtian.edu.cn.	3600	IN	A	121.251.88.111
+scu.hhuwtian.edu.cn.	3600	IN	A	10.10.1.111
+sj.hhuwtian.edu.cn.	3600	IN	A	10.10.1.228
+sym.hhuwtian.edu.cn.	3600	IN	A	10.10.1.60
+tao.hhuwtian.edu.cn.	3600	IN	A	10.10.10.10
+tele.hhuwtian.edu.cn.	3600	IN	A	60.171.119.194
+tw.hhuwtian.edu.cn.	3600	IN	A	121.251.88.111
+tw.hhuwtian.edu.cn.	3600	IN	A	10.10.1.111
+us.hhuwtian.edu.cn.	3600	IN	A	10.10.1.9
+vod.hhuwtian.edu.cn.	3600	IN	A	10.10.1.222
+vpn.hhuwtian.edu.cn.	3600	IN	A	60.171.119.2
+wf.hhuwtian.edu.cn.	3600	IN	A	10.10.1.20
+www.hhuwtian.edu.cn.	3600	IN	A	60.171.119.200
+www2.hhuwtian.edu.cn.	3600	IN	A	10.10.1.151
+www2.hhuwtian.edu.cn.	3600	IN	A	60.171.119.225
+xsc.hhuwtian.edu.cn.	3600	IN	A	121.251.88.111
+xsh.hhuwtian.edu.cn.	3600	IN	A	121.251.88.111
+xsh.hhuwtian.edu.cn.	3600	IN	A	10.10.1.111
+zlgc.hhuwtian.edu.cn.	3600	IN	A	121.251.88.211
+zs.hhuwtian.edu.cn.	3600	IN	A	121.251.88.111
+zs.hhuwtian.edu.cn.	3600	IN	A	10.10.1.111
+hhuwtian.edu.cn.	3600	IN	SOA	dns1.hhuwtian.edu.cn. hostmaster. 323 900 600 86400 3600
+;; Query time: 343 msec
+;; SERVER: 121.251.88.1#53(121.251.88.1)
+;; WHEN: Mon Apr 21 20:53:26 中国标准时间 2014
+;; XFR size: 60 records (messages 60, bytes 3253)
+

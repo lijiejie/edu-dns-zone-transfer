@@ -1,0 +1,25 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns.hzrtvu.edu.cn axfr hzaspt.edu.cn
+; (1 server found)
+;; global options: +cmd
+hzaspt.edu.cn.		3600	IN	SOA	dns.hzrtvu.edu.cn. root.dns.hzrtvu.edu.cn.hzaspt.edu.cn. 2 10800 3600 604800 3600
+hzaspt.edu.cn.		3600	IN	NS	dns.hzrtvu.edu.cn.
+bysj.hzaspt.edu.cn.	3600	IN	A	124.160.90.208
+dxpt.hzaspt.edu.cn.	3600	IN	A	124.160.90.213
+jpkc.hzaspt.edu.cn.	3600	IN	A	124.160.90.205
+jpkc-sjk.hzaspt.edu.cn.	3600	IN	A	124.160.90.205
+jzzyk.hzaspt.edu.cn.	3600	IN	A	124.160.90.212
+ks.hzaspt.edu.cn.	3600	IN	A	124.160.90.203
+mail.hzaspt.edu.cn.	3600	IN	A	124.160.90.214
+mail.hzaspt.edu.cn.	3600	IN	MX	10 mail.hzaspt.edu.cn.
+vpn.hzaspt.edu.cn.	3600	IN	A	124.160.90.210
+www.hzaspt.edu.cn.	3600	IN	A	124.160.94.216
+www1.hzaspt.edu.cn.	3600	IN	A	124.160.94.222
+yxt.hzaspt.edu.cn.	3600	IN	A	124.160.107.35
+zcgl.hzaspt.edu.cn.	3600	IN	A	124.160.90.217
+hzaspt.edu.cn.		3600	IN	SOA	dns.hzrtvu.edu.cn. root.dns.hzrtvu.edu.cn.hzaspt.edu.cn. 2 10800 3600 604800 3600
+;; Query time: 46 msec
+;; SERVER: 210.32.48.1#53(210.32.48.1)
+;; WHEN: Mon Apr 21 20:55:53 中国标准时间 2014
+;; XFR size: 16 records (messages 1, bytes 419)
+

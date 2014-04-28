@@ -1,0 +1,101 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns.bsu.edu.cn axfr bsu.edu.cn
+; (1 server found)
+;; global options: +cmd
+bsu.edu.cn.		3600	IN	SOA	dns.bsu.edu.cn. root.bsu.edu.cn. 2014040802 30 30 360 3600
+bsu.edu.cn.		3600	IN	NS	dns.bsu.edu.cn.
+bsu.edu.cn.		3600	IN	MX	10 mailgate.bsu.edu.cn.
+bsu.edu.cn.		3600	IN	A	218.107.131.253
+*.bsu.edu.cn.		3600	IN	A	219.242.208.2
+bb.bsu.edu.cn.		3600	IN	A	219.242.208.28
+btcy.bsu.edu.cn.	3600	IN	A	219.242.208.2
+bwb.bsu.edu.cn.		3600	IN	A	219.242.208.2
+cbs.bsu.edu.cn.		3600	IN	A	219.242.208.2
+cgglc.bsu.edu.cn.	3600	IN	A	219.242.208.2
+cm.bsu.edu.cn.		3600	IN	A	219.242.208.2
+count.bsu.edu.cn.	3600	IN	A	219.242.208.131
+csep.bsu.edu.cn.	3600	IN	A	121.194.17.19
+cwc.bsu.edu.cn.		3600	IN	A	219.242.208.2
+cxzy.bsu.edu.cn.	3600	IN	A	219.242.208.2
+da.bsu.edu.cn.		3600	IN	A	121.194.16.43
+dns.bsu.edu.cn.		3600	IN	A	219.242.208.8
+en.bsu.edu.cn.		3600	IN	A	219.242.208.2
+english.bsu.edu.cn.	3600	IN	A	219.242.208.132
+fld.bsu.edu.cn.		3600	IN	A	219.242.208.2
+ftp.bsu.edu.cn.		3600	IN	A	219.242.208.130
+fzgh.bsu.edu.cn.	3600	IN	A	219.242.208.2
+gbc.bsu.edu.cn.		3600	IN	A	219.242.208.2
+gh.bsu.edu.cn.		3600	IN	A	219.242.208.2
+gra.bsu.edu.cn.		3600	IN	A	121.194.17.13
+grs.bsu.edu.cn.		3600	IN	A	219.242.208.2
+hq.bsu.edu.cn.		3600	IN	A	219.242.208.2
+hr.bsu.edu.cn.		3600	IN	A	121.194.16.232
+iec.bsu.edu.cn.		3600	IN	A	219.242.208.2
+it.bsu.edu.cn.		3600	IN	A	219.242.208.2
+jjb.bsu.edu.cn.		3600	IN	A	219.242.208.2
+jjs.bsu.edu.cn.		3600	IN	A	219.242.208.2
+jjty.bsu.edu.cn.	3600	IN	A	219.242.208.2
+jjxy.bsu.edu.cn.	3600	IN	A	219.242.208.2
+jpkc.bsu.edu.cn.	3600	IN	A	121.194.17.18
+jwc.bsu.edu.cn.		3600	IN	A	219.242.208.2
+jxsy.bsu.edu.cn.	3600	IN	A	219.242.208.2
+jy.bsu.edu.cn.		3600	IN	A	219.242.208.39
+keyan.bsu.edu.cn.	3600	IN	A	219.242.208.10
+kjc.bsu.edu.cn.		3600	IN	A	219.242.208.2
+lib.bsu.edu.cn.		3600	IN	A	219.242.208.2
+ltx.bsu.edu.cn.		3600	IN	A	219.242.208.2
+lunwen.bsu.edu.cn.	3600	IN	A	121.194.17.13
+mail.bsu.edu.cn.	3600	IN	A	219.242.208.16
+mailgate.bsu.edu.cn.	3600	IN	A	219.242.208.16
+map.bsu.edu.cn.		3600	IN	A	121.194.16.124
+media1.bsu.edu.cn.	3600	IN	A	219.242.208.39
+media2.bsu.edu.cn.	3600	IN	A	219.242.208.39
+meepo.bsu.edu.cn.	3600	IN	A	219.242.208.174
+ms.bsu.edu.cn.		3600	IN	A	219.242.208.2
+music.bsu.edu.cn.	3600	IN	A	219.242.208.182
+new.bsu.edu.cn.		3600	IN	A	121.194.18.32
+office.bsu.edu.cn.	3600	IN	A	219.242.208.19
+pan.bsu.edu.cn.		3600	IN	A	219.242.208.177
+pe.bsu.edu.cn.		3600	IN	A	219.242.208.2
+rsc.bsu.edu.cn.		3600	IN	A	219.242.208.2
+shouyu.bsu.edu.cn.	3600	IN	A	121.194.17.38
+shty.bsu.edu.cn.	3600	IN	A	219.242.208.2
+sportperformance.bsu.edu.cn. 3600 IN	A	121.194.17.8
+ssc.bsu.edu.cn.		3600	IN	A	219.242.208.2
+ssrc.bsu.edu.cn.	3600	IN	A	219.242.208.2
+szb.bsu.edu.cn.		3600	IN	A	219.242.208.2
+taiban.bsu.edu.cn.	3600	IN	A	219.242.208.2
+tuanwei.bsu.edu.cn.	3600	IN	A	219.242.208.2
+tv.bsu.edu.cn.		3600	IN	A	219.242.208.155
+tyzz.bsu.edu.cn.	3600	IN	A	219.242.208.2
+tzb.bsu.edu.cn.		3600	IN	A	219.242.208.2
+vod.bsu.edu.cn.		3600	IN	A	219.242.208.154
+vpn.bsu.edu.cn.		3600	IN	A	219.242.208.185
+web.bsu.edu.cn.		3600	IN	A	219.242.208.19
+whsh.bsu.edu.cn.	3600	IN	A	219.242.208.2
+wsc.bsu.edu.cn.		3600	IN	A	219.242.208.2
+wushu.bsu.edu.cn.	3600	IN	A	219.242.208.2
+www.bsu.edu.cn.		3600	IN	A	219.242.208.2
+xb.bsu.edu.cn.		3600	IN	A	219.242.208.2
+xcb.bsu.edu.cn.		3600	IN	A	219.242.208.2
+xgb.bsu.edu.cn.		3600	IN	A	219.242.208.2
+xjc.bsu.edu.cn.		3600	IN	A	219.242.208.2
+xq.bsu.edu.cn.		3600	IN	A	219.242.208.55
+xuebao.bsu.edu.cn.	3600	IN	A	121.194.16.60
+xxgk.bsu.edu.cn.	3600	IN	A	219.242.208.2
+xyy.bsu.edu.cn.		3600	IN	A	219.242.208.2
+yanzhao.bsu.edu.cn.	3600	IN	A	121.194.17.13
+ydkfx.bsu.edu.cn.	3600	IN	A	219.242.208.2
+ysx.bsu.edu.cn.		3600	IN	A	219.242.208.2
+zcglc.bsu.edu.cn.	3600	IN	A	219.242.208.2
+zdsy.bsu.edu.cn.	3600	IN	A	219.242.208.2
+zhaopin.bsu.edu.cn.	3600	IN	A	121.194.16.232
+zs.bsu.edu.cn.		3600	IN	A	219.242.208.2
+zy.bsu.edu.cn.		3600	IN	A	219.242.208.31
+zzb.bsu.edu.cn.		3600	IN	A	219.242.208.2
+bsu.edu.cn.		3600	IN	SOA	dns.bsu.edu.cn. root.bsu.edu.cn. 2014040802 30 30 360 3600
+;; Query time: 66 msec
+;; SERVER: 219.242.208.8#53(219.242.208.8)
+;; WHEN: Mon Apr 21 20:47:02 中国标准时间 2014
+;; XFR size: 92 records (messages 1, bytes 1959)
+

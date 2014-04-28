@@ -1,0 +1,43 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @shcc.edu.cn axfr shcc.edu.cn
+; (1 server found)
+;; global options: +cmd
+shcc.edu.cn.		3600	IN	SOA	shcc2.shcc.edu.cn. admin. 116 900 600 86400 3600
+shcc.edu.cn.		600	IN	A	202.121.31.2
+shcc.edu.cn.		3600	IN	NS	shcc2.shcc.edu.cn.
+shcc.edu.cn.		3600	IN	NS	shcc5.shcc.edu.cn.
+shcc.edu.cn.		3600	IN	MX	10 202.121.31.36.
+shcc.edu.cn.		3600	IN	MX	10 202.121.31.2.
+2e1d0ea9-02a6-4b27-8469-e4a4f7d960f5._msdcs.shcc.edu.cn. 600 IN	CNAME shcc2.shcc.edu.cn.
+_kerberos._tcp.Default-First-Site-Name._sites.dc._msdcs.shcc.edu.cn. 600 IN SRV	0 100 88 shcc2.shcc.edu.cn.
+_ldap._tcp.Default-First-Site-Name._sites.dc._msdcs.shcc.edu.cn. 600 IN	SRV 0 100 389 shcc2.shcc.edu.cn.
+_kerberos._tcp.dc._msdcs.shcc.edu.cn. 600 IN SRV 0 100 88 shcc2.shcc.edu.cn.
+_ldap._tcp.dc._msdcs.shcc.edu.cn. 600 IN SRV	0 100 389 shcc2.shcc.edu.cn.
+_ldap._tcp.12369437-94c5-4ffa-a9b4-ff6df2553b79.domains._msdcs.shcc.edu.cn. 600	IN SRV 0 100 389 shcc2.shcc.edu.cn.
+gc._msdcs.shcc.edu.cn.	600	IN	A	202.121.31.2
+_ldap._tcp.Default-First-Site-Name._sites.gc._msdcs.shcc.edu.cn. 600 IN	SRV 0 100 3268 shcc2.shcc.edu.cn.
+_ldap._tcp.gc._msdcs.shcc.edu.cn. 600 IN SRV	0 100 3268 shcc2.shcc.edu.cn.
+_ldap._tcp.pdc._msdcs.shcc.edu.cn. 600 IN SRV	0 100 389 shcc2.shcc.edu.cn.
+_gc._tcp.Default-First-Site-Name._sites.shcc.edu.cn. 600 IN SRV	0 100 3268 shcc2.shcc.edu.cn.
+_kerberos._tcp.Default-First-Site-Name._sites.shcc.edu.cn. 600 IN SRV 0 100 88 shcc2.shcc.edu.cn.
+_ldap._tcp.Default-First-Site-Name._sites.shcc.edu.cn. 600 IN SRV 0 100 389 shcc2.shcc.edu.cn.
+_gc._tcp.shcc.edu.cn.	600	IN	SRV	0 100 3268 shcc2.shcc.edu.cn.
+_kerberos._tcp.shcc.edu.cn. 600	IN	SRV	0 100 88 shcc2.shcc.edu.cn.
+_kpasswd._tcp.shcc.edu.cn. 600	IN	SRV	0 100 464 shcc2.shcc.edu.cn.
+_ldap._tcp.shcc.edu.cn.	600	IN	SRV	0 100 389 shcc2.shcc.edu.cn.
+_kerberos._udp.shcc.edu.cn. 600	IN	SRV	0 100 88 shcc2.shcc.edu.cn.
+_kpasswd._udp.shcc.edu.cn. 600	IN	SRV	0 100 464 shcc2.shcc.edu.cn.
+mail.shcc.edu.cn.	3600	IN	A	202.121.31.2
+POP.shcc.edu.cn.	3600	IN	A	202.121.31.2
+POP3.shcc.edu.cn.	3600	IN	A	202.121.31.2
+shcc2.shcc.edu.cn.	3600	IN	A	202.121.31.2
+shcc5.shcc.edu.cn.	3600	IN	A	202.121.31.5
+shccmailserver.shcc.edu.cn. 3600 IN	MX	5 202.121.31.2.
+WWW.shcc.edu.cn.	3600	IN	A	202.121.31.5
+YYmail.shcc.edu.cn.	3600	IN	MX	10 202.121.31.36.
+shcc.edu.cn.		3600	IN	SOA	shcc2.shcc.edu.cn. admin. 116 900 600 86400 3600
+;; Query time: 144 msec
+;; SERVER: 202.121.31.2#53(202.121.31.2)
+;; WHEN: Mon Apr 21 20:55:19 中国标准时间 2014
+;; XFR size: 34 records (messages 34, bytes 2635)
+

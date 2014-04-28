@@ -1,0 +1,41 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns1.hkc.edu.cn axfr hkc.edu.cn
+; (1 server found)
+;; global options: +cmd
+hkc.edu.cn.		86400	IN	SOA	dns1.hkc.edu.cn. root.hkc.edu.cn. 20110701 28800 14400 3600000 86400
+hkc.edu.cn.		86400	IN	NS	dns1.hkc.edu.cn.
+hkc.edu.cn.		86400	IN	MX	10 mail.hkc.edu.cn.
+hkc.edu.cn.		86400	IN	A	202.100.206.136
+cnki.hkc.edu.cn.	86400	IN	A	202.100.206.137
+dns1.hkc.edu.cn.	86400	IN	A	210.37.80.1
+en.hkc.edu.cn.		86400	IN	A	202.100.206.131
+Fy.hkc.edu.cn.		86400	IN	A	202.100.206.147
+hjyjob.hkc.edu.cn.	86400	IN	A	59.36.100.104
+jpkc.hkc.edu.cn.	86400	IN	A	202.100.206.131
+jsj.hkc.edu.cn.		86400	IN	A	202.100.206.133
+jw.hkc.edu.cn.		86400	IN	A	202.100.206.144
+lib.hkc.edu.cn.		86400	IN	A	202.100.206.137
+lib5.hkc.edu.cn.	86400	IN	A	202.100.206.145
+lib6.hkc.edu.cn.	86400	IN	A	202.100.206.145
+lib7.hkc.edu.cn.	86400	IN	A	202.100.206.145
+mail.hkc.edu.cn.	86400	IN	A	202.100.206.135
+net.hkc.edu.cn.		86400	IN	A	202.100.206.131
+opac.hkc.edu.cn.	86400	IN	A	202.100.206.139
+psy.hkc.edu.cn.		86400	IN	A	202.100.206.133
+rs.hkc.edu.cn.		86400	IN	A	202.100.206.147
+sf.hkc.edu.cn.		86400	IN	A	202.100.206.134
+sw.hkc.edu.cn.		86400	IN	A	202.100.206.131
+szbjpkc.hkc.edu.cn.	86400	IN	A	202.100.206.133
+www.hkc.edu.cn.		86400	IN	A	202.100.206.136
+xl.hkc.edu.cn.		86400	IN	A	202.100.206.147
+xsh.hkc.edu.cn.		86400	IN	A	202.100.206.131
+xygh.hkc.edu.cn.	86400	IN	A	202.100.206.133
+ytw.hkc.edu.cn.		86400	IN	A	202.100.206.131
+zb.hkc.edu.cn.		86400	IN	A	202.100.206.134
+zs.hkc.edu.cn.		86400	IN	A	202.100.206.146
+hkc.edu.cn.		86400	IN	SOA	dns1.hkc.edu.cn. root.hkc.edu.cn. 20110701 28800 14400 3600000 86400
+;; Query time: 58 msec
+;; SERVER: 210.37.80.1#53(210.37.80.1)
+;; WHEN: Mon Apr 21 21:01:22 中国标准时间 2014
+;; XFR size: 32 records (messages 1, bytes 698)
+

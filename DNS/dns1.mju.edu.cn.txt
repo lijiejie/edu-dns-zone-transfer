@@ -1,0 +1,61 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns1.mju.edu.cn axfr mju.edu.cn
+; (1 server found)
+;; global options: +cmd
+mju.edu.cn.		86400	IN	SOA	dns1.mju.edu.cn. hxdan.mju.edu.cn. 43 10800 900 604800 86400
+mju.edu.cn.		86400	IN	MX	10 mail.mju.edu.cn.
+mju.edu.cn.		86400	IN	NS	dns1.mju.edu.cn.
+bbs.mju.edu.cn.		86400	IN	A	211.80.208.56
+bjb.mju.edu.cn.		86400	IN	A	211.80.208.102
+cerwww.mju.edu.cn.	86400	IN	A	218.66.17.42
+chiwww.mju.edu.cn.	86400	IN	A	218.66.17.42
+clo.mju.edu.cn.		86400	IN	A	211.80.208.39
+cmzx.mju.edu.cn.	86400	IN	A	211.80.208.45
+cod.mju.edu.cn.		86400	IN	A	211.80.208.114
+distar.mju.edu.cn.	86400	IN	A	211.80.208.51
+dns.mju.edu.cn.		86400	IN	A	211.80.208.1
+dns1.mju.edu.cn.	86400	IN	A	211.80.208.1
+dpstar.mju.edu.cn.	86400	IN	A	211.80.208.51
+ecms.mju.edu.cn.	86400	IN	A	211.80.208.53
+eol.mju.edu.cn.		86400	IN	A	211.80.208.81
+ftp.mju.edu.cn.		86400	IN	A	211.80.208.133
+gyms.mju.edu.cn.	86400	IN	A	211.80.208.40
+hr.mju.edu.cn.		86400	IN	A	211.80.208.51
+i.mju.edu.cn.		86400	IN	A	211.80.208.51
+imp.mju.edu.cn.		86400	IN	A	211.80.208.51
+jpkc.mju.edu.cn.	86400	IN	A	211.80.208.15
+jwgl.mju.edu.cn.	86400	IN	A	211.80.208.93
+jwxt.mju.edu.cn.	86400	IN	A	211.80.208.12
+jy.mju.edu.cn.		86400	IN	A	59.36.99.114
+lab.mju.edu.cn.		86400	IN	A	211.80.208.32
+lab1.mju.edu.cn.	86400	IN	A	211.80.208.36
+lab2.mju.edu.cn.	86400	IN	A	211.80.208.33
+lab5.mju.edu.cn.	86400	IN	A	211.80.208.35
+lib.mju.edu.cn.		86400	IN	A	211.80.208.26
+live.mju.edu.cn.	86400	IN	A	211.80.208.117
+localhos.mju.edu.cn.	86400	IN	A	127.0.0.1
+mail.mju.edu.cn.	86400	IN	A	211.80.208.5
+mjcareer.mju.edu.cn.	86400	IN	A	211.80.208.11
+mjlx.mju.edu.cn.	86400	IN	A	211.80.208.14
+mjusl.mju.edu.cn.	86400	IN	A	211.80.208.46
+mjxyxb.mju.edu.cn.	86400	IN	A	125.76.229.22
+nbs.mju.edu.cn.		86400	IN	A	122.70.158.51
+was.mju.edu.cn.		86400	IN	A	211.80.208.51
+wsjws.mju.edu.cn.	86400	IN	A	211.80.208.96
+www.mju.edu.cn.		86400	IN	A	218.66.17.42
+www1.mju.edu.cn.	86400	IN	A	218.66.17.42
+www2.mju.edu.cn.	86400	IN	A	211.80.208.54
+xb.mju.edu.cn.		86400	IN	A	211.80.208.6
+xgb.mju.edu.cn.		86400	IN	A	211.80.208.10
+xibu.mju.edu.cn.	86400	IN	A	211.80.208.5
+xlzx.mju.edu.cn.	86400	IN	A	211.80.208.116
+xsh.mju.edu.cn.		86400	IN	A	211.80.208.47
+xz.mju.edu.cn.		86400	IN	A	211.80.208.17
+yb.mju.edu.cn.		86400	IN	A	211.80.208.103
+youth.mju.edu.cn.	86400	IN	A	211.80.208.57
+mju.edu.cn.		86400	IN	SOA	dns1.mju.edu.cn. hxdan.mju.edu.cn. 43 10800 900 604800 86400
+;; Query time: 61 msec
+;; SERVER: 211.80.208.1#53(211.80.208.1)
+;; WHEN: Mon Apr 21 20:57:11 中国标准时间 2014
+;; XFR size: 52 records (messages 1, bytes 1137)
+

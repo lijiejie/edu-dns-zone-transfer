@@ -1,0 +1,167 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns2.imfec.edu.cn axfr imfec.edu.cn
+; (1 server found)
+;; global options: +cmd
+imfec.edu.cn.		3600	IN	SOA	dns2.imfec.edu.cn. root.imfec.edu.cn. 2014041408 180 600 604800 3600
+imfec.edu.cn.		3600	IN	MX	5 gw.imfec.edu.cn.
+imfec.edu.cn.		3600	IN	MX	51 imfec.edu.cn.
+imfec.edu.cn.		3600	IN	NS	dns1.imfec.edu.cn.
+imfec.edu.cn.		3600	IN	NS	dns2.imfec.edu.cn.
+imfec.edu.cn.		3600	IN	A	61.138.96.35
+aptc.imfec.edu.cn.	3600	IN	A	58.18.166.56
+bb.imfec.edu.cn.	3600	IN	A	58.18.166.56
+bbs.imfec.edu.cn.	3600	IN	A	211.82.169.21
+bwc.imfec.edu.cn.	3600	IN	A	211.82.169.14
+bwc.imfec.edu.cn.	3600	IN	MX	5 gw.imfec.edu.cn.
+bwc.imfec.edu.cn.	3600	IN	MX	21 bwc.imfec.edu.cn.
+cai.imfec.edu.cn.	3600	IN	A	211.82.169.14
+cai.imfec.edu.cn.	3600	IN	MX	5 gw.imfec.edu.cn.
+cai.imfec.edu.cn.	3600	IN	MX	47 cai.imfec.edu.cn.
+cams.imfec.edu.cn.	3600	IN	A	211.82.175.130
+cs.imfec.edu.cn.	3600	IN	A	211.82.169.14
+cs.imfec.edu.cn.	3600	IN	MX	5 gw.imfec.edu.cn.
+cs.imfec.edu.cn.	3600	IN	MX	31 cs.imfec.edu.cn.
+cwc.imfec.edu.cn.	3600	IN	A	211.82.169.14
+cwc.imfec.edu.cn.	3600	IN	MX	5 gw.imfec.edu.cn.
+cwc.imfec.edu.cn.	3600	IN	MX	23 cwc.imfec.edu.cn.
+db.imfec.edu.cn.	3600	IN	A	211.82.169.14
+db.imfec.edu.cn.	3600	IN	MX	5 gw.imfec.edu.cn.
+db.imfec.edu.cn.	3600	IN	MX	13 db.imfec.edu.cn.
+dns1.imfec.edu.cn.	3600	IN	A	211.82.168.6
+dns2.imfec.edu.cn.	3600	IN	A	211.82.169.6
+e.imfec.edu.cn.		3600	IN	A	58.18.166.56
+ftp.imfec.edu.cn.	3600	IN	A	211.82.169.27
+fx.imfec.edu.cn.	3600	IN	A	211.82.169.14
+fx.imfec.edu.cn.	3600	IN	MX	5 gw.imfec.edu.cn.
+fx.imfec.edu.cn.	3600	IN	MX	37 fx.imfec.edu.cn.
+gg.imfec.edu.cn.	3600	IN	A	211.82.169.14
+gg.imfec.edu.cn.	3600	IN	MX	5 gw.imfec.edu.cn.
+gg.imfec.edu.cn.	3600	IN	MX	36 gg.imfec.edu.cn.
+gh.imfec.edu.cn.	3600	IN	A	211.82.169.14
+gh.imfec.edu.cn.	3600	IN	MX	5 gw.imfec.edu.cn.
+gh.imfec.edu.cn.	3600	IN	MX	12 gh.imfec.edu.cn.
+gj.imfec.edu.cn.	3600	IN	A	211.82.169.14
+gj.imfec.edu.cn.	3600	IN	MX	5 gw.imfec.edu.cn.
+gj.imfec.edu.cn.	3600	IN	MX	45 gj.imfec.edu.cn.
+grftp.imfec.edu.cn.	3600	IN	A	211.82.169.27
+gs.imfec.edu.cn.	3600	IN	A	211.82.169.14
+gs.imfec.edu.cn.	3600	IN	MX	5 gw.imfec.edu.cn.
+gs.imfec.edu.cn.	3600	IN	MX	29 gs.imfec.edu.cn.
+gw.imfec.edu.cn.	3600	IN	A	61.138.96.34
+gzb.imfec.edu.cn.	3600	IN	A	211.82.169.14
+gzb.imfec.edu.cn.	3600	IN	MX	5 gw.imfec.edu.cn.
+gzb.imfec.edu.cn.	3600	IN	MX	42 gzb.imfec.edu.cn.
+h3c.imfec.edu.cn.	3600	IN	A	58.18.166.57
+home.imfec.edu.cn.	3600	IN	A	211.82.169.14
+home.imfec.edu.cn.	3600	IN	MX	5 gw.imfec.edu.cn.
+home.imfec.edu.cn.	3600	IN	MX	52 home.imfec.edu.cn.
+hsb.imfec.edu.cn.	3600	IN	A	211.82.169.14
+hsb.imfec.edu.cn.	3600	IN	MX	5 gw.imfec.edu.cn.
+hsb.imfec.edu.cn.	3600	IN	MX	43 hsb.imfec.edu.cn.
+jcb.imfec.edu.cn.	3600	IN	A	211.82.169.14
+jcb.imfec.edu.cn.	3600	IN	MX	5 gw.imfec.edu.cn.
+jcb.imfec.edu.cn.	3600	IN	MX	40 jcb.imfec.edu.cn.
+jj.imfec.edu.cn.	3600	IN	A	211.82.169.14
+jj.imfec.edu.cn.	3600	IN	MX	5 gw.imfec.edu.cn.
+jj.imfec.edu.cn.	3600	IN	MX	33 jj.imfec.edu.cn.
+jlzx.imfec.edu.cn.	3600	IN	A	211.82.169.14
+jlzx.imfec.edu.cn.	3600	IN	MX	5 gw.imfec.edu.cn.
+jlzx.imfec.edu.cn.	3600	IN	MX	27 jlzx.imfec.edu.cn.
+job.imfec.edu.cn.	3600	IN	A	58.18.166.51
+jr.imfec.edu.cn.	3600	IN	A	211.82.169.14
+jr.imfec.edu.cn.	3600	IN	MX	5 gw.imfec.edu.cn.
+jr.imfec.edu.cn.	3600	IN	MX	30 jr.ifec.edu.cn.
+jsj.imfec.edu.cn.	3600	IN	A	211.82.169.14
+jsj.imfec.edu.cn.	3600	IN	MX	5 gw.imfec.edu.cn.
+jsj.imfec.edu.cn.	3600	IN	MX	11 jsj.imfec.edu.cn.
+jw.imfec.edu.cn.	3600	IN	MX	5 gw.imfec.edu.cn.
+jw.imfec.edu.cn.	3600	IN	MX	15 jw.imfec.edu.cn.
+jwc.imfec.edu.cn.	3600	IN	A	211.82.169.14
+jwc.imfec.edu.cn.	3600	IN	MX	5 gw.imfec.edu.cn.
+jwc.imfec.edu.cn.	3600	IN	MX	24 jwc.imfec.edu.cn.
+kj.imfec.edu.cn.	3600	IN	A	211.82.169.14
+kj.imfec.edu.cn.	3600	IN	MX	5 gw.imfec.edu.cn.
+kj.imfec.edu.cn.	3600	IN	MX	28 kj.imfec.edu.cn.
+kyc.imfec.edu.cn.	3600	IN	A	211.82.169.14
+kyc.imfec.edu.cn.	3600	IN	MX	5 gw.imfec.edu.cn.
+kyc.imfec.edu.cn.	3600	IN	MX	25 kyc.imfec.edu.cn.
+lj.imfec.edu.cn.	3600	IN	A	211.82.169.14
+lj.imfec.edu.cn.	3600	IN	MX	5 gw.imfec.edu.cn.
+lj.imfec.edu.cn.	3600	IN	MX	32 lj.imfec.edu.cn.
+ltb.imfec.edu.cn.	3600	IN	A	211.82.169.14
+ltb.imfec.edu.cn.	3600	IN	MX	5 gw.imfec.edu.cn.
+ltb.imfec.edu.cn.	3600	IN	MX	18 ltb.imfec.edu.cn.
+mail.imfec.edu.cn.	3600	IN	A	121.193.69.66
+mail.imfec.edu.cn.	3600	IN	MX	5 gw.imfec.edu.cn.
+mail.imfec.edu.cn.	3600	IN	MX	10 mail.imfec.edu.cn.
+mlb.imfec.edu.cn.	3600	IN	A	211.82.169.14
+mlb.imfec.edu.cn.	3600	IN	MX	5 gw.imfec.edu.cn.
+mlb.imfec.edu.cn.	3600	IN	MX	39 mlb.imfec.edu.cn.
+nics.imfec.edu.cn.	3600	IN	A	58.18.166.52
+online.imfec.edu.cn.	3600	IN	A	121.193.69.73
+portal.imfec.edu.cn.	3600	IN	A	58.18.166.59
+pxb.imfec.edu.cn.	3600	IN	A	211.82.169.14
+pxb.imfec.edu.cn.	3600	IN	MX	5 gw.imfec.edu.cn.
+pxb.imfec.edu.cn.	3600	IN	MX	44 pxb.imfec.edu.cn.
+rsc.imfec.edu.cn.	3600	IN	A	211.82.169.14
+rsc.imfec.edu.cn.	3600	IN	MX	5 gw.imfec.edu.cn.
+rsc.imfec.edu.cn.	3600	IN	MX	20 rsc.imfec.edu.cn.
+rtx.imfec.edu.cn.	3600	IN	A	61.138.96.40
+sc.imfec.edu.cn.	3600	IN	A	58.18.166.56
+sx.imfec.edu.cn.	3600	IN	A	211.82.169.14
+sx.imfec.edu.cn.	3600	IN	MX	5 gw.imfec.edu.cn.
+sx.imfec.edu.cn.	3600	IN	MX	35 sx.imfec.edu.cn.
+test.imfec.edu.cn.	3600	IN	MX	5 gw.imfec.edu.cn.
+test.imfec.edu.cn.	3600	IN	MX	50 test.imfec.edu.cn.
+tj.imfec.edu.cn.	3600	IN	A	211.82.169.14
+tj.imfec.edu.cn.	3600	IN	MX	5 gw.imfec.edu.cn.
+tj.imfec.edu.cn.	3600	IN	MX	38 tj.imfec.edu.cn.
+tsg.imfec.edu.cn.	3600	IN	A	211.82.169.14
+tsg.imfec.edu.cn.	3600	IN	MX	5 gw.imfec.edu.cn.
+tsg.imfec.edu.cn.	3600	IN	MX	46 tsg.imfec.edu.cn.
+tupian.imfec.edu.cn.	3600	IN	A	58.18.166.52
+tv.imfec.edu.cn.	3600	IN	A	121.193.69.58
+tw.imfec.edu.cn.	3600	IN	A	211.82.169.14
+tw.imfec.edu.cn.	3600	IN	MX	5 gw.imfec.edu.cn.
+tw.imfec.edu.cn.	3600	IN	MX	17 tw.imfec.edu.cn.
+tyb.imfec.edu.cn.	3600	IN	A	211.82.169.14
+tyb.imfec.edu.cn.	3600	IN	MX	5 gw.imfec.edu.cn.
+tyb.imfec.edu.cn.	3600	IN	MX	41 tyb.imfec.edu.cn.
+tzz.imfec.edu.cn.	3600	IN	A	211.82.169.14
+tzz.imfec.edu.cn.	3600	IN	MX	5 gw.imfec.edu.cn.
+tzz.imfec.edu.cn.	3600	IN	MX	48 tzz.imfec.edu.cn.
+vod.imfec.edu.cn.	3600	IN	A	121.193.69.190
+wang.imfec.edu.cn.	3600	IN	MX	5 gw.imfec.edu.cn.
+wang.imfec.edu.cn.	3600	IN	MX	49 wang.imfec.edu.cn.
+wlan.imfec.edu.cn.	3600	IN	A	211.82.167.2
+wlzx.imfec.edu.cn.	3600	IN	MX	5 gw.imfec.edu.cn.
+wlzx.imfec.edu.cn.	3600	IN	MX	53 wlzx.imfec.edu.cn.
+wmwy.imfec.edu.cn.	3600	IN	A	211.82.169.14
+wmwy.imfec.edu.cn.	3600	IN	MX	5 gw.imfec.edu.cn.
+wmwy.imfec.edu.cn.	3600	IN	MX	34 wmwy.imfec.edu.cn.
+www.imfec.edu.cn.	3600	IN	A	61.138.96.39
+xcb.imfec.edu.cn.	3600	IN	A	211.82.169.14
+xcb.imfec.edu.cn.	3600	IN	MX	5 gw.imfec.edu.cn.
+xcb.imfec.edu.cn.	3600	IN	MX	16 xcb.imfec.edu.cn.
+xsc.imfec.edu.cn.	3600	IN	A	211.82.169.14
+xsc.imfec.edu.cn.	3600	IN	MX	5 gw.imfec.edu.cn.
+xsc.imfec.edu.cn.	3600	IN	MX	22 xsc.imfec.edu.cn.
+xuebao.imfec.edu.cn.	3600	IN	A	125.76.229.22
+yb.imfec.edu.cn.	3600	IN	A	211.82.169.14
+yb.imfec.edu.cn.	3600	IN	MX	5 gw.imfec.edu.cn.
+yb.imfec.edu.cn.	3600	IN	MX	19 yb.imfec.edu.cn.
+zhzb.imfec.edu.cn.	3600	IN	A	58.18.166.51
+zjc.imfec.edu.cn.	3600	IN	A	58.18.166.51
+zs.imfec.edu.cn.	3600	IN	A	58.18.166.51
+zwc.imfec.edu.cn.	3600	IN	A	211.82.169.14
+zwc.imfec.edu.cn.	3600	IN	MX	5 gw.imfec.edu.cn.
+zwc.imfec.edu.cn.	3600	IN	MX	26 zwc.imfec.edu.cn.
+zzb.imfec.edu.cn.	3600	IN	A	211.82.169.14
+zzb.imfec.edu.cn.	3600	IN	MX	5 gw.imfec.edu.cn.
+zzb.imfec.edu.cn.	3600	IN	MX	14 zzb.imfec.edu.cn.
+imfec.edu.cn.		3600	IN	SOA	dns2.imfec.edu.cn. root.imfec.edu.cn. 2014041408 180 600 604800 3600
+;; Query time: 22 msec
+;; SERVER: 211.82.169.6#53(211.82.169.6)
+;; WHEN: Mon Apr 21 20:49:16 中国标准时间 2014
+;; XFR size: 158 records (messages 1, bytes 2888)
+

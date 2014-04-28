@@ -1,0 +1,40 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns1.sirt.edu.cn axfr sirt.edu.cn
+; (1 server found)
+;; global options: +cmd
+sirt.edu.cn.		86400	IN	SOA	dns1.sirt.edu.cn. root.dns1.sirt.edu.cn. 2007082002 10800 3600 604800 3600
+sirt.edu.cn.		86400	IN	NS	dns1.sirt.edu.cn.
+sirt.edu.cn.		86400	IN	NS	dns2.sirt.edu.cn.
+sirt.edu.cn.		86400	IN	MX	15 mail.sirt.edu.cn.
+chgcx.sirt.edu.cn.	86400	IN	A	222.30.160.6
+dns1.sirt.edu.cn.	86400	IN	A	222.30.160.1
+dns2.sirt.edu.cn.	86400	IN	A	222.30.160.2
+dqgcx.sirt.edu.cn.	86400	IN	A	222.30.160.6
+gjgcb.sirt.edu.cn.	86400	IN	A	222.30.160.6
+hqjt.sirt.edu.cn.	86400	IN	A	222.30.160.6
+jcc.sirt.edu.cn.	86400	IN	A	222.30.160.6
+jdgcx.sirt.edu.cn.	86400	IN	A	222.30.160.6
+jjglx.sirt.edu.cn.	86400	IN	A	222.30.160.6
+jtx.sirt.edu.cn.	86400	IN	A	222.30.160.6
+jzx.sirt.edu.cn.	86400	IN	A	222.30.160.6
+kjc.sirt.edu.cn.	86400	IN	A	222.30.160.6
+m.sirt.edu.cn.		86400	IN	A	123.125.112.61
+mail.sirt.edu.cn.	86400	IN	A	121.28.64.222
+oa.sirt.edu.cn.		86400	IN	A	222.30.167.100
+office.sirt.edu.cn.	86400	IN	A	222.30.160.6
+rwskx.sirt.edu.cn.	86400	IN	A	222.30.160.6
+tw.sirt.edu.cn.		86400	IN	A	222.30.160.6
+tyb.sirt.edu.cn.	86400	IN	A	222.30.160.6
+www.sirt.edu.cn.	86400	IN	A	222.30.160.6
+wyx.sirt.edu.cn.	86400	IN	A	222.30.160.6
+xcb.sirt.edu.cn.	86400	IN	A	222.30.160.6
+xsc.sirt.edu.cn.	86400	IN	A	222.30.160.6
+xxgcx.sirt.edu.cn.	86400	IN	A	222.30.160.6
+zsjyc.sirt.edu.cn.	86400	IN	A	222.30.160.6
+zt.sirt.edu.cn.		86400	IN	A	222.30.160.6
+sirt.edu.cn.		86400	IN	SOA	dns1.sirt.edu.cn. root.dns1.sirt.edu.cn. 2007082002 10800 3600 604800 3600
+;; Query time: 24 msec
+;; SERVER: 222.30.160.1#53(222.30.160.1)
+;; WHEN: Mon Apr 21 20:49:12 中国标准时间 2014
+;; XFR size: 31 records (messages 1, bytes 688)
+

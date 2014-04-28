@@ -1,0 +1,18 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @ns.pvtc.edu.cn axfr pvtc.edu.cn
+; (1 server found)
+;; global options: +cmd
+pvtc.edu.cn.		86400	IN	SOA	ns.pvtc.edu.cn. niuyl.cernet.com. 121219 604800 86400 2419200 86400
+pvtc.edu.cn.		86400	IN	NS	ns.pvtc.edu.cn.
+35.pvtc.edu.cn.		86400	IN	CNAME	www.pvtc.edu.cn.
+alumni.pvtc.edu.cn.	86400	IN	CNAME	www.pvtc.edu.cn.
+jw.pvtc.edu.cn.		86400	IN	A	222.222.67.195
+km.pvtc.edu.cn.		86400	IN	A	222.222.67.194
+ns.pvtc.edu.cn.		86400	IN	A	202.206.232.21
+www.pvtc.edu.cn.	86400	IN	A	118.26.204.214
+pvtc.edu.cn.		86400	IN	SOA	ns.pvtc.edu.cn. niuyl.cernet.com. 121219 604800 86400 2419200 86400
+;; Query time: 16 msec
+;; SERVER: 202.206.232.21#53(202.206.232.21)
+;; WHEN: Mon Apr 21 20:48:38 中国标准时间 2014
+;; XFR size: 9 records (messages 1, bytes 246)
+

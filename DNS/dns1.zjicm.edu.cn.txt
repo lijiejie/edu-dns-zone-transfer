@@ -1,0 +1,144 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns1.zjicm.edu.cn axfr zjicm.edu.cn
+; (1 server found)
+;; global options: +cmd
+zjicm.edu.cn.		3600	IN	SOA	dns1.zjicm.edu.cn. root.zjicm.edu.cn. 2014041702 30 30 3600 3600
+zjicm.edu.cn.		3600	IN	TXT	"v=spf1" "ip4:210.33.168.131" "-all"
+zjicm.edu.cn.		3600	IN	MX	10 mail.zjicm.edu.cn.
+zjicm.edu.cn.		3600	IN	NS	dns1.zjicm.edu.cn.
+active.zjicm.edu.cn.	3600	IN	A	218.75.124.139
+adc.zjicm.edu.cn.	3600	IN	A	218.75.124.139
+arthistory.zjicm.edu.cn. 3600	IN	A	218.75.124.136
+baolei.zjicm.edu.cn.	3600	IN	A	115.236.69.22
+bbs.zjicm.edu.cn.	3600	IN	A	218.75.124.142
+bysj.zjicm.edu.cn.	3600	IN	A	218.75.124.139
+byzc.zjicm.edu.cn.	3600	IN	CNAME	qr2029124011.xncun.com.
+cbywh.zjicm.edu.cn.	3600	IN	A	218.75.124.141
+cis.zjicm.edu.cn.	3600	IN	A	218.75.124.139
+cjrz.zjicm.edu.cn.	3600	IN	A	218.75.124.139
+cjxy.zjicm.edu.cn.	3600	IN	A	218.75.124.141
+cmccapp.zjicm.edu.cn.	3600	IN	A	218.75.124.139
+cmxw.zjicm.edu.cn.	3600	IN	A	218.75.124.141
+cx.zjicm.edu.cn.	3600	IN	A	122.224.75.173
+cyy.zjicm.edu.cn.	3600	IN	A	218.75.124.141
+dhxy.zjicm.edu.cn.	3600	IN	A	218.75.124.141
+djcg.zjicm.edu.cn.	3600	IN	A	218.75.124.141
+dm.zjicm.edu.cn.	3600	IN	A	218.75.124.141
+dns1.zjicm.edu.cn.	3600	IN	A	210.33.168.250
+dns2.zjicm.edu.cn.	3600	IN	A	210.33.168.251
+dsjs.zjicm.edu.cn.	3600	IN	A	218.75.124.139
+dt.zjicm.edu.cn.	3600	IN	A	218.75.124.141
+dv.zjicm.edu.cn.	3600	IN	A	122.224.75.170
+dwb.zjicm.edu.cn.	3600	IN	A	218.75.124.141
+dyxy.zjicm.edu.cn.	3600	IN	A	218.75.124.139
+dzzc.zjicm.edu.cn.	3600	IN	A	218.75.124.138
+eid.zjicm.edu.cn.	3600	IN	A	218.75.124.141
+email.zjicm.edu.cn.	3600	IN	A	218.75.124.139
+freshman.zjicm.edu.cn.	3600	IN	A	122.224.75.172
+gbds.zjicm.edu.cn.	3600	IN	A	218.75.124.141
+gbdsjs.zjicm.edu.cn.	3600	IN	A	218.75.124.139
+gcol.zjicm.edu.cn.	3600	IN	A	218.75.124.141
+gh.zjicm.edu.cn.	3600	IN	A	218.75.124.141
+gjc.zjicm.edu.cn.	3600	IN	A	218.75.124.141
+gjjy.zjicm.edu.cn.	3600	IN	A	218.75.124.141
+gjzx.zjicm.edu.cn.	3600	IN	A	218.75.124.141
+glxy.zjicm.edu.cn.	3600	IN	A	218.75.124.139
+gtb.zjicm.edu.cn.	3600	IN	A	218.75.124.139
+gxky.zjicm.edu.cn.	3600	IN	A	218.75.124.139
+gyhq.zjicm.edu.cn.	3600	IN	A	218.75.124.141
+gyzc.zjicm.edu.cn.	3600	IN	A	218.75.124.141
+hq.zjicm.edu.cn.	3600	IN	A	218.75.124.139
+iasp2012.zjicm.edu.cn.	3600	IN	A	218.75.124.139
+imap.zjicm.edu.cn.	3600	IN	A	218.75.124.131
+info.zjicm.edu.cn.	3600	IN	A	218.75.124.139
+iptv.zjicm.edu.cn.	3600	IN	A	218.75.124.139
+job.zjicm.edu.cn.	3600	IN	A	218.75.124.139
+job1.zjicm.edu.cn.	3600	IN	A	218.75.124.141
+jsjx.zjicm.edu.cn.	3600	IN	A	218.75.124.139
+jwc.zjicm.edu.cn.	3600	IN	A	218.75.124.138
+kxfzg.zjicm.edu.cn.	3600	IN	A	218.75.124.141
+kyc.zjicm.edu.cn.	3600	IN	A	218.75.124.139
+lhcphoto.zjicm.edu.cn.	3600	IN	A	218.75.124.136
+lib.zjicm.edu.cn.	3600	IN	A	218.75.124.135
+livebos.zjicm.edu.cn.	3600	IN	A	218.75.124.139
+ls.zjicm.edu.cn.	3600	IN	A	218.75.124.141
+ltx.zjicm.edu.cn.	3600	IN	A	218.75.124.141
+lxxt.zjicm.edu.cn.	3600	IN	A	218.75.124.134
+mail.zjicm.edu.cn.	3600	IN	TXT	"v=spf1" "ip4:210.33.168.131" "-all"
+mail.zjicm.edu.cn.	3600	IN	A	210.33.168.131
+mjsy.zjicm.edu.cn.	3600	IN	A	218.75.124.141
+mlib.zjicm.edu.cn.	3600	IN	A	218.75.124.139
+nbaer.zjicm.edu.cn.	3600	IN	A	218.75.124.141
+newmedia.zjicm.edu.cn.	3600	IN	A	218.75.124.137
+news.zjicm.edu.cn.	3600	IN	A	218.75.124.142
+news1.zjicm.edu.cn.	3600	IN	A	10.1.254.33
+nl.zjicm.edu.cn.	3600	IN	A	218.75.124.134
+nmc.zjicm.edu.cn.	3600	IN	A	218.75.124.139
+online.zjicm.edu.cn.	3600	IN	A	218.75.124.142
+pioneer.zjicm.edu.cn.	3600	IN	A	218.75.124.139
+pop3.zjicm.edu.cn.	3600	IN	A	218.75.124.131
+portal.zjicm.edu.cn.	3600	IN	A	218.75.124.139
+portal2.zjicm.edu.cn.	3600	IN	A	218.75.124.139
+publishing.zjicm.edu.cn. 3600	IN	A	218.75.124.141
+qqmail.zjicm.edu.cn.	3600	IN	MX	5 mxbiz1.qq.com.
+qqmail.zjicm.edu.cn.	3600	IN	MX	10 mxbiz2.qq.com.
+radio.zjicm.edu.cn.	3600	IN	A	218.75.124.142
+real.zjicm.edu.cn.	3600	IN	A	218.75.124.136
+rsc.zjicm.edu.cn.	3600	IN	A	218.75.124.141
+rsxt.zjicm.edu.cn.	3600	IN	A	218.75.124.139
+skb.zjicm.edu.cn.	3600	IN	A	218.75.124.139
+smtp.zjicm.edu.cn.	3600	IN	A	218.75.124.131
+spjcfx.zjicm.edu.cn.	3600	IN	A	218.75.124.139
+stu.zjicm.edu.cn.	3600	IN	MX	10 mxhm.qiye.163.com.
+stu.zjicm.edu.cn.	3600	IN	TXT	"v=spf1" "include:spf.163.com" "-all"
+mail.stu.zjicm.edu.cn.	3600	IN	CNAME	mailhz.qiye.163.com.
+sucai.zjicm.edu.cn.	3600	IN	A	218.75.124.139
+sydst.zjicm.edu.cn.	3600	IN	A	218.75.124.141
+syjx.zjicm.edu.cn.	3600	IN	A	218.75.124.141
+syzx.zjicm.edu.cn.	3600	IN	A	218.75.124.141
+tdinfo.zjicm.edu.cn.	3600	IN	A	218.75.124.141
+tv.zjicm.edu.cn.	3600	IN	A	218.75.124.142
+tved.zjicm.edu.cn.	3600	IN	A	218.75.124.139
+tw.zjicm.edu.cn.	3600	IN	A	218.75.124.139
+txweb.zjicm.edu.cn.	3600	IN	A	218.75.124.141
+txxq.zjicm.edu.cn.	3600	IN	A	218.75.124.141
+v.zjicm.edu.cn.		3600	IN	A	218.75.124.142
+vpn.zjicm.edu.cn.	3600	IN	A	115.236.69.21
+vpn1.zjicm.edu.cn.	3600	IN	A	218.75.124.140
+whcyxy.zjicm.edu.cn.	3600	IN	A	218.75.124.141
+www.zjicm.edu.cn.	3600	IN	A	218.75.124.142
+www1.zjicm.edu.cn.	3600	IN	A	218.75.124.139
+www2.zjicm.edu.cn.	3600	IN	A	218.75.124.142
+wxy.zjicm.edu.cn.	3600	IN	A	218.75.124.141
+xb.zjicm.edu.cn.	3600	IN	A	218.75.124.139
+xcb.zjicm.edu.cn.	3600	IN	A	218.75.124.141
+xftxs.zjicm.edu.cn.	3600	IN	A	218.75.124.139
+xgxt.zjicm.edu.cn.	3600	IN	A	122.224.75.173
+xjzx.zjicm.edu.cn.	3600	IN	A	218.75.124.141
+xjzx1.zjicm.edu.cn.	3600	IN	A	218.75.124.141
+xk1.zjicm.edu.cn.	3600	IN	A	218.75.124.139
+xk2.zjicm.edu.cn.	3600	IN	A	218.75.124.139
+xq.zjicm.edu.cn.	3600	IN	A	218.75.124.141
+xsg.zjicm.edu.cn.	3600	IN	A	218.75.124.141
+xwxy.zjicm.edu.cn.	3600	IN	A	218.75.124.141
+xxgk.zjicm.edu.cn.	3600	IN	A	218.75.124.141
+xy.zjicm.edu.cn.	3600	IN	A	218.75.124.141
+xysns.zjicm.edu.cn.	3600	IN	A	218.75.124.139
+yjs.zjicm.edu.cn.	3600	IN	A	218.75.124.136
+yjsw.zjicm.edu.cn.	3600	IN	A	218.75.124.139
+yjszs.zjicm.edu.cn.	3600	IN	A	218.75.124.139
+ysys.zjicm.edu.cn.	3600	IN	A	218.75.124.141
+yw.zjicm.edu.cn.	3600	IN	A	218.75.124.139
+yxxt.zjicm.edu.cn.	3600	IN	A	122.224.75.172
+yyxy.zjicm.edu.cn.	3600	IN	A	218.75.124.141
+zjcmtw.zjicm.edu.cn.	3600	IN	A	218.75.124.132
+zsbm.zjicm.edu.cn.	3600	IN	A	218.75.124.139
+zsw.zjicm.edu.cn.	3600	IN	A	218.75.124.132
+zsw1.zjicm.edu.cn.	3600	IN	A	218.75.124.132
+zswcx.zjicm.edu.cn.	3600	IN	A	218.75.124.139
+zjicm.edu.cn.		3600	IN	SOA	dns1.zjicm.edu.cn. root.zjicm.edu.cn. 2014041702 30 30 3600 3600
+;; Query time: 252 msec
+;; SERVER: 210.33.168.250#53(210.33.168.250)
+;; WHEN: Mon Apr 21 20:55:58 中国标准时间 2014
+;; XFR size: 135 records (messages 1, bytes 3023)
+

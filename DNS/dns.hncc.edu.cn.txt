@@ -1,0 +1,94 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns.hncc.edu.cn axfr hncc.edu.cn
+; (1 server found)
+;; global options: +cmd
+hncc.edu.cn.		86400	IN	SOA	dns.hncc.edu.cn. root.dns.hncc.edu.cn. 2008111500 28800 14400 3600000 86400
+hncc.edu.cn.		86400	IN	NS	dns.hncc.edu.cn.
+hncc.edu.cn.		86400	IN	MX	10 mail.hncc.edu.cn.
+4s.hncc.edu.cn.		86400	IN	A	218.28.186.202
+60.hncc.edu.cn.		86400	IN	A	218.28.186.202
+auto.hncc.edu.cn.	86400	IN	A	218.28.186.202
+blog.hncc.edu.cn.	86400	IN	A	218.28.186.202
+bwc.hncc.edu.cn.	86400	IN	A	218.28.186.202
+cisco.hncc.edu.cn.	86400	IN	A	218.28.186.202
+crjy.hncc.edu.cn.	86400	IN	A	218.28.186.202
+cwc.hncc.edu.cn.	86400	IN	A	218.28.186.202
+db.hncc.edu.cn.		86400	IN	A	218.28.186.202
+dgsx.hncc.edu.cn.	86400	IN	A	218.28.186.202
+dns.hncc.edu.cn.	86400	IN	A	125.219.124.8
+ftp.hncc.edu.cn.	86400	IN	A	218.28.186.196
+gcjxfdj.hncc.edu.cn.	86400	IN	A	218.28.186.198
+ggjcb.hncc.edu.cn.	86400	IN	A	218.28.186.202
+ggjs.hncc.edu.cn.	86400	IN	A	218.28.186.202
+gzsb.hncc.edu.cn.	86400	IN	A	218.28.186.202
+houqin.hncc.edu.cn.	86400	IN	A	218.28.186.202
+hq.hncc.edu.cn.		86400	IN	A	218.28.186.202
+ietc.hncc.edu.cn.	86400	IN	A	218.28.186.202
+jd.hncc.edu.cn.		86400	IN	A	218.28.186.202
+job.hncc.edu.cn.	86400	IN	A	218.29.140.102
+jpkc.hncc.edu.cn.	86400	IN	A	218.28.186.198
+jpzygxkc.hncc.edu.cn.	86400	IN	A	218.28.186.198
+jsb.hncc.edu.cn.	86400	IN	A	218.28.186.202
+jw.hncc.edu.cn.		86400	IN	A	218.28.186.202
+jwc.hncc.edu.cn.	86400	IN	A	218.28.186.202
+jx.hncc.edu.cn.		86400	IN	A	218.28.186.202
+jxjs.hncc.edu.cn.	86400	IN	A	218.28.186.202
+jxjyxy.hncc.edu.cn.	86400	IN	A	218.28.186.202
+jy.hncc.edu.cn.		86400	IN	A	218.29.140.102
+jypz.hncc.edu.cn.	86400	IN	A	218.28.186.202
+kyc.hncc.edu.cn.	86400	IN	A	218.28.186.202
+library.hncc.edu.cn.	86400	IN	A	218.28.186.202
+logistics.hncc.edu.cn.	86400	IN	A	218.28.186.202
+mail.hncc.edu.cn.	86400	IN	A	218.28.186.195
+manage.hncc.edu.cn.	86400	IN	A	218.28.186.202
+meta.hncc.edu.cn.	86400	IN	A	218.28.186.202
+metc.hncc.edu.cn.	86400	IN	A	218.28.186.202
+nav.hncc.edu.cn.	86400	IN	A	218.28.186.202
+nbw.hncc.edu.cn.	86400	IN	A	218.28.186.202
+network.hncc.edu.cn.	86400	IN	A	218.28.186.202
+nic.hncc.edu.cn.	86400	IN	A	218.28.186.202
+oa.hncc.edu.cn.		86400	IN	A	218.28.186.200
+oab.hncc.edu.cn.	86400	IN	A	218.28.186.198
+oldweb.hncc.edu.cn.	86400	IN	A	218.28.186.202
+pic.hncc.edu.cn.	86400	IN	A	218.28.186.202
+picn.hncc.edu.cn.	86400	IN	A	218.28.186.202
+pop3.hncc.edu.cn.	86400	IN	A	218.28.186.195
+qzlx.hncc.edu.cn.	86400	IN	A	218.28.186.202
+road.hncc.edu.cn.	86400	IN	A	218.28.186.202
+rsc.hncc.edu.cn.	86400	IN	A	218.28.186.202
+rsp.hncc.edu.cn.	86400	IN	A	218.28.186.202
+rtx.hncc.edu.cn.	86400	IN	A	218.28.186.199
+rwsk.hncc.edu.cn.	86400	IN	A	218.28.186.202
+sfjs.hncc.edu.cn.	86400	IN	A	218.28.186.202
+slx.hncc.edu.cn.	86400	IN	A	218.28.186.202
+smtp.hncc.edu.cn.	86400	IN	A	218.28.186.195
+spgk.hncc.edu.cn.	86400	IN	A	218.28.186.198
+szb.hncc.edu.cn.	86400	IN	A	218.28.186.202
+test.hncc.edu.cn.	86400	IN	A	218.28.186.202
+tw.hncc.edu.cn.		86400	IN	A	218.28.186.202
+vod.hncc.edu.cn.	86400	IN	A	218.28.186.202
+webstat.hncc.edu.cn.	86400	IN	A	218.28.186.202
+wlxxjs.hncc.edu.cn.	86400	IN	A	218.28.186.198
+www.hncc.edu.cn.	86400	IN	A	218.28.186.194
+wytyb.hncc.edu.cn.	86400	IN	A	218.28.186.202
+xcb.hncc.edu.cn.	86400	IN	A	218.28.186.202
+xfjs.hncc.edu.cn.	86400	IN	A	218.28.186.202
+xgc.hncc.edu.cn.	86400	IN	A	218.28.186.202
+xqhzc.hncc.edu.cn.	86400	IN	A	218.28.186.202
+xqjs.hncc.edu.cn.	86400	IN	A	218.28.186.202
+xygh.hncc.edu.cn.	86400	IN	A	218.28.186.202
+yb.hncc.edu.cn.		86400	IN	A	218.28.186.202
+ydb.hncc.edu.cn.	86400	IN	A	218.28.186.202
+zcc.hncc.edu.cn.	86400	IN	A	218.28.186.202
+zfsoft.hncc.edu.cn.	86400	IN	A	218.28.186.203
+zjjt.hncc.edu.cn.	86400	IN	A	218.28.186.202
+zsjyc.hncc.edu.cn.	86400	IN	A	218.28.186.202
+zszx.hncc.edu.cn.	86400	IN	A	218.28.186.202
+zyk.hncc.edu.cn.	86400	IN	A	218.28.186.198
+zzb.hncc.edu.cn.	86400	IN	A	218.28.186.202
+hncc.edu.cn.		86400	IN	SOA	dns.hncc.edu.cn. root.dns.hncc.edu.cn. 2008111500 28800 14400 3600000 86400
+;; Query time: 193 msec
+;; SERVER: 125.219.124.8#53(125.219.124.8)
+;; WHEN: Mon Apr 21 20:59:18 中国标准时间 2014
+;; XFR size: 85 records (messages 1, bytes 1827)
+

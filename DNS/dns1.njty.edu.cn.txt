@@ -1,0 +1,52 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns1.njty.edu.cn axfr njty.edu.cn
+; (1 server found)
+;; global options: +cmd
+njty.edu.cn.		86400	IN	SOA	dns1.njty.edu.cn. root.njty.edu.cn. 2008040801 28800 14400 3628800 86400
+njty.edu.cn.		86400	IN	NS	dns1.njty.edu.cn.
+njty.edu.cn.		86400	IN	MX	10 mail.njty.edu.cn.
+3g.njty.edu.cn.		86400	IN	A	222.192.176.5
+dns1.njty.edu.cn.	86400	IN	A	222.192.176.1
+dns2.njty.edu.cn.	86400	IN	A	222.192.176.6
+dpstar.njty.edu.cn.	86400	IN	A	222.192.178.46
+ecard.njty.edu.cn.	86400	IN	A	222.192.178.1
+ecard2.njty.edu.cn.	86400	IN	A	222.192.178.44
+english.njty.edu.cn.	86400	IN	A	222.192.176.5
+fresh.njty.edu.cn.	86400	IN	A	222.192.176.66
+ids.njty.edu.cn.	86400	IN	A	222.192.178.41
+ids1.njty.edu.cn.	86400	IN	A	222.192.178.42
+imp.njty.edu.cn.	86400	IN	A	222.192.178.46
+infopub.njty.edu.cn.	86400	IN	A	222.192.176.5
+jpkc.njty.edu.cn.	86400	IN	A	222.192.176.245
+jpkcsb.njty.edu.cn.	86400	IN	A	222.192.176.247
+jwc.njty.edu.cn.	86400	IN	A	222.192.176.248
+jwxt.njty.edu.cn.	86400	IN	A	222.192.176.243
+kygl.njty.edu.cn.	86400	IN	A	192.168.10.11
+lib.njty.edu.cn.	86400	IN	A	222.192.176.200
+book.lib.njty.edu.cn.	86400	IN	A	222.192.176.203
+mail.njty.edu.cn.	86400	IN	A	222.192.176.2
+my.njty.edu.cn.		86400	IN	A	222.192.178.46
+news.njty.edu.cn.	86400	IN	A	222.192.176.5
+oa.njty.edu.cn.		86400	IN	A	222.192.176.7
+oa1.njty.edu.cn.	86400	IN	A	222.192.176.7
+oa2.njty.edu.cn.	86400	IN	A	222.192.176.17
+research.njty.edu.cn.	86400	IN	A	222.192.176.5
+rs.njty.edu.cn.		86400	IN	A	222.192.178.46
+smail.njty.edu.cn.	86400	IN	A	222.192.176.2
+sms.njty.edu.cn.	86400	IN	A	222.192.176.67
+test.njty.edu.cn.	86400	IN	CNAME	oa.njty.edu.cn.
+tkjs.njty.edu.cn.	86400	IN	A	222.192.176.242
+vpn.njty.edu.cn.	86400	IN	A	222.192.176.4
+wap.njty.edu.cn.	86400	IN	A	222.192.176.5
+was.njty.edu.cn.	86400	IN	A	222.192.178.46
+www.njty.edu.cn.	86400	IN	A	222.192.176.5
+www1.njty.edu.cn.	86400	IN	A	222.192.176.5
+www2.njty.edu.cn.	86400	IN	A	222.192.176.8
+youth.njty.edu.cn.	86400	IN	A	222.192.176.5
+zhcx.njty.edu.cn.	86400	IN	A	222.192.178.46
+njty.edu.cn.		86400	IN	SOA	dns1.njty.edu.cn. root.njty.edu.cn. 2008040801 28800 14400 3628800 86400
+;; Query time: 49 msec
+;; SERVER: 222.192.176.1#53(222.192.176.1)
+;; WHEN: Mon Apr 21 20:52:20 中国标准时间 2014
+;; XFR size: 43 records (messages 1, bytes 954)
+

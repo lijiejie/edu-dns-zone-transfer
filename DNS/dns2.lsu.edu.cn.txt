@@ -1,0 +1,91 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns2.lsu.edu.cn axfr lsu.edu.cn
+; (1 server found)
+;; global options: +cmd
+lsu.edu.cn.		43200	IN	SOA	dns1.lsu.edu.cn. admin.lsu.edu.cn. 146 3600 900 3600000 3600
+lsu.edu.cn.		43200	IN	A	202.107.249.246
+lsu.edu.cn.		43200	IN	NS	dns1.lsu.edu.cn.
+lsu.edu.cn.		43200	IN	NS	dns2.lsu.edu.cn.
+lsu.edu.cn.		43200	IN	MX	10 mail.lsu.edu.cn.
+*.lsu.edu.cn.		43200	IN	A	202.107.249.242
+acms.lsu.edu.cn.	43200	IN	A	202.107.249.238
+bb.lsu.edu.cn.		43200	IN	A	202.107.249.236
+bbs.lsu.edu.cn.		43200	IN	A	59.79.130.71
+ca.lsu.edu.cn.		43200	IN	A	61.153.66.41
+card.lsu.edu.cn.	43200	IN	A	202.107.249.238
+cjgl.lsu.edu.cn.	43200	IN	A	61.153.66.38
+cmcc.lsu.edu.cn.	43200	IN	A	211.140.166.22
+dd.lsu.edu.cn.		43200	IN	A	202.107.249.230
+dmt.lsu.edu.cn.		43200	IN	A	202.107.249.227
+dns1.lsu.edu.cn.	43200	IN	A	59.79.130.11
+dns2.lsu.edu.cn.	43200	IN	A	59.79.130.12
+ftp.lsu.edu.cn.		43200	IN	A	202.107.249.253
+gl.lsu.edu.cn.		43200	IN	A	202.107.249.238
+gxy.lsu.edu.cn.		43200	IN	A	202.107.249.226
+*.gxy.lsu.edu.cn.	43200	IN	A	202.107.249.226
+ftp.gxy.lsu.edu.cn.	43200	IN	A	202.107.249.228
+host50.lsu.edu.cn.	43200	IN	A	202.107.249.229
+hqfwserver.lsu.edu.cn.	43200	IN	A	202.107.249.238
+i.lsu.edu.cn.		43200	IN	A	61.153.66.42
+iptv.lsu.edu.cn.	43200	IN	A	61.153.66.34
+it.lsu.edu.cn.		43200	IN	A	202.107.249.241
+jsj.lsu.edu.cn.		43200	IN	A	202.107.249.226
+*.jsj.lsu.edu.cn.	43200	IN	A	202.107.249.226
+ftp.jsj.lsu.edu.cn.	43200	IN	A	202.107.249.228
+jsjlabs.lsu.edu.cn.	43200	IN	A	202.107.249.230
+*.jsjlabs.lsu.edu.cn.	43200	IN	A	202.107.249.230
+jwgl.lsu.edu.cn.	43200	IN	A	202.107.249.237
+jwgl1.lsu.edu.cn.	43200	IN	A	202.107.249.237
+jwgl2.lsu.edu.cn.	43200	IN	A	202.107.249.237
+jwgl3.lsu.edu.cn.	43200	IN	A	202.107.249.237
+jxgc.lsu.edu.cn.	43200	IN	A	202.107.249.228
+*.jxgc.lsu.edu.cn.	43200	IN	A	202.107.249.228
+kj.lsu.edu.cn.		43200	IN	A	202.107.249.253
+l.lsu.edu.cn.		43200	IN	A	202.107.249.250
+lgsofts.lsu.edu.cn.	43200	IN	A	202.107.249.238
+lib.lsu.edu.cn.		43200	IN	A	202.107.249.234
+s13.lib.lsu.edu.cn.	43200	IN	A	59.79.130.10
+s2.lib.lsu.edu.cn.	43200	IN	A	202.107.249.242
+s3.lib.lsu.edu.cn.	43200	IN	A	202.107.249.234
+s4.lib.lsu.edu.cn.	43200	IN	A	202.107.249.232
+s5.lib.lsu.edu.cn.	43200	IN	A	202.107.249.233
+s6.lib.lsu.edu.cn.	43200	IN	A	202.107.249.233
+s7.lib.lsu.edu.cn.	43200	IN	A	59.79.130.7
+login.lsu.edu.cn.	43200	IN	A	202.107.249.241
+lxy.lsu.edu.cn.		43200	IN	A	202.107.249.242
+*.lxy.lsu.edu.cn.	43200	IN	A	202.107.249.242
+ftp.lxy.lsu.edu.cn.	43200	IN	A	202.107.249.238
+m.lsu.edu.cn.		43200	IN	CNAME	siteapp.baidu.com.
+mail.lsu.edu.cn.	43200	IN	A	202.107.249.245
+mrtg.lsu.edu.cn.	43200	IN	A	202.107.249.243
+my.lsu.edu.cn.		43200	IN	A	61.153.66.42
+nic.lsu.edu.cn.		43200	IN	A	202.107.249.241
+oa.lsu.edu.cn.		43200	IN	A	61.153.66.36
+plants.lsu.edu.cn.	43200	IN	A	202.107.249.238
+pop3.lsu.edu.cn.	43200	IN	A	202.107.249.245
+portal.lsu.edu.cn.	43200	IN	A	61.153.66.42
+regmail.lsu.edu.cn.	43200	IN	A	202.107.249.241
+s13.lsu.edu.cn.		43200	IN	A	59.79.130.10
+ser15.lsu.edu.cn.	43200	IN	A	202.107.249.251
+ser16.lsu.edu.cn.	43200	IN	A	202.107.249.252
+ser17.lsu.edu.cn.	43200	IN	A	202.107.249.253
+smtp.lsu.edu.cn.	43200	IN	A	202.107.249.245
+soft.lsu.edu.cn.	43200	IN	A	202.107.249.253
+sslvpn.lsu.edu.cn.	43200	IN	A	202.107.249.231
+v.lsu.edu.cn.		43200	IN	A	202.107.249.246
+video.lsu.edu.cn.	43200	IN	A	202.107.249.251
+virtual.lsu.edu.cn.	43200	IN	A	202.91.245.155
+vpn1.lsu.edu.cn.	43200	IN	A	202.107.249.241
+vpn2.lsu.edu.cn.	43200	IN	A	202.107.249.250
+vpnlogin.lsu.edu.cn.	43200	IN	A	202.107.249.231
+wsus.lsu.edu.cn.	43200	IN	A	202.107.249.247
+www.lsu.edu.cn.		43200	IN	A	202.107.249.246
+wx.lsu.edu.cn.		43200	IN	A	202.107.249.229
+ycjy.lsu.edu.cn.	43200	IN	A	61.153.244.109
+zkxx.lsu.edu.cn.	43200	IN	A	61.153.66.38
+lsu.edu.cn.		43200	IN	SOA	dns1.lsu.edu.cn. admin.lsu.edu.cn. 146 3600 900 3600000 3600
+;; Query time: 113 msec
+;; SERVER: 59.79.130.12#53(59.79.130.12)
+;; WHEN: Mon Apr 21 20:55:39 中国标准时间 2014
+;; XFR size: 82 records (messages 1, bytes 1741)
+

@@ -1,0 +1,16 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @dns2.sxjztc.edu.cn axfr sxjztc.edu.cn
+; (1 server found)
+;; global options: +cmd
+sxjztc.edu.cn.		3600	IN	SOA	dns2.sxjztc.edu.cn. root.sxjztc.edu.cn. 2014040113 30 30 360 3600
+sxjztc.edu.cn.		3600	IN	MX	0 mail.sxjztc.edu.cn.
+sxjztc.edu.cn.		3600	IN	NS	dns2.sxjztc.edu.cn.
+dns2.sxjztc.edu.cn.	3600	IN	A	211.82.56.67
+mail.sxjztc.edu.cn.	3600	IN	A	211.82.56.68
+www.sxjztc.edu.cn.	3600	IN	A	211.82.56.66
+sxjztc.edu.cn.		3600	IN	SOA	dns2.sxjztc.edu.cn. root.sxjztc.edu.cn. 2014040113 30 30 360 3600
+;; Query time: 18 msec
+;; SERVER: 211.82.56.67#53(211.82.56.67)
+;; WHEN: Mon Apr 21 20:49:12 中国标准时间 2014
+;; XFR size: 7 records (messages 1, bytes 200)
+

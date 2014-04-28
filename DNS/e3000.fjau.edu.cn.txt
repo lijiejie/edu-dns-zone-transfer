@@ -1,0 +1,33 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @e3000.fjau.edu.cn axfr fjau.edu.cn
+; (1 server found)
+;; global options: +cmd
+fjau.edu.cn.		86400	IN	SOA	e3000.fjau.edu.cn. feedback.fjau.edu.cn. 2013072603 3600 7200 90000 7200
+fjau.edu.cn.		86400	IN	TXT	"v=spf1 ipv4:210.34.80.24/20 ipv4:59.79.224.0/19 ipv4:59.79.177.18/29 ipv4:61.154.0.129/26 ipv4:61.131.96.153/29 -all"
+fjau.edu.cn.		86400	IN	MX	10 smtp.fjau.edu.cn.
+fjau.edu.cn.		86400	IN	NS	e3000.fjau.edu.cn.
+smtp163.2.fjau.edu.cn.	86400	IN	A	61.154.0.141
+e3000.fjau.edu.cn.	86400	IN	A	210.34.80.3
+iae.fjau.edu.cn.	86400	IN	MX	5 mxbiz1.qq.com.
+iae.fjau.edu.cn.	86400	IN	MX	10 mxbiz2.qq.com.
+mail.iae.fjau.edu.cn.	86400	IN	CNAME	exmail.qq.com.
+pop.iae.fjau.edu.cn.	86400	IN	CNAME	pop.exmail.qq.com.
+pop3.iae.fjau.edu.cn.	86400	IN	CNAME	pop.exmail.qq.com.
+smtp.iae.fjau.edu.cn.	86400	IN	CNAME	smtp.exmail.qq.com.
+jdxy.fjau.edu.cn.	86400	IN	A	210.34.95.200
+www.lib.fjau.edu.cn.	86400	IN	A	210.34.85.102
+zy.lib.fjau.edu.cn.	86400	IN	A	210.34.85.100
+mail.fjau.edu.cn.	86400	IN	A	210.34.80.25
+pop.fjau.edu.cn.	86400	IN	CNAME	mail.fjau.edu.cn.
+pop3.fjau.edu.cn.	86400	IN	CNAME	mail.fjau.edu.cn.
+smtp.fjau.edu.cn.	86400	IN	A	210.34.80.24
+sun5.fjau.edu.cn.	86400	IN	A	210.34.80.6
+vpn.fjau.edu.cn.	86400	IN	A	61.154.0.143
+www.fjau.edu.cn.	86400	IN	A	210.34.80.247
+www2.fjau.edu.cn.	86400	IN	A	210.34.80.109
+fjau.edu.cn.		86400	IN	SOA	e3000.fjau.edu.cn. feedback.fjau.edu.cn. 2013072603 3600 7200 90000 7200
+;; Query time: 82 msec
+;; SERVER: 210.34.80.3#53(210.34.80.3)
+;; WHEN: Mon Apr 21 20:57:13 中国标准时间 2014
+;; XFR size: 24 records (messages 1, bytes 689)
+

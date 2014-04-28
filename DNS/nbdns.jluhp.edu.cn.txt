@@ -1,0 +1,96 @@
+
+; <<>> DiG 9.9.5-W1 <<>> @nbdns.jluhp.edu.cn axfr jluhp.edu.cn
+; (1 server found)
+;; global options: +cmd
+jluhp.edu.cn.		9999999	IN	SOA	nbdns.jluhp.edu.cn. root.nbdns.jluhp.edu.cn. 1 3600 300 3600000 86400
+jluhp.edu.cn.		9999999	IN	A	222.27.64.21
+jluhp.edu.cn.		9999999	IN	MX	20 jluhp.edu.cn.
+jluhp.edu.cn.		9999999	IN	NS	nbdns.jluhp.edu.cn.
+18d.jluhp.edu.cn.	9999999	IN	A	10.110.0.4
+bb.jluhp.edu.cn.	9999999	IN	A	10.110.0.4
+bw.jluhp.edu.cn.	9999999	IN	A	10.110.0.4
+cj.jluhp.edu.cn.	9999999	IN	A	10.110.0.4
+cjvs.jluhp.edu.cn.	9999999	IN	A	222.27.64.30
+cw.jluhp.edu.cn.	9999999	IN	A	10.110.0.4
+dag.jluhp.edu.cn.	9999999	IN	A	10.110.0.4
+dk.jluhp.edu.cn.	9999999	IN	A	222.27.64.23
+douxue.jluhp.edu.cn.	9999999	IN	A	222.27.76.206
+dtsg.jluhp.edu.cn.	9999999	IN	A	222.27.64.122
+dwb.jluhp.edu.cn.	9999999	IN	A	10.110.0.4
+dwkj.jluhp.edu.cn.	9999999	IN	A	222.27.64.23
+dwsl.jluhp.edu.cn.	9999999	IN	A	222.27.64.30
+en.jluhp.edu.cn.	9999999	IN	A	222.27.64.24
+en1.jluhp.edu.cn.	9999999	IN	A	222.27.64.24
+english.jluhp.edu.cn.	9999999	IN	A	222.27.64.30
+fdwlkc.jluhp.edu.cn.	9999999	IN	A	222.27.64.68
+fzzywz.jluhp.edu.cn.	9999999	IN	A	222.27.64.23
+ggjx.jluhp.edu.cn.	9999999	IN	A	10.110.0.4
+gh.jluhp.edu.cn.	9999999	IN	A	10.110.0.4
+ghb.jluhp.edu.cn.	9999999	IN	A	10.110.0.4
+gjc.jluhp.edu.cn.	9999999	IN	A	10.110.0.4
+home.jluhp.edu.cn.	9999999	IN	A	10.110.0.8
+hpxqb.jluhp.edu.cn.	9999999	IN	A	222.27.64.24
+hq.jluhp.edu.cn.	9999999	IN	A	10.110.0.4
+ipv6.jluhp.edu.cn.	9999999	IN	A	10.110.0.4
+jddwyy.jluhp.edu.cn.	9999999	IN	A	222.27.64.23
+jjs.jluhp.edu.cn.	9999999	IN	A	10.110.0.4
+jpkc.jluhp.edu.cn.	9999999	IN	A	222.27.64.30
+jsjxh.jluhp.edu.cn.	9999999	IN	A	10.110.0.112
+jw.jluhp.edu.cn.	9999999	IN	A	10.110.0.4
+jxkj.jluhp.edu.cn.	9999999	IN	A	10.110.0.4
+jxzyk.jluhp.edu.cn.	9999999	IN	A	222.27.64.71
+jy.jluhp.edu.cn.	9999999	IN	A	222.27.64.30
+kj.jluhp.edu.cn.	9999999	IN	A	10.110.0.4
+kwhjpk.jluhp.edu.cn.	9999999	IN	A	222.27.64.23
+leader.jluhp.edu.cn.	9999999	IN	A	222.27.64.206
+lib.jluhp.edu.cn.	9999999	IN	A	222.27.69.1
+localhost.jluhp.edu.cn.	9999999	IN	CNAME	loopback.jluhp.edu.cn.
+loopback.jluhp.edu.cn.	9999999	IN	A	127.0.0.1
+ltb.jluhp.edu.cn.	9999999	IN	A	10.110.0.4
+mail.jluhp.edu.cn.	9999999	IN	A	222.27.64.21
+mail.jluhp.edu.cn.	9999999	IN	MX	20 jluhp.edu.cn.
+mrtg.jluhp.edu.cn.	9999999	IN	A	222.27.64.91
+mtsg.jluhp.edu.cn.	9999999	IN	A	222.27.64.121
+nbdns.jluhp.edu.cn.	9999999	IN	A	222.27.64.67
+nclpgm13th.jluhp.edu.cn. 9999999 IN	A	222.27.64.23
+nmc.jluhp.edu.cn.	9999999	IN	A	10.110.0.4
+nxbyjs.jluhp.edu.cn.	9999999	IN	A	10.110.0.4
+oic.jluhp.edu.cn.	9999999	IN	A	10.110.0.4
+pic.jluhp.edu.cn.	9999999	IN	A	222.27.64.24
+qd.jluhp.edu.cn.	9999999	IN	A	222.27.64.19
+rs.jluhp.edu.cn.	9999999	IN	A	10.110.0.4
+snzx.jluhp.edu.cn.	9999999	IN	A	10.110.0.4
+spsyzx.jluhp.edu.cn.	9999999	IN	A	222.27.64.30
+spzx.jluhp.edu.cn.	9999999	IN	A	10.110.0.4
+sydw.jluhp.edu.cn.	9999999	IN	A	10.110.0.4
+test.jluhp.edu.cn.	9999999	IN	A	10.110.0.4
+test1.jluhp.edu.cn.	9999999	IN	A	222.27.64.24
+tsg.jluhp.edu.cn.	9999999	IN	A	222.27.64.122
+tvnews.jluhp.edu.cn.	9999999	IN	A	222.27.64.24
+tw.jluhp.edu.cn.	9999999	IN	A	10.110.0.4
+update.jluhp.edu.cn.	9999999	IN	A	222.27.64.90
+uund.jluhp.edu.cn.	9999999	IN	A	10.110.0.113
+v.jluhp.edu.cn.		9999999	IN	A	10.110.0.42
+vod.jluhp.edu.cn.	9999999	IN	A	10.110.0.5
+wlgl.jluhp.edu.cn.	9999999	IN	A	222.27.64.30
+wlkc.jluhp.edu.cn.	9999999	IN	A	222.27.64.23
+wlx.jluhp.edu.cn.	9999999	IN	A	222.27.64.23
+www.jluhp.edu.cn.	9999999	IN	A	222.27.64.24
+www1.jluhp.edu.cn.	9999999	IN	A	222.27.64.24
+www2.jluhp.edu.cn.	9999999	IN	A	222.27.64.24
+xb.jluhp.edu.cn.	9999999	IN	A	10.110.0.4
+xbdw.jluhp.edu.cn.	9999999	IN	A	10.110.0.4
+xg.jluhp.edu.cn.	9999999	IN	A	10.110.0.4
+xinli.jluhp.edu.cn.	9999999	IN	A	10.110.0.45
+xlyz.jluhp.edu.cn.	9999999	IN	A	10.110.0.4
+xmsy.jluhp.edu.cn.	9999999	IN	A	10.110.0.4
+xyk.jluhp.edu.cn.	9999999	IN	A	10.110.0.4
+yjs.jluhp.edu.cn.	9999999	IN	A	10.110.0.4
+zc.jluhp.edu.cn.	9999999	IN	A	10.110.0.4
+zwkx.jluhp.edu.cn.	9999999	IN	A	10.110.0.4
+jluhp.edu.cn.		9999999	IN	SOA	nbdns.jluhp.edu.cn. root.nbdns.jluhp.edu.cn. 1 3600 300 3600000 86400
+;; Query time: 54 msec
+;; SERVER: 222.27.64.67#53(222.27.64.67)
+;; WHEN: Mon Apr 21 20:50:20 中国标准时间 2014
+;; XFR size: 87 records (messages 1, bytes 1857)
+
